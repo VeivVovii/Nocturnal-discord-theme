@@ -5501,7 +5501,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDarker-alt);
 }
 
-.addReactButton-3bSQb6:hover,.monaco-editor .minimap-slider, .monaco-editor .minimap-slider .minimap-slider-horizontal,.footer-1voAYT {
+.monaco-editor .minimap-slider, .monaco-editor .minimap-slider .minimap-slider-horizontal,.footer-1voAYT {
 	background-color: rgba(0,0,0,.15);
 }
 
@@ -6857,16 +6857,16 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgb(19, 157, 237);
 }
 
-.container-3wvkMY:hover {
+.container-3wvkMY:hover,.container-1PloNW:hover {
 	background-color: #202632;
 }
 
-.container-3wvkMY:active {
+.container-3wvkMY:active,.container-1PloNW:active {
 	background-color: #222834;
 	border: none;
 }
 
-.theme-dark .container-3wvkMY.isOpen-2ldXbM {
+.theme-dark .container-3wvkMY.isOpen-2ldXbM,.container-1PloNW.isOpen-O7ANQc {
 	background-color: #262c39;
 }
 
@@ -9211,11 +9211,11 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	color: #fff;
 }
 
-.container-oDHq29,.fullscreen-3SAor2,.container-3ysAGy,.contentMediaContainer-2z3HvU,.headerRow-WfvfLv,.previewRoot-3sYB8d,.thumbnailContainer-LoILOG,.container-12-eoM,.mediaMosaicAltTextPopout-Wtfiia,.flipCardClosedText-3MGk_l,.activityDetailsContainer-2xgfpn,.launcherInnerContainer-1yaOMQ,.aboutMeGuildIconTooltip-1Jmvjn,.scroller-3u_s5m,.perkPreviewImage-2jd1Tx,.theme-dark .default-1Tkeeg {
+.time-2ifyqM,.bodyMedia-Lo3ig4,.loadingAnimation-3oqBHW,.container-oDHq29,.fullscreen-3SAor2,.container-3ysAGy,.contentMediaContainer-2z3HvU,.headerRow-WfvfLv,.previewRoot-3sYB8d,.thumbnailContainer-LoILOG,.container-12-eoM,.mediaMosaicAltTextPopout-Wtfiia,.flipCardClosedText-3MGk_l,.activityDetailsContainer-2xgfpn,.launcherInnerContainer-1yaOMQ,.aboutMeGuildIconTooltip-1Jmvjn,.scroller-3u_s5m,.perkPreviewImage-2jd1Tx,.theme-dark .default-1Tkeeg {
 	background-color: var(--backgroundDark);
 }
 
-.activityCardTag-glB7qz,.container-2jHDEP,.videoPreview-24g0kL,.mainTableContainer-1olPmq,.mainTableContainer-3Nxvkd {
+.card-3BPR1O,.activityCardTag-glB7qz,.container-2jHDEP,.videoPreview-24g0kL,.mainTableContainer-1olPmq,.mainTableContainer-3Nxvkd {
 	background-color: #1c212c;
 	box-shadow: none;
 }
