@@ -9369,7 +9369,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgb(18, 21, 27);
 }
 
-.counter-2iDLRj,.cardFooter-3EPEly,.upsellFooter-2aN0L_,.row-XYkFDK,.unownedStickerLockContainer-Nzx_oS,.rowContainer-jDvyA4 .videoWrapper-3rtb_V,.createInspected-3KhI7n {
+.soundButton-2P2Ua2.focused-3HPLAS.hoverActiveBackground-gg2vFI, .soundButton-2P2Ua2:focus-within.hoverActiveBackground-gg2vFI, .soundButton-2P2Ua2:hover.hoverActiveBackground-gg2vFI,.counter-2iDLRj,.cardFooter-3EPEly,.upsellFooter-2aN0L_,.row-XYkFDK,.unownedStickerLockContainer-Nzx_oS,.rowContainer-jDvyA4 .videoWrapper-3rtb_V,.createInspected-3KhI7n {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
 }
