@@ -234,10 +234,6 @@
     background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 90px,var(--profile-gradient-secondary-color));
 }
 
-.profileColors-2AgAV4.theme-dark .userProfileInnerThemedPremiumWithoutBanner-lZ9inp .connectionsContainer-3MmgH3,.profileColors-2AgAV4.theme-dark .userProfileInnerThemedWithBanner-25XGmz .connectionsContainer-3MmgH3,.profileColors-2AgAV4.theme-dark .userProfileInnerThemedPremiumWithoutBanner-lZ9inp .connectionsContainer-3MmgH3>div:not(:first-child),.profileColors-2AgAV4.theme-dark .userProfileInnerThemedWithBanner-25XGmz .connectionsContainer-3MmgH3>div:not(:first-child),.profileColors-2AgAV4.theme-dark .userProfileInnerThemedPremiumWithoutBanner-lZ9inp .connectedAccountContainer-3aLMHJ,.profileColors-2AgAV4.theme-dark .userProfileInnerThemedPremiumWithoutBanner-lZ9inp .userInfoSection-2u2hir+.userInfoSection-2u2hir,.profileColors-2AgAV4.theme-dark .userProfileInnerThemedWithBanner-25XGmz .connectedAccountContainer-3aLMHJ,.profileColors-2AgAV4.theme-dark .userProfileInnerThemedWithBanner-25XGmz .userInfoSection-2u2hir+.userInfoSection-2u2hir {
-    border-color: rgba(0,0,0,.35);
-}
-
 .userProfileInnerThemedPremiumWithoutBanner-lZ9inp .akaBadge-ep3q0P,.userProfileInnerThemedWithBanner-25XGmz .akaBadge-ep3q0P,.userPanelOuter-XfFELn.userProfileOuterThemed-2BgJCM .akaBadge-ep3q0P {
     background-color: var(--profile-gradient-secondary-color);
 }
