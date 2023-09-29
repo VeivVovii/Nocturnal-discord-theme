@@ -10240,16 +10240,16 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 
 .smallDecorationPreview-1SyODs .wrapper-3Un6-K rect {
 	x: 0;
-    y: 0;
+	y: 0;
 	content: "";
 	position: absolute;
-    -webkit-mask: none;
+	-webkit-mask: none;
 	mask: none;
 	fill: none;
 	rx: 8;
 	ry: 8;
-    stroke-width: 2px;
-    stroke: #666;
+	stroke-width: 2px;
+	stroke: #666;
 }
 
 .smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#23a55a"] {
