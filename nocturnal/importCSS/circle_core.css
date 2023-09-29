@@ -10083,3 +10083,51 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 .cardsContainer-2kdrm8 {
 	max-width: none;
 }
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K .mask-1y0tyc {
+    overflow: visible;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect {
+	x: 0;
+	y: 0;
+	content: "";
+	position: absolute;
+	-webkit-mask: none;
+	mask: none;
+	fill: none;
+	rx: 50;
+	ry: 50;
+	stroke-width: 2px;
+	stroke: #666;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#23a55a"] {
+	stroke: #43b581;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#f23f43"] {
+	stroke: #f04747;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#f0b232"] {
+	stroke: #faa61a;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#593695"] {
+	stroke: #6441a5;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K rect[fill="#80848e"] {
+	stroke: #747f8d;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K[style*="40px"] rect {
+	width: 40px;
+	height: 40px;
+}
+
+.smallDecorationPreview-1SyODs .wrapper-3Un6-K[style*="32px"] rect {
+	width: 32px;
+	height: 32px;
+}
