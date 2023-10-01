@@ -3929,7 +3929,7 @@ svg[name=Nitro] g path {
 }
 .loadingPopout-1tyQMM{
 	background-color: var(--backgroundDark);
-	border-radius: 5px;
+	border-radius: 50px;
 	-webkit-box-shadow: 0 0 16px 8px rgba(0,0,0,.5);
 	box-shadow: 0 0 16px 8px rgba(0,0,0,.5);
 }
@@ -10197,7 +10197,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	box-shadow: 0 0 16px 8px rgba(0,0,0,.5);
 }
 
-.userProfileOuterUnthemed-11rPfA,.card-20tMLf,.reactionTooltip-1qrpUf {
+.userProfileOuterUnthemed-11rPfA,.card-20tMLf,.reactionTooltip-1qrpUf,.shop-3sIaH8 {
 	background-color: var(--backgroundDark);
 }
 
