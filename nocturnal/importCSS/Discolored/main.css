@@ -569,3 +569,7 @@
 [style*='background-image: url("/assets/c8234fe5675a618e7891b634d32d1c0f.svg");'] {
     background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/c8234fe5675a618e7891b634d32d1c0f.svg")!important;
 }
+
+[src*="/assets/d759f3acc6286c964cc8118d7f68b374.svg"] {
+    content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/d759f3acc6286c964cc8118d7f68b374.svg")
+}
