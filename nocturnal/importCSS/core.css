@@ -10209,7 +10209,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-radius: 100%!important;
 }
 
-.itemBadge-2VGhY3 {
+.itemBadge-2VGhY3,.lockBadge-1GRfLm {
 	background-color: rgba(0,0,0,.8)!important;
 }
 
@@ -10310,4 +10310,8 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 
 .hoverIconWrapper-1wmttW {
 	border-radius: 5px;
+}
+
+.banner-1YaD3N[style*="93, 100, 244"] {
+	background-color: rgb(5, 137, 232)!important;
 }
