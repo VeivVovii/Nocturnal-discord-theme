@@ -601,3 +601,11 @@
 [src*="/assets/1f0bfc0865d324c2587920a7d80c609b.png"] {
     content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/1f0bfc0865d324c2587920a7d80c609b.png")
 }
+
+[src*="https://cdn.discordapp.com/avatars/643945264868098049/c6a249645d46209f337279cd2ca998c7.webp"] {
+    content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/c6a249645d46209f337279cd2ca998c7.webp")
+}
+
+[src*="https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png"] {
+    content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5e74e9b61934fc1f67c65515d1f7e60d.png")
+}
