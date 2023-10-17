@@ -403,7 +403,7 @@
   box-shadow: inset 0 0 100000px 0 rgba(0,0,0,.5)!important;
 }
 .button-3bklZh:hover {background-color: var(--backgroundDarker)!important;}
-.theme-dark .form-3gdLxP:before {display: none;}
+.theme-dark .form-3qe0Ni:before {display: none;}
 .content-2eQb8J {background-color: rgba(0,0,0,0);}
 .content-3spvdd {
   background-color: var(--backgroundDark)!important;
@@ -1046,7 +1046,7 @@ svg.gameIcon-1mDo1J {
 	background-color: rgba(0,0,0,.35)!important
 }
 
-.form-3gdLxP {
+.form-3qe0Ni {
 	padding-left: 8px;
 	padding-right: 8px;
 	margin: 9px 2px;
@@ -2063,7 +2063,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark)!important
 }
 
-.channelTextArea-1FufC0 {
+.channelTextArea-1deLlK {
 	margin-bottom: 0;
 	background-color: rgba(0, 0, 0, 0);
 }
@@ -2099,7 +2099,7 @@ svg[name=Nitro] g path {
 	border-left: 1.2px solid rgba(1,1,1,0.25);
 }
 
-.content-1jQy2l {
+.content-18rAwf {
 	border-left: 1.2px solid rgba(1,1,1,0.25);
 }
 
@@ -3727,7 +3727,7 @@ svg[name=Nitro] g path {
 	border-color: var(--primary);
 }
 
-.form-3gdLxP:has(.base-3bcbY3) {
+.form-3qe0Ni:has(.base-3bcbY3) {
 	margin: 16px 2px 9px;
 }
 
@@ -5539,7 +5539,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDarker);
 }
 
-.chat-2ZfjoI .userProfileOuterUnthemed-11rPfA .note-1NN2aP .textarea-_59yqs:focus {
+.chat-9g_3Xj .userProfileOuterUnthemed-11rPfA .note-1NN2aP .textarea-_59yqs:focus {
 	background-color: #0c0e12;
 }
 
@@ -5594,7 +5594,7 @@ svg[name=Nitro] g path {
 	color: var(--primary)
 }
 
-.cursorPointer-3JF56F:active,.container-1NXEtd .avatar-3TrM7c:active,.pointer-1j0yEs:active:not(.partyAvatar-bX2-bv,.avatar-3Jh3en,.creator-3Ep8le),.avatar-3FKimL:active,.chatContent-3KubbW .replyAvatar-sHd2sU:active,.chatContent-3KubbW .executedCommandAvatar-3oOnb1:active,.chatContent-3KubbW .threadMessageAccessoryAvatar-17qE_g:active,.avatar-rC0Atp:active{
+.cursorPointer-3JF56F:active,.container-1NXEtd .avatar-3TrM7c:active,.pointer-1j0yEs:active:not(.partyAvatar-bX2-bv,.avatar-3Jh3en,.creator-3Ep8le),.avatar-3FKimL:active,.chatContent-2O4SXb .replyAvatar-sHd2sU:active,.chatContent-2O4SXb .executedCommandAvatar-3oOnb1:active,.chatContent-2O4SXb .threadMessageAccessoryAvatar-17qE_g:active,.avatar-rC0Atp:active{
 	transform: translateY(1px)
 }
 
@@ -6175,7 +6175,7 @@ html.theme-light .app-2CXKsg::after {
 	background-color: var(--backgroundDarker);
 }
 
-.chatContent-3KubbW .spine-2vt3pM {
+.chatContent-2O4SXb .spine-2vt3pM {
 	left: -2.82rem
 }
 
@@ -6341,7 +6341,7 @@ html.theme-light .app-2CXKsg::after {
 	padding-left: 8px;
 }
 
-.chatContent-3KubbW,.scroller-3KyaqJ,.loader-1iM037 {
+.chatContent-2O4SXb,.scroller-3KyaqJ,.loader-1iM037 {
 	border-right: 1px solid rgba(1,1,1,0.25)
 }
 
@@ -6440,7 +6440,7 @@ html.theme-light .app-2CXKsg::after {
 	background: var(--bg-overlay-4,var(--__header-bar-background));
 }
 
-.theme-dark .appMount-2yBXZl,.theme-dark .panel-2ZFCRb,.theme-dark .container-YkUktl,.container-1oAagU,.searchBar-jGtisZ,.searchBar-2aylmZ,.theme-dark.custom-theme-background .withBackgroundOverride-gzmZco,.chat-2ZfjoI,.chatContent-3KubbW,.wrapper-3HVHpV,.wrapper-15CKyy,.container-2o3qEW,.member-48YF_l, .members-3WRCEx,.container-2cd8Mz,.theme-dark .container-1NXEtd,.theme-dark .scroller-WSmht3,.privateChannels-oVe7HL,.searchBarComponent-3N7dCG, .content-3spvdd,.theme-dark.custom-theme-background .container-1zzFcN{
+.theme-dark .appMount-2yBXZl,.container-2vWgD2,.theme-dark .panel-2ZFCRb,.theme-dark .container-1CH86i,.theme-dark .container-YkUktl,.container-1oAagU,.searchBar-jGtisZ,.searchBar-2aylmZ,.theme-dark.custom-theme-background .withBackgroundOverride-gzmZco,.chat-9g_3Xj,.chatContent-2O4SXb,.wrapper-3HVHpV,.wrapper-15CKyy,.container-2o3qEW,.member-2iQhp7, .members-2y1nVj,.member-48YF_l, .members-3WRCEx,.container-2cd8Mz,.theme-dark .container-1NXEtd,.theme-dark .scroller-WSmht3,.privateChannels-oVe7HL,.searchBarComponent-3N7dCG, .content-3spvdd,.theme-dark.custom-theme-background .container-1zzFcN{
 	background: var(--bg-overlay-4,var(--backgroundDark));
 }
 
@@ -7288,7 +7288,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	text-decoration: none;
 }
 
-.activityActionButton-324Fqd,.happeningNowJoin-38S9z-,.luckyButton-3IdJ-R,.flipCardText-2qCpbY,.editWelcomeButton-3FhsDj,.iconCircle-1hscz5,.chat-2ZfjoI .userProfileOuterUnthemed-11rPfA .buttonColor-_0gSD_,.addTags-26suzl,.changeTeamButton-2u3mhe {
+.activityActionButton-324Fqd,.happeningNowJoin-38S9z-,.luckyButton-3IdJ-R,.flipCardText-2qCpbY,.editWelcomeButton-3FhsDj,.iconCircle-1hscz5,.chat-9g_3Xj .userProfileOuterUnthemed-11rPfA .buttonColor-_0gSD_,.addTags-26suzl,.changeTeamButton-2u3mhe {
 	background-color: rgba(0,0,0,.5)!important;
 	border: 2px solid var(--primary)!important;
 	border-radius: 6px!important;
@@ -7299,7 +7299,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgba(10, 12, 16)!important;
 }
 
-.activityItem-3WU8KI:hover .activityActionButton-324Fqd,.happeningNowCard-LQzIBo:focus .happeningNowJoin-38S9z-, .happeningNowCard-LQzIBo:hover .happeningNowJoin-38S9z-,.luckyButton-3IdJ-R:hover,.clickableContainer-1N_Wn8:hover+.flipCardInner-2hI9Pw .flipCardText-2qCpbY,.editWelcomeButton-3FhsDj:hover,.clickable-Kq2Stv:hover .iconCircle-1hscz5,.chat-2ZfjoI .userProfileOuterUnthemed-11rPfA .buttonColor-_0gSD_:hover:not(:disabled),.addTags-26suzl:not(.disabled-1fO3As):hover,.changeTeamButton-2u3mhe:hover {
+.activityItem-3WU8KI:hover .activityActionButton-324Fqd,.happeningNowCard-LQzIBo:focus .happeningNowJoin-38S9z-, .happeningNowCard-LQzIBo:hover .happeningNowJoin-38S9z-,.luckyButton-3IdJ-R:hover,.clickableContainer-1N_Wn8:hover+.flipCardInner-2hI9Pw .flipCardText-2qCpbY,.editWelcomeButton-3FhsDj:hover,.clickable-Kq2Stv:hover .iconCircle-1hscz5,.chat-9g_3Xj .userProfileOuterUnthemed-11rPfA .buttonColor-_0gSD_:hover:not(:disabled),.addTags-26suzl:not(.disabled-1fO3As):hover,.changeTeamButton-2u3mhe:hover {
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: var(--primary);
@@ -7468,7 +7468,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
     --__header-bar-background: var(--backgroundDarker);
 }
 
-.container-3XgAHv,.chat-2ZfjoI.threadSidebarOpen-1LSXvU,.wrapper-1gVUIN.chatSidebarOpen--YCxhs .callContainer-HtHELf {
+.container-3XgAHv,.chat-9g_3Xj.threadSidebarOpen-1LSXvU,.wrapper-1gVUIN.chatSidebarOpen--YCxhs .callContainer-HtHELf {
 	border-radius: 0;
 }
 
@@ -8440,16 +8440,16 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	padding: 0 10px;
 }
 
-.channelTextArea-1FufC0 {
+.channelTextArea-1deLlK {
 	transition: var(--transition);
 	transition-property: box-shadow;
 }
 
-.channelTextArea-1FufC0:hover:not(.channelTextAreaDisabled-1p2fQv){
+.channelTextArea-1deLlK:hover:not(.channelTextAreaDisabled-1p2fQv){
 	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover);
 }
 
-.channelTextArea-1FufC0:focus-within:not(.channelTextAreaDisabled-1p2fQv) {
+.channelTextArea-1deLlK:focus-within:not(.channelTextAreaDisabled-1p2fQv) {
     box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
 }
 
@@ -10143,7 +10143,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-right-color: var(--backgroundDark);
 }
 
-.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3fKTW2,.linkButton-22ZC6K,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer-3kMKqr,.uploadImage-NOPaF1,.bannedUser-1IrKtC:hover,.replies-15QcwL,.pauseContainer-36E8UF,.listItemContainer-1ONsCK,.container-rmXJqN,.emoji-5r_S0Q:hover {
+.emojiErrorItem-3KwEao,.effectGridItem-bjSBv1,.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3fKTW2,.linkButton-22ZC6K,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer-3kMKqr,.uploadImage-NOPaF1,.bannedUser-1IrKtC:hover,.replies-15QcwL,.pauseContainer-36E8UF,.listItemContainer-1ONsCK,.container-rmXJqN,.emoji-5r_S0Q:hover {
 	background-color: rgba(0,0,0,.2);
 	border: none;
 }
@@ -10151,6 +10151,10 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 .clipItem-3fKTW2:hover,.linkButton-22ZC6K:hover,.uploadImage-NOPaF1:hover,.replies-15QcwL:hover,.listItemContainer-1ONsCK:hover {
 	background-color: rgba(0,0,0,.4);
 	box-shadow: none;
+}
+
+.selected-1KX8A2 {
+	box-shadow: 0 0 0 2px var(--primary);
 }
 
 .linkButton-22ZC6K:active,.listItemContainer-1ONsCK:active {
@@ -10286,7 +10290,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	height: 32px;
 }
 
-.productCardClickable-3xDCw-,.playPauseButtonWrapper-bLywYb,.clipForm-2rnaip,.item-2WPK-W,.bannerBody-20oTYV, .cardBody-1ntQaF,.container-Vrgqxz {
+.metricCard-30mtXR,.productCardClickable-3xDCw-,.playPauseButtonWrapper-bLywYb,.clipForm-2rnaip,.item-2WPK-W,.bannerBody-20oTYV, .cardBody-1ntQaF,.container-Vrgqxz {
 	background-color: var(--backgroundDarker);
 }
 
@@ -10381,7 +10385,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	color: #fff!important;
 }
 
-.publishButton-2ZGMAi:hover,.publishButton-2iXGdZ:hover {
+.publishButton-2ZGMAi:hover:not(.disabledPublishButton-ms-s1j),.publishButton-2iXGdZ:hover:not(.disabledPublishButton-ms-s1j) {
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: #207B8D!important;
@@ -10392,4 +10396,28 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 
 .badge-ywz4LX {
 	background-color: rgba(0,0,0,.4)!important;
+}
+
+.muralImageContainer-3Snn8v:before {
+	background: linear-gradient(270deg,rgba(0,0,0,.2),transparent)
+}
+
+.effectDescriptionBorderWithGradient-3GHthf {
+	background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)) padding-box,var(--custom-premium-colors-premium-gradient-tier-2-diagonal) border-box
+}
+
+.effectDescriptionContainer-1y_8OR {
+	background: rgba(0,0,0,.2) padding-box;
+}
+
+.modalContent-2LOVNi {
+	padding-right: 0px!important;
+}
+
+.modalContent-3Zby2L {
+	padding-right: 20px!important;
+}
+
+.theme-dark .emojiAliasInput-3ZhdKx .emojiInput-B8MGXq {
+	background-color: #101218;
 }
