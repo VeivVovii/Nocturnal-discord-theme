@@ -3997,12 +3997,12 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.25);
 }
 
-.container-2rzKKA,.wrapper-1gVUIN,.chatTarget-3H6mpC {
+.container-2rzKKA,.wrapper-1gVUIN,.chatTarget-1ROClP,.chatTarget-3H6mpC {
 	background-color: var(--backgroundDarker);
 	border-color: var(--backgroundDarker);
 }
 
-.resizeHandle-PBRzPC {
+.resizeHandle-PBRzPC,.resizeHandle-2F4Beb {
 	background: var(--bg-overlay-5,#101218);
 }
 
@@ -4011,7 +4011,7 @@ svg[name=Nitro] g path {
 	border-color: rgba(0,0,0,0);
 }
 
-.floating-3M3WeH {
+.floating-3M3WeH,.floating-1T0kDs {
 	border-left: 1px solid rgba(1,1,1,0.25);
 }
 
@@ -6440,7 +6440,7 @@ html.theme-light .app-2CXKsg::after {
 	background: var(--bg-overlay-4,var(--__header-bar-background));
 }
 
-.theme-dark .appMount-2yBXZl,.container-2vWgD2,.theme-dark .panel-2ZFCRb,.theme-dark .container-1CH86i,.theme-dark .container-YkUktl,.container-1oAagU,.searchBar-jGtisZ,.searchBar-2aylmZ,.theme-dark.custom-theme-background .withBackgroundOverride-gzmZco,.chat-9g_3Xj,.chatContent-2O4SXb,.wrapper-3HVHpV,.wrapper-15CKyy,.container-2o3qEW,.member-2iQhp7, .members-2y1nVj,.member-48YF_l, .members-3WRCEx,.container-2cd8Mz,.theme-dark .container-1NXEtd,.theme-dark .scroller-WSmht3,.privateChannels-oVe7HL,.searchBarComponent-3N7dCG, .content-3spvdd,.theme-dark.custom-theme-background .container-1zzFcN{
+.theme-dark .appMount-2yBXZl,.container-2vWgD2,.theme-dark .panel-ufc1-o,.theme-dark .panel-2ZFCRb,.theme-dark .container-1CH86i,.theme-dark .container-YkUktl,.container-1oAagU,.searchBar-jGtisZ,.searchBar-2aylmZ,.theme-dark.custom-theme-background .withBackgroundOverride-gzmZco,.chat-9g_3Xj,.chatContent-2O4SXb,.wrapper-3HVHpV,.wrapper-15CKyy,.container-2o3qEW,.member-2iQhp7, .members-2y1nVj,.member-48YF_l, .members-3WRCEx,.container-2cd8Mz,.theme-dark .container-1NXEtd,.theme-dark .scroller-WSmht3,.privateChannels-oVe7HL,.searchBarComponent-3N7dCG, .content-3spvdd,.theme-dark.custom-theme-background .container-1zzFcN{
 	background: var(--bg-overlay-4,var(--backgroundDark));
 }
 
@@ -10420,4 +10420,9 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 
 .theme-dark .emojiAliasInput-3ZhdKx .emojiInput-B8MGXq {
 	background-color: #101218;
+}
+
+.container-3s2w-i {
+	background-color: var(--backgroundDark);
+	border-radius: 0;
 }
