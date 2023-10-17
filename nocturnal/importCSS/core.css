@@ -10143,12 +10143,12 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-right-color: var(--backgroundDark);
 }
 
-.emojiErrorItem-3KwEao,.effectGridItem-bjSBv1,.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3fKTW2,.linkButton-22ZC6K,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer-3kMKqr,.uploadImage-NOPaF1,.bannedUser-1IrKtC:hover,.replies-15QcwL,.pauseContainer-36E8UF,.listItemContainer-1ONsCK,.container-rmXJqN,.emoji-5r_S0Q:hover {
+.emojiErrorItem-3KwEao,.effectGridItem-bjSBv1,.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3C35Ec,.clipItem-3fKTW2,.linkButton-22ZC6K,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer-3kMKqr,.uploadImage-NOPaF1,.bannedUser-1IrKtC:hover,.replies-15QcwL,.pauseContainer-36E8UF,.listItemContainer-1ONsCK,.container-rmXJqN,.emoji-5r_S0Q:hover {
 	background-color: rgba(0,0,0,.2);
 	border: none;
 }
 
-.clipItem-3fKTW2:hover,.linkButton-22ZC6K:hover,.uploadImage-NOPaF1:hover,.replies-15QcwL:hover,.listItemContainer-1ONsCK:hover {
+.clipItem-3C35Ec:hover,.clipItem-3fKTW2:hover,.linkButton-22ZC6K:hover,.uploadImage-NOPaF1:hover,.replies-15QcwL:hover,.listItemContainer-1ONsCK:hover {
 	background-color: rgba(0,0,0,.4);
 	box-shadow: none;
 }
@@ -10157,7 +10157,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	box-shadow: 0 0 0 2px var(--primary);
 }
 
-.linkButton-22ZC6K:active,.listItemContainer-1ONsCK:active {
+.clipThumb-2dUNyk,.linkButton-22ZC6K:active,.listItemContainer-1ONsCK:active {
 	background-color: rgba(0,0,0,.8);
 }
 
