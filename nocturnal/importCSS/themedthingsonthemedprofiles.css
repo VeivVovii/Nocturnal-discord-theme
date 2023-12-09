@@ -10,12 +10,12 @@
     fill: #2e3338;
 }
 
-.userProfileInnerThemedWithBanner_d5f991 .note-1NN2aP .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note-1NN2aP .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note-1NN2aP .textarea_c5a7a3:hover,.userProfileInnerThemedWithBanner_d5f991 .note-1NN2aP .textarea_c5a7a3:hover{
+.userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note_ba0c31 .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note_ba0c31 .textarea_c5a7a3:hover,.userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 .textarea_c5a7a3:hover{
     background: var(--profile-gradient-secondary-color)!important;
     border: 1px solid var(--profile-message-input-border-color)!important;
 }
 
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note-1NN2aP textarea:focus,.userProfileInnerThemedWithBanner_d5f991 .note-1NN2aP textarea:focus {
+.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .note_ba0c31 textarea:focus,.userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 textarea:focus {
     background: var(--profile-gradient-secondary-color)!important;
     border: 1px solid var(--profile-message-input-border-color)!important;
 }
@@ -242,7 +242,7 @@
     border-color: var(--profile-gradient-secondary-color);
 }
 
-.userProfileOuterThemed__6eb84 .badgeList_ef4131,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider-2dDziJ,.userProfileInnerThemedWithBanner_d5f991 .messageInput-1enlaJ,.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:not(.note__7a4f4 textarea),.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:focus,.userProfileInnerThemedWithBanner_d5f991 .listRow__60937:hover,.userProfileInnerThemedWithBanner_d5f991 .profileBadges__7a7cb,.userProfileInnerThemedWithBanner_d5f991 .badgeList_c193e3,.userProfileInnerThemedWithBanner_d5f991 .note__7a4f4 textarea:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .divider-2dDziJ,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .textarea_c5a7a3,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .textarea_c5a7a3:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .listRow__60937:hover {
+.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .divider__2bbbc,.userProfileOuterThemed__6eb84 .badgeList_ef4131,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider-2dDziJ,.userProfileInnerThemedWithBanner_d5f991 .messageInput-1enlaJ,.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:not(.note__7a4f4 textarea),.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:focus,.userProfileInnerThemedWithBanner_d5f991 .listRow__60937:hover,.userProfileInnerThemedWithBanner_d5f991 .profileBadges__7a7cb,.userProfileInnerThemedWithBanner_d5f991 .badgeList_c193e3,.userProfileInnerThemedWithBanner_d5f991 .note__7a4f4 textarea:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .divider-2dDziJ,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .textarea_c5a7a3,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .textarea_c5a7a3:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed__1804b .listRow__60937:hover {
 	background-color: var(--profile-gradient-secondary-color);
 }
 
