@@ -117,7 +117,7 @@
     background: var(--profile-gradient-secondary-color);
 }
 
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .badgeList_ef4131,.userProfileInnerThemedWithBanner_d5f991 .badgeList_ef4131{
+.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .badgeList_c193e3,.userProfileInnerThemedWithBanner_d5f991 .badgeList_c193e3{
     background: var(--profile-gradient-secondary-color);
 }
 
@@ -242,7 +242,7 @@
     border-color: var(--profile-gradient-secondary-color);
 }
 
-.userProfileOuterThemed__6eb84 .badgeList_ef4131,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider-2dDziJ,.userProfileInnerThemedWithBanner_d5f991 .messageInput-1enlaJ,.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:not(.note__7a4f4 textarea),.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:focus,.userProfileInnerThemedWithBanner_d5f991 .listRow__60937:hover,.userProfileInnerThemedWithBanner_d5f991 .profileBadges__7a7cb,.userProfileInnerThemedWithBanner_d5f991 .badgeList_ef4131,.userProfileInnerThemedWithBanner_d5f991 .note__7a4f4 textarea:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .divider-2dDziJ,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .textarea_c5a7a3,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .textarea_c5a7a3:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .listRow__60937:hover {
+.userProfileOuterThemed__6eb84 .badgeList_ef4131,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider__2bbbc,.userProfileInnerThemedWithBanner_d5f991 .divider-2dDziJ,.userProfileInnerThemedWithBanner_d5f991 .messageInput-1enlaJ,.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:not(.note__7a4f4 textarea),.userProfileInnerThemedWithBanner_d5f991 .textarea_c5a7a3:focus,.userProfileInnerThemedWithBanner_d5f991 .listRow__60937:hover,.userProfileInnerThemedWithBanner_d5f991 .profileBadges__7a7cb,.userProfileInnerThemedWithBanner_d5f991 .badgeList_c193e3,.userProfileInnerThemedWithBanner_d5f991 .note__7a4f4 textarea:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .divider-2dDziJ,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .textarea_c5a7a3,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .textarea_c5a7a3:focus,.userProfileOuterThemed__6eb84 .userPanelInnerThemed-3YO1BB .listRow__60937:hover {
 	background-color: var(--profile-gradient-secondary-color);
 }
 
