@@ -6398,11 +6398,11 @@ html.theme-light .app-2CXKsg::after {
 	border-radius: 12px;
 }
 
-.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .avatarWrapper_f77579,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .avatar__445f3,.userProfileInnerThemedWithBanner_d5f991 .avatarWrapper_f77579,.userProfileInnerThemedWithBanner_d5f991 .avatar__445f3,.userProfileOuterThemed-2BgJCM .avatarWrapper_f77579 {
+.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .avatarWrapper_f77579,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp .avatar__445f3,.userProfileInnerThemedWithBanner_d5f991 .avatarWrapper_f77579,.userProfileInnerThemedWithBanner_d5f991 .avatar__445f3,.userProfileOuterThemed__6eb84 .avatarWrapper_f77579 {
 	border: 7px solid var(--profile-avatar-border-color);
 	background-color: var(--profile-avatar-border-color);
 	border-radius: 12px;
-}
+} 
 
 .userProfileInner-3F03PX {
 	border-radius: 5px 5px 0 0
@@ -8684,7 +8684,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	padding-top: 0;
 }
 
-.editButton-1D5a_Z,.userPopoutOuter_d739b2.userProfileOuterThemed-2BgJCM,.theme-dark .tooltip__01384.tooltipRed-2Pb7EW {
+.editButton-1D5a_Z,.userPopoutOuter_d739b2.userProfileOuterThemed__6eb84,.theme-dark .tooltip__01384.tooltipRed-2Pb7EW {
 	box-shadow: none;
 }
 
