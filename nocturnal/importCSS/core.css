@@ -6424,7 +6424,7 @@ html.theme-light .app-2CXKsg::after {
 	top: 38px;
 }
 
-.avatarPositionNormal-V4Mjtq,.avatarPositionNormal-2jWoC2 {
+.avatarPositionNormal-V4Mjtq,.avatarPositionNormal__1797c {
 	top: 8px;
 }
 
@@ -8075,19 +8075,19 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	stroke-width: 2px;
   }
 
-.statusDot__468f8 rect[fill="var(--green-360)"] {
+.statusDot__468f8 rect[fill="#23a55a"] {
 	stroke: #43b581;
 }
 
-.statusDot__468f8 rect[fill="var(--red-400)"] {
+.statusDot__468f8 rect[fill="#f23f43"] {
 	stroke: #f04747;
 }
 
-.statusDot__468f8 rect[fill="var(--yellow-300)"] {
+.statusDot__468f8 rect[fill="#f0b232"] {
 	stroke: #faa61a;
 }
 
-.statusDot__468f8 rect[fill="var(--primary-400)"] {
+.statusDot__468f8 rect[fill="#80848e"] {
 	stroke: #747f8d;
 }
 
