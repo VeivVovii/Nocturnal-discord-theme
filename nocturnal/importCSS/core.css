@@ -1,3 +1,13 @@
+/**
+ * @name Nocturnal
+ * @author Spectra#7698 & Печенько#8596 & veivvovi
+ * @version for devolopers
+ * @description A simple & clean dark theme for thoses who live at night, made to be easy on the eye. Fixed & reworked by Печенько#3183 and veivvovi#2017.
+ * @source https://github.com/VeivVovii/Nocturnal-discord-theme
+ * @authorLink https://discordhub.com/profile/725229477713674290
+ * @authorId 725229477713674290, 367510031484190730
+ * @invite KkCyBD4h6n
+*/
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
@@ -10608,4 +10618,13 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 
 .container_d4b118 {
 	border-radius: 8px 8px 0 0;
+}
+
+.loaderBar__53dfd {
+	background-color: var(--primary);
+}
+
+.avatarPositionPanel__87e08 {
+	top: 64px;
+	left: 10px;
 }
