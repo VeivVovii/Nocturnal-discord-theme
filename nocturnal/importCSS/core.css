@@ -4740,15 +4740,15 @@ svg[name=Nitro] g path {
 	border-color: transparent;
 }
 
-.accent__1c1aa, .statusYellow__0c86b.disabled-3Q7kTN {
+.accent__1c1aa, .statusYellow__0c86b.disabled__8b7eb {
 	border-left: 3px solid #747f8d
 }
 
-.backgroundModifierContainer__73a0a:hover:not(.disabled-3Q7kTN):not(.noAction-3PygTY) {
+.backgroundModifierContainer__73a0a:hover:not(.disabled__8b7eb):not(.noAction_aabf92) {
 	background-color: rgba(0,0,0,.45);
 }
 
-.backgroundModifierContainer__73a0a:active:not(.disabled-3Q7kTN):not(.noAction-3PygTY),.editCard_dfa091.active_ef2ec5 {
+.backgroundModifierContainer__73a0a:active:not(.disabled__8b7eb):not(.noAction_aabf92),.editCard_dfa091.active_ef2ec5 {
 	background-color: rgba(0,0,0,.5);
 }
 
