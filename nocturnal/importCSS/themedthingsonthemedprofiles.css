@@ -12,17 +12,17 @@
 
 .userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner__703b1 .note_ba0c31 .textarea_c5a7a3,.userProfileInnerThemedPremiumWithoutBanner__703b1 .note_ba0c31 .textarea_c5a7a3:hover,.userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 .textarea_c5a7a3:hover{
     background: var(--profile-gradient-secondary-color)!important;
-    border: 1px solid var(--profile-message-input-border-color)!important;
+    border: none!important;
 }
 
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .note_ba0c31 textarea:focus,.userProfileInnerThemedWithBanner_d5f991 .note_ba0c31 textarea:focus {
     background: var(--profile-gradient-secondary-color)!important;
-    border: 1px solid var(--profile-message-input-border-color)!important;
+    border: none!important;
 }
 
 .userProfileInnerThemedWithBanner_d5f991 .messageInputContainer__768e6,.userProfileInnerThemedPremiumWithoutBanner__703b1 .messageInputContainer__768e6,.userProfileInnerThemedPremiumWithoutBanner__703b1 .messageInputContainer__768e6:hover,.userProfileInnerThemedWithBanner_d5f991 .messageInputContainer__768e6:hover{
     background: var(--profile-gradient-secondary-color)!important;
-    border: 1px solid var(--profile-message-input-border-color)!important;
+    border: none!important;
 }
 
 .userProfileOuterThemed__6eb84 .badgeList_ef4131{
