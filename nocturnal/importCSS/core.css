@@ -2503,12 +2503,12 @@ svg[name=Nitro] g path {
 	left:-1px;
 }
 
-.buttonSize-dIiz43,.colorWhite__43488,.iconButton-2K0woq,.button__6ac9e,.theme-dark .watchButton__0d283 {
+.buttonSize-dIiz43,.colorWhite__43488,.iconButton-2K0woq,.button_b406e5,.theme-dark .watchButton__0d283 {
 	border-radius: 0;
 	border-width: 1px 0;
 }
 
-.iconButtonSize-3s24uQ,.button__6ac9e {
+.iconButtonSize-3s24uQ,.button_b406e5 {
 	border-radius: 0;
 }
 
@@ -3051,13 +3051,13 @@ svg[name=Nitro] g path {
 	background-color: hsla(0,0%,100%,.1);
 }
 
-.lookOutlined__46d54.colorWhite__43488,.button__6ac9e,.lookOutlined__46d54.colorPrimary__6ed40 {
+.lookOutlined__46d54.colorWhite__43488,.button_b406e5,.lookOutlined__46d54.colorPrimary__6ed40 {
 	border-color: #c4c9ce!important;
 	-webkit-transition: border-color .17s ease;
 	transition: border-color .17s ease;
 }
 
-.theme-dark .lookOutlined__46d54.hoverBrand-20zQAE.hasHover-3y7IPU:hover,.button__6ac9e:not([disabled]):hover {
+.theme-dark .lookOutlined__46d54.hoverBrand-20zQAE.hasHover-3y7IPU:hover,.button_b406e5:not([disabled]):hover {
 	border-color: #fff!important;
 	-webkit-transition: border-color .17s ease;
 	transition: border-color .17s ease;
@@ -4105,7 +4105,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDarker);
 }
 
-.wrapper-1f5byN .theme-dark.authBox__7196a {
+.wrapper__2d9b1 .theme-dark.authBox__7196a {
 	background: var(--backgroundDark);
 	box-shadow: inset 0 0 100000px 0 rgba(0,0,0,.5)
 }
@@ -9462,7 +9462,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	user-select: none;
 }
 
-.list__80e1b,.termsRow_f10fb0,.tabContainer-2CNeKV,.modalHeader-1rVO6t,.tabBar_d4764b,.tabBar-3p1CAL,.productDetails-18hXGG,.uploadButton-21GBRt,.timeContainer__1259e>:first-child,.nameSection_f64107,.clipFormSection__8ca40:not(:first-child),.burstReactionTooltipSpacer-UbiqoN,.userContainer-3PdHOf,.session_f56359,.paginationContainer__7663e,.section-3OU261,.table_a843c4,.emptyPagination-TYv0Iu,.container-2sCmpl,.container-3-QM-q,.settingsTabBar__19aa3,.rowItem__65998,.tabBar-10WpMo,.selectorGroup-3nTwNR:not(:last-child),.scopes-uCLYQv,.header-3cN3a_,.leaveActionWrapper-gOy5IQ,.featureBorder__46921,.termsRow-1KIihh,.botPermissions-1j4evs,.separator-3iCpOF,.separator-3ng7S5:before,.contentRowOne-2p16lW,.divider-3UhbBQ,.burstReactionTooltipSpacer-1oUrib,.burstReactionTooltipSpacer-2zo84j,.burstReactionTooltipSpacer__17dc6,.seperator-2g-19Q,.divider-1bpIoX, .tabBar-11FwuO,.channelNotice-K4UfZY,.separator-13F3xT,.container-2giAcK:after,.more__14345,.userProfileInnerThemedNonPremium__3d0a6 .divider-SH6OnO,.listing-2-3kHA:not(:last-child):not(:hover) .listingDetails-1tUwVY,.headerContent-1ruWaB, .headerSidebar-q66Sut,.tabBar__22a9a,.tabBar-3DfKkN,.tabBar-1_P75h,.userProfileInnerThemedNonPremium__3d0a6 .tabBarContainer__63f55,.divider-23Pydw,.tabBar-MGaxA0,.header-1Hn2NV,.customizationSection__16fec,.threadSuggestionBar_b633f7,.divider-3nqZNm,.theme-dark .divider--oiTeJ,.listItem_df7f03,.listItem-2_Y_Te,.list-3omFaz,.columnHeading__7e90b, .tableCell__77206,.bd-setting-divider,.theme-dark .bottomDivider_a59d97,.headerCell-T6Fo3K, .bodyCell-dQam9V,.row_db0184,.row-1lgfJq,.hasSeparator__6ce0a,.divider-2-bAb9,.guildSubscriptionSlot-1mef6n,.guildsSection-30CJxX,.theme-dark .subscriptionDetails_f73fb4, .theme-dark .sectionAccountCredit__8ffc1,.rowBottomBorder-3HkIZv,.profilePanel__12596 .userProfileOuterUnthemed__48723 .mutualFriendsDivider_c21dfe,.activity_b1eb7a+.activity_b1eb7a,.resultsGroup_ea9b64:before,.content-1w6XhH,.bd-divider,.termsRow-2I3Fqz,.divider-1zHRlg,.container-3EBHNg,.guildCategorySeparator_dcbc4b,.feedItemHeader-txJq98,.separator-2t2gPa {
+.list__80e1b,.termsRow_f10fb0,.tabContainer-2CNeKV,.modalHeader-1rVO6t,.tabBar_d4764b,.tabBar-3p1CAL,.productDetails-18hXGG,.uploadButton-21GBRt,.timeContainer__1259e>:first-child,.nameSection_f64107,.clipFormSection__8ca40:not(:first-child),.burstReactionTooltipSpacer-UbiqoN,.userContainer-3PdHOf,.session_f56359,.paginationContainer__7663e,.section-3OU261,.table_a843c4,.emptyPagination-TYv0Iu,.container-2sCmpl,.container-3-QM-q,.settingsTabBar__19aa3,.rowItem__65998,.tabBar-10WpMo,.selectorGroup-3nTwNR:not(:last-child),.scopes-uCLYQv,.header-3cN3a_,.leaveActionWrapper-gOy5IQ,.featureBorder__46921,.termsRow-1KIihh,.botPermissions-1j4evs,.separator-3iCpOF,.separator-3ng7S5:before,.contentRowOne-2p16lW,.divider-3UhbBQ,.burstReactionTooltipSpacer-1oUrib,.burstReactionTooltipSpacer-2zo84j,.burstReactionTooltipSpacer__17dc6,.seperator-2g-19Q,.divider-1bpIoX, .tabBar-11FwuO,.channelNotice-K4UfZY,.separator-13F3xT,.container-2giAcK:after,.more__14345,.userProfileInnerThemedNonPremium__3d0a6 .divider-SH6OnO,.listing-2-3kHA:not(:last-child):not(:hover) .listingDetails-1tUwVY,.headerContent-1ruWaB, .headerSidebar-q66Sut,.tabBar__22a9a,.tabBar-3DfKkN,.tabBar-1_P75h,.userProfileInnerThemedNonPremium__3d0a6 .tabBarContainer__63f55,.divider-23Pydw,.tabBar-MGaxA0,.header-1Hn2NV,.customizationSection__16fec,.threadSuggestionBar_b633f7,.divider-3nqZNm,.theme-dark .divider--oiTeJ,.listItem_df7f03,.listItem-2_Y_Te,.list-3omFaz,.columnHeading__7e90b, .tableCell__77206,.bd-setting-divider,.theme-dark .bottomDivider_a59d97,.headerCell-T6Fo3K, .bodyCell-dQam9V,.row_db0184,.row-1lgfJq,.hasSeparator__6ce0a,.divider-2-bAb9,.guildSubscriptionSlot-1mef6n,.guildsSection-30CJxX,.theme-dark .subscriptionDetails_f73fb4, .theme-dark .sectionAccountCredit__8ffc1,.rowBottomBorder-3HkIZv,.profilePanel__12596 .userProfileOuterUnthemed__48723 .mutualFriendsDivider_c21dfe,.activity_b9af91+.activity_b9af91,.activity_b1eb7a+.activity_b1eb7a,.resultsGroup_ea9b64:before,.content-1w6XhH,.bd-divider,.termsRow-2I3Fqz,.divider-1zHRlg,.container-3EBHNg,.guildCategorySeparator_dcbc4b,.feedItemHeader-txJq98,.separator-2t2gPa {
 	border-color: rgba(0,0,0,.95);
 }
 
@@ -10558,7 +10558,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-radius: 8px;
 }
 
-.content__4560d,.content__15401,.searchPage__3f316 .search_e47903,.categories_e49c23,.content_f124d7,.subheaderText__5c617,.emptyContainer_a4bd05,.results__9b201 {
+.shopBanner__8d00b,.content__4560d,.content__15401,.searchPage__3f316 .search_e47903,.categories_e49c23,.content_f124d7,.subheaderText__5c617,.emptyContainer_a4bd05,.results__9b201 {
 	max-width: none;
 }
 
@@ -10581,7 +10581,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	color: var(--backgroundDarker);
 }
 
-.avatar__777a6,.appAvatar_dc107b,.emojiRow__4661c .emojiImage__841ea {
+.avatar__777a6,.appAvatar_dc107b,.emojiRow__4661c .emojiImage__841ea,.avatar_b95265 {
 	border-radius: 5px;
 }
 
@@ -10807,4 +10807,12 @@ input[type=checkbox]:focus-visible+.label_ee78c3 {
 
 .lookLink__93965.colorBrand_b2253e {
 	color: var(--primary);
+}
+
+.container__0d1a7 .lookBlank__7ca0a {
+	color: #fff;
+}
+
+.theme-dark .lookBlank__7ca0a:hover .contents_fb6220 {
+	--button--underline-color: #fff;
 }
