@@ -278,3 +278,7 @@
 .premiumIconWrapper__83620 .textBadge__45d79 {
 	background-color: var(--profile-gradient-secondary-color)!important;
 }
+
+.userProfileInnerThemedPremiumWithoutBanner__703b1 .scrollerSeparator__321f3,.userProfileInnerThemedWithBanner_d5f991 .scrollerSeparator__321f3{
+	box-shadow: 0 -1px 0 var(--profile-gradient-secondary-color);
+}
