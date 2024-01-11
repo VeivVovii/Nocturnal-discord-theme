@@ -3694,11 +3694,11 @@ svg[name=Nitro] g path {
 }
 */
 
-.serverBoostTabItem_b19426[aria-selected=true],.selectedBrand__37ae4,.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd:hover .childWrapper__01b9c,.mention__1afd3,.wrapper__4f229,.botTagRegular_c89c9a,.iconBadge_cc5031,.noIcon__06e39.guildAvatarWithoutIcon-6EjPQF,.bd-switch:not(.bd-switch-checked) .bd-switch-body,.container__871ba.checked__6bdb0 {
+.serverBoostTabItem_b19426[aria-selected=true],.selectedBrand__37ae4,.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd:hover .childWrapper__01b9c,.mention__1afd3,.wrapper__4f229,.botTagRegular_c89c9a,.iconBadge_cc5031,.noIcon__06e39.guildAvatarWithoutIcon__606ec,.bd-switch:not(.bd-switch-checked) .bd-switch-body,.container__871ba.checked__6bdb0 {
 	background: var(--primary)!important;
 }
 
-.guildAvatarWithoutIcon-6EjPQF[style*="font-size: 12px;"] {
+.guildAvatarWithoutIcon__606ec[style*="font-size: 12px;"] {
     font-size: 14px!important;
 }
 
