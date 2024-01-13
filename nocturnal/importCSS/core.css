@@ -4372,7 +4372,7 @@ svg[name=Nitro] g path {
   .side_b4b3f6 .item__48dda[aria-controls="logout-tab"]::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/logout.png) center}
 */
 
-.container-16urGA,.sidebarCard-1Gn1ch,#permissions-modal-wrapper .role-side,.cameraWrapper-3a7Ngv,.popoutHeaderContainer__15a74 {
+.container-16urgA,.sidebarCard-1Gn1ch,#permissions-modal-wrapper .role-side,.cameraWrapper-3a7Ngv,.popoutHeaderContainer__15a74 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -4463,7 +4463,7 @@ svg[name=Nitro] g path {
 	border: none!important;
 }
 
-.container-16urGA {
+.container-16urgA {
 	border: 2px solid rgba(0,0,0,.45);
 }
 
@@ -7340,7 +7340,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgba(10, 12, 16)!important;
 }
 
-.activityItem_a6e176:hover .activityActionButton-324Fqd,.happeningNowCard-LQzIBo:focus .happeningNowJoin-38S9z-, .happeningNowCard-LQzIBo:hover .happeningNowJoin-38S9z-,.luckyButton-3IdJ-R:hover,.clickableContainer-1N_Wn8:hover+.flipCardInner-2hI9Pw .flipCardText-2qCpbY,.editWelcomeButton__60968:hover,.clickable_d48309:hover .iconCircle_de71da,.chat__52833 .userProfileOuterUnthemed__48723 .buttonColor__01bf8:hover:not(:disabled),.addTags_e01f9c:not(.disabled-1fO3As):hover,.changeTeamButton-2u3mhe:hover {
+.activityItem_a6e176:hover .activityActionButton-324Fqd,.happeningNowCard-LQzIBo:focus .happeningNowJoin-38S9z-, .happeningNowCard-LQzIBo:hover .happeningNowJoin-38S9z-,.luckyButton-3IdJ-R:hover,.clickableContainer-1N_Wn8:hover+.flipCardInner-2hI9Pw .flipCardText-2qCpbY,.editWelcomeButton__60968:hover,.clickable_d48309:hover .iconCircle_de71da,.chat__52833 .userProfileOuterUnthemed__48723 .buttonColor__01bf8:hover:not(:disabled),.addTags_e01f9c:not(.disabled_e03720):hover,.changeTeamButton-2u3mhe:hover {
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: var(--primary);
@@ -8452,7 +8452,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	font-size: 24px!important;
 }
 
-.colorBrand_be5f58,.colorBrand__471df,.theme-dark .cta__3ca11,.eventStatusBrand-3D-ae6,.suggestedChannelsDismissCheck_f2d54f,.tagsContainer-3rSFH5 .tagsButton-2EKn70 .tagsButtonInner_a70c04 {
+.colorBrand_be5f58,.colorBrand__471df,.theme-dark .cta__3ca11,.eventStatusBrand-3D-ae6,.suggestedChannelsDismissCheck_f2d54f,.tagsContainer__11211 .tagsButton_d1fec1 .tagsButtonInner__98938{
 	color: rgb(60, 193, 235);
 }
 
