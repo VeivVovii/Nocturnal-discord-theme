@@ -2128,6 +2128,10 @@ svg[name=Nitro] g path {
 	background: rgba(0,176,244,0.102);
 }
 
+.message__80c10.automodMessage__410f7.selected_fd9051, .mouse-mode.full-motion .message__80c10.automodMessage__410f7:hover {
+	background: var(--background-message-automod-hover);
+}
+
 .card-2xlCYc, .emptyCard_f82dde, .descriptionBox_cca0c3 {
 	background-color: rgba(0,0,0,.3)!important;
 	border: 1px solid var(--deprecated-text-input-border);
