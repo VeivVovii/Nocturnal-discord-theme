@@ -2112,7 +2112,7 @@ svg[name=Nitro] g path {
 	background: rgba(0,176,244,0.051);
 }
 
-.message__80c10.mentioned__58017,.message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ).selected_fd9051,.mouse-mode.full-motion .ephemeral_c26b64:not(.automodMessage-265YwJ):hover {
+.message__80c10.mentioned__58017,.message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ).selected_fd9051,.mouse-mode.full-motion .message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ):hover {
 	background: rgba(0,176,244,0.102);
 }
 
