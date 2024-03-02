@@ -10913,3 +10913,7 @@ input[type=checkbox]:focus-visible+.label_ee78c3 {
 	border: none;
 	-webkit-mask: none;
 }
+
+.chat__52833 .profileColors__2e2f0.theme-light .userProfileOuterThemed__6eb84 .buttonColor__01bf8, .profileColors__2e2f0.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__19298.buttonColor__01bf8, .profileColors__2e2f0.theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__19298.buttonColor__01bf8 {
+	color: #060607!important;
+}
