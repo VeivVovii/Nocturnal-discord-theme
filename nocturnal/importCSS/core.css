@@ -2105,14 +2105,14 @@ svg[name=Nitro] g path {
 }
 
 .mentioned__58017:before,.replying_d7b6ad:before,.ephemeral_c26b64:not(.automodMessage-265YwJ):before {
-	background: var(--primary)!important;
+	background: rgba(0,176,244)!important;
 }
 
-.ephemeral_c26b64:not(.automodMessage-265YwJ) {
+.message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ) {
 	background: rgba(0,176,244,0.051);
 }
 
-.mentioned__58017,.message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ).selected_fd9051,.mouse-mode.full-motion .ephemeral_c26b64:not(.automodMessage-265YwJ):hover {
+.message__80c10.mentioned__58017,.message__80c10.ephemeral_c26b64:not(.automodMessage-265YwJ).selected_fd9051,.mouse-mode.full-motion .ephemeral_c26b64:not(.automodMessage-265YwJ):hover {
 	background: rgba(0,176,244,0.102);
 }
 
@@ -2120,11 +2120,11 @@ svg[name=Nitro] g path {
 	background: rgba(0,176,244,0.078);
 }
 
-.highlighted__5f454, .replying_d7b6ad {
+.message__80c10.highlighted__5f454, .message__80c10.replying_d7b6ad {
 	background: rgba(60,231,249,0.078);
 }
 
-.message__80c10.replying_d7b6ad.selected_fd9051, .mouse-mode.full-motion .message__80c10.replying_d7b6ad:hover,.message__80c10.highlighted__5f454.selected_fd9051, .mouse-mode.full-motion .highlighted__5f454:hover {
+.message__80c10.replying_d7b6ad.selected_fd9051, .mouse-mode.full-motion .message__80c10.replying_d7b6ad:hover,.message__80c10.highlighted__5f454.selected_fd9051, .mouse-mode.full-motion .message__80c10.highlighted__5f454:hover {
 	background: rgba(0,176,244,0.102);
 }
 
