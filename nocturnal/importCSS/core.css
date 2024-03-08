@@ -3366,7 +3366,7 @@ svg[name=Nitro] g path {
 	padding: 0;
 }
 
-.cardFolder__34393,.theme-dark .tierBody__615a1 {
+.cardFolder__34393,.theme-dark .tierBody__615a1,.theme-dark .subscribersPopout-3lkZNO {
 	background-color: var(--backgroundDarker);
 }
 
@@ -10495,7 +10495,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background: var(--profile-gradient-primary-color);
 }
 
-.userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__5cf7f .colorDefault__0b482.focused__27621:not(.hideInteraction__2790e), .userProfileInnerThemedWithBanner_d5f991 .menu__5cf7f .colorDefault__0b482.focused__27621:not(.hideInteraction__2790e), .userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__5cf7f .colorDefault__0b482:active:not(.hideInteraction__2790e), .userProfileInnerThemedWithBanner_d5f991 .menu__5cf7f .colorDefault__0b482:active:not(.hideInteraction__2790e) {
+.userProfileInnerThemedWithBanner_d5f991 .divider__07b2a,.userProfileInnerThemedPremiumWithoutBanner__703b1 .divider__07b2a,.userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__5cf7f .colorDefault__0b482.focused__27621:not(.hideInteraction__2790e), .userProfileInnerThemedWithBanner_d5f991 .menu__5cf7f .colorDefault__0b482.focused__27621:not(.hideInteraction__2790e), .userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__5cf7f .colorDefault__0b482:active:not(.hideInteraction__2790e), .userProfileInnerThemedWithBanner_d5f991 .menu__5cf7f .colorDefault__0b482:active:not(.hideInteraction__2790e) {
 	background: var(--profile-gradient-secondary-color);
 }
 
@@ -10516,7 +10516,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-color: rgba(0,0,0,.95);
 }
 
-.container__8316e,.separator__63988,.divider_e8f455,.separator__26ad8,.divider_e297a9,.divider__8c0ca,.separator_b90a05,.divider__75dfe,.divider_dec9ac,.separator_a693be,.divider__845fe,.separator__3cfd2,.divider__0a999,.divider_ffec75,.divider__7f9aa,.divider__2bbbc,.separator__7538d,.divider__150fc,.separator_fdbcfd,.guildSeparator_dcb3cc,.divider_ec850d,.userProfileInnerThemedNonPremium__3d0a6 .divider__2bbbc {
+.container__8316e,.separator__63988,.divider_e8f455,.separator__26ad8,.divider_e297a9,.divider__8c0ca,.separator_b90a05,.divider__75dfe,.divider_dec9ac,.separator_a693be,.divider__845fe,.separator__3cfd2,.divider__0a999,.divider_ffec75,.divider__7f9aa,.divider__2bbbc,.separator__7538d,.divider__150fc,.separator_fdbcfd,.guildSeparator_dcb3cc,.divider_ec850d,.userProfileInnerThemedNonPremium__3d0a6 .divider__07b2a,.userProfileInnerThemedNonPremium__3d0a6 .divider__2bbbc {
 	background-color: rgba(0,0,0,.95);
 }
 
