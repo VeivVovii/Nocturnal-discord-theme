@@ -3366,7 +3366,7 @@ svg[name=Nitro] g path {
 	padding: 0;
 }
 
-.cardFolder__34393,.theme-dark .tierBody__615a1,.theme-dark .subscribersPopout-3lkZNO {
+.cardFolder__34393,.theme-dark .tierBody__615a1 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3845,9 +3845,8 @@ svg[name=Nitro] g path {
 	fill: #434257;
 }
 
-.theme-dark .moreSubscribers-2FZuij {
+.theme-dark .moreSubscribers_a13ebc {
 	background-color: rgba(0,0,0,0);
-	margin-left: -6px;
 }
 
 .progressBar_bf2cae mask {
@@ -6228,7 +6227,7 @@ html.theme-light .app-2CXKsg::after {
 	box-shadow: 0 0 0 2px #666!important
 }
 
-.avatar-1XUb0A:before {
+.avatar-1XUb0A:before,.avatar__0c988::before,.avatar__31cab::before {
 	width: calc(100% - 2px)!important;
 	height: calc(100% - 2px)!important;
 }
@@ -7629,7 +7628,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-left: 0;
 }
 
-.application-2d68Kk,.optionBox__0338f,.prompt__671aa .optionButtonWrapper__4072c:hover,.confirmChannelItemContainer-3uoW8_:hover,.theme-dark .selectableItem-3-fmiM:hover,.theme-dark .inviteBannerUpsell-1t_LYM,.listContainer__20eb2,.iconBackground-3fyZsZ,.iconBackground-F3MGnK,.theme-dark .wrapper-1FP9YQ,.theme-dark .css-153nlb6-option,.navButton__8646a:hover {
+.application-2d68Kk,.optionBox__0338f,.prompt__671aa .optionButtonWrapper__4072c:hover,.confirmChannelItemContainer__5f409:hover,.theme-dark .selectableItem-3-fmiM:hover,.theme-dark .inviteBannerUpsell-1t_LYM,.listContainer__20eb2,.iconBackground-3fyZsZ,.iconBackground-F3MGnK,.theme-dark .wrapper-1FP9YQ,.theme-dark .css-153nlb6-option,.navButton__8646a:hover {
 	background-color: rgba(0,0,0,.2);
 }
 
@@ -8168,7 +8167,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-left: 0;
 }
  
-.confirmInviteScroller-4ATmlS {
+.confirmInviteScroller__11391 {
 	margin-right: -14px;
 }
 
@@ -10578,7 +10577,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-radius: 5px!important;
 }
 
-.spinner__25faf,.spinner__97e4c,.container_ae7412 {
+.spinner__25faf,.spinner__97e4c,.container_ae7412,.theme-dark .subscribersPopout__1da1e {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0,0,0,.5);
 }
