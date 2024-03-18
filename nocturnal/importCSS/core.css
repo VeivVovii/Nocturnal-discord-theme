@@ -2521,7 +2521,7 @@ svg[name=Nitro] g path {
 	border-radius: 0;
 }
 
-.theme-dark .partyMemberOverflow_d12297,.theme-dark .defaultIndicator-1AxErs,.theme-dark .contentWrapper-3oy4Xo {
+.theme-dark .partyMemberOverflow_d12297,.theme-dark .defaultIndicator-1AxErs,.theme-dark .contentWrapper__85d37 {
 	background-color: rgba(0,0,0,0);
 }
 
@@ -10662,7 +10662,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-right: 6px;
 }
 
-.sizeMax_ff52ba {
+.sizeMax_ff52ba,.button__47891 {
 	font-size: 14px;
 }
 
