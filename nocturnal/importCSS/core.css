@@ -4184,7 +4184,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark);
 }
 
-.modalHeader-1hF3w-,.modalHeader__6fc54,.syncCard-3xpKOB,.requiredPermissionsBanner-WBJWah {
+.modalHeader-1hF3w-,.modalHeader__6fc54,.syncCard-3xpKOB,.requiredPermissionsBanner__70611 {
 	background-color: rgba(0,0,0,.25);
 }
 
@@ -7403,8 +7403,9 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgba(0,0,0,.95);
 }
 
-.requiredPermissionsBanner-WBJWah {
+.requiredPermissionsBanner__70611 {
 	margin-top: 20px;
+	padding: 10px;
 }
 
 .syncCard-3xpKOB {
