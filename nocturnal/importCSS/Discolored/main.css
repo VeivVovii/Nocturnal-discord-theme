@@ -176,6 +176,10 @@
     background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/poop.svg");
 }
 
+.theme-dark .imageError__77b3e,[src*="/assets/baa5b6db50bb89d55668.png"] {
+    content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/poop.svg")
+}
+
 /* 📜 Scroll */
 [style*='background-image: url("/assets/cf8f9096a9322f2ae0d7.svg");'],
 [style*='background-image: url("/assets/5e3480eff150b1cb323e.svg");'] {
