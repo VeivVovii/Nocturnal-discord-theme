@@ -2383,7 +2383,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.26);
 }
 
-.wrapperAudio__178e9.newMosaicStyle_fb18b9 {
+.wrapperAudio__178e9.newMosaicStyle__78072 {
 	border-radius: 5px;
 }
 
@@ -6711,12 +6711,12 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border: 2px solid rgba(0,0,0,0)
 }
 
-.nonMediaAttachment__30665 {
-	outline: none
+.nonMediaAttachment_ef83c1 {
+	outline: none;
 }
 
-.nonMediaAttachment__30665:hover {
-	outline: 1px solid rgba(0,0,0,.45)
+.nonMediaAttachment_ef83c1:hover {
+	outline: 1px solid rgba(0,0,0,.45);
 }
 
 .avatarWrapper-24Rbpj {
@@ -7399,7 +7399,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-top: 8px;
 }
 
-.attachment__06ca3.newMosaicStyle__235c9,.wrapperAudio__178e9.newMosaicStyle_fb18b9 {
+.attachment__06ca3.newMosaicStyle_b4aa24,.wrapperAudio__178e9.newMosaicStyle__78072 {
 	padding: 10px;
 }
 
@@ -7937,7 +7937,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-top-right-radius: 0;
 }
 
-.mediaBarInteraction__0633c:hover .mediaBarGrabber__1d527,.mediaBarInteractionDragging__0a2ee .mediaBarGrabber__1d527 {
+.mediaBarInteraction_e21234:hover .mediaBarGrabber__1d527,.mediaBarInteractionDragging__55800 .mediaBarGrabber__1d527 {
 	background-color: rgb(0, 119, 167);
 }
 
@@ -7971,11 +7971,11 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgb(0, 97, 95);
 }
 
-.lookLink-13iF2K.colorBrand__27d57:not(.theme-dark.backButton-2rLJZw),.startOverButton-1G3jim,.colorDefault_e361cf:not(.colorDanger__08c25).focused_dcafb9 .check__8d1bd,.check-11_lVH,.createGroupIcon-Veudvy, .createTierIcon-3hYNJ4,.addBenefitIcon-39M1Ks,.playing_eb5c63 .playIcon_e14cf9,.playing_eb5c63 .playButtonContainer_d887d6:active .playIcon_e14cf9{
+.lookLink-13iF2K.colorBrand__27d57:not(.theme-dark.backButton-2rLJZw),.startOverButton-1G3jim,.colorDefault_e361cf:not(.colorDanger__08c25).focused_dcafb9 .check__8d1bd,.check-11_lVH,.createGroupIcon-Veudvy, .createTierIcon-3hYNJ4,.addBenefitIcon-39M1Ks,.playing__0754e .playIcon__25e6e,.playing__0754e .playButtonContainer_bf2199:active .playIcon__25e6e{
 	color: var(--primary);
 }
 
-.playButtonContainer_d887d6:active .playIcon_e14cf9 {
+.playButtonContainer_bf2199:active .playIcon__25e6e {
 	color: rgb(60, 193, 235);
 }
 
@@ -8372,19 +8372,19 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: #e9eaeb;
 }
 
-.theme-dark .container__79822:not(.playing_eb5c63) .playButtonContainer_d887d6 {
+.theme-dark .container_ce813c:not(.playing__0754e) .playButtonContainer_bf2199 {
 	background: linear-gradient(151.11deg,#0d96e7 16.55%,#0077a7 104.36%);
 }
 
-.theme-dark .container__79822:not(.playing_eb5c63) .playButtonContainer_d887d6:hover {
+.theme-dark .container_ce813c:not(.playing__0754e) .playButtonContainer_bf2199:hover {
 	background: linear-gradient(151.11deg,#21a8e9 16.55%,#0d96e7 104.36%);
 }
 
-.theme-dark .container__79822:not(.playing_eb5c63) .playButtonContainer_d887d6:active {
+.theme-dark .container_ce813c:not(.playing__0754e) .playButtonContainer_bf2199:active {
 	background: linear-gradient(0deg,rgba(0,0,0,.2),rgba(0,0,0,.2)),linear-gradient(151.11deg,#0d96e7 16.55%,#0077a7 104.36%)
 }
 
-.playing_eb5c63 .playButtonContainer_d887d6:active,.selectedProgressBar__26b4d,.progressBarCurrent__44486,.chattableIndicator_c6ac14 {
+.playing__0754e .playButtonContainer_bf2199:active,.selectedProgressBar__26b4d,.progressBarCurrent__44486,.chattableIndicator_c6ac14 {
 	background-color: rgb(60, 193, 235);
 }
 
@@ -9046,7 +9046,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
     padding: 0 14px;
 }
 
-.container__79822,.content-3l1Kim {
+.container_ce813c,.content-3l1Kim,.container_ce813c {
 	background-color: rgba(0,0,0,.26);
 }
 
@@ -9927,7 +9927,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-color: rgba(32, 34, 37, 0.5);
 }
 
-.uploader__1b0d8 .uploadImageIcon__98e91,.uploader__1b0d8:hover .uploadImageIcon__98e91,.bannedUser_f75842,.avatarContainer_f5815b,.skuSelectModalContent-1oAh0o, .skuSelectModalHeader-lufMDl,.temporaryMembershipContainerBackground-13Hf5U:before {
+.uploader__1380c .uploadImageIcon_e7b413,.uploader__1380c:hover .uploadImageIcon_e7b413,.bannedUser_f75842,.avatarContainer_f5815b,.skuSelectModalContent-1oAh0o, .skuSelectModalHeader-lufMDl,.temporaryMembershipContainerBackground-13Hf5U:before {
 	background-color: rgba(0,0,0,0);
 }
 
@@ -9990,15 +9990,15 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	fill: rgb(60, 193, 235);
 }
 
-.newBadge__2ff4b,.clipPill-6-09eD,.timePillBackground__0044a,.dragHandle__24a7f,.newMembersNotice__282a0 {
+.newBadge__2ff4b,.clipPill-6-09eD,.timePillBackground__0044a,.dragHandle__24a7f,.newMembersNotice__54ea4 {
 	background-color: var(--primary);
 }
 
-.newMembersNotice__282a0:hover {
+.newMembersNotice__54ea4:hover {
 	background-color: rgb(33, 168, 233);
 }
 
-.newMembersNotice__282a0:active {
+.newMembersNotice__54ea4:active {
 	background-color: rgb(0, 106, 125);
 }
 
@@ -10068,7 +10068,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-right-color: var(--backgroundDark);
 }
 
-.container__52476,.enhancedBanner__09743,.safetyPolicyNoticeContainer_b0cc55,.classificationPolicyCard__0923e,.container_b634d9,.previewContainer__0f3c5,.previewForm__87c77,.buttonsBackgroundInactive__18982,.buttonsBackgroundInactive__18982:hover,.tipsSection_ffb312,.container__25f89,.subheaderContainer_b3b48f,.emojiErrorItem-3KwEao,.effectGridItem__485d8,.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3C35Ec,.clipItem__03b69,.linkButton__39986,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer__968c0,.uploadImage__3c911,.bannedUser_f75842:hover,.replies_c11247,.pauseContainer_dd4b7e,.listItemContainer__9c883,.container-rmXJqN,.emoji-5r_S0Q:hover {
+.container__52476,.enhancedBanner__09743,.safetyPolicyNoticeContainer_b0cc55,.classificationPolicyCard__0923e,.container_b634d9,.previewContainer__0f3c5,.previewForm__87c77,.buttonsBackgroundInactive__18982,.buttonsBackgroundInactive__18982:hover,.tipsSection_ffb312,.container__25f89,.subheaderContainer_b3b48f,.emojiErrorItem-3KwEao,.effectGridItem__485d8,.container-3JugSj,.header-3nTh_Z,.attachedRoleContainer-LYLqUk,.attachedFileCard-3jS0Vp,.solidBackground-13BMn7,.benefitToggleContainer-3VJ8VS,.container-3Kr3zk,.theme-dark .learnMoreTipContainer-zpYfCh,.container-BY3bnw,.clipItem-3C35Ec,.clipItem__03b69,.linkButton__39986,.decorationPreview-1EtFuW, .smallDecorationPreviewsContainer__968c0,.uploadImage_cfa83d,.bannedUser_f75842:hover,.replies_c11247,.pauseContainer_dd4b7e,.listItemContainer__9c883,.container-rmXJqN,.emoji-5r_S0Q:hover {
 	background-color: rgba(0,0,0,.2);
 	border: none;
 }
@@ -10077,7 +10077,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgb(0, 141, 217);
 }
 
-.container__03455:hover:not(.canceled__5c690),.bd-addon-controls .bd-button:hover,.classificationPolicyCard__0923e:hover,.tipNumber_ee8aea,.clipItem-3C35Ec:hover,.clipItem__03b69:hover,.linkButton__39986:hover,.uploadImage__3c911:hover,.replies_c11247:hover,.listItemContainer__9c883:hover {
+.container__03455:hover:not(.canceled__5c690),.bd-addon-controls .bd-button:hover,.classificationPolicyCard__0923e:hover,.tipNumber_ee8aea,.clipItem-3C35Ec:hover,.clipItem__03b69:hover,.linkButton__39986:hover,.uploadImage_cfa83d:hover,.replies_c11247:hover,.listItemContainer__9c883:hover {
 	background-color: rgba(0,0,0,.4);
 	box-shadow: none;
 }
@@ -10440,11 +10440,11 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-radius: 5px;
 }
 
-.settingsTabBar_c54406,.example_bbc240,.container__56345,.channelNotice__36ec1,.content_eebede,.botPermissions__44d98,.header__3d8c6,.ruleContainer__064c8,.divider_d6bbe2,.staticDivider_db17a6,.container__91542,.separator__16faf,.listItem_b7467d,.settingsTabBar_feac86,.container__8c497,.container__606d9,.helpSeparator_c0646f,.termsRow__4a332,.addPrompt__527b9,.modalFooter__9617d,.triggerMainContainer_ca82f6,.termsRow__8e6aa,.divider_e4bcab,.itemBodyInner__14162,.hasSeparator__7b379,.headerSidebar_ede28f,.separator_d3580d,.divider_c275c7,.headerContent_bc8f22,.divider__34c76,.row__807ed,.separator__5e7b0,.theme-dark .divider__90677,.separator__84656,.table_c0e94f,.activity_ce3ac0+.activity_ce3ac0,.divider__14bb6,.separator__174fc,.container_bc43c1:after,.divider__861a8,.separator__0df02,.container__024c3,.clipFormFooter_f14f7f,.theme-dark .divider__12403,.container_f3270f,.divider_d060f7,.headerSidebar__01bcf,.headerContent__57da2,.separator_bd8f6b,.separator_afbd59,.container__68e43,.messageRequestItem__3b951:not(.firstItem_ab16cb),.separator_b26b65,.ruleContainer_fa2c08,.separator_f527c9,.separator__18122,.container__179cc,.container__08e15,.container__4f639:after,.divider_a2339a,.content__4162a,.tabBar_a013ee {
+.settingsTabBar_c54406,.example_bbc240,.container__56345,.channelNotice__36ec1,.content_eebede,.botPermissions__44d98,.header__3d8c6,.ruleContainer__064c8,.divider_d6bbe2,.staticDivider_db17a6,.container__91542,.separator__16faf,.listItem_b7467d,.settingsTabBar_feac86,.container__8c497,.container__606d9,.termsRow__4a332,.addPrompt__527b9,.modalFooter__9617d,.triggerMainContainer_ca82f6,.termsRow__8e6aa,.divider_e4bcab,.itemBodyInner__14162,.hasSeparator__7b379,.headerSidebar_ede28f,.separator_d3580d,.divider_c275c7,.headerContent_bc8f22,.divider__34c76,.row__807ed,.separator__5e7b0,.theme-dark .divider__90677,.separator__84656,.table_c0e94f,.activity_ce3ac0+.activity_ce3ac0,.divider__14bb6,.separator__174fc,.container_bc43c1:after,.divider__861a8,.separator__0df02,.container__024c3,.clipFormFooter_f14f7f,.theme-dark .divider__12403,.container_f3270f,.divider_d060f7,.headerSidebar__01bcf,.headerContent__57da2,.separator_bd8f6b,.separator_afbd59,.container__68e43,.messageRequestItem__3b951:not(.firstItem_ab16cb),.separator_b26b65,.ruleContainer_fa2c08,.separator_f527c9,.separator__18122,.container__179cc,.container__08e15,.container__4f639:after,.divider_a2339a,.content__4162a,.tabBar_a013ee {
 	border-color: rgba(0,0,0,.95);
 }
 
-.suggestedSeparator__77b81,.separator__93f3a,.divider_ad3577,.divider__979dc,.divider__622af,.headerSeparator_dc7afa,.divider__00189,.separator_f5f9d9,.divider_f642fa,.divider__8a7ee,.separator__31144,.divider__1e60f,.divider__9daf4,.divider_d1051b,.separator__68570,.separator__254f8,.divider__20bfc:after,.headerDivider__07db6,.divider_d6f39c,.separator_d14fb1,.divider_bdb894,.bullet_b69425,.divider_a10d0d,.container__8316e,.separator__63988,.divider_e8f455,.separator__26ad8,.divider_e297a9,.divider__8c0ca,.separator_b90a05,.divider__75dfe,.divider_dec9ac,.separator_a693be,.divider__845fe,.separator__3cfd2,.divider__0a999,.divider__4df9f,.divider__7f9aa,.divider__2bbbc,.separator__7538d,.divider__150fc,.separator_fdbcfd,.guildSeparator__75928,.divider_ec850d,.userProfileInnerThemedNonPremium_ed9022 .divider__07b2a,.userProfileInnerThemedNonPremium_ed9022 .divider__2bbbc {
+.suggestedSeparator__77b81,.helpSeparator_c0646f,.separator__93f3a,.divider_ad3577,.divider__979dc,.divider__622af,.headerSeparator_dc7afa,.divider__00189,.separator_f5f9d9,.divider_f642fa,.divider__8a7ee,.separator__31144,.divider__1e60f,.divider__9daf4,.divider_d1051b,.separator__68570,.separator__254f8,.divider__20bfc:after,.headerDivider__07db6,.divider_d6f39c,.separator_d14fb1,.divider_bdb894,.bullet_b69425,.divider_a10d0d,.container__8316e,.separator__63988,.divider_e8f455,.separator__26ad8,.divider_e297a9,.divider__8c0ca,.separator_b90a05,.divider__75dfe,.divider_dec9ac,.separator_a693be,.divider__845fe,.separator__3cfd2,.divider__0a999,.divider__4df9f,.divider__7f9aa,.divider__2bbbc,.separator__7538d,.divider__150fc,.separator_fdbcfd,.guildSeparator__75928,.divider_ec850d,.userProfileInnerThemedNonPremium_ed9022 .divider__07b2a,.userProfileInnerThemedNonPremium_ed9022 .divider__2bbbc {
 	background-color: rgba(0,0,0,.95);
 }
 
