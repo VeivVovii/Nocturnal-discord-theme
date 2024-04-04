@@ -842,7 +842,7 @@ svg[name=Nova_Discord] * {
 	border-radius: 5px!important
 }
 
-#bd-settingspane-container .bd-pfbtn, .bd-button-filled.bd-button-color-brand, .userProfileOuterUnthemed_e14365 .giftButton__0988e, .disabledPublishButton-ms-s1j, .addFileButtonLook-kvmcNx, .theme-dark .lookFilled__950dd.colorTransparent__3e3c7, .defaultPreviewButtonColor-nHD0Sj, .activeFilter-15Dcl7, .addChannelButton-2mu6wx, .selectGuildPseudoCta-39TChZ, .colorable__4f530.green__7e4a1, .pill-2O-4R1, .userProfileInnerThemedNonPremium_ed9022 .VoiceActivity-voiceprofilesection-button, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor_fd4fe8, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.actionColor__21cca, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor__6f6b0, .buttonPreview-32-Un8, .lookFilled__950dd.colorTransparent-13Bvvi, .lookFilled__950dd.colorBrandNew__8872c, .lookFilled__950dd.colorGrey-2iAG-B, .bd-detached-css-editor #bd-customcss-attach-controls button,.bd-modal-wrapper .footer button,.bda-slist .bda-footer button,.headerButtonColor-3NRbCG,.lookFilled__950dd.colorBrand__27d57:not(.customSwatch-1axV7B,.optionPillBtn_f38b84),.lookFilled__950dd.colorBrand__27d57:disabled, .lookFilled__950dd.colorBrand__27d57[aria-disabled=true],.theme-dark .lookFilled__950dd.colorPrimary_ebe632,.lookOutlined__014b5.colorBrand__27d57,.plugin-settings button,.questionMark-3V9mGJ,.standardSidebarView__12528 #bd-customcss-attach-controls button,.tabBar__2aa8e .primary-3j8BhM {
+#bd-settingspane-container .bd-pfbtn, .bd-button-filled.bd-button-color-brand, .userProfileOuterUnthemed_e14365 .giftButton__0988e, .disabledPublishButton-ms-s1j, .addFileButtonLook-kvmcNx, .theme-dark .lookFilled__950dd.colorTransparent__3e3c7, .defaultPreviewButtonColor-nHD0Sj, .activeFilter-15Dcl7, .addChannelButton-2mu6wx, .selectGuildPseudoCta-39TChZ, .colorable__4f530.green__7e4a1, .pill-2O-4R1, .userProfileInnerThemedNonPremium_ed9022 .VoiceActivity-voiceprofilesection-button, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor_fd4fe8, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.actionColor_db400e, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor__6f6b0, .buttonPreview-32-Un8, .lookFilled__950dd.colorTransparent-13Bvvi, .lookFilled__950dd.colorBrandNew__8872c, .lookFilled__950dd.colorGrey-2iAG-B, .bd-detached-css-editor #bd-customcss-attach-controls button,.bd-modal-wrapper .footer button,.bda-slist .bda-footer button,.headerButtonColor-3NRbCG,.lookFilled__950dd.colorBrand__27d57:not(.customSwatch-1axV7B,.optionPillBtn_f38b84),.lookFilled__950dd.colorBrand__27d57:disabled, .lookFilled__950dd.colorBrand__27d57[aria-disabled=true],.theme-dark .lookFilled__950dd.colorPrimary_ebe632,.lookOutlined__014b5.colorBrand__27d57,.plugin-settings button,.questionMark-3V9mGJ,.standardSidebarView__12528 #bd-customcss-attach-controls button,.tabBar__2aa8e .primary-3j8BhM {
 	background-color: rgba(0,0,0,.5)!important;
 	border: 2px solid var(--primary)!important;
 	border-radius: 6px!important;
@@ -858,7 +858,7 @@ svg[name=Nova_Discord] * {
 	border-radius: 5px!important;
 }
 
-#bd-settingspane-container .bd-pfbtn:hover, .bd-button-filled.bd-button-color-brand:hover:not(.bd-button-disabled), .userProfileOuterUnthemed_e14365 .giftButton__0988e:hover, .addFileButtonLook-kvmcNx:hover, .theme-dark .lookFilled__950dd.colorTransparent__3e3c7:hover, .defaultPreviewButtonColor-nHD0Sj:hover, .activeFilter-15Dcl7:hover, .addChannelButton-2mu6wx:hover, .selectGuild-XtzmSc:hover .selectGuildPseudoCta-39TChZ, .colorable__4f530.green__7e4a1:hover, .pill-2O-4R1:hover, .userProfileInnerThemedNonPremium_ed9022 .VoiceActivity-voiceprofilesection-button:hover, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled), .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.actionColor__21cca:hover:not(:disabled), .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor__6f6b0:hover, .buttonPreview-32-Un8:hover, .lookFilled__950dd.colorTransparent-13Bvvi:hover:not(:disabled), .lookFilled__950dd.colorBrandNew__8872c:hover:not(:disabled), .lookFilled__950dd.colorGrey-2iAG-B:hover:not(:disabled), #friends .tab-bar .tab-bar-item.tab-bar-item-primary,.bd-detached-css-editor #bd-customcss-attach-controls button:hover,.bd-modal-wrapper .footer button:hover,.bda-slist .bda-footer button:hover,.headerButtonColor-3NRbCG:hover,.lookFilled__950dd.colorBrand__27d57:hover:not(:disabled,.customSwatch-1axV7B,.optionPillBtn_f38b84),.theme-dark .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled),.lookOutlined__014b5.colorBrand__27d57:hover:not(:disabled),.plugin-settings button:hover,.questionMark-3V9mGJ:hover,.standardSidebarView__12528 #bd-customcss-attach-controls button:hover,.tabBar__2aa8e .primary-3j8BhM:hover,.topPill__63ad4 .itemSelected-1qLhcL {
+#bd-settingspane-container .bd-pfbtn:hover, .bd-button-filled.bd-button-color-brand:hover:not(.bd-button-disabled), .userProfileOuterUnthemed_e14365 .giftButton__0988e:hover, .addFileButtonLook-kvmcNx:hover, .theme-dark .lookFilled__950dd.colorTransparent__3e3c7:hover, .defaultPreviewButtonColor-nHD0Sj:hover, .activeFilter-15Dcl7:hover, .addChannelButton-2mu6wx:hover, .selectGuild-XtzmSc:hover .selectGuildPseudoCta-39TChZ, .colorable__4f530.green__7e4a1:hover, .pill-2O-4R1:hover, .userProfileInnerThemedNonPremium_ed9022 .VoiceActivity-voiceprofilesection-button:hover, .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled), .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled), .userProfileInnerThemedNonPremium_ed9022 .lookFilled__950dd.buttonColor__6f6b0:hover, .buttonPreview-32-Un8:hover, .lookFilled__950dd.colorTransparent-13Bvvi:hover:not(:disabled), .lookFilled__950dd.colorBrandNew__8872c:hover:not(:disabled), .lookFilled__950dd.colorGrey-2iAG-B:hover:not(:disabled), #friends .tab-bar .tab-bar-item.tab-bar-item-primary,.bd-detached-css-editor #bd-customcss-attach-controls button:hover,.bd-modal-wrapper .footer button:hover,.bda-slist .bda-footer button:hover,.headerButtonColor-3NRbCG:hover,.lookFilled__950dd.colorBrand__27d57:hover:not(:disabled,.customSwatch-1axV7B,.optionPillBtn_f38b84),.theme-dark .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled),.lookOutlined__014b5.colorBrand__27d57:hover:not(:disabled),.plugin-settings button:hover,.questionMark-3V9mGJ:hover,.standardSidebarView__12528 #bd-customcss-attach-controls button:hover,.tabBar__2aa8e .primary-3j8BhM:hover,.topPill__63ad4 .itemSelected-1qLhcL {
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: var(--primary);
@@ -5957,7 +5957,7 @@ svg[name=Nitro] g path {
 	border: none
 }
 
-.actionColor__21cca:hover,.buttonColor_fd4fe8:hover,.faded-31OPhd {
+.actionColor_db400e:hover,.buttonColor_fd4fe8:hover,.faded-31OPhd {
 	opacity: unset;
 }
 
@@ -7879,7 +7879,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin: 57px auto 57px auto;
 }
 
-.actionColor__21cca:disabled:hover, .buttonColor_fd4fe8:disabled:hover {
+.actionColor_db400e:disabled:hover, .buttonColor_fd4fe8:disabled:hover {
 	opacity: .5;
 }
 
@@ -8006,7 +8006,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	left: 20px;
 }
 
-.premiumSkuSelect-2SGXp4,.button__581d0.buttonColor_a6eb73, .button__581d0 .buttonColor_a6eb73,.button__581d0.buttonColor_a6eb73:hover, .button__581d0 .buttonColor_a6eb73:hover,.body__50a07:not(.hasSplash__34827) .iconMask-3ZaTTN,.jump-1vIlrw,.textInput__210e5,.paymentNote-3dcb-Z,.status_be3f03, .statusDotBackground_baf09f,.theme-dark .multipleIconWrapper__164fb,.pillContainer__2a7d8,.avatarBackground__9cf9d,.input_f27786.noBorder-2p63tM,.handleFrame__82dcd:after, .handleFrame__82dcd:before {
+.premiumSkuSelect-2SGXp4,.button__581d0.buttonColor_a6eb73, .button__581d0 .buttonColor_a6eb73,.button__581d0.buttonColor_a6eb73:hover, .button__581d0 .buttonColor_a6eb73:hover,.body__50a07:not(.hasSplash__34827) .iconMask-3ZaTTN,.jump-1vIlrw,.textInput__210e5,.paymentNote-3dcb-Z,.status_be3f03, .statusDotBackground_baf09f,.theme-dark .multipleIconWrapper__8dd58,.pillContainer__2a7d8,.avatarBackground__9cf9d,.input_f27786.noBorder-2p63tM,.handleFrame__82dcd:after, .handleFrame__82dcd:before {
 	background-color: rgba(0,0,0,0);
 }
 
@@ -9827,7 +9827,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	font-size: 18px!important;
 }
 
-.profileColors_ac6ab4.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor__21cca:hover:not(:disabled), .profileColors_ac6ab4.theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor__21cca:hover:not(:disabled),.profileColors_ac6ab4.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor__21cca, .profileColors_ac6ab4.theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor__21cca:not(:disabled) {
+.profileColors_ac6ab4.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled), .profileColors_ac6ab4.theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),.profileColors_ac6ab4.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor_db400e, .profileColors_ac6ab4.theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor_db400e:not(:disabled) {
 	color: #060607!important;
 }
 
