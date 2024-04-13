@@ -2341,11 +2341,11 @@ svg[name=Nitro] g path {
 	margin: 2px 4px;
 }
 
-.colorDefault_e361cf.focused_dcafb9:not(.colorDanger__08c25):not(.hideInteraction__2790e),.customLabelContainer_e315af:hover,.nagivateBackContainer__953b5:hover,.otherDatesContainer_ddd438.focused__63df5 {
+.colorDefault_e361cf.focused_dcafb9:not(.colorDanger__08c25):not(.hideInteraction__2790e),.customLabelContainer_c30e6a:hover,.nagivateBackContainer__953b5:hover,.otherDatesContainer_ddd438.focused__63df5 {
 	background: var(--bg-overlay-hover,rgb(0,0,0,0.2));
 }
 
-.colorDefault_e361cf:active:not(.colorDanger__08c25):not(.hideInteraction__2790e),.customLabelContainer_e315af:active,.nagivateBackContainer__953b5:active,.otherDatesContainer_ddd438:active {
+.colorDefault_e361cf:active:not(.colorDanger__08c25):not(.hideInteraction__2790e),.customLabelContainer_c30e6a:active,.nagivateBackContainer__953b5:active,.otherDatesContainer_ddd438:active {
 	background: var(--bg-overlay-active,rgb(0,0,0,0.3));
 }
 
@@ -10950,4 +10950,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .votedStyles__57019 {
 	background-color: rgb(60, 193, 235, 0.149);
 	--custom-poll-style-border: rgb(60, 193, 235);
+}
+
+.avatarDecoration__8a0c2 {
+	left: 16px;
 }
