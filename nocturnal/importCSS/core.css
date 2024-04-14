@@ -3748,7 +3748,7 @@ svg[name=Nitro] g path {
 	padding: 8px 4px;
 }
 
-.phoneFieldPopout-uW3DlO .phoneFieldScroller-e7_1Vz {
+.phoneFieldPopout_a20b2f .phoneFieldScroller__2227c {
 	margin-right: -10px;
 }
 
@@ -5693,7 +5693,7 @@ svg[name=Nitro] g path {
 	opacity: .3!important;
 }
 
-.from-1-zmLY, .to-9AOSH0,.headerIcon-2RT_qX {
+.from-1-zmLY, .to__23110,.headerIcon-2RT_qX {
 	border-radius: 5px!important;
 }
 
@@ -5701,12 +5701,12 @@ svg[name=Nitro] g path {
 	margin-right: 9px!important;
 }
 
-.theme-dark .to-9AOSH0 {
+.theme-dark .to__23110 {
 	background-color: rgba(0, 0, 0, 0);
 	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0);
 }
 
-.from-1-zmLY,.from-2xygmH {
+.from-1-zmLY,.from-2xygmH,.from_c49929,.from__6d617 {
 	margin-right: 16px;
 }
 
@@ -5885,7 +5885,7 @@ svg[name=Nitro] g path {
 	border: 1px solid #0c0e12;
 }
 
-.icon-2Zyj6B,.input__321f5:focus,.diversitySelectorOptions_daea2d {
+.icon-2Zyj6B,.input__723c9:focus,.diversitySelectorOptions_daea2d {
 	background-color: var(--backgroundDarker);
 }
 
@@ -5913,7 +5913,7 @@ svg[name=Nitro] g path {
 	border: 1px solid rgba(0,0,0,.95) !important
 }
 
-.input__321f5:focus, .outer_c57160:hover .input__321f5 {
+.input__723c9:focus, .outer_c57160:hover .input__723c9 {
 	box-shadow: inset 0 0 0 1px var(--backgroundDarker);
 }
 
@@ -6706,7 +6706,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	left: 14px;
 }
 
-.avatarSpeaking_c95053 {
+.avatarSpeaking_f239de {
 	-webkit-box-shadow: 0 0 0 2px #43b581;
 	box-shadow: 0 0 0 2px #43b581;
 }
@@ -6896,7 +6896,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-top-right-radius: 0;
 }
 
-.guildsError-2gzNaD,.guildIconUnavailable-1NjeTR,.categoryItem__0608f.selectedCategoryItem__0bf4c .itemInner_eedb2b,.reactionDefault__792ef:hover,.voteDefault__164eb:hover {
+.categoryItem__0608f.selectedCategoryItem__0bf4c .itemInner_eedb2b,.reactionDefault_de3361:hover,.voteDefault__164eb:hover {
 	background-color: rgba(0,0,0,.25);
 }
 
@@ -7056,7 +7056,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-color: rgba(0,0,0,0);
 }
 
-.messageContentWrapper-3jcFO8 {
+.messageContentWrapper__34c64 {
 	background: var(--backgroundDarker-alt);
 }
 
@@ -7076,7 +7076,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border: 1px solid var(--backgroundDarker)
 }
 
-.toast-3y2zEK:hover .messageContentWrapper-3jcFO8,.icon-3w2lZV,.noiseCancellationPopout-2-e5Xz {
+.toast__4a149:hover .messageContentWrapper__34c64,.icon-3w2lZV,.noiseCancellationPopout-2-e5Xz {
 	background: var(--backgroundDark);
 }
 
@@ -7163,7 +7163,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	margin-left: 10px;
 }
 
-.checklistIcon-1yzbgj path[fill="var(--brand-500)"],.inputCheckmark-3VSaJB path[fill="var(--brand-500)"],.theme-dark .combo__57290 .key__6a8d9 .bindArrow_f664a0 g{
+.checklistIcon-1yzbgj path[fill="var(--brand-500)"],.inputCheckmark-3VSaJB path[fill="var(--brand-500)"],.theme-dark .combo__57290 .key__6a8d9 .bindArrow__98f6f g{
 	fill: var(--backgroundDark);
 } 
 
@@ -7545,7 +7545,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	display: none;
 }
 
-.darkIcon__6e4cd,.theme-dark .popoutList-2oR8Im {
+.darkIcon__6e4cd,.theme-dark .popoutList__292da {
 	background: var(--backgroundDark);
 }
 
@@ -7635,7 +7635,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	width: 100%;
 }
 
-.content-2zmthk .tag__69d9d .avatar__991e2,.wrapper__3ed10[style*="width: 16px"] .avatar__991e2,.messageContentWrapper-3jcFO8,.theme-dark .qwert-toast-avatar,.tierImage-28AAQO{
+.content-2zmthk .tag__69d9d .avatar__991e2,.wrapper__3ed10[style*="width: 16px"] .avatar__991e2,.messageContentWrapper__34c64,.theme-dark .qwert-toast-avatar,.tierImage-28AAQO{
 	border-radius: 5px;
 }
 
@@ -7769,7 +7769,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	font-weight: 800;
 }
 
-.messageContentWrapper-3jcFO8 {
+.messageContentWrapper__34c64 {
 	box-shadow: none;
 }
 
@@ -8483,7 +8483,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-color: #00b0f4!important;
 }
 
-.descriptionInput_d3c1ae,.input_f27786.noBorder-1XR_5c,.input_f27786.noBorder-2_1CEs,.noBorder_bf418d,.clipTitleInput_f80ecf,.input__0d4ac {
+.descriptionInput_d3c1ae,.input_e652e6,.input_f27786.noBorder-1XR_5c,.input_f27786.noBorder-2_1CEs,.noBorder_bf418d,.clipTitleInput_f80ecf,.input__0d4ac {
 	border: none!important;
 }
 
@@ -10407,7 +10407,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	background-color: rgba(0,0,0,.25);
 }
 
-.roleChiplet_b47a73,.permissionChiplet__7a040,.elevatedPermission_af9178,.row__3fe26.selected__75860 .rowInner_feb94d {
+.guildsError-2gzNaD,.guildIconUnavailable-1NjeTR,.roleChiplet_b47a73,.permissionChiplet__7a040,.elevatedPermission_af9178,.row__3fe26.selected__75860 .rowInner_feb94d {
 	background-color: rgba(0,0,0,.5);
 }
 
@@ -10485,7 +10485,7 @@ img.avatar-2LpRdK,.avatar-rC0Atp,.avatar-3oyRO6,.avatar-9c8Ckk,.avatar-3d-XAh,.a
 	border-right-color: var(--backgroundDarker);
 }
 
-.header_e5d8b2,.container_ad6d5c,.footer__25bb8,.videoWrapper__530de,.container__09428,.container__3d776,.container__79284,.marker_ec77a6,.container_bc0d2b,.preview_c16c3b,.upsellWrapper_d04266,.strangerDangerBanner__2bd4d,.theme-dark .addGamePopout__61649,.scroller__439a2,.header__55964,.wrapper_b1db9d,.container__0810b,.container_d4b118,.container_f93da8,.container_c344de {
+.wrapper__81567,.header_e5d8b2,.container_ad6d5c,.footer__25bb8,.videoWrapper__530de,.container__09428,.container__3d776,.container__79284,.marker_ec77a6,.container_bc0d2b,.preview_c16c3b,.upsellWrapper_d04266,.strangerDangerBanner__2bd4d,.theme-dark .addGamePopout__61649,.scroller__439a2,.header__55964,.wrapper_b1db9d,.container__0810b,.container_d4b118,.container_f93da8,.container_c344de {
 	background-color: var(--backgroundDark);
 }
 
@@ -10987,4 +10987,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .mockInput_d3257e {
 	border-radius: 5px;
+}
+
+.avatar__52a9b {
+	border-radius: 5px;
+	box-shadow: none;
 }
