@@ -11074,13 +11074,6 @@ p.body-1V700N,
 	height: 10px;
 }
 
-.roleWrapper-2IhvNd .roleRemoveIcon_c3913a,
-.overflowRolesPopout-1Puiuq .roleRemoveIcon_c3913a,
-.roleRemoveIcon_c3913a {
-	margin: -4px 0 0 -7px;
-	;
-}
-
 .rolePill__01038 {
 	padding: 4px;
 	height: 22px;
@@ -11272,13 +11265,19 @@ p.body-1V700N,
 }
 
 .userPopoutOuter_d67f56 .role_d81130 .roleRemoveIcon_c3913a {
-	margin: 0;
+	margin: 0 0 0 -4px;
 	left: unset;
 	transform: translate(50%, -50%);
 }
 
+.roleWrapper-2IhvNd .roleRemoveIcon_c3913a,
+.overflowRolesPopout-1Puiuq .roleRemoveIcon_c3913a,
+.roleRemoveIcon_c3913a {
+	margin: -4px 0 0 -4px;
+}
+
 .userPopoutOuter_d67f56 .role_d81130 .roleRemoveButton__20c70 {
-	position: static
+	position: static;
 }
 
 .userPopoutOuter_d67f56 .role_d81130 .roleCircle__61ad8:not(.perm-circle):before {
@@ -11304,10 +11303,6 @@ p.body-1V700N,
 
 .confirmInviteScroller__879ef {
 	margin-right: -14px;
-}
-
-.userPopoutOuter_d67f56 .role_d81130 .roleRemoveIcon_c3913a {
-	margin-left: -3px;
 }
 
 .guildIcon-2xKEtM[style*="font-size: 10px;"],
