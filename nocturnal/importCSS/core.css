@@ -15048,7 +15048,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .topRow_b0479e[style*="43, 45, 49, 0.8"],
 .bottomRowAction_b95fd7[style*="43, 45, 49, 0.8"],
 .header_aacd9b[style*="43, 45, 49, 0.8"],
-.container__532be[style*="43, 45, 49, 0.8"] {
+.container__532be[style*="43, 45, 49, 0.8"],
+.bottomRowActionDisabled__08659 .innerBottomRowAction__8a3df {
 	background-color: #14171fcc !important;
 }
 
