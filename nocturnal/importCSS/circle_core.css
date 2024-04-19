@@ -8246,8 +8246,8 @@ button.button_ae40a4.enabled__214db:hover {
 	background: none;
 }
 
-.suggestedColor__34249 {
-	border: none
+.suggestedColor__713b5 {
+	border: none;
 }
 
 .chat-1rZYgu .base__06abc {
@@ -11162,8 +11162,8 @@ p.body-1V700N,
 	-webkit-mask: none;
 	mask: none;
 	fill: none;
-	rx: 5;
-	ry: 5;
+	rx: 50;
+	ry: 50;
 	stroke: #666;
 	stroke-width: 2px;
 }
@@ -11328,8 +11328,8 @@ p.body-1V700N,
 	-webkit-mask: none;
 	mask: none;
 	fill: none;
-	rx: 8;
-	ry: 8;
+	rx: 50;
+	ry: 50;
 	stroke-width: 2px;
 	stroke: #666;
 }
@@ -14064,8 +14064,8 @@ path[stroke="rgb(123,162,255)"] {
 	-webkit-mask: none;
 	mask: none;
 	fill: none;
-	rx: 8;
-	ry: 8;
+	rx: 50;
+	ry: 50;
 	stroke-width: 2px;
 	stroke: #666;
 }
