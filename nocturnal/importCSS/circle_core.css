@@ -7977,12 +7977,8 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.tagRoleColor-1rZDyG {
-	border-radius: 2.5px
-}
-
 .role__9690d {
-	border-radius: 5px;
+	border-radius: 11px;
 }
 
 .avatarUploaderDisabled-1ewBlI {
@@ -13478,10 +13474,6 @@ path[stroke="rgb(123,162,255)"] {
 	padding-right: 0 !important;
 }
 
-.roleColor__39d25 {
-	border-radius: 2.5px;
-}
-
 .listingRoleRow_f5cf54 {
 	font-size: 12px;
 	font-weight: 500;
@@ -14930,7 +14922,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .newBadge_ed88c7,
 .optionNewBadge__83cf5,
 .newBadge__0d020,
-.titleBadge__9f72c {
+.titleBadge__9f72c,
+.newBadge__93a46 {
 	color: rgb(0, 119, 167);
 }
 
