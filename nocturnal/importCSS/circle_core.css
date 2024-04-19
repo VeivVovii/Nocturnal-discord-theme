@@ -10148,7 +10148,7 @@ img.avatar-2LpRdK,
 
 .userListOverflow-1suxEu {
 	background-color: rgba(0, 0, 0, 0);
-	padding: 0
+	padding: 0;
 }
 
 .card-3x20HF .conversationMessage-hy6ISK .applicationName-19i3lP.clickable_d866f1:hover,
@@ -15106,7 +15106,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .wrapper__45980.list_c7a995 .scroller_ac6d1c,
 .builtInSeparator__3f669 {
-	margin-right: -6px;
+	padding-left: 6px;
 }
 
 .avatars__52387 {
