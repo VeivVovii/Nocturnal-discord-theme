@@ -12289,6 +12289,7 @@ path[stroke="rgb(123,162,255)"] {
 .guildIcon_ca993e foreignObject,
 .iconMask_e08089 foreignObject,
 .svg_bb7847 foreignObject[mask="url(#svg-mask-status-screenshare)"],
+.svg_bb7847 foreignObject[mask="url(#svg-diagonal-facepile-back-avatar-cutout)"],
 .mask__8ba21 foreignObject,
 .avatarDecorationHint__04b99 foreignObject,
 .bd-who-reacted__reactors:not(:empty) foreignObject {
@@ -15185,14 +15186,12 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	background-color: #23a55926;
 }
 
-.headerImage_d6594e,
 .mockInput_d3257e,
-.avatar__0d465 {
+.layout__59abc {
 	border-radius: 5px;
 }
 
 .avatar__52a9b {
-	border-radius: 5px;
 	box-shadow: none;
 }
 
