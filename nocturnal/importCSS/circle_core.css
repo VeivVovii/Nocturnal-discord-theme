@@ -2047,7 +2047,7 @@ svg[name=Nova_Discord] * {
 
 .colorable__4f530.green_a14a3a {
 	background-color: rgba(10, 12, 16) !important;
-	border-radius: 5px !important;
+	border-radius: 100% !important;
 }
 
 #bd-settingspane-container .bd-pfbtn:hover,
@@ -3671,7 +3671,7 @@ input.da-input:focus,
 
 .centerButton__8316e {
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 100%;
 }
 
 .friendsTable-133bsv .friendsTableBody-1ZhKif,
@@ -8778,7 +8778,7 @@ svg.gameIcon_fc710a rect,
 }
 
 .userProfileInner-3F03PX {
-	border-radius: 5px 5px 0 0
+	border-radius: 5px 5px 0 0;
 }
 
 .avatarUploaderInner-1dBiHs,
@@ -10203,7 +10203,7 @@ img.avatar-2LpRdK,
 .colorable__4f530.red__45e65 {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid #f04747 !important;
-	border-radius: 6px !important;
+	border-radius: 100% !important;
 	color: #fff !important;
 }
 
@@ -13465,10 +13465,6 @@ path[stroke="rgb(123,162,255)"] {
 
 .preview-3-T_xC:after {
 	background: linear-gradient(#14171f, rgba(0, 0, 0, 0) 84px, rgba(0, 0, 0, 0) 183px, #14171f);
-}
-
-.contextMenuContainer__7fb37 foreignObject:has(.staticButton_e090bc.centerButton__8316e.colorable__4f530.green_a14a3a.button__581d0.lookBlank_a5b4ca.colorBrand__27d57) {
-	padding-top: 0;
 }
 
 .contextMenuNub_bea150.colorable__4f530.green_a14a3a {
