@@ -8058,7 +8058,7 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .roleFlowerStar_b2d3a1[style*="width: 14px; height: 14px;"],
-.userProfileInnerThemedWithBanner_d5f991 .roleFlowerStar_b2d3a1[style*="width: 14px; height: 14px;"] {
+.userProfileInnerThemedWithBanner_e9e7c5 .roleFlowerStar_b2d3a1[style*="width: 14px; height: 14px;"] {
 	margin-top: auto;
 	margin-bottom: auto;
 }
@@ -8818,8 +8818,8 @@ svg.gameIcon_fc710a rect,
 
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .avatarWrapper__0cd44,
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .avatar__445f3,
-.userProfileInnerThemedWithBanner_d5f991 .avatarWrapper__0cd44,
-.userProfileInnerThemedWithBanner_d5f991 .avatar__445f3,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatarWrapper__0cd44,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatar__445f3,
 .userProfileOuterThemed__6eb84 .avatarWrapper__0cd44 {
 	border: 7px solid var(--profile-avatar-border-color);
 	background-color: var(--profile-avatar-border-color);
@@ -12586,7 +12586,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .profileAvatar-25nnes,
-.userProfileInnerThemedWithBanner_d5f991 .profileAvatar-25nnes {
+.userProfileInnerThemedWithBanner_e9e7c5 .profileAvatar-25nnes {
 	background-color: var(--profile-avatar-border-color);
 	border-color: var(--profile-avatar-border-color);
 }
@@ -13234,7 +13234,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .container_b4feaa,
-.theme-dark .notDetected__2a0c9,
+.theme-dark .notDetected__14b92,
 .cameraWrapper_d3535e,
 .iconUpload_c65476 {
 	background-color: rgba(0, 0, 0, .3);
@@ -13653,9 +13653,9 @@ path[stroke="rgb(123,162,255)"] {
 	font-size: 18px !important;
 }
 
-.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
-.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.actionColor_db400e,
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.actionColor_db400e:not(:disabled) {
 	color: #060607 !important;
 }
@@ -14440,17 +14440,17 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgba(0, 0, 0, .65);
 }
 
-.userProfileInnerThemedWithBanner_d5f991 .menu__088f7,
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__088f7,
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__088f7 {
 	background: var(--profile-gradient-primary-color);
 }
 
-.userProfileInnerThemedWithBanner_d5f991 .divider__07b2a,
+.userProfileInnerThemedWithBanner_e9e7c5 .divider__07b2a,
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .divider__07b2a,
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
-.userProfileInnerThemedWithBanner_d5f991 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
 .userProfileInnerThemedPremiumWithoutBanner__703b1 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__2790e),
-.userProfileInnerThemedWithBanner_d5f991 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__2790e) {
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__2790e) {
 	background: var(--profile-gradient-secondary-color);
 }
 
@@ -15153,7 +15153,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 }
 
 .chat__52833 .theme-light .userProfileOuterThemed__6eb84 .buttonColor_fd4fe8,
-.theme-light .userProfileInnerThemedWithBanner_d5f991 .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner__703b1 .lookFilled__950dd.buttonColor_fd4fe8 {
 	color: #060607 !important;
 }
