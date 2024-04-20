@@ -5234,11 +5234,6 @@ button.button_ae40a4.enabled__214db:hover {
 	padding: 4px 8px;
 }
 
-.wrapper_e05ed7.ringingIncoming__5029e:after,
-.wrapper_e05ed7.ringingOutgoing_a88a21:after {
-	border-radius: 12px;
-}
-
 .bar-AokMp3 {
 	background-color: rgba(0, 0, 0, .2);
 }
@@ -5777,7 +5772,7 @@ button.button_ae40a4.enabled__214db:hover {
 .avatar__445f3 {
 	border-color: var(--backgroundDarker);
 	background-color: var(--backgroundDarker);
-	border-radius: 12px;
+	border-radius: 100%;
 }
 
 .loadingPopout__5e2fa {
@@ -8546,7 +8541,7 @@ html.theme-light .app-2CXKsg::after {
 
 .avatar__6c108 {
 	background-color: rgba(0, 0, 0, 0);
-	border-radius: 12px;
+	border-radius: 100%;
 	top: 0;
 }
 
@@ -9299,7 +9294,7 @@ img.avatar-2LpRdK,
 .profileAvatar-25nnes {
 	background-color: var(--backgroundDark);
 	border: 7px solid var(--backgroundDark);
-	border-radius: 12px;
+	border-radius: 100%;
 }
 
 .avatarUploader__1f1a2 {
@@ -10105,7 +10100,7 @@ img.avatar-2LpRdK,
 .icon-2O29O0,
 .avatar-2I9tp7,
 .avatar-30VHqO {
-	border-radius: 12px;
+	border-radius: 100%;
 }
 
 .disabledButtonWrapper-1m0hYZ .colorable__4f530.white_ce1c7b,
@@ -10340,7 +10335,6 @@ img.avatar-2LpRdK,
 	filter: drop-shadow(0 0 0 var(--backgroundDark)) drop-shadow(var(--elevation-high)) !important
 }
 
-.avatarBorder_d374d6,
 .popout-2vZMlk {
 	border-radius: 8px;
 }
@@ -12608,7 +12602,6 @@ path[stroke="rgb(123,162,255)"] {
 .innerWrapper_cfb768,
 .innerWrapper__8cde3 {
 	background-color: var(--backgroundDark);
-	border-radius: 30px;
 	padding-right: 13px;
 }
 
@@ -13738,7 +13731,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .avatarPair-3jkivn {
-	border-radius: 12px;
+	border-radius: 100%;
 }
 
 .content-amkrxY,
@@ -13976,7 +13969,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .innerWrapper-Eo2E86 {
 	background-color: var(--backgroundDark);
-	border-radius: 12px;
+	border-radius: 30px;
 }
 
 .firstMessageContent-3JQSLV,
@@ -14516,10 +14509,6 @@ path[stroke="rgb(123,162,255)"] {
 	contain: none;
 }
 
-.avatar_f52a16 {
-	border-radius: 8px;
-}
-
 .userProfileInnerThemedNonPremium_b64fb4 .textBadge_f05120[style*="32, 34, 37, 0.8"],
 .base__92a12[style*="background-accent"],
 .base__92a12[style*="brand-500"],
@@ -14755,7 +14744,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .avatarPositionPomelo__7bdad {
 	border-color: var(--backgroundDark);
-	border-radius: 12px;
+	border-radius: 100%;
 	border-style: solid;
 	border-width: 7px;
 	top: 36px;
@@ -14945,7 +14934,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 }
 
 .avatarHoverTarget__9b4a9 {
-	border-radius: 16px;
+	border-radius: 100%;
 }
 
 .topRow_b0479e[style*="43, 45, 49, 0.8"],
@@ -15224,6 +15213,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	padding-right: 20px !important;
 }
 
+.avatarBorder_d374d6,
 .iconActiveMini__5a6de,
 .iconActiveMedium__24185,
 .guildCardHeaderAvatar_c2e74d,
@@ -15231,7 +15221,11 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .icon__3fbb1,
 .icon__20c60,
 .image__9143d,
-.iconActiveLarge__21948 {
+.iconActiveLarge__21948,
+.headerImage_d6594e,
+.avatar__0d465,
+.avatar__52a9b,
+.avatar_f52a16 {
 	border-radius: 100% !important;
 }
 
