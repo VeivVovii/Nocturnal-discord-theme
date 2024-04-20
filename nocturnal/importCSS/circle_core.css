@@ -4114,7 +4114,8 @@ input.da-input:focus,
 }
 
 .contextMenuNub_bea150 {
-	right: 4px;
+	bottom: 4px;
+	right: 8px;
 }
 
 .link_ddbb36 {
@@ -14848,7 +14849,6 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 }
 
 .iconWrapper_fda12f,
-.guildIcon_ed1ab4,
 .avatar__50f54 {
 	border-radius: 100%;
 	background-color: rgba(0, 0, 0, 0);
@@ -15242,4 +15242,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 {
 	background: var(--backgroundDark);
+}
+
+.guildIcon_ed1ab4 {
+	border-radius: 100%;
+	background-color: rgba(0,0,0,.5);
 }
