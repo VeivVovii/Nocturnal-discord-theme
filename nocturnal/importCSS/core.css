@@ -12351,6 +12351,7 @@ path[stroke="rgb(123,162,255)"] {
 .guildIcon_ca993e foreignObject,
 .iconMask_e08089 foreignObject,
 .svg_bb7847 foreignObject[mask="url(#svg-mask-status-screenshare)"],
+.svg_bb7847 foreignObject[mask="url(#svg-diagonal-facepile-back-avatar-cutout)"],
 .mask__8ba21 foreignObject,
 .avatarDecorationHint__04b99 foreignObject,
 .bd-who-reacted__reactors:not(:empty) foreignObject {
@@ -14720,7 +14721,8 @@ path[stroke="rgb(123,162,255)"] {
 .avatar_c551f0,
 .listingImage__35ae7,
 .icon_f1e244,
-.icon_e355a1 {
+.icon_e355a1,
+.circularImage_c5ad0a {
 	border-radius: 8px;
 }
 
@@ -15297,7 +15299,6 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .headerImage_d6594e,
 .mockInput_d3257e,
 .avatar__0d465,
-.circularImage_c5ad0a,
 .layout__59abc {
 	border-radius: 5px;
 }
