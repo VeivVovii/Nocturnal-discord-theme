@@ -8831,7 +8831,7 @@ svg.gameIcon_fc710a rect,
 }
 
 .userProfileInner-3F03PX {
-	border-radius: 5px 5px 0 0
+	border-radius: 5px 5px 0 0;
 }
 
 .avatarUploaderInner-1dBiHs,
@@ -13535,10 +13535,6 @@ path[stroke="rgb(123,162,255)"] {
 	background: linear-gradient(#14171f, rgba(0, 0, 0, 0) 84px, rgba(0, 0, 0, 0) 183px, #14171f);
 }
 
-.contextMenuContainer__7fb37 foreignObject:has(.staticButton_e090bc.centerButton__8316e.colorable__4f530.green_a14a3a.button__581d0.lookBlank_a5b4ca.colorBrand__27d57) {
-	padding-top: 0;
-}
-
 .contextMenuNub_bea150.colorable__4f530.green_a14a3a {
 	right: 0;
 }
@@ -15349,4 +15345,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 {
 	background: var(--backgroundDark);
+}
+
+.guildIcon_ed1ab4 {
+	background-color: rgba(0,0,0,.5);
 }
