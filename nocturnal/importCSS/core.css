@@ -1837,7 +1837,7 @@ div[data-contents="true"] {
 	-webkit-mask: linear-gradient(to bottom, #000, transparent)
 }
 
-.wrapper__53064 {
+.wrapper__53064,.executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c {
 	background-color: rgba(0, 138, 230, 0.302);
 	border-radius: 50px;
 	padding: .5px 5px;
@@ -1845,7 +1845,8 @@ div[data-contents="true"] {
 }
 
 .interactive:hover,
-.interactive[aria-expanded=true] {
+.interactive[aria-expanded=true],
+.executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c:hover {
 	background-color: var(--primary);
 	color: #fff;
 }
@@ -8382,6 +8383,7 @@ button.button_ae40a4.enabled__214db:hover {
 .theme-dark .card__86773:hover .iconMask__4092e,
 .theme-dark .iconMask__4092e:hover .iconMask__4092e.container-_dQaft,
 .tooltip_a70a03,
+.tooltip_e6800d,
 .tooltip-1T4pLi,
 .languageSelector_a1c2f3,
 .container-1jQZ2U,
