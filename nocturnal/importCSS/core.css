@@ -12688,7 +12688,7 @@ path[stroke="rgb(123,162,255)"] {
 .row-SlarYC,
 .row_ae2bf5,
 .row_a6aa92,
-.avatarPair-3jkivn,
+.avatarPair_e0be76,
 .infoIcon_d988ce,
 .noticeRoot-dNwFD-,
 .heroContainer-1a0uBW,
@@ -13807,7 +13807,7 @@ path[stroke="rgb(123,162,255)"] {
 	padding: 10px;
 }
 
-.avatarPair-3jkivn {
+.avatarPair_e0be76 {
 	border-radius: 12px;
 }
 
@@ -13825,7 +13825,8 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: var(--backgroundDarker);
 }
 
-.background__097ec {
+.background__097ec,
+.background_cc41fb {
 	padding: 10px;
 }
 
