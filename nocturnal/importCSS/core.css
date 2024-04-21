@@ -9614,7 +9614,8 @@ img.avatar-2LpRdK,
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab {
+.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab,
+.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .profileBadges__1f2ab {
 	background-color: rgba(0, 0, 0, .15);
 }
 
