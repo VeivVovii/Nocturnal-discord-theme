@@ -12728,7 +12728,7 @@ path[stroke="rgb(123,162,255)"] {
 .container_b2edfc,
 .contentMediaContainer-2z3HvU,
 .headerRow-WfvfLv,
-.previewRoot-3sYB8d,
+.previewRoot__64f02,
 .thumbnailContainer_eee57a,
 .container-12-eoM,
 .mediaMosaicAltTextPopout__8133e,
@@ -13464,12 +13464,13 @@ path[stroke="rgb(123,162,255)"] {
 	color: var(--primary);
 }
 
-.preview-3-T_xC:after {
+.preview_dfbc67:after {
 	background: linear-gradient(#14171f, rgba(0, 0, 0, 0) 84px, rgba(0, 0, 0, 0) 183px, #14171f);
 }
 
 .contextMenuNub_bea150.colorable__4f530.green_a14a3a {
 	right: 0;
+	bottom: 4px;
 }
 
 .content_b28aab.modalContent-GdtQ2b {
