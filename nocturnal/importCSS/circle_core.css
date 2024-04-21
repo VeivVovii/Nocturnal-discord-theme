@@ -8640,7 +8640,8 @@ html.theme-light .app-2CXKsg::after {
 	border-top: 1px solid rgba(0, 0, 0, .95)
 }
 
-.userProfileInnerThemedNonPremium_b64fb4 .badgeList__126b0 {
+.userProfileInnerThemedNonPremium_b64fb4 .badgeList__126b0,
+.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .badgeList__126b0 {
 	background-color: rgba(0, 0, 0, .15) !important;
 }
 
@@ -9555,7 +9556,8 @@ img.avatar-2LpRdK,
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab {
+.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab,
+.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .profileBadges__1f2ab {
 	background-color: rgba(0, 0, 0, .15);
 }
 
