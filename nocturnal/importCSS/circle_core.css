@@ -10204,7 +10204,7 @@ img.avatar-2LpRdK,
 .colorable__4f530.red__45e65 {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid #f04747 !important;
-	border-radius: 100% !important;
+	border-radius: 6px !important;
 	color: #fff !important;
 }
 
@@ -12621,7 +12621,7 @@ path[stroke="rgb(123,162,255)"] {
 .row-SlarYC,
 .row_ae2bf5,
 .row_a6aa92,
-.avatarPair-3jkivn,
+.avatarPair_e0be76,
 .infoIcon_d988ce,
 .noticeRoot-dNwFD-,
 .heroContainer-1a0uBW,
@@ -13730,13 +13730,14 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .content-_jJiyL,
-.content-2ntIWd {
+.content-2ntIWd,
+.content_e42f62 {
 	background-color: rgba(0, 0, 0, .2);
 	padding: 10px;
 }
 
-.avatarPair-3jkivn {
-	border-radius: 100%;
+.avatarPair_e0be76 {
+	border-radius: 50px;
 }
 
 .content-amkrxY,
@@ -13753,7 +13754,8 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: var(--backgroundDarker);
 }
 
-.background__097ec {
+.background__097ec,
+.background_cc41fb {
 	padding: 10px;
 }
 
