@@ -15237,7 +15237,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-radius: 100% !important;
 }
 
-.permissionChiplet_b69b5f {
+.permissionChiplet_b69b5f,
+.theme-dark .otherRoles__479b5,
+.otherRoles_e625c8 {
 	border-radius: 11px;
 }
 
