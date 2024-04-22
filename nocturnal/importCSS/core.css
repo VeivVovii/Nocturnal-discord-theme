@@ -7151,10 +7151,6 @@ button.button_ae40a4.enabled__214db:hover {
 	border-right: 1px solid rgba(1, 1, 1, 0.25);
 }
 
-.theme-dark .icon-3WykwX {
-	fill: #f04747
-}
-
 .bd-settings-title::before,
 .valuePropIconContainer-1WLjVd {
 	background-color: rgba(0, 0, 0, .55)
@@ -8723,14 +8719,6 @@ html.theme-light .app-2CXKsg::after {
 	border: 2px solid var(--primaryGradient2)
 }
 
-.checkmarkIcon-21vhV_ {
-	color: #43b581
-}
-
-.closeIcon-3aZ-RA {
-	color: #f04747
-}
-
 .selectedIcon-19TbzU,
 .selectedIcon_e9ecc2 {
 	color: var(--primary);
@@ -10079,15 +10067,10 @@ img.avatar-2LpRdK,
 
 .rolePill__01038>div:first-of-type>span,
 .roleCircle__61ad8,
+.roleCircle_dfcfea,
 .roleFlowerStar_b2d3a1 {
 	width: 12px;
 	height: 12px;
-}
-
-.blockedEdit-2qH_c0,
-.blockedSend-WwVhh4,
-.shieldIcon-2QHlhC {
-	color: #f04747
 }
 
 .icon-QrJiDO,
@@ -11535,14 +11518,6 @@ p.body-1V700N,
 .tierCardBoostRequirement-1ZQXbZ,
 .coverTitle-3P7PX4 {
 	opacity: unset;
-}
-
-.booleanValueIcon-3kX6on {
-	color: #f04747;
-}
-
-.booleanValueTrue-38Qp2L {
-	color: #43b581;
 }
 
 .colorDefault_e361cf.focused_dcafb9[id="account-status-picker--online"]:not(.hideInteraction__2790e),
