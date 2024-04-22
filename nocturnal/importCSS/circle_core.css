@@ -11214,7 +11214,7 @@ p.body-1V700N,
 }
 
 .userPopoutOuter_d67f56 .role_d81130 .roleRemoveIcon_c3913a {
-	margin: 0 0 0 -4px;
+	margin: 0 0 0 -3.5px;
 	left: unset;
 	transform: translate(50%, -50%);
 }
@@ -15236,7 +15236,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .headerImage_d6594e,
 .avatar__0d465,
 .avatar__52a9b,
-.avatar_f52a16 {
+.avatar_f52a16,
+.iconActiveXLarge_e200c8 {
 	border-radius: 100% !important;
 }
 
@@ -15261,4 +15262,12 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .theme-dark .modalRoot_fd0f28.root_a28985 {
 	box-shadow: none!important;
+}
+
+.headerArt__1cd19 {
+	border-radius: 0 0 5px 5px;
+}
+
+.headerArtWrapper__31b51 {
+	border-radius: 5px;
 }
