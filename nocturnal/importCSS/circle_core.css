@@ -7105,7 +7105,6 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .container__852f7,
-.icon-1zKOXL.guildIcon-2xKEtM,
 .loadingCard_a6aa0a {
 	border-radius: 5px;
 }
@@ -7120,10 +7119,6 @@ button.button_ae40a4.enabled__214db:hover {
 
 .sidebar__37984 {
 	border-right: 1px solid rgba(1, 1, 1, 0.25);
-}
-
-.theme-dark .icon-3WykwX {
-	fill: #f04747
 }
 
 .bd-settings-title::before,
@@ -8655,14 +8650,6 @@ html.theme-light .app-2CXKsg::after {
 	border: 2px solid var(--primaryGradient2)
 }
 
-.checkmarkIcon-21vhV_ {
-	color: #43b581
-}
-
-.closeIcon-3aZ-RA {
-	color: #f04747
-}
-
 .selectedIcon-19TbzU,
 .selectedIcon_e9ecc2 {
 	color: var(--primary);
@@ -9212,10 +9199,6 @@ img.avatar-2LpRdK,
 .message__74248 img[alt] {
 	border: 2px solid var(--chat-avatar-border-color);
 	border-radius: 50px;
-}
-
-.shield__647b6 {
-	border-radius: 5px !important;
 }
 
 .colorBrand__27d57:disabled.button-qNMA0V:hover {
@@ -10008,12 +9991,6 @@ img.avatar-2LpRdK,
 .roleFlowerStar_b2d3a1 {
 	width: 12px;
 	height: 12px;
-}
-
-.blockedEdit-2qH_c0,
-.blockedSend-WwVhh4,
-.shieldIcon-2QHlhC {
-	color: #f04747
 }
 
 .icon-QrJiDO,
@@ -11456,14 +11433,6 @@ p.body-1V700N,
 .tierCardBoostRequirement-1ZQXbZ,
 .coverTitle-3P7PX4 {
 	opacity: unset;
-}
-
-.booleanValueIcon-3kX6on {
-	color: #f04747;
-}
-
-.booleanValueTrue-38Qp2L {
-	color: #43b581;
 }
 
 .colorDefault_e361cf.focused_dcafb9[id="account-status-picker--online"]:not(.hideInteraction__2790e),
