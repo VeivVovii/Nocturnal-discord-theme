@@ -7826,12 +7826,13 @@ button.button_ae40a4.enabled__214db:hover {
 .cursorPointer-2Pf_Hr:active,
 .cursorPointer-3JF56F:active,
 .container__7e23c .avatar-3TrM7c:active,
-.pointer-1j0yEs:active:not(.partyAvatar-bX2-bv, .avatar-3Jh3en, .creator-3Ep8le),
+.pointer_b85896:active:not(.partyAvatar__7840d, .avatar-3Jh3en, .creator-3Ep8le),
 .avatar_a56eee:active,
 .chatContent_f087cb .replyAvatar__4ba85:active,
 .chatContent_f087cb .executedCommandAvatar_cfc856:active,
 .chatContent_f087cb .threadMessageAccessoryAvatar__27333:active,
-.avatar-rC0Atp:active {
+.avatar-rC0Atp:active,
+.avatar__777a6:active {
 	transform: translateY(1px);
 }
 
@@ -10632,11 +10633,7 @@ p.body-1V700N,
 	width: 100%;
 }
 
-.content-2zmthk .tag__69d9d .avatar__991e2,
-.wrapper__3ed10[style*="width: 16px"] .avatar__991e2,
-.messageContentWrapper__34c64,
-.theme-dark .qwert-toast-avatar,
-.tierImage-28AAQO {
+.messageContentWrapper__34c64 {
 	border-radius: 5px;
 }
 
@@ -11791,13 +11788,13 @@ p.body-1V700N,
 
 .sessionIcon-2fwSzb,
 .tag-ijGVSm,
-.playButton__9ff75,
+.playButton__89242,
 .playButton_c887ed {
 	background-color: rgba(0, 0, 0, .3);
 	color: #fff;
 }
 
-.playButton__9ff75:hover,
+.playButton__89242:hover,
 .playButton_c887ed:hover {
 	background-color: rgba(0, 0, 0, .6);
 }
