@@ -10078,7 +10078,7 @@ img.avatar-2LpRdK,
 
 .rolePill__01038>div:first-of-type>span,
 .roleCircle__61ad8,
-.roleCircle_dfcfea {
+.roleFlowerStar_b2d3a1 {
 	width: 12px;
 	height: 12px;
 }
@@ -11274,7 +11274,7 @@ p.body-1V700N,
 }
 
 .userPopoutOuter_d67f56 .role_d81130 .roleRemoveIcon_c3913a {
-	margin: 0 0 0 -4px;
+	margin: 0 0 0 -3.5px;
 	left: unset;
 	transform: translate(50%, -50%);
 }
@@ -11283,7 +11283,8 @@ p.body-1V700N,
 	position: static;
 }
 
-.userPopoutOuter_d67f56 .role_d81130 .roleCircle__61ad8:not(.perm-circle):before {
+.userPopoutOuter_d67f56 .role_d81130 .roleCircle__61ad8:not(.perm-circle),
+.userPopoutOuter_d67f56 .role_d81130 .roleFlowerStar_b2d3a1 {
 	content: '';
 	top: 0;
 	left: 0;
@@ -11313,7 +11314,8 @@ p.body-1V700N,
 	font-size: 11px !important;
 }
 
-.userPopoutOuter_d67f56 .role_d81130 .roleCircle__61ad8:not(.perm-circle) {
+.userPopoutOuter_d67f56 .role_d81130 .roleCircle__61ad8:not(.perm-circle),
+.userPopoutOuter_d67f56 .role_d81130 .roleFlowerStar_b2d3a1 {
 	margin-left: 0.5px;
 }
 
@@ -15361,4 +15363,18 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .theme-dark .modalRoot_fd0f28.root_a28985 {
 	box-shadow: none!important;
+}
+
+.headerArt__1cd19 {
+	border-radius: 0 0 5px 5px;
+}
+
+.roleFlowerStar_b2d3a1 {
+	width: 12px!important;
+	height: 12px!important;
+}
+
+.linkIcon__8c0b3 {
+	width: 8px;
+	height: 8px;
 }
