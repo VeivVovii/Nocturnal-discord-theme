@@ -13973,7 +13973,7 @@ path[stroke="rgb(123,162,255)"] {
 	margin-right: 10px;
 }
 
-.theme-dark .row__7a44a {
+.theme-dark .row__7007e {
 	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
 	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
 }
@@ -14583,7 +14583,8 @@ path[stroke="rgb(123,162,255)"] {
 .container__0810b,
 .container_d4b118,
 .container_f93da8,
-.container_c344de {
+.container_c344de,
+.collectibleInfoContainer_a9bb77 {
 	background-color: var(--backgroundDark);
 }
 
@@ -14645,7 +14646,8 @@ path[stroke="rgb(123,162,255)"] {
 .spinner__6ee08,
 .spinner__7d9a2,
 .container_ae7412,
-.theme-dark .subscribersPopout__56ea5 {
+.theme-dark .subscribersPopout__56ea5,
+.recentClipsPopout__663e8 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
