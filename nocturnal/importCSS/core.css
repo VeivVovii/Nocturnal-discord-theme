@@ -3855,14 +3855,14 @@ input.da-input:focus,
 	margin: 2px 4px;
 }
 
-.colorDefault_e361cf.focused_dcafb9:not(.colorDanger__08c25):not(.hideInteraction__2790e),
+.colorDefault_e361cf.focused_dcafb9:not(.colorDanger__08c25):not(.hideInteraction__0b569),
 .customLabelContainer_c30e6a:hover,
 .nagivateBackContainer__953b5:hover,
 .otherDatesContainer_ddd438.focused__63df5 {
 	background: var(--bg-overlay-hover, rgb(0, 0, 0, 0.2));
 }
 
-.colorDefault_e361cf:active:not(.colorDanger__08c25):not(.hideInteraction__2790e),
+.colorDefault_e361cf:active:not(.colorDanger__08c25):not(.hideInteraction__0b569),
 .customLabelContainer_c30e6a:active,
 .nagivateBackContainer__953b5:active,
 .otherDatesContainer_ddd438:active {
@@ -5209,7 +5209,8 @@ button.button_ae40a4.enabled__214db:hover {
 .scroller_d8c41e,
 .container__3e5cc,
 .participants__921a9,
-.rowContainer-jDvyA4 {
+.rowContainer-jDvyA4,
+.rowContainer__05af6 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -7940,7 +7941,7 @@ button.button_ae40a4.enabled__214db:hover {
 
 .typingIndicator-KF8hGa,
 .moreContainer-R0kRGB,
-.audienceIconContainer-1xndyK {
+.audienceIconContainer__625ab {
 	background-color: rgba(0, 0, 0, 0);
 }
 
@@ -11520,23 +11521,23 @@ p.body-1V700N,
 	opacity: unset;
 }
 
-.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--online"]:not(.hideInteraction__2790e),
-.colorDefault_e361cf:active[id="account-status-picker--online"]:not(.hideInteraction__2790e) {
+.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--online"]:not(.hideInteraction__0b569),
+.colorDefault_e361cf:active[id="account-status-picker--online"]:not(.hideInteraction__0b569) {
 	background-color: #43b581 !important;
 }
 
-.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--idle"]:not(.hideInteraction__2790e),
-.colorDefault_e361cf:active[id="account-status-picker--idle"]:not(.hideInteraction__2790e) {
+.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--idle"]:not(.hideInteraction__0b569),
+.colorDefault_e361cf:active[id="account-status-picker--idle"]:not(.hideInteraction__0b569) {
 	background-color: #faa61a !important;
 }
 
-.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--dnd"]:not(.hideInteraction__2790e),
-.colorDefault_e361cf:active[id="account-status-picker--dnd"]:not(.hideInteraction__2790e) {
+.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--dnd"]:not(.hideInteraction__0b569),
+.colorDefault_e361cf:active[id="account-status-picker--dnd"]:not(.hideInteraction__0b569) {
 	background-color: #f04747 !important;
 }
 
-.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--invisible"]:not(.hideInteraction__2790e),
-.colorDefault_e361cf:active[id="account-status-picker--invisible"]:not(.hideInteraction__2790e) {
+.colorDefault_e361cf.focused_dcafb9[id="account-status-picker--invisible"]:not(.hideInteraction__0b569),
+.colorDefault_e361cf:active[id="account-status-picker--invisible"]:not(.hideInteraction__0b569) {
 	background-color: #747f8d !important;
 }
 
@@ -11915,8 +11916,8 @@ path[stroke="rgb(123,162,255)"] {
 	color: #e9eaeb;
 }
 
-.colorPremiumGradient-38tGFG.focused_dcafb9:not(.hideInteraction__2790e),
-.colorPremiumGradient-38tGFG:active:not(.hideInteraction__2790e),
+.colorPremiumGradient-38tGFG.focused_dcafb9:not(.hideInteraction__0b569),
+.colorPremiumGradient-38tGFG:active:not(.hideInteraction__0b569),
 .navButtonSuperReactActive-1WNAEM {
 	background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
@@ -12633,13 +12634,13 @@ path[stroke="rgb(123,162,255)"] {
 	border-top-color: var(--primary);
 }
 
-.colorBrand__9bb0f.colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
-.colorBrand__9bb0f.colorDefault_e361cf:hover:not(.hideInteraction__2790e) {
+.colorBrand__9bb0f.colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__0b569),
+.colorBrand__9bb0f.colorDefault_e361cf:hover:not(.hideInteraction__0b569) {
 	background-color: rgb(60, 193, 235);
 	color: #fff;
 }
 
-.colorBrand__9bb0f.colorDefault_e361cf:active:not(.hideInteraction__2790e) {
+.colorBrand__9bb0f.colorDefault_e361cf:active:not(.hideInteraction__0b569) {
 	background-color: rgb(3, 178, 215);
 	color: #fff;
 }
@@ -14400,7 +14401,8 @@ path[stroke="rgb(123,162,255)"] {
 .container__52a36,
 .icon__89b22,
 .tab_cc2f20,
-.sortDropdown_fe6214 {
+.sortDropdown_fe6214,
+.iconBackground__62649 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -14432,10 +14434,10 @@ path[stroke="rgb(123,162,255)"] {
 
 .userProfileInnerThemedWithBanner_e9e7c5 .divider__07b2a,
 .userProfileInnerThemedPremiumWithoutBanner_ee8277 .divider__07b2a,
-.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
-.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__2790e),
-.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__2790e),
-.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__2790e) {
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__0b569),
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__0b569),
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__0b569),
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__0b569) {
 	background: var(--profile-gradient-secondary-color);
 }
 
@@ -14581,7 +14583,8 @@ path[stroke="rgb(123,162,255)"] {
 .guildSeparator__75928,
 .divider_ec850d,
 .userProfileInnerThemedNonPremium_b64fb4 .divider__07b2a,
-.userProfileInnerThemedNonPremium_b64fb4 .divider__2bbbc {
+.userProfileInnerThemedNonPremium_b64fb4 .divider__2bbbc,
+.separator__8f056 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -14780,7 +14783,8 @@ path[stroke="rgb(123,162,255)"] {
 .scroller_e3927b,
 .scroller__13d83,
 .scroller__4ae44,
-.innerContainer__28ce6 {
+.innerContainer__28ce6,
+.scroller__3c95c {
 	padding-right: 10px !important;
 }
 
