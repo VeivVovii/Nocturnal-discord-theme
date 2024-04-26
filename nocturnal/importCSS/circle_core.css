@@ -14906,7 +14906,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	background-color: #008ae626;
 }
 
-.avatarHoverTarget__9b4a9 {
+.avatarHoverTarget__9b4a9,
+.guildIconContainer__67e62 .guildIcon__4b10c, .dmIconContainer__6900d .guildIcon__4b10c {
 	border-radius: 100%;
 }
 
