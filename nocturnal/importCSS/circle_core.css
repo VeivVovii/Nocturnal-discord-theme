@@ -13565,8 +13565,7 @@ path[stroke="rgb(123,162,255)"] {
 .iconBackground__61963,
 .loadMoreBar__11739,
 .iconLink_b17d7d,
-.tableOptions-3I6pdq .button-3ZhF0u:hover,
-.container_cbd141 {
+.tableOptions-3I6pdq .button-3ZhF0u:hover {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -14581,6 +14580,7 @@ path[stroke="rgb(123,162,255)"] {
 .userCardInput_ee7b8c,
 .spinner_caad3a,
 .badgeList__6b2c7,
+.container_cbd141,
 .card__3135c,
 .container__984a8 {
 	background-color: rgba(0, 0, 0, 0);
