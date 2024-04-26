@@ -14408,7 +14408,8 @@ path[stroke="rgb(123,162,255)"] {
 .tabBar_a013ee,
 .tabContainer__64032,
 .tabBar__97134,
-.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .tabBarContainer_b283be {
+.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .tabBarContainer_b283be,
+.userProfileModalOuter__90b4a[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .divider__7116f {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -15254,4 +15255,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .lottieIcon_c7076c.controlIcon__73723.centerIcon_e3df23 {
 	width: 20px!important;
 	height: 20px!important;
+}
+
+.addButton__6f12b {
+	padding: 4px;
 }
