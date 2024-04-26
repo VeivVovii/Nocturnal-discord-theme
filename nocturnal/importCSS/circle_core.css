@@ -8284,8 +8284,8 @@ button.button_ae40a4.enabled__214db:hover {
 	border-radius: 0 8px 8px 0;
 }
 
-.link__2e8e1[data-list-item-id="public-servers"] .avatar-1HDIsL svg,
-.link__2e8e1[id="public-servers-button"] .avatar-1HDIsL svg {
+.link__3a950[data-list-item-id="public-servers"] .avatar-1HDIsL svg,
+.link__3a950[id="public-servers-button"] .avatar-1HDIsL svg {
 	fill: var(--primary)
 }
 
@@ -11649,8 +11649,8 @@ p.body-1V700N,
 
 .interactive__0786a.selected__37292,
 .interactive__0786a.selected__37292:hover,
-.interactive__0786a.selected__37292 .link__2e8e1,
-.interactive__0786a.selected__37292:hover .link__2e8e1 {
+.interactive__0786a.selected__37292 .link__3a950,
+.interactive__0786a.selected__37292:hover .link__3a950 {
 	cursor: default;
 }
 
@@ -15007,7 +15007,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	-webkit-mask: none;
 }
 
-.chat__52833 .theme-light .userProfileOuterThemed_a425f3 .buttonColor_fd4fe8,
+.chat__52833 .theme-light.userProfileOuterThemed_a425f3 .buttonColor_fd4fe8,
 .theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8 {
 	color: #060607 !important;
