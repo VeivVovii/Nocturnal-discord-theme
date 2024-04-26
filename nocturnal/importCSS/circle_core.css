@@ -8616,7 +8616,8 @@ html.theme-light .app-2CXKsg::after {
 }
 
 .userProfileInnerThemedNonPremium_b64fb4 .badgeList__126b0,
-.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .badgeList__126b0 {
+.userProfileOuterThemed_a425f3[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .badgeList__126b0,
+.userProfileOuterUnthemed__9741c .badgeList__76720 {
 	background-color: rgba(0, 0, 0, .15) !important;
 }
 
