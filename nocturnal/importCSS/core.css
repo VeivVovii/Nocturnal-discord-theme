@@ -14597,7 +14597,14 @@ path[stroke="rgb(123,162,255)"] {
 	contain: none;
 }
 
-.avatar_f52a16 {
+.avatar_f52a16,
+.image__229b6,
+.avatar_c551f0,
+.listingImage__35ae7,
+.icon_f1e244,
+.icon_e355a1,
+.circularImage_c5ad0a,
+.guildIconContainer__67e62 .guildIcon__4b10c, .dmIconContainer__6900d .guildIcon__4b10c {
 	border-radius: 8px;
 }
 
@@ -14711,15 +14718,6 @@ path[stroke="rgb(123,162,255)"] {
 .avatar__8f944,
 .guildIcon__119bb {
 	border-radius: 12px;
-}
-
-.image__229b6,
-.avatar_c551f0,
-.listingImage__35ae7,
-.icon_f1e244,
-.icon_e355a1,
-.circularImage_c5ad0a {
-	border-radius: 8px;
 }
 
 .maxWidthWrapper__64962,
