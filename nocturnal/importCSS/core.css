@@ -14530,7 +14530,8 @@ path[stroke="rgb(123,162,255)"] {
 .tabContainer__64032,
 .tabBar__97134,
 .userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .tabBarContainer_b283be,
-.userProfileModalOuter__90b4a[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .divider__7116f {
+.userProfileModalOuter__90b4a[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .divider__7116f,
+.userProfileInnerThemedNonPremium_b64fb4 .divider__7116f {
 	border-color: rgba(0, 0, 0, .95);
 }
 
