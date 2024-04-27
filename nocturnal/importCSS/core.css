@@ -15419,3 +15419,11 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .selectedWidget__9aa0c[style*="113, 116, 183, 0.7"] {
 	background-color: rgb(25, 153, 171, 0.7)!important;
 }
+
+.popoutWrapper__0a06a {
+	padding-left: 8px;
+}
+
+.popout__7a706,.popout__4c91f {
+	border-radius: 0 12px 12px 0;
+}
