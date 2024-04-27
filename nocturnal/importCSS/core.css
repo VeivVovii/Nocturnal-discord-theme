@@ -3480,10 +3480,8 @@ svg[name=Nitro] g path {
 
 .selected__7f4cb .layout_bb8e67 .name__16feb,
 .interactive__3e804.selected__37292,
-.interactive__3e804.selected__37292 .activityText-ev7Z1T,
 input.da-input,
-input.da-input:focus,
-.interactive__3e804.selected__37292 .subtext-14b69p {
+input.da-input:focus {
 	color: #fff;
 }
 
