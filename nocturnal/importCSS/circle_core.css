@@ -14641,8 +14641,7 @@ path[stroke="rgb(123,162,255)"] {
 .container_ae7412,
 .theme-dark .subscribersPopout__56ea5,
 .recentClipsPopout__663e8,
-.theme-dark .popout__8e314,
-.popout__4c91f {
+.theme-dark .popout__8e314 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
@@ -15301,6 +15300,13 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	padding-left: 8px;
 }
 
-.popout__7a706,.popout__4c91f {
+.popout__7a706 {
+	border-radius: 0 12px 12px 0;
+}
+
+.popout__4c91f {
+	background-color: var(--backgroundDark);
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+	padding-right: 6px;
 	border-radius: 0 12px 12px 0;
 }
