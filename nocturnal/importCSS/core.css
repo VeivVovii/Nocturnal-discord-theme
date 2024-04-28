@@ -15454,3 +15454,10 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	right: -6px;
 	bottom: -4px;
 }
+
+.dropIndicatorBefore__00902:before,
+.dropIndicatorAfter__4f43f:after,
+.dropIndicatorBefore_ff529a:before,
+.dropIndicatorAfter__9848f:after {
+	background-color: var(--primary);
+}
