@@ -15326,3 +15326,10 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .theme-dark .tierInfoContainer_dd1f1c {
 	background-color: #0c0e12;
 }
+
+.dropIndicatorBefore__00902:before,
+.dropIndicatorAfter__4f43f:after,
+.dropIndicatorBefore_ff529a:before,
+.dropIndicatorAfter__9848f:after {
+	background-color: var(--primary);
+}
