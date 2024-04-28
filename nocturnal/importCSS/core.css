@@ -4240,7 +4240,7 @@ input.da-input:focus {
 	padding-right: 6px !important;
 }
 
-.pictureInPictureVideo-2puO2Q {
+.pictureInPictureVideo__31ff0 {
 	background: var(--backgroundDarker);
 }
 
@@ -14011,7 +14011,7 @@ path[stroke="rgb(123,162,255)"] {
 .container__8413b.active_fcec01,
 .container__8413b:hover.active_fcec01,
 .classificationPolicyCardIcon_d0f23c,
-.clipThumb__90837,
+.clipThumb__525f7,
 .linkButton__2cb1b:active,
 .listItemContainer__9c883:active {
 	background-color: rgba(0, 0, 0, .8);
@@ -14975,7 +14975,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .dropIndicatorAfter__2843f:after,
 .dropIndicatorBefore_b0c403:before,
 .clipNewBadge_b3a814,
-.newBadge_b280fc {
+.clipNewBadge__64a1c,
+.newBadge_b280fc,
+.selectorButton_ea0609:before {
 	background: var(--primary);
 }
 
