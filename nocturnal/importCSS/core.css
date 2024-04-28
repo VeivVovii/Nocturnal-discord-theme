@@ -2018,6 +2018,9 @@ svg[name=Nova_Discord] * {
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_fd4fe8,
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.actionColor_db400e,
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor__8c13f,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f,
 .lookFilled__950dd.colorTransparent-13Bvvi,
 .lookFilled__950dd.colorBrandNew__8872c,
 .lookFilled__950dd.colorGrey-2iAG-B,
@@ -2065,6 +2068,9 @@ svg[name=Nova_Discord] * {
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor__8c13f:hover,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f:hover,
 .lookFilled__950dd.colorTransparent-13Bvvi:hover:not(:disabled),
 .lookFilled__950dd.colorBrandNew__8872c:hover:not(:disabled),
 .lookFilled__950dd.colorGrey-2iAG-B:hover:not(:disabled),
@@ -6956,7 +6962,6 @@ button.button_ae40a4.enabled__214db:hover {
 .container-1J51uI,
 .container-AxP_J8.groupCollapsedRow-2CgoFk,
 .guildCard_ba5634,
-.subscriptionPerks-17BiNa,
 .clickableContainer_aa1e59,
 .ctaContainer-1DFK34,
 .container-26tbgC,
@@ -7018,9 +7023,9 @@ button.button_ae40a4.enabled__214db:hover {
 	color: var(--primary);
 }
 
-.roleMessagePreview-NUi2Ri {
+.roleMessagePreview__242dc {
 	background-color: var(--backgroundDark);
-	border: 1px solid rgba(0, 0, 0, .45);
+	border: 1px solid rgba(0, 0, 0, .95);
 }
 
 .guildIconContainer-17YqOH,
@@ -10487,7 +10492,8 @@ p.body-1V700N,
 .missingReadHistoryPermission__68a93,
 .adminUpsell_db0f79.container__8a0a9,
 .deprecationNotice__6b6ed,
-.userProfileInnerThemedNonPremium_b64fb4.userCardInner_d6aa46,
+.userProfileInnerThemedNonPremium_b64fb4.userCardInner_e36852,
+.userProfileOuter__35e59[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5.userCardInner_e36852,
 .actionItemEmojiWrapper__51171,
 .resourceChannelIcon__71b2f,
 .valuePill__75168,
@@ -12774,7 +12780,7 @@ path[stroke="rgb(123,162,255)"] {
 .flipCardClosedText-3MGk_l,
 .activityDetailsContainer-2xgfpn,
 .launcherInnerContainer-1yaOMQ,
-.aboutMeGuildIconTooltip__700e1,
+.aboutMeGuildIconTooltip__365ab,
 .scroller-3u_s5m,
 .perkPreviewImage-2jd1Tx,
 .perkPreviewImage__34031,
@@ -14309,7 +14315,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .publishButton__98136,
 .publishButton-2iXGdZ,
-.publishButton__87a96 {
+.publishButton__87a96,
+.button__1407c {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid #207B8D !important;
 	border-radius: 6px !important;
@@ -14318,7 +14325,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .publishButton__87a96:hover:not(:disabled),
 .publishButton__98136:hover:not(.disabledPublishButton_ec33b1),
-.publishButton-2iXGdZ:hover:not(.disabledPublishButton_ec33b1) {
+.publishButton-2iXGdZ:hover:not(.disabledPublishButton_ec33b1),
+.button__1407c:hover:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: #207B8D !important;
@@ -14842,7 +14850,8 @@ path[stroke="rgb(123,162,255)"] {
 .iconMask__32d4d,
 .itemDetail__846d8,
 .iconMask__56335,
-.container__0018d {
+.container__0018d,
+.subscriptionPerks__47df3 {
 	background-color: var(--backgroundDarker-alt);
 }
 
@@ -15356,7 +15365,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 }
 
 .content__3c252 {
-	padding-right: 20px !important;
+	padding-right: 26px !important;
 }
 
 .userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 {
@@ -15432,4 +15441,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	padding-right: 6px;
 	border-radius: 0 12px 12px 0;
+}
+
+.theme-dark .tierInfoContainer_dd1f1c {
+	background-color: #0c0e12;
 }
