@@ -230,14 +230,6 @@
 	background-color: var(--profile-gradient-primary-color);
 }
 
-.editWelcomeSection_fcb9b4 .welcomeMessageContainer__3f43b .userCardInner_e36852.userProfileInnerThemedPremiumWithoutBanner_ee8277,.editWelcomeSection_fcb9b4 .welcomeMessageContainer__3f43b .userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userCardInner_e36852.userProfileInnerThemedWithBanner_e9e7c5 {
-	background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 90px,var(--profile-gradient-secondary-color));
-}
-
-.mainContent_d74b41 .welcomeMessageContainer__3f43b .userCardInner_e36852.userProfileInnerThemedPremiumWithoutBanner_ee8277,.mainContent_d74b41 .welcomeMessageContainer__3f43b .userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userCardInner_e36852.userProfileInnerThemedWithBanner_e9e7c5 {
-	background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
-}
-
 .userProfileInnerThemedPremiumWithoutBanner_ee8277 .akaBadge-ep3q0P,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .akaBadge-ep3q0P,.userPanelOuter-XfFELn.userProfileOuterThemed_a425f3:not([style*="background-secondary-alt"]) .akaBadge-ep3q0P {
 	background-color: var(--profile-gradient-secondary-color);
 }
