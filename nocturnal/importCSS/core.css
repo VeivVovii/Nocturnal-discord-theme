@@ -12531,17 +12531,12 @@ path[stroke="rgb(123,162,255)"] {
 	font-size: 16px !important;
 }
 
-.wrapper__3ed10:has([src="/assets/3502b2cd28b7f93b89191aa41a21c398.svg"]):before,
-.wrapper__3ed10:has([src="/assets/2acefc59af70e62a92c40cee2c7a358e.svg"]):before,
-.wrapper__3ed10:has([src="/assets/59fcb3de8b5d0c3b9beead2d6b56c9c9.svg"]):before,
-.wrapper__3ed10:has([src="/assets/d216b965a3edb881e0a7f20982152470.svg"]):before,
-.wrapper__3ed10:has([src="/assets/b3e8bfa5e3780afd7a4f9a1695776e16.png"]):before,
-.wrapper__3ed10:has([src="/assets/e7af5fc8fa27c595d963c1b366dc91fa.gif"]):before,
 .wrapper__3ed10:has([src="/assets/15a7db2c064544d50853.png"]):before,
+.wrapper__3ed10:has([src="/assets/9aacbfe681409e07a82f.svg"]):before,
 .wrapper__3ed10:has([src="/assets/2e8aae0e5e260049b25c.gif"]):before,
-.wrapper__3ed10:has([src="/assets/ba7f9552758881a24749.svg"]):before,
-.wrapper__3ed10:has([src="/assets/4f6d8a2c4ded92506d76.svg"]):before,
-.wrapper__3ed10:has([src="/assets/5b2a993ac58bc8384645.svg"]):before,
+.wrapper__3ed10:has([src="/assets/ebbb2fdc0542af26ae3c.svg"]):before,
+.wrapper__3ed10:has([src="/assets/b147eb7d87eac3022b1d.svg"]):before,
+.wrapper__3ed10:has([src="/assets/a8ea324e53cef054540c.svg"]):before,
 .wrapper__3ed10:has([src="/assets/a4d92443ebc546785bc8.svg"]):before {
 	border-radius: 100% !important;
 }
@@ -13900,6 +13895,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .font-size-16 .cozy_d67381 .iconContainer_d0200f {
 	width: 64px;
+	margin-top: auto;
 }
 
 .avatarContainer_b12338 .wrapper__3ed10 .avatar__991e2[src="/assets/15a7db2c064544d50853.png"],
