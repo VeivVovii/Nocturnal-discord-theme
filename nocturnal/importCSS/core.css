@@ -9512,11 +9512,11 @@ img.avatar-2LpRdK,
 	background-color: rgba(0, 0, 0, .15);
 }
 
-.theme-dark .header_c43d51.container__26baa {
+.theme-dark .header__10587.container__26baa {
 	--__header-bar-background: var(--backgroundDarker);
 }
 
-.theme-dark .header_c43d51.themed_b152d4 {
+.theme-dark .header__10587.themed_b152d4 {
 	background: var(--bg-overlay-3, var(--__header-bar-background))
 }
 
@@ -10686,7 +10686,8 @@ p.body-1V700N,
 }
 
 .modalFooter-29IR7V,
-.modalFooter__6fc8d {
+.modalFooter__6fc8d,
+.modalFooter_d0eb83 {
 	background-color: rgba(0, 0, 0, 0.15) !important;
 }
 
@@ -13975,7 +13976,8 @@ path[stroke="rgb(123,162,255)"] {
 .container_cf8411,
 .iconWidget__22dfa,
 .setCustomButton__09dbf:hover,
-.emojiButton__8b686 {
+.emojiButton__8b686,
+.sidebarContainer__6f8e5 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -14613,7 +14615,8 @@ path[stroke="rgb(123,162,255)"] {
 .userProfileInnerThemedNonPremium_b64fb4 .divider__07b2a,
 .userProfileInnerThemedNonPremium_b64fb4 .divider_d6f39c,
 .separator__8f056,
-.divider__5e86b {
+.divider__5e86b,
+.divider__6c6c1 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -14685,7 +14688,8 @@ path[stroke="rgb(123,162,255)"] {
 .container__617c0,
 .content__73f32,
 .container_b15c33,
-.container__473f9 {
+.container__473f9,
+.container_c83a4f {
 	background-color: var(--backgroundDarker);
 }
 
@@ -14716,7 +14720,8 @@ path[stroke="rgb(123,162,255)"] {
 .container_f93da8,
 .container_c344de,
 .collectibleInfoContainer_a9bb77,
-.popout__7a706 {
+.popout__7a706,
+.loading_d8cf2a {
 	background-color: var(--backgroundDark);
 }
 
@@ -15345,7 +15350,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	padding-right: 8px;
 }
 
-.scroller__18a89 {
+.scroller__18a89,
+.content__3c252,
+.scroller__32e73 {
 	padding-right: 26px !important;
 }
 
@@ -15364,10 +15371,6 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .modalContent__36f08,
 .modalContent__1325d {
 	margin-right: -18px;
-}
-
-.content__3c252 {
-	padding-right: 26px !important;
 }
 
 .userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 {
@@ -15459,4 +15462,12 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .dropIndicatorBefore_ff529a:before,
 .dropIndicatorAfter__9848f:after {
 	background-color: var(--primary);
+}
+
+.container__7a111 {
+	padding-right: 6px;
+}
+
+.container__3a30a {
+	padding-right: 18px;
 }
