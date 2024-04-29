@@ -1335,7 +1335,8 @@
 	box-shadow: inset 0 0 100000px 0 rgba(0, 0, 0, .5) !important;
 }
 
-.webkit__8d35a .buttons__7ecff {
+.webkit__8d35a .buttons__7ecff,
+.buttons__7ecff:not(.platform-web .buttons__7ecff) {
 	margin-right: 0;
 }
 
