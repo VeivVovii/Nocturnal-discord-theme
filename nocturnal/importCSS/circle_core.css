@@ -12437,21 +12437,6 @@ path[stroke="rgb(123,162,255)"] {
 	font-size: 16px !important;
 }
 
-.wrapper__3ed10:has([src="/assets/3502b2cd28b7f93b89191aa41a21c398.svg"]):before,
-.wrapper__3ed10:has([src="/assets/2acefc59af70e62a92c40cee2c7a358e.svg"]):before,
-.wrapper__3ed10:has([src="/assets/59fcb3de8b5d0c3b9beead2d6b56c9c9.svg"]):before,
-.wrapper__3ed10:has([src="/assets/d216b965a3edb881e0a7f20982152470.svg"]):before,
-.wrapper__3ed10:has([src="/assets/b3e8bfa5e3780afd7a4f9a1695776e16.png"]):before,
-.wrapper__3ed10:has([src="/assets/e7af5fc8fa27c595d963c1b366dc91fa.gif"]):before,
-.wrapper__3ed10:has([src="/assets/15a7db2c064544d50853.png"]):before,
-.wrapper__3ed10:has([src="/assets/2e8aae0e5e260049b25c.gif"]):before,
-.wrapper__3ed10:has([src="/assets/ba7f9552758881a24749.svg"]):before,
-.wrapper__3ed10:has([src="/assets/4f6d8a2c4ded92506d76.svg"]):before,
-.wrapper__3ed10:has([src="/assets/5b2a993ac58bc8384645.svg"]):before,
-.wrapper__3ed10:has([src="/assets/a4d92443ebc546785bc8.svg"]):before {
-	border-radius: 100% !important;
-}
-
 .headerText-2z4IhQ .badgesChat-f_cbR8 {
 	top: 0;
 }
@@ -13994,14 +13979,6 @@ path[stroke="rgb(123,162,255)"] {
 
 .avatarUploaderInner__71578::before {
 	box-shadow: none !important;
-}
-
-.avatar_f6650d::before,
-.descriptionAvatarContainer-35XbpK .wrapper__3ed10::before,
-.avatar__7d29c::before,
-.avatarPreviewContainer__78ee2 .wrapper__3ed10::before,
-.decoSection-gerPq1 .wrapper__3ed10::before {
-	border-radius: 100% !important;
 }
 
 .itemBadge-2VGhY3,
