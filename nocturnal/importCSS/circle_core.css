@@ -12443,8 +12443,8 @@ path[stroke="rgb(123,162,255)"] {
 .wrapper__3ed10:has([src="/assets/d216b965a3edb881e0a7f20982152470.svg"]):before,
 .wrapper__3ed10:has([src="/assets/b3e8bfa5e3780afd7a4f9a1695776e16.png"]):before,
 .wrapper__3ed10:has([src="/assets/e7af5fc8fa27c595d963c1b366dc91fa.gif"]):before,
-.wrapper__3ed10:has([src="/assets/4b32630453d18bff5506.png"]):before,
-.wrapper__3ed10:has([src="/assets/07e45cb4391af2b29544.gif"]):before,
+.wrapper__3ed10:has([src="/assets/15a7db2c064544d50853.png"]):before,
+.wrapper__3ed10:has([src="/assets/2e8aae0e5e260049b25c.gif"]):before,
 .wrapper__3ed10:has([src="/assets/ba7f9552758881a24749.svg"]):before,
 .wrapper__3ed10:has([src="/assets/4f6d8a2c4ded92506d76.svg"]):before,
 .wrapper__3ed10:has([src="/assets/5b2a993ac58bc8384645.svg"]):before,
@@ -13662,7 +13662,7 @@ path[stroke="rgb(123,162,255)"] {
 .uploader__1380c .uploadImageIcon_e7b413,
 .uploader__1380c:hover .uploadImageIcon_e7b413,
 .bannedUser_f75842,
-.avatarContainer_f5815b,
+.avatarContainer_b12338,
 .skuSelectModalContent-1oAh0o,
 .skuSelectModalHeader-lufMDl,
 .temporaryMembershipContainerBackground__4190c:before {
@@ -13796,19 +13796,20 @@ path[stroke="rgb(123,162,255)"] {
 	max-width: 90%;
 }
 
-.font-size-16 .cozy_d67381 .iconContainer_dfc268 {
+.font-size-16 .cozy_d67381 .iconContainer_d0200f {
 	width: 64px;
+	margin-top: auto;
 }
 
-.avatarContainer_f5815b .wrapper__3ed10 .avatar__991e2[src="/assets/4b32630453d18bff5506.png"],
-.wrapper__3ed10 .avatar__991e2[src="/assets/07e45cb4391af2b29544.gif"] {
+.avatarContainer_b12338 .wrapper__3ed10 .avatar__991e2[src="/assets/15a7db2c064544d50853.png"],
+.wrapper__3ed10 .avatar__991e2[src="/assets/2e8aae0e5e260049b25c.gif"] {
 	width: 40px;
 	height: 40px;
 	margin: 0;
 }
 
-.avatarContainer_f5815b .wrapper__3ed10:has(.avatar__991e2[src="/assets/4b32630453d18bff5506.png"]):before,
-.wrapper__3ed10:has(.avatar__991e2[src="/assets/07e45cb4391af2b29544.gif"]):before {
+.avatarContainer_b12338 .wrapper__3ed10:has(.avatar__991e2[src="/assets/15a7db2c064544d50853.png"]):before,
+.wrapper__3ed10:has(.avatar__991e2[src="/assets/2e8aae0e5e260049b25c.gif"]):before {
 	width: 100%;
 	height: 100%;
 	top: -2px;
