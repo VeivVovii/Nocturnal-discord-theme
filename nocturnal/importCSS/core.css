@@ -10709,7 +10709,6 @@ p.body-1V700N,
 }
 
 .content-2zmthk .tag__69d9d .avatar__991e2,
-.wrapper__3ed10[style*="width: 16px"] .avatar__991e2,
 .messageContentWrapper__34c64,
 .theme-dark .qwert-toast-avatar,
 .tierImage-28AAQO {
@@ -12919,7 +12918,8 @@ path[stroke="rgb(123,162,255)"] {
 .divider-3aaBX-,
 .bd-settings-group.collapsible .bd-settings-title::before,
 .footerDivider-i15PhZ,
-.iconContainer__1420f {
+.iconContainer__1420f,
+.timestamp__315e7 {
 	background-color: rgba(0, 0, 0, .35);
 }
 
@@ -13944,8 +13944,8 @@ path[stroke="rgb(123,162,255)"] {
 .addAnswerButton__1308f,
 .container__52476,
 .enhancedBanner_ad59ff,
-.safetyPolicyNoticeContainer_b0cc55,
-.classificationPolicyCard__0923e,
+.safetyPolicyNoticeContainer__03bf7,
+.classificationPolicyCard_b1e792,
 .container_b634d9,
 .previewContainer_a9f935,
 .previewForm__87c77,
@@ -13999,7 +13999,7 @@ path[stroke="rgb(123,162,255)"] {
 .container__8413b:hover:not(.canceled_ed7330),
 .addAnswerButton__1308f:hover,
 .bd-addon-controls .bd-button:hover,
-.classificationPolicyCard__0923e:hover,
+.classificationPolicyCard_b1e792:hover,
 .tipNumber_ee8aea,
 .clipItem-3C35Ec:hover,
 .clipItem__2a29e:hover,
@@ -14023,7 +14023,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .container__8413b.active_fcec01,
 .container__8413b:hover.active_fcec01,
-.classificationPolicyCardIcon_d0f23c,
+.classificationPolicyCardIcon_f0f354,
 .linkButton__2cb1b:active,
 .listItemContainer__9c883:active {
 	background-color: rgba(0, 0, 0, .8);
@@ -14189,7 +14189,7 @@ path[stroke="rgb(123,162,255)"] {
 	height: 32px;
 }
 
-.dropdown__416f0,
+.dropdown_add2b2,
 .users__65981,
 .theme-dark .container_b1d738 .sectionTag__03ea5,
 .featuredPackFooter-JGmfM6,
@@ -14865,7 +14865,7 @@ path[stroke="rgb(123,162,255)"] {
 	}
 }
 
-.headerIconWrapper__0cd76,
+.headerIconWrapper_d51e7d,
 .card__4318b,
 .avatarBackground__1bc8d,
 .wrapper_cf13f4,
@@ -14889,7 +14889,7 @@ path[stroke="rgb(123,162,255)"] {
 .card__834d4,
 .card__2ebbc,
 .iconMask__32d4d,
-.itemDetail__846d8,
+.itemDetail_aa267a,
 .iconMask__56335,
 .container__0018d,
 .subscriptionPerks__47df3 {
@@ -15189,7 +15189,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 
-.itemDetail__846d8 {
+.itemDetail_aa267a {
 	border-color: var(--primary);
 }
 
@@ -15401,7 +15401,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	height: auto;
 }
 
-.container__05fac {
+.container__05fac,
+.modalContent_d13481 {
 	padding-right: 24px !important;
 }
 
