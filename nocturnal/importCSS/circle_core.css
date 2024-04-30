@@ -2013,7 +2013,7 @@ svg[name=Nova_Discord] * {
 .defaultPreviewButtonColor-nHD0Sj,
 .activeFilter-15Dcl7,
 .addChannelButton-2mu6wx,
-.selectGuildPseudoCta-39TChZ,
+.selectGuildPseudoCta_bad4c9,
 .colorable__4f530.green_a14a3a,
 .pill-2O-4R1,
 .userProfileInnerThemedNonPremium_b64fb4 .VoiceActivity-voiceprofilesection-button,
@@ -2063,7 +2063,7 @@ svg[name=Nova_Discord] * {
 .defaultPreviewButtonColor-nHD0Sj:hover,
 .activeFilter-15Dcl7:hover,
 .addChannelButton-2mu6wx:hover,
-.selectGuild-XtzmSc:hover .selectGuildPseudoCta-39TChZ,
+.selectGuild__77092:hover .selectGuildPseudoCta_bad4c9,
 .colorable__4f530.green_a14a3a:hover,
 .pill-2O-4R1:hover,
 .userProfileInnerThemedNonPremium_b64fb4 .VoiceActivity-voiceprofilesection-button:hover,
@@ -5121,11 +5121,11 @@ button.button_ae40a4.enabled__214db:hover {
 	backdrop-filter: blur(10px);
 }
 
-.subscription__74af9 {
+.subscription_a0f596 {
 	background-color: rgba(0, 0, 0, .3);
 }
 
-.theme-dark .tierPill__1c25d {
+.theme-dark .tierPill__6d5cb {
 	background-color: var(--backgroundDark);
 }
 
@@ -10624,7 +10624,7 @@ p.body-1V700N,
 	background-color: var(--backgroundDarker) !important;
 }
 
-.content_b28aab.selectContent-2kmV6g,
+.content_b28aab.selectContent__851fd,
 .content_b28aab.addMembersContainer_ec26d2 {
 	padding-right: 0 !important
 }
@@ -12868,9 +12868,8 @@ path[stroke="rgb(123,162,255)"] {
 	left: calc(36px - 36px*var(--decoration-to-avatar-ratio)/2);
 }
 
-.selectGuild-XtzmSc:hover {
+.selectGuild__77092:hover {
 	background-color: rgba(0, 0, 0, .2);
-	margin-right: 2px;
 }
 
 .messageContainer__0add1 .avatar__08316 {
@@ -14584,7 +14583,9 @@ path[stroke="rgb(123,162,255)"] {
 .badgeList__6b2c7,
 .container_cbd141,
 .card__3135c,
-.container__984a8 {
+.container__984a8,
+.modalInner_e6f542,
+.effectDescriptionNoGradient_e5a3ae {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -15321,4 +15322,13 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .container__3a30a {
 	padding-right: 18px;
+}
+
+.modalContent_ca78d9 {
+	padding-right: 0!important;
+	margin-right: -6px;
+}
+
+.selectGuild__77092 {
+	margin-right: 2px;
 }
