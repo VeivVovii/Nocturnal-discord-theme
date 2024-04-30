@@ -14768,7 +14768,9 @@ path[stroke="rgb(123,162,255)"] {
 .effectDescriptionNoGradient_e5a3ae,
 .backButton__1d36e,
 .backButton__1d36e:hover,
-.circularButton__5daa7 {
+.circularButton__5daa7,
+.spinner_caac0a,
+.wrapper__45727 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -15582,4 +15584,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .colorDefault_e361cf:not(.colorDanger__08c25).focused_dcafb9 .check__8d1bd {
 	color: var(--primary);
 	fill: var(--primary);
+}
+
+.modalContent__39451 {
+	padding-right: 0!important;
 }
