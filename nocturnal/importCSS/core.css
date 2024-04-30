@@ -2003,6 +2003,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,
+.ctaButton__56c73,
 .selected__26619,
 .bd-button-filled.bd-button-color-brand,
 .userProfileOuterUnthemed__9741c .giftButton__0988e,
@@ -2054,6 +2055,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn:hover,
+.ctaButton__56c73:hover,
 .selected__26619:hover,
 .bd-button-filled.bd-button-color-brand:hover:not(.bd-button-disabled),
 .userProfileOuterUnthemed__9741c .giftButton__0988e:hover,
@@ -9679,9 +9681,9 @@ img.avatar-2LpRdK,
 
 .markup_a7e664 a[aria-expanded=true],
 .anchorUnderlineOnHover-2qPutX[aria-expanded=true],
-.applicationName-19i3lP.clickable_d866f1[aria-expanded=true],
-.commandName-1KhvGm.clickable_d866f1[aria-expanded=true],
-.username_d30d99.clickable_d866f1[aria-expanded=true],
+.applicationName-19i3lP.clickable__09456[aria-expanded=true],
+.commandName-1KhvGm.clickable__09456[aria-expanded=true],
+.username__0b0e7.clickable__09456[aria-expanded=true],
 .anchor-1X4H4q[aria-expanded=true] {
 	text-decoration: underline
 }
@@ -10201,9 +10203,9 @@ img.avatar-2LpRdK,
 	padding: 0;
 }
 
-.card-3x20HF .conversationMessage-hy6ISK .applicationName-19i3lP.clickable_d866f1:hover,
-.card-3x20HF .conversationMessage-hy6ISK .commandName-1KhvGm.clickable_d866f1:hover,
-.card-3x20HF .conversationMessage-hy6ISK .username_d30d99.clickable_d866f1:hover {
+.card-3x20HF .conversationMessage-hy6ISK .applicationName-19i3lP.clickable__09456:hover,
+.card-3x20HF .conversationMessage-hy6ISK .commandName-1KhvGm.clickable__09456:hover,
+.card-3x20HF .conversationMessage-hy6ISK .username__0b0e7.clickable__09456:hover {
 	cursor: default;
 	text-decoration: none;
 }
@@ -14811,7 +14813,8 @@ path[stroke="rgb(123,162,255)"] {
 .container_ae7412,
 .theme-dark .subscribersPopout__56ea5,
 .recentClipsPopout__663e8,
-.theme-dark .popout__8e314 {
+.theme-dark .popout__8e314,
+.container_bad367 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
@@ -15131,7 +15134,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	background-color: var(--backgroundDarker) !important;
 }
 
-.tabBarItemContainer_d74773 svg {
+.tabBarItemContainer__5d798 svg {
 	display: none;
 }
 
