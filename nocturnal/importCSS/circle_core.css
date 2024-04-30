@@ -14614,7 +14614,9 @@ path[stroke="rgb(123,162,255)"] {
 .effectDescriptionNoGradient_e5a3ae,
 .backButton__1d36e,
 .backButton__1d36e:hover,
-.circularButton__5daa7 {
+.circularButton__5daa7,
+.spinner_caac0a,
+.wrapper__45727 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
