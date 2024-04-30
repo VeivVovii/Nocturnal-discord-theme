@@ -6838,7 +6838,8 @@ button.button_ae40a4.enabled__214db:hover {
 
 .iconContainer-36kI2p,
 .emptyStateIcon-2xfcFG,
-.notice-1Qe0b_ {
+.emptyStateIcon__5488c,
+.notice_d5178d {
 	background-color: rgba(0, 0, 0, .2);
 }
 
@@ -6846,10 +6847,8 @@ button.button_ae40a4.enabled__214db:hover {
 	border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.collapseable_a59844:active,
 .collapseable_a59844:active {
 	background-color: rgba(0, 0, 0, .65);
-	;
 }
 
 .groupCollapsedContainer-1h2Wkb {
@@ -11198,8 +11197,8 @@ p.body-1V700N,
 }
 
 .statusDot_c605a3 {
-	top: 0;
-	left: 0;
+	top: 1px;
+	left: 1px;
 	overflow: visible;
 }
 
@@ -14226,7 +14225,7 @@ path[stroke="rgb(123,162,255)"] {
 	padding: 16px;
 }
 
-.hoverIconWrapper_c222a3 {
+.hoverIconWrapper_e9a7d0 {
 	border-radius: 5px;
 }
 
