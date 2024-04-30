@@ -10827,12 +10827,12 @@ p.body-1V700N,
 	background-color: rgba(0, 0, 0, .95);
 }
 
-.background_aaab2f {
+.background_aaab2f,
+.background__1d8f0 {
 	fill: var(--backgroundDarker-alt);
 }
 
-.button-32Jo2d,
-.background__1d8f0 {
+.button-32Jo2d {
 	background: none;
 }
 
