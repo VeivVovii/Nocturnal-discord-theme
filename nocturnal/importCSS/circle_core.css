@@ -15436,3 +15436,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	color: var(--primary);
 	fill: var(--primary);
 }
+
+.modalContent__39451 {
+	padding-right: 0!important;
+}
