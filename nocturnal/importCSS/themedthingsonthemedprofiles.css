@@ -279,14 +279,14 @@
 	box-shadow: 0 -1px 0 var(--profile-gradient-secondary-color);
 }
 
-.chat__52833 .userProfileOuterThemed_a425f3 .buttonColor_fd4fe8,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .buttonColor_fd4fe8,.userProfileInnerThemedPremiumWithoutBanner_ee8277 .buttonColor_fd4fe8 {
+.chat__52833 .userProfileOuterThemed_a425f3:not([style*="background-secondary-alt"]) .buttonColor_fd4fe8,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .buttonColor_fd4fe8,.userProfileInnerThemedPremiumWithoutBanner_ee8277 .buttonColor_fd4fe8 {
 	background-color: rgba(0,0,0,.5)!important;
 	border: 2px solid var(--profile-gradient-secondary-color)!important;
 	border-radius: 6px!important;
 	color: #fff!important
 }
 
-.chat__52833 .userProfileOuterThemed_a425f3 .buttonColor_fd4fe8:hover:not(:disabled),.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .buttonColor_fd4fe8:hover:not(:disabled),.userProfileInnerThemedPremiumWithoutBanner_ee8277 .buttonColor_fd4fe8:hover:not(:disabled){
+.chat__52833 .userProfileOuterThemed_a425f3:not([style*="background-secondary-alt"]) .buttonColor_fd4fe8:hover:not(:disabled),.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .buttonColor_fd4fe8:hover:not(:disabled),.userProfileInnerThemedPremiumWithoutBanner_ee8277 .buttonColor_fd4fe8:hover:not(:disabled){
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: var(--profile-gradient-secondary-color);
