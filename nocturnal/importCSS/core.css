@@ -7617,9 +7617,9 @@ button.button_ae40a4.enabled__214db:hover {
 	margin-bottom: 0;
 }
 
-.after_inlineCode__2197d,
-.before_inlineCode__37e14,
-.inlineCode_d702a4,
+.after_inlineCode__59586,
+.before_inlineCode__48f7c,
+.inlineCode__0cacf,
 .bd-changelog-modal code.inline {
 	background: rgba(0, 0, 0, .65);
 }
@@ -15620,4 +15620,10 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .channel__7b481 {
 	background-color: rgba(0, 0, 0, .65);
+}
+
+.theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .after_inlineCode__59586,
+.theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .before_inlineCode__48f7c,
+.theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .inlineCode__0cacf {
+	background-color: #202632;
 }
