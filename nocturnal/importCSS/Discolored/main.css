@@ -29,7 +29,7 @@
 }
 
 /* 🏰 Castle */
-.theme-dark .verification__82f71 .image__54a8d{
+.theme-dark .verification_ab2e30 .image__30914{
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/castle.svg") 50%/80%
 	no-repeat;
 }
@@ -85,7 +85,7 @@
 }
 
 /* 🤷‍♂️ GIF not found */
-.theme-dark .sadImage__4d614  {
+.theme-dark .sadImage__4d614 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/gif_not_found.svg");
 }
 
@@ -150,7 +150,7 @@
 }
 
 /* 📱 Phones */
-.theme-dark .verificationBlock_c45d0e .image__54a8d.phone__0b460 {
+.theme-dark .verificationBlock_c45d0e .image__30914.phone__0b460 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/phones.svg");
 }
 
@@ -197,12 +197,12 @@
 }
 
 /* 🤷‍♂️ Sticker not found */
-[style*='background-image: url("/assets/d6e0ab2f94e516718aa7.svg");'] {
+[style*='background-image: url("/assets/ad965ba5e60d0f3284eb.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/sticker_not_found.svg") !important;
 }
 
 /* 🔴 Streamer Mode */
-.theme-dark .streamerModeEnabledImage_a0d94f, .theme-dark .emptyIconStreamerMode__0b218 {
+.theme-dark .streamerModeEnabledImage__17db6, .theme-dark .emptyIconStreamerMode__424e7 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/streamer_mode.svg");
 }
 
@@ -213,13 +213,13 @@
 }
 
 /* 📹 Test Video */
-.theme-dark .previewImage__91c1c {
+.theme-dark .previewImage_befb69 {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/test_video.svg");
 }
 
 /* 🗝️ Treasure Chest */
 [src="/assets/67430d140a79af95585a19d304731dc5.svg"],
-[src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"] {
+[src="/assets/0dd9293cce43826a9f23.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/treasure_chest.svg");
 }
 
