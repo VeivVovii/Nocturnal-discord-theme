@@ -7779,14 +7779,14 @@ button.button_ae40a4.enabled__214db:hover {
 
 .icon-S3vUHH,
 .icon-iw1n8C {
-	border-radius: 5px
+	border-radius: 5px;
 }
 
-.theme-dark .markdown_e76780 code {
+.theme-dark .markdown__8e519 code {
 	background-color: rgba(0, 0, 0, .65);
 }
 
-.theme-dark .markdown_e76780 .blockquote-2mppuN {
+.theme-dark .markdown__8e519 .blockquote__6a8b8 {
 	border-left-color: var(--primary);
 }
 
@@ -13445,7 +13445,8 @@ path[stroke="rgb(123,162,255)"] {
 .bullet__4f67e,
 .bullet_ac954b,
 .divider__69314,
-.bullet__89d6c {
+.bullet__89d6c,
+.languageItem_f7063a::before {
 	color: rgba(0, 0, 0, .95);
 }
 
@@ -13993,7 +13994,8 @@ path[stroke="rgb(123,162,255)"] {
 .setCustomButton__09dbf:hover,
 .emojiButton__8b686,
 .sidebarContainer__6f8e5,
-.noticeRoot__632b7 {
+.noticeRoot__632b7,
+.benefits_bed5d2 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -14576,7 +14578,8 @@ path[stroke="rgb(123,162,255)"] {
 .userProfileModalOuter__90b4a[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .divider__7116f,
 .userProfileInnerThemedNonPremium_b64fb4 .divider__7116f,
 .legalText__3817f,
-.modalHeaderCustomGift_d0f226 {
+.modalHeaderCustomGift_d0f226,
+.details_bd2b5f {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -14779,7 +14782,8 @@ path[stroke="rgb(123,162,255)"] {
 .spinner_caac0a,
 .wrapper__45727,
 .body__982cd,
-.timestamp__315e7 {
+.timestamp__315e7,
+.container__37170 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -15388,7 +15392,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-radius: 5px;
 }
 
-.avatar__52a9b {
+.avatar__52a9b,
+.icon__70cd8 {
 	border-radius: 5px;
 	box-shadow: none;
 }
@@ -15626,4 +15631,20 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .before_inlineCode__48f7c,
 .theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .inlineCode__0cacf {
 	background-color: #202632;
+}
+
+.containerScrollGradient__1e7d9,.containerScrollGradient__92923 {
+	background: linear-gradient(0deg,var(--backgroundDark)0%,rgba(0,0,0,0)100%);
+}
+
+.theme-dark .modal_af101e.root_a28985,.theme-dark .subDetailsModal_c2c023.root_a28985 {
+	box-shadow: none !important;
+}
+
+.backButton__91fb9 {
+	background: none;
+}
+
+.scrollContent_c526a7 {
+	padding-right: 14px;
 }
