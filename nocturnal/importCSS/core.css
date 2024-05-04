@@ -5507,13 +5507,12 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .reaction__4a43f:hover,
-.channelContainer-3YAhb_ {
+.channelContainer__0118d {
 	background-color: rgba(0, 0, 0, 0);
 	border-color: rgba(0, 0, 0, .95);
 }
 
-.reaction__4a43f:active,
-.channel-k2TVLQ {
+.reaction__4a43f:active {
 	background-color: rgba(0, 0, 0, .45);
 }
 
@@ -7157,7 +7156,7 @@ button.button_ae40a4.enabled__214db:hover {
 	border-radius: 5px;
 }
 
-.verification-2oQUwN {
+.verification_ab2e30 {
 	background-color: var(--backgroundDark);
 }
 
@@ -7268,7 +7267,8 @@ button.button_ae40a4.enabled__214db:hover {
 
 .theme-dark .noItemsIcon__38ca2,
 .theme-dark .noItemsIcon_ead6f9,
-.theme-dark .noItemsIcon_ead6f9 {
+.theme-dark .noItemsIcon_ead6f9,
+.theme-dark .noItemsIcon__299fb {
 	background-color: rgba(0, 0, 0, 0);
 	background-size: 100%;
 }
@@ -10011,7 +10011,7 @@ img.avatar-2LpRdK,
 }
 
 .container_dbfa3f,
-.newTextBadge_da2cca,
+.newTextBadge__9d678,
 .checkbox_e8030c,
 .checkbox__1d469,
 .checkbox__1d469.selected__5e5aa,
@@ -15616,4 +15616,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .theme-dark .footer__62371 {
 	box-shadow: inset 0 1px 0 rgba(0, 0, 0, .95);
+}
+
+.channel__7b481 {
+	background-color: rgba(0, 0, 0, .65);
 }
