@@ -8761,15 +8761,8 @@ svg.gameIcon_fc710a rect,
 	border-radius: 5px 5px 0 0;
 }
 
-.avatarUploaderInner-1dBiHs,
-.avatarUploaderPremium-2v2k2d .spinningAvatar-3RLDX3,
 .forumPost__76f0f,
-.avatar-30mmxW,
-.imageUploaderInner_ecfc97.tierSymbolUploaderInner__6622d,
-.container-2nXUah,
-.acronym__9d1b3,
-.filledIcon-2TG9HI,
-.avatar-2YWBFP {
+.container-2nXUah {
 	border-radius: 5px;
 }
 
@@ -9465,7 +9458,7 @@ img.avatar-2LpRdK,
 .avatarUploaderNormal_d16dca {
 	border: 7px solid var(--backgroundDark);
 	background-color: var(--backgroundDark);
-	border-radius: 50px;
+	border-radius: 100%;
 	top: 8px;
 }
 
@@ -9474,10 +9467,11 @@ img.avatar-2LpRdK,
 	top: 68px;
 	border: 7px solid var(--profile-avatar-border-color);
 	background-color: var(--profile-avatar-border-color);
-	border-radius: 50px;
+	border-radius: 100%;
 }
 
-.userProfileInnerThemedNonPremium_b64fb4 .avatarUploaderPremium__520da {
+.userProfileInnerThemedNonPremium_b64fb4 .avatarUploaderPremium__520da,
+.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .avatarUploaderPremium__520da {
 	background-color: var(--backgroundDark);
 	border-color: var(--backgroundDark);
 }
@@ -13114,7 +13108,10 @@ path[stroke="rgb(123,162,255)"] {
 	box-shadow: none;
 }
 
-.lowerBodyContentWrapper-2rQOoP {
+.lowerBodyContentWrapper-2rQOoP,
+.lowerBodyContentWrapper_da9f83,
+.middleBodyContentWrapper__2da7a,
+.headerContentWrapper__3a2ce {
 	padding-right: 26px;
 }
 
@@ -14616,7 +14613,6 @@ path[stroke="rgb(123,162,255)"] {
 .blockedPaymentsModalContent_ccefbb,
 .userCardInput_ee7b8c,
 .spinner_caad3a,
-.badgeList__6b2c7,
 .container_cbd141,
 .card__3135c,
 .container__984a8,
@@ -14655,7 +14651,7 @@ path[stroke="rgb(123,162,255)"] {
 .container_c2522d,
 .max-width_dfc421,
 .content__4353f,
-.shopBanner__8d00b,
+.shopBanner_e2f915,
 .content__4560d,
 .content__15401,
 .searchPage__3f316 .search_e47903,
@@ -14667,7 +14663,10 @@ path[stroke="rgb(123,162,255)"] {
 .section_edd136,
 .column__9d92d,
 .questsCard__20ba2,
-.questSplash__427df {
+.questSplash__427df,
+.content__13c8d,
+.banner__1f369,
+.closeWrapper_fa833c {
 	max-width: none;
 }
 
@@ -14726,7 +14725,8 @@ path[stroke="rgb(123,162,255)"] {
 .theme-dark .placeholder__1d2a8,
 .theme-dark .placeholder__99206,
 .giftCard__4b868,
-.perkCard__412af {
+.perkCard__412af,
+.badgeList__6b2c7 {
 	background-color: rgba(0, 0, 0, .3);
 }
 
@@ -14921,7 +14921,7 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .page__8ffff {
 	padding-right: 26px;
-	max-width: 90%;
+	max-width: none;
 }
 
 .role__1190c {
@@ -15453,7 +15453,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	fill: var(--primary);
 }
 
-.modalContent__39451 {
+.modalContent__39451,
+.modalContent__4d9c6 {
 	padding-right: 0!important;
 }
 
