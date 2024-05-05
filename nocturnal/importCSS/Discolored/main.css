@@ -674,3 +674,11 @@
 .animation__60f8d path[fill="rgb(79,83,92)"],.animation__60f8d path[fill="rgb(31,33,36)"] {
 	fill: #040506;
 }
+
+.rightImage_b071fa {
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+}
+
+[src*="/assets/99e3b1b11b1542005909.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/93e31ba1ad50859a7cbcd6b1f0035d6c.svg");
+}
