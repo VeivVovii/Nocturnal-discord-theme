@@ -7489,10 +7489,6 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--primary) !important;
 }
 
-.avatar-2LpRdK {
-	border-radius: 5px
-}
-
 .radioBar__70669[style*="green-360"] {
 	--radio-bar-accent-color: #43b581 !important;
 }
@@ -7550,11 +7546,6 @@ button.button_ae40a4.enabled__214db:hover {
 
 .upsellTooltipWrapper__11dad.caretRightCenter__04179:after {
 	border-left-color: var(--backgroundDark)
-}
-
-.theme-dark .nowPlaying-3UpuKc,
-.theme-light .nowPlaying-3UpuKc {
-	background-color: #43b581;
 }
 
 .activeTransferGuildCardBorder-W0fHiR {
@@ -7630,11 +7621,11 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .closeContent-38PPXq .closeIconNotMobile-e2ElFI {
-	top: 80px
+	top: 80px;
 }
 
 .closeContent-38PPXq .closeIconNotMobile-e2ElFI {
-	top: 80px
+	top: 80px;
 }
 
 .root_a28985.carouselModal-1eUFoq {
@@ -7673,7 +7664,7 @@ button.button_ae40a4.enabled__214db:hover {
 .perkRow-10K6XE,
 .option-3x6TXa,
 .perkRow__77c96 {
-	border-bottom: 1px solid rgba(0, 0, 0, .95)
+	border-bottom: 1px solid rgba(0, 0, 0, .95);
 }
 
 .bd-toast.toast-info {
@@ -7685,7 +7676,7 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .avatar-1XUb0A {
-	left: -4px
+	left: -4px;
 }
 
 .sidebarRegionScroller__8113e {
@@ -7725,7 +7716,7 @@ button.button_ae40a4.enabled__214db:hover {
 .noChannel__7bbff,
 .headerBar-26bpKA,
 .scroller-s-wehS {
-	border-left: 1px solid rgba(1, 1, 1, 0.25)
+	border-left: 1px solid rgba(1, 1, 1, 0.25);
 }
 
 .channelTextArea__648e5.highlighted-1sGU_w,
@@ -7820,7 +7811,7 @@ button.button_ae40a4.enabled__214db:hover {
 
 .mask-3pLFcz foreignObject,
 .wrapper-3t15Cn foreignObject {
-	mask: none
+	mask: none;
 }
 
 .bd-select:hover {
@@ -7849,11 +7840,11 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .theme-dark .textContentFooter_e03480 {
-	background: linear-gradient(0deg, rgba(var(--to-text-content-footer-on-forums), 1), rgba(var(--to-text-content-footer-on-forums), .97) 36px, rgba(var(--to-text-content-footer-on-forums), .4))
+	background: linear-gradient(0deg, rgba(var(--to-text-content-footer-on-forums), 1), rgba(var(--to-text-content-footer-on-forums), .97) 36px, rgba(var(--to-text-content-footer-on-forums), .4));
 }
 
 .theme-dark .textContentFooter_e03480.noTags__3ccd4 {
-	background: linear-gradient(0deg, rgba(var(--to-text-content-footer-on-forums), 1), rgba(var(--to-text-content-footer-on-forums), 0))
+	background: linear-gradient(0deg, rgba(var(--to-text-content-footer-on-forums), 1), rgba(var(--to-text-content-footer-on-forums), 0));
 }
 
 .countContainer-3DOo5v,
@@ -7890,7 +7881,7 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .mainColumnContainer-3y3ZF4 {
-	max-width: 80%
+	max-width: 80%;
 }
 
 .sidebarFixedContainer-2fX672 {
@@ -7899,7 +7890,7 @@ button.button_ae40a4.enabled__214db:hover {
 
 .disableCircle-2ygJEs {
 	background-color: rgba(0, 0, 0, .5);
-	color: #fff
+	color: #fff;
 }
 
 .typingIndicator-KF8hGa,
