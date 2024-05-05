@@ -7927,7 +7927,7 @@ button.button_ae40a4.enabled__214db:hover {
 
 .assetWrapperMasked__20115 {
 	mask: none;
-	-webkit-mask: none
+	-webkit-mask: none;
 }
 
 .size16__87e2d .avatarContainerMasked_ed6212,
@@ -14102,7 +14102,8 @@ path[stroke="rgb(123,162,255)"] {
 .footerUpsell-2hWHR8,
 .skeleton__3d497,
 .theme-dark .autocompleteArrow__353a5,
-.theme-dark .header_def8e2.row__9455d,
+.theme-dark .header_def8e2,
+.row__9455d,
 .button__4bf3d:hover,
 .row_c1b980,
 .card__834d4,
