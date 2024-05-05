@@ -7146,8 +7146,9 @@ button.button_ae40a4.enabled__214db:hover {
 	background: linear-gradient(to top left, #f04747, #faa61a);
 }
 
-.qualitySettingsContainer-2LjkfM {
-	border: 1px solid rgba(0, 0, 0, .55)
+.qualitySettingsContainer__8f353,
+.container__21972 {
+	border: 1px solid rgba(0, 0, 0, .95);
 }
 
 .container__852f7,
@@ -12360,7 +12361,8 @@ path[stroke="rgb(123,162,255)"] {
 .svg_bb7847 foreignObject[mask="url(#svg-diagonal-facepile-back-avatar-cutout)"],
 .mask__8ba21 foreignObject,
 .avatarDecorationHint__04b99 foreignObject,
-.bd-who-reacted__reactors:not(:empty) foreignObject {
+.bd-who-reacted__reactors:not(:empty) foreignObject,
+.container_a0d621 foreignObject {
 	-webkit-mask: none;
 	mask: none;
 }
@@ -14579,7 +14581,8 @@ path[stroke="rgb(123,162,255)"] {
 .userProfileInnerThemedNonPremium_b64fb4 .divider__7116f,
 .legalText__3817f,
 .modalHeaderCustomGift_d0f226,
-.details_bd2b5f {
+.details_bd2b5f,
+.scrollerInner__090c1.bottomSeparator__5182e {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -15284,10 +15287,6 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-radius: 16px;
 }
 
-.scrollerInner__6de5c {
-	padding-right: 22px;
-}
-
 .pageWrapperFullscreen__0c78f {
 	left: 0;
 }
@@ -15629,8 +15628,13 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .after_inlineCode__59586,
 .theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .before_inlineCode__48f7c,
-.theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .inlineCode__0cacf {
+.theme-dark .themedBackground__3a4c0:not(.channelTextAreaInner__7201d) .inlineCode__0cacf,
+.theme-dark .tooltipNested_ee18f0 {
 	background-color: #202632;
+}
+
+.theme-dark .tooltipNested_ee18f0 .tooltipPointer_f7411c {
+	border-top-color: #1c212c;
 }
 
 .containerScrollGradient__1e7d9,.containerScrollGradient__92923 {
@@ -15647,4 +15651,33 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .scrollContent_c526a7 {
 	padding-right: 14px;
+}
+
+.scrollerInner__090c1 {
+	padding-left: 16px;
+	padding-right: 10px !important;
+}
+
+.pageBody_c0e5dd {
+	padding-left: 0;
+}
+
+.browser__428d5 {
+	padding-left: 6px;
+}
+
+.scrollerInner__6de5c {
+	padding: 0 26px 16px;
+}
+
+.header__20544 {
+	margin-left: 32px;
+}
+
+.wrapper__8436d:hover .childWrapperHoverScale__6df99, .wrapper__8436d.selected_ae80f7 .childWrapperHoverScale__6df99 {
+	scale: none;
+}
+
+.status__1c26d {
+	background: none!important;
 }
