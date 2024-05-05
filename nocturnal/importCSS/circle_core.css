@@ -8427,11 +8427,7 @@ html.theme-light .app-2CXKsg::after {
 	color: #fff;
 }
 
-.avatar-3XmvJx {
-	border-radius: 4px;
-}
-
-.theme-dark .resolvingBackground__054c3 {
+.theme-dark .resolvingBackground_f83098 {
 	background: linear-gradient(90deg, rgba(0, 0, 0, .26), rgba(0, 0, 0, .35), rgba(0, 0, 0, .26))
 }
 
@@ -12247,8 +12243,7 @@ path[stroke="rgb(123,162,255)"] {
 .svg_bb7847 foreignObject[mask="url(#svg-diagonal-facepile-back-avatar-cutout)"],
 .mask__8ba21 foreignObject,
 .avatarDecorationHint__04b99 foreignObject,
-.bd-who-reacted__reactors:not(:empty) foreignObject,
-.container_a0d621 foreignObject {
+.bd-who-reacted__reactors:not(:empty) foreignObject {
 	-webkit-mask: none;
 	mask: none;
 }
@@ -15139,7 +15134,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .answer__07489:hover .answerInner_b97752.currentlyVoting__54b47,
 .secondaryButtonPresentation_a9ebe0:hover,
-.votePercentageBar_ba9103 {
+.votePercentageBar_ba9103,
+.clickable__7ff4a:hover {
 	background-color: rgba(0, 0, 0, .52);
 	outline: none;
 }
@@ -15557,4 +15553,13 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .wrapper .controls .carosell .dot.selected {
 	background: var(--dot-color, var(--primary));
+}
+
+.resolvingFakeButton__10095 {
+	border-radius: 6px;
+}
+
+.button_f8baab {
+	padding-left: 16px;
+	padding-right: 16px;
 }
