@@ -254,14 +254,14 @@
 	border-image: linear-gradient(to right,var(--profile-gradient-secondary-color),var(--profile-gradient-secondary-color)) 1;
 }
 
-.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93:disabled {
+.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .wrapper .controls .caret,.userProfileInnerThemedPremiumWithoutBanner_ee8277 .wrapper .controls .caret,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93,.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93:disabled {
 	background-color: rgba(0,0,0,.5)!important;
 	border: 2px solid var(--profile-gradient-secondary-color)!important;
 	border-radius: 6px!important;
 	color: #fff!important
 }
 
-.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93:hover:not(:disabled) {
+.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .wrapper .controls .caret:hover:not(.disabled),.userProfileInnerThemedPremiumWithoutBanner_ee8277 .wrapper .controls .caret:hover:not(.disabled),.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.colorGreen__75c93:hover:not(:disabled) {
 	color: #fff!important;
 	border: 2px solid transparent!important;
 	background-color: var(--profile-gradient-secondary-color);
@@ -294,4 +294,9 @@
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
+}
+
+.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .wrapper .controls,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .wrapper .controls {
+	background-color: var(--profile-gradient-secondary-color);
 }
