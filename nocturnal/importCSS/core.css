@@ -14003,7 +14003,8 @@ path[stroke="rgb(123,162,255)"] {
 .noticeRoot__632b7,
 .benefits_bed5d2,
 .item_ecbedf,
-.table__7058d {
+.table__7058d,
+.theme-dark .outerContainer_a76fe9 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -14727,8 +14728,7 @@ path[stroke="rgb(123,162,255)"] {
 .card_e97590,
 .container__18919,
 .seeAllPerksButton_bfef1d,
-.cardProgressBar_b12055,
-.theme-dark .outerContainer_a76fe9 {
+.cardProgressBar_b12055 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -15697,4 +15697,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .innerWrapper_fd8553 {
 	background-color: var(--backgroundDark);
 	border-radius: 16px;
+}
+
+.questsContainer__0b371 {
+	margin-top: 0;
 }
