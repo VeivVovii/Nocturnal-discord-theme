@@ -682,3 +682,11 @@
 [src*="/assets/99e3b1b11b1542005909.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/93e31ba1ad50859a7cbcd6b1f0035d6c.svg");
 }
+
+[src*="/assets/3ddd194f468b0a998570.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
+}
+
+.theme-dark .image__8bdd3 {
+	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
+}
