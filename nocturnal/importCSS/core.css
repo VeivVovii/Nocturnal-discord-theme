@@ -14743,9 +14743,7 @@ path[stroke="rgb(123,162,255)"] {
 .card_e97590,
 .container__18919,
 .seeAllPerksButton_bfef1d,
-.cardProgressBar_b12055,
-.userProfileInnerThemedNonPremium_b64fb4 .wrapper .controls,
-.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .wrapper .controls {
+.cardProgressBar_b12055 {
 	background-color: var(--backgroundDarker);
 }
 
