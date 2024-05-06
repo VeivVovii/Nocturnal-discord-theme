@@ -11488,7 +11488,7 @@ p.body-1V700N,
 	color: var(--backgroundDark);
 }
 
-.userPanelOuter__880e5.userProfileOuterUnthemed__9741c .akaBadge-ep3q0P,
+.userPanelOuter_df01a5.userProfileOuterUnthemed__9741c .akaBadge-ep3q0P,
 .progressBarTrack-1JMWIp,
 .progressBarTrack-3WT0Fs,
 .progressBarMarker-2dy17R,
@@ -15742,4 +15742,9 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .disabled_fd136f {
 	border: none !important;
+}
+
+.userPanelOuter_df01a5.userProfileOuterUnthemed__9741c .wrapper .controls,
+.userPanelOuter_df01a5.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .wrapper .controls {
+	background-color: #0c0e12;
 }
