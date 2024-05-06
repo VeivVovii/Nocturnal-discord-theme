@@ -12413,7 +12413,12 @@ path[stroke="rgb(123,162,255)"] {
 	transform: none;
 }
 
-.theme-dark .prefixInput-w72mM6.focused-2JC6KT {
+.theme-dark .prefixInput_e78a57 {
+	border-radius: 5px;
+	padding: 8px;
+}
+
+.theme-dark .prefixInput_e78a57.focused_b2f253 {
 	border-color: var(--primary);
 }
 
