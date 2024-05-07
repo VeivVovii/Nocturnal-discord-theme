@@ -7074,7 +7074,7 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .snowsgivingLink-1TZi3c {
-	position: relative
+	position: relative;
 }
 
 .snowsgivingLink-1TZi3c:after {
@@ -7088,19 +7088,19 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: transparent;
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	transform: translateX(110%);
-	transition: all .2s ease
+	transition: all .2s ease;
 }
 
 .snowsgivingLink-1TZi3c:after {
-	transform: translateX(-110%)
+	transform: translateX(-110%);
 }
 
 .snowsgivingLink-1TZi3c:hover:after {
-	transform: translateX(0)
+	transform: translateX(0);
 }
 
 .theme-dark .applicationStreamingHoverWrapper__33630 {
-	background: hsl(var(--black-500-hsl)/.6)
+	background: hsl(var(--black-500-hsl)/.6);
 }
 
 .bd-empty-image-container .bd-button {
@@ -7120,12 +7120,12 @@ button.button_ae40a4.enabled__214db:hover {
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 200% 200%
+	background-size: 200% 200%;
 }
 
 .emojiButtonContainer-1n1BNw {
 	background-color: var(--backgroundDark);
-	border: 1px solid rgba(0, 0, 0, .35)
+	border: 1px solid rgba(0, 0, 0, .35);
 }
 
 .defaultValue-19SZ-q .markValue-2U_-UG {
