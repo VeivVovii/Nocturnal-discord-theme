@@ -4676,8 +4676,8 @@ input.da-input:focus {
 .divider_bdb894,
 .users-i_3-kL,
 .backgroundAccent__6d013,
-.descriptionInput_d3c1ae,
-.editCircle-2aQAUC,
+.descriptionInput__05918,
+.editCircle_dd80d5,
 .separator-1py8Bj {
 	background-color: rgba(0, 0, 0, .35);
 }
@@ -5971,15 +5971,15 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--primary);
 }
 
-.selectorButton__0322d {
+.selectorButton__20710 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.selectorButton__0322d:hover {
+.selectorButton__20710:hover {
 	background-color: #0076c5;
 }
 
-.selectorButtonSelected__18241 {
+.selectorButtonSelected_c323f4 {
 	background-color: #008ae6 !important;
 }
 
@@ -7825,7 +7825,7 @@ button.button_ae40a4.enabled__214db:hover {
 .cursorPointer-2Pf_Hr:active,
 .cursorPointer-3JF56F:active,
 .container__7e23c .avatar-3TrM7c:active,
-.pointer_b85896:active:not(.partyAvatar__7840d, .avatar-3Jh3en, .creator__26482),
+.pointer_b85896:active:not(.partyAvatar__7840d, .avatar-3Jh3en, .creator__26482, .subscriberMask__888e1),
 .avatar_a56eee:active,
 .chatContent_f087cb .replyAvatar__4ba85:active,
 .chatContent_f087cb .executedCommandAvatar_cfc856:active,
@@ -7973,14 +7973,8 @@ button.button_ae40a4.enabled__214db:hover {
 	opacity: .3 !important;
 }
 
-.from-1-zmLY,
-.to__23110,
-.headerIcon-2RT_qX {
-	border-radius: 5px !important;
-}
-
-.headerIcon-2RT_qX {
-	margin-right: 9px !important;
+.headerIcon__063c6 {
+	margin-right: 12px !important;
 }
 
 .theme-dark .to__23110 {
@@ -8795,8 +8789,7 @@ svg.gameIcon_fc710a rect,
 	background: #1c212c;
 }
 
-.panels-3wFtMD,
-.panels__58331 {
+.panels-3wFtMD {
 	background-color: var(--backgroundDark);
 }
 
@@ -8880,7 +8873,8 @@ body,
 .privateChannels__93473,
 .searchBarComponent__8f95f,
 .content__7191e,
-.theme-dark.custom-theme-background .container_e1958d {
+.theme-dark.custom-theme-background .container_e1958d,
+.theme-dark .panels__58331 {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
 
@@ -9182,7 +9176,7 @@ img.avatar-2LpRdK,
 	bottom: -7px
 }
 
-.textArea__97e3f {
+.contentContainer_c292f3 .textArea__6e373 {
 	height: 84px;
 }
 
@@ -11668,7 +11662,7 @@ p.body-1V700N,
 .cardInput-33x7OF,
 .copyInput_f549fd,
 .textArea_d4942c,
-.input_f27786:not(.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
+.input_f27786:not(.descriptionInput__05918,.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-width: 1px;
 	border-style: solid;
@@ -11677,21 +11671,21 @@ p.body-1V700N,
 
 .cardInput-33x7OF:hover,
 .textArea_d4942c:hover,
-.input_f27786:hover:not(.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
+.input_f27786:hover:not(.descriptionInput__05918,.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
 	border-color: var(--deprecated-text-input-border-hover);
 }
 
-.theme-light .input_f27786:hover:not(.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
+.theme-light .input_f27786:hover:not(.descriptionInput__05918,.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
 	border-color: #020202;
 }
 
 .cardInput-33x7OF.cardInputFocused-31lFD1,
 .textArea_d4942c:focus,
-.input_f27786:focus:not(.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
+.input_f27786:focus:not(.descriptionInput__05918,.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
 	border-color: #00b0f4 !important;
 }
 
-.descriptionInput_d3c1ae,
+.descriptionInput__05918,
 .input_e652e6,
 .input_f27786.noBorder-1XR_5c,
 .input_f27786.noBorder-2_1CEs,
@@ -13220,7 +13214,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .theme-dark .reactorDefault__4b61e,
-.channelNotice_bbc8e6,
+.channelNotice__4b1b9,
 .theme-dark .voterDefault__6c434 {
 	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
 	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
@@ -13520,7 +13514,7 @@ path[stroke="rgb(123,162,255)"] {
 .colorPickerSwatch__87597.custom__383ac,
 .colorPickerSwatch__87597,
 .maskBackground__4b2ff,
-.pngImage-1vIgLy,
+.pngImage_dc5271,
 .wrapper__85934:not(.badge_e08f91),
 .item-1TA5qI,
 .rem-3kT9wc.botTag-7aX5WZ,
@@ -14719,7 +14713,8 @@ path[stroke="rgb(123,162,255)"] {
 .scroller__4ae44,
 .innerContainer__28ce6,
 .scroller__3c95c,
-.scroller__5f036 {
+.scroller__5f036,
+.theme-dark .subscribersPopout__56ea5[style*="overflow: hidden scroll;"] {
 	padding-right: 10px !important;
 }
 
@@ -14917,7 +14912,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 
 .toast_c6f55a path[fill="var(--text-brand)"],
 .elevatedPermissionContainer__6513c path[fill="var(--text-brand)"],
-.container_cf8411 path[fill="var(--text-brand)"] {
+.container_cf8411 path[fill="var(--text-brand)"],
+path[fill="var(--text-brand)"] {
 	fill: rgb(60, 193, 235);
 }
 
@@ -15212,7 +15208,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 }
 
 .mockInput_d3257e,
-.layout__59abc {
+.layout__59abc,
+.theme-dark .subscribersPopout__56ea5 {
 	border-radius: 5px;
 }
 
@@ -15564,7 +15561,8 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-radius: 6px;
 }
 
-.button_f8baab {
+.button_f8baab,
+.theme-dark .subscribersPopout__56ea5 {
 	padding-left: 16px;
 	padding-right: 16px;
 }
@@ -15588,4 +15586,13 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 .userPanelOuter_df01a5.userProfileOuterUnthemed__9741c .wrapper .controls,
 .userPanelOuter_df01a5.userProfileOuterUnthemed__9741c[style*="background-secondary-alt"] .wrapper .controls {
 	background-color: #0c0e12;
+}
+
+path[fill="var(--brand-500)"] {
+	fill: var(--primary);
+}
+
+.buttonsWrapper__77788 {
+	margin-left: auto;
+	margin-right: auto;
 }
