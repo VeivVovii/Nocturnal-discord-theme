@@ -6983,7 +6983,7 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--backgroundDarker);
 }
 
-.container__99b36.background_a03d45,
+.container__3c265.background__4cf17,
 .theme-dark .previewContainer-3BJM_S,
 .prompt__671aa,
 .howItWorksImageContainer_AE,
@@ -7047,7 +7047,7 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--backgroundDark);
 }
 
-.emptyStateContainer__3c229 {
+.emptyStateContainer__08276 {
 	background-color: var(--backgroundDark);
 	border: 1px solid var(--deprecated-text-input-border);
 	box-shadow: inset 0px 0px 10px 0px #000;
@@ -7068,7 +7068,8 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .addReactButton__4342f,
-.snowsgivingLink-1TZi3c:hover {
+.snowsgivingLink-1TZi3c:hover,
+.icon__795b3 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
