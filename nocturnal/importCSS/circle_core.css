@@ -6952,7 +6952,7 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--backgroundDarker);
 }
 
-.container__99b36.background_a03d45,
+.container__3c265.background__4cf17,
 .theme-dark .previewContainer-3BJM_S,
 .prompt__671aa,
 .howItWorksImageContainer_AE,
@@ -7016,7 +7016,7 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: var(--backgroundDark);
 }
 
-.emptyStateContainer__3c229 {
+.emptyStateContainer__08276 {
 	background-color: var(--backgroundDark);
 	border: 1px solid var(--deprecated-text-input-border);
 	box-shadow: inset 0px 0px 10px 0px #000;
@@ -7037,12 +7037,13 @@ button.button_ae40a4.enabled__214db:hover {
 }
 
 .addReactButton__4342f,
-.snowsgivingLink-1TZi3c:hover {
+.snowsgivingLink-1TZi3c:hover,
+.icon__795b3 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
 .snowsgivingLink-1TZi3c {
-	position: relative
+	position: relative;
 }
 
 .snowsgivingLink-1TZi3c:after {
@@ -7056,19 +7057,19 @@ button.button_ae40a4.enabled__214db:hover {
 	background-color: transparent;
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	transform: translateX(110%);
-	transition: all .2s ease
+	transition: all .2s ease;
 }
 
 .snowsgivingLink-1TZi3c:after {
-	transform: translateX(-110%)
+	transform: translateX(-110%);
 }
 
 .snowsgivingLink-1TZi3c:hover:after {
-	transform: translateX(0)
+	transform: translateX(0);
 }
 
 .theme-dark .applicationStreamingHoverWrapper__33630 {
-	background: hsl(var(--black-500-hsl)/.6)
+	background: hsl(var(--black-500-hsl)/.6);
 }
 
 .bd-empty-image-container .bd-button {
@@ -7088,12 +7089,12 @@ button.button_ae40a4.enabled__214db:hover {
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 200% 200%
+	background-size: 200% 200%;
 }
 
 .emojiButtonContainer-1n1BNw {
 	background-color: var(--backgroundDark);
-	border: 1px solid rgba(0, 0, 0, .35)
+	border: 1px solid rgba(0, 0, 0, .35);
 }
 
 .defaultValue-19SZ-q .markValue-2U_-UG {
