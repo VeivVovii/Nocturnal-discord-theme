@@ -710,3 +710,7 @@
 .headerImage_f6064e {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/ad29c03d4bb4f948547e.svg");
 }
+
+[src*="/assets/caa42aa2e3b055313b4c.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/caa42aa2e3b055313b4c.svg");
+}
