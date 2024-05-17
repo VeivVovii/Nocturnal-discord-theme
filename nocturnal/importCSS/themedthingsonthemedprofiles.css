@@ -301,3 +301,43 @@
 .userProfileOuterThemed_a425f3 .wrapper .controls {
 	background-color: var(--profile-gradient-primary-color);
 }
+
+.custom-profile-theme .tabBar__6db53 {
+	border-color: var(--profile-gradient-primary-color);
+}
+
+.custom-profile-theme .top_fae1fa .brand_ce3ecf.item__48dda:hover, 
+.custom-profile-theme .top_fae1fa .selected_a523ff.themed_b957e8.item__48dda, 
+.custom-profile-theme .top_fae1fa .themed_b957e8.item__48dda:hover, 
+.custom-profile-theme .top_fae1fa .themed_b957e8.item__48dda:active {
+	border-image: linear-gradient(to right, var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color)) 1;
+}
+
+.custom-profile-theme .showMoreButton__50b95.pill__54982,.custom-profile-theme .statusBubble__1a4c3, .custom-profile-theme .statusBubbleOuter__7e51b, .custom-profile-theme .statusBubbleOuter__7e51b:before, .custom-profile-theme .statusBubbleOuter__7e51b:after,.custom-profile-theme .divider__979dc,.custom-profile-theme .listRow__50619:hover,.custom-profile-theme .container__665d0,.custom-profile-theme .role_d81130,.custom-profile-theme .note_a92d50 textarea:focus {
+	background-color: var(--profile-gradient-secondary-color);
+}
+
+.custom-profile-theme .themedBackground__3a4c0 {
+	background: var(--bg-overlay-5,var(--profile-gradient-secondary-color)) !important;
+}
+
+.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632 {
+	background-color: rgba(0, 0, 0, .5) !important;
+	border: 2px solid var(--profile-gradient-secondary-color) !important;
+	border-radius: 6px !important;
+	color: #fff !important;
+}
+
+.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled) {
+	color: #fff !important;
+	border: 2px solid transparent !important;
+	background-color: var(--profile-gradient-secondary-color);
+	background-image: linear-gradient(to right, var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color));
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%;
+}
+
+.custom-profile-theme .connectedAccountContainer__5972d {
+	border-color: var(--profile-gradient-secondary-color);
+}
