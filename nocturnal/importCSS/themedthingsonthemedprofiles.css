@@ -324,7 +324,11 @@
 .theme-dark.custom-profile-theme .lookFilled__950dd.actionColor_db400e,
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e,
 .theme-dark.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632,
-.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632 {
+.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632,
+.theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f,
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f,
+.theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8  {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--profile-gradient-secondary-color) !important;
 	border-radius: 6px !important;
@@ -334,7 +338,11 @@
 .theme-dark.custom-profile-theme .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-dark.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled) {
+.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled),
+.theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--profile-gradient-secondary-color);
@@ -347,7 +355,11 @@
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e,
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632,
-.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled) {
+.theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f,
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled) {
 	color: #060607 !important;
 }
 
