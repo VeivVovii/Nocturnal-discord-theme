@@ -2023,9 +2023,11 @@ svg[name=Nova_Discord] * {
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_fd4fe8,
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.actionColor_db400e,
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor__8c13f,
+.userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_b3c4e5,
 [style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
 [style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
 [style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5,
 .lookFilled__950dd.colorTransparent-13Bvvi,
 .lookFilled__950dd.colorBrandNew__8872c,
 .lookFilled__950dd.colorGrey-2iAG-B,
@@ -2074,10 +2076,12 @@ svg[name=Nova_Discord] * {
 .userProfileInnerThemedNonPremium_b64fb4 .VoiceActivity-voiceprofilesection-button:hover,
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 .userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
-.userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor__8c13f:hover,
+.userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.userProfileInnerThemedNonPremium_b64fb4 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
 [style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 [style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
-[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f:hover,
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
 .lookFilled__950dd.colorTransparent-13Bvvi:hover:not(:disabled),
 .lookFilled__950dd.colorBrandNew__8872c:hover:not(:disabled),
 .lookFilled__950dd.colorGrey-2iAG-B:hover:not(:disabled),
@@ -9307,7 +9311,8 @@ img.avatar-2LpRdK,
 }
 
 .toastWrapper-3hEQou,
-.buttonColor__8c13f:hover {
+.buttonColor__8c13f:hover,
+.buttonColor_b3c4e5:hover {
 	opacity: unset !important
 }
 
@@ -11745,20 +11750,20 @@ p.body-1V700N,
 	padding: 0 10px;
 }
 
-.themedBackground__3a4c0 {
+.channelTextArea__648e5 {
 	transition: var(--transition);
 	transition-property: box-shadow;
 }
 
-.themedBackground__3a4c0:hover:not(.channelTextAreaDisabled_d0f0e8) {
+.channelTextArea__648e5:hover:not(.channelTextAreaDisabled_d0f0e8) {
 	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover);
 }
 
-.custom-profile-theme .themedBackground__3a4c0:hover {
+.custom-profile-theme .channelTextArea__648e5:hover {
 	box-shadow: 0 0 0 2px var(--profile-gradient-primary-color);
 }
 
-.themedBackground__3a4c0:focus-within:not(.channelTextAreaDisabled_d0f0e8) {
+.channelTextArea__648e5:focus-within:not(.channelTextAreaDisabled_d0f0e8) {
 	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
 }
 
@@ -15886,13 +15891,14 @@ path[fill="var(--brand-500)"] {
 }
 
 .showMoreButton__50b95 {
+	background-color: rgba(0, 0, 0, 0) !important;
 	padding: 4px 5px;
 	justify-content: center;
 }
 
 .showMoreButton__50b95 .text-xs-medium_d3e0f1{
 	font-size: 11px;
-	line-height: 11px;
+	line-height: 12px;
 }
 
 .showMoreButton__50b95.pill__54982 {
