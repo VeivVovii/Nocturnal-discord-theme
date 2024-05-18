@@ -13558,7 +13558,19 @@ path[stroke="rgb(123,162,255)"] {
 .theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:not(:disabled) {
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor__8c13f:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8:not(:disabled) {
 	color: #060607 !important;
 }
 
