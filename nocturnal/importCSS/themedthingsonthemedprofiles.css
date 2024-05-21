@@ -333,7 +333,9 @@
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5,
 .userProfileOuterThemed_a425f3 .giftButton__0988e,
 .userProfileOuterThemed_a425f3 .lookFilled__950dd.buttonColor_b3c4e5,
-.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5 {
+.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5,
+.userProfileOuterThemed_a425f3 .userProfileInnerThemedWithBanner_e9e7c5 .giftButton__0988e,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .giftButton__0988e {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--profile-gradient-secondary-color) !important;
 	border-radius: 6px !important;
@@ -352,7 +354,9 @@
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
 .userProfileOuterThemed_a425f3 .giftButton__0988e:hover,
 .userProfileOuterThemed_a425f3 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
-.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled) {
+.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.userProfileOuterThemed_a425f3 .userProfileInnerThemedWithBanner_e9e7c5 .giftButton__0988e:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .giftButton__0988e:hover:not(:disabled), {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--profile-gradient-secondary-color);
@@ -362,6 +366,22 @@
 	background-size: 200% 200%;
 }
 
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor__8c13f:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor__8c13f,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor__8c13f:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e,
 .theme-light.custom-profile-theme .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.colorPrimary_ebe632,
@@ -371,10 +391,45 @@
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8,
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5,
-.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled) {
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.chat__52833 .theme-light.userProfileOuterThemed_a425f3 .buttonColor_fd4fe8,
+.theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_fd4fe8,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_fd4fe8 {
 	color: #060607 !important;
 }
 
 .custom-profile-theme .connectedAccountContainer__5972d {
 	border-color: var(--profile-gradient-secondary-color);
+}
+
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .roleFlowerStar_b2d3a1[style*="width: 14px; height: 14px;"],
+.userProfileInnerThemedWithBanner_e9e7c5 .roleFlowerStar_b2d3a1[style*="width: 14px; height: 14px;"] {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .avatarWrapper__0cd44,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .avatar__445f3,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatarWrapper__0cd44,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatar__445f3,
+.userProfileOuterThemed_a425f3 .avatarWrapper__0cd44,
+.custom-profile-theme .avatar__4188a,
+.custom-profile-theme .clickable_bf76d2 {
+	border: 7px solid var(--profile-avatar-border-color);
+	background-color: var(--profile-avatar-border-color);
+	border-radius: 12px;
+}
+
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__088f7,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__088f7 {
+	background: var(--profile-gradient-primary-color);
+}
+
+.userProfileInnerThemedWithBanner_e9e7c5 .divider__07b2a,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .divider__07b2a,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__0b569),
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf.focused_dcafb9:not(.hideInteraction__0b569),
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__0b569),
+.userProfileInnerThemedWithBanner_e9e7c5 .menu__13d0c .colorDefault_e361cf:active:not(.hideInteraction__0b569) {
+	background: var(--profile-gradient-secondary-color);
 }
