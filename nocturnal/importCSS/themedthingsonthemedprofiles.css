@@ -330,7 +330,10 @@
 .theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8,
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8,
 .theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5,
-.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5 {
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5,
+.userProfileOuterThemed_a425f3 .giftButton__0988e,
+.userProfileOuterThemed_a425f3 .lookFilled__950dd.buttonColor_b3c4e5,
+.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5 {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--profile-gradient-secondary-color) !important;
 	border-radius: 6px !important;
@@ -346,7 +349,10 @@
 .theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_fd4fe8:hover:not(:disabled),
 .theme-dark.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled) {
+.theme-light.custom-profile-theme .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.userProfileOuterThemed_a425f3 .giftButton__0988e:hover,
+.userProfileOuterThemed_a425f3 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.userProfileOuterThemed_a425f3:not([style*=background-secondary-alt]) .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--profile-gradient-secondary-color);
