@@ -13956,11 +13956,12 @@ path[stroke="rgb(123,162,255)"] {
 	padding-right: 18px !important;
 }
 
-.actions__8415b .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 svg, .buttonMask_acf06c .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 .controlIcon__73723.centerIcon_e3df23,.actions__8415b .controlButton__863c7.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .controlIcon__73723.centerIcon_e3df23 {
+.buttonMask_acf06c .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 .controlIcon__73723.centerIcon_e3df23:not(.lottieIcon_c7076c),.actions__8415b .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 svg, .buttonMask_acf06c .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 .controlIcon__73723.centerIcon_e3df23:not(.lottieIcon_c7076c),.actions__8415b .controlButton__863c7.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .controlIcon__73723.centerIcon_e3df23 {
 	width: 24px !important;
 	height: 24px !important;
 }
 
+.staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .lottieIcon_c7076c.controlIcon__73723.centerIcon_e3df23,
 .wrapper__4d4fe .centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .controlIcon__73723.centerIcon_e3df23,
 .wrapper__4d4fe .controlButton__863c7.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .controlIcon__73723.centerIcon_e3df23 {
 	width: 20px !important;
@@ -15511,11 +15512,6 @@ path[fill="var(--text-brand)"] {
 	gap: 0;
 }
 
-.staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .lottieIcon_c7076c.controlIcon__73723.centerIcon_e3df23 {
-	width: 20px!important;
-	height: 20px!important;
-}
-
 .hoverCard__257b5:hover, .hoverCard__257b5:focus-within {
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
@@ -15646,11 +15642,6 @@ path[fill="var(--text-brand)"] {
 
 .inactiveArrow__86563 .arrowIcon__9367b {
 	fill: var(--backgroundDarker);
-}
-
-.staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 svg,.buttonMask_acf06c .staticButton_e090bc.centerButton__8316e.colorable__4f530.red__45e65.button__581d0.lookBlank_a5b4ca.colorBrand__27d57 .contents__322f4.lineHeightReset__2ff22 .controlIcon__73723.centerIcon_e3df23 {
-	width: 20px;
-	height: 20px;
 }
 
 .colorDefault_e361cf:not(.colorDanger__08c25).focused_dcafb9 .check__8d1bd {
