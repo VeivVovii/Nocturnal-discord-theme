@@ -12251,6 +12251,7 @@ path[stroke="rgb(123,162,255)"] {
 [mask="url(#svg-mask-diagonal-facepile-32)"],
 [mask="url(#svg-mask-diagonal-facepile-64)"],
 [mask="url(#svg-mask-diagonal-facepile-80)"],
+[mask="url(#svg-mask-squircle)"],
 .mask__8ba21 foreignObject,
 .avatarDecorationHint__04b99 foreignObject,
 .bd-who-reacted__reactors:not(:empty) foreignObject,
@@ -15008,7 +15009,9 @@ path[fill="var(--text-brand)"] {
 .aboutMeGuildIcon_b141fb,
 [mask="url(#svg-mask-diagonal-facepile-32)"] img,
 [mask="url(#svg-mask-diagonal-facepile-64)"] img,
-[mask="url(#svg-mask-diagonal-facepile-80)"] img {
+[mask="url(#svg-mask-diagonal-facepile-80)"] img,
+.overlay__2bab7:after,
+.guildIconImage_d3cb49 {
 	border-radius: 100%;
 }
 
@@ -15682,10 +15685,6 @@ path[fill="var(--brand-500)"] {
 .showMoreButton__50b95.pill__54982 {
 	border: 1px solid #4f545c!important;
 	border-radius: 11px;
-}
-
-.overlay__2bab7:after {
-	border-radius: 100%;
 }
 
 .lookFilled__950dd.colorPrimary_ebe632:hover:not(:disabled) {
