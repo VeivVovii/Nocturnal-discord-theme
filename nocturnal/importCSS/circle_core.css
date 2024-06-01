@@ -15011,7 +15011,8 @@ path[fill="var(--text-brand)"] {
 [mask="url(#svg-mask-diagonal-facepile-64)"] img,
 [mask="url(#svg-mask-diagonal-facepile-80)"] img,
 .overlay__2bab7:after,
-.guildIconImage_d3cb49 {
+.guildIconImage_d3cb49,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .avatarWrapper__0cd44, .userProfileInnerThemedPremiumWithoutBanner_ee8277 .avatar__445f3, .userProfileInnerThemedWithBanner_e9e7c5 .avatarWrapper__0cd44, .userProfileInnerThemedWithBanner_e9e7c5 .avatar__445f3, .userProfileOuterThemed_a425f3 .avatarWrapper__0cd44, .custom-profile-theme .avatar__4188a, .custom-profile-theme .clickable_bf76d2 {
 	border-radius: 100%;
 }
 
