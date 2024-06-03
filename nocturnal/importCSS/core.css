@@ -1999,7 +1999,7 @@ svg[name=Nova_Discord] * {
 .bd-modal-wrapper .footer button,
 .button-2b4VEQ,
 .connectionDelete-XXTMqE,
-.lookInverted_a299dc.colorBrand__27d57,
+.lookFilled__950dd.colorBrandInverted__52602,
 .questionMark-3V9mGJ {
 	border-radius: 5px !important
 }
@@ -4315,14 +4315,14 @@ input.da-input:focus {
 	color: #fff !important
 }
 
-.lookInverted_a299dc.colorBrand__27d57,
-.lookInverted_a299dc.colorBrand__27d57:disabled,
+.lookFilled__950dd.colorBrandInverted__52602,
+.lookFilled__950dd.colorBrandInverted__52602:disabled,
 .upsellButtons_a786ca .lookFilled__950dd.colorWhite__0033e,
 .ctaButton-1jtDA4.lookFilled__950dd.colorWhite__0033e,
 .ctaButton-1jtDA4 .lookFilled__950dd.colorWhite__0033e:disabled,
 .guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e,
 .guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:disabled,
-.lookInverted_a299dc.colorBrand__27d57:disabled.button__08b28:active,
+.lookFilled__950dd.colorBrandInverted__52602:disabled.button__08b28:active,
 .lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d,
 .lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d:disabled {
 	background-color: rgba(0, 0, 0, .5);
@@ -4344,7 +4344,7 @@ input.da-input:focus {
 	background-size: 200% 200%;
 }
 
-.lookInverted_a299dc.colorBrand__27d57:hover:not(:disabled),
+.lookFilled__950dd.colorBrandInverted__52602:hover:not(:disabled),
 .button__08b28:active:not(:disabled),
 .button__08b28:hover:not(:disabled),
 .ctaButton-1jtDA4.lookFilled__950dd.colorWhite__0033e:hover:not(:disabled),
@@ -4358,8 +4358,8 @@ input.da-input:focus {
 
 .ctaButton-1jtDA4.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
 .upsellButtons_a786ca .lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
-.lookInverted_a299dc.colorBrand__27d57.button__08b28:active:not(:disabled),
-.lookInverted_a299dc.colorBrand__27d57:active:not(:disabled),
+.lookFilled__950dd.colorBrandInverted__52602.button__08b28:active:not(:disabled),
+.lookFilled__950dd.colorBrandInverted__52602:active:not(:disabled),
 .guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
 .guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
 .lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d:active:not(:disabled) {
@@ -13376,7 +13376,7 @@ path[stroke="rgb(123,162,255)"] {
 	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
 }
 
-.lookInverted_a299dc.colorBrand__27d57:disabled.button__08b28:active {
+.lookFilled__950dd.colorBrandInverted__52602:disabled.button__08b28:active {
 	background-color: rgba(0, 0, 0, .5) !important;
 }
 
@@ -14783,7 +14783,7 @@ path[stroke="rgb(123,162,255)"] {
 .recentClipsPopout__5b2fb,
 .theme-dark .content_c4204c,
 .container__74689,
-.darkCardBackground__38c63,
+.darkCardBackground_d398da,
 .theme-dark .prompt__671aa .select_a50fd3 .css-6sv4e8-menu,
 .mainTableContainer_d09fd4,
 .movedTable_dbcb19,
@@ -15114,15 +15114,15 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-top: solid 1px rgba(1, 1, 1, 0.25);
 }
 
-.shopCard__3d319[style*="background-floating"] {
+.shopCard__9e3fe[style*="background-floating"] {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
-.shopCard__3d319[style*="chat-border"] {
+.shopCard__9e3fe[style*="chat-border"] {
 	border: none !important;
 }
 
-.shopCard__3d319[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
+.shopCard__9e3fe[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
 	box-shadow: 0 0 15px 1px rgba(0, 0, 0, .75) !important;
 }
 
