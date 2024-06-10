@@ -184,11 +184,11 @@
 	background-color: rgba(0,0,0,.5)!important;
 	border: 2px solid var(--profile-gradient-secondary-color)!important;
 	border-radius: 6px!important;
-	color: #fff!important
+	color: #060607!important
 }
 
 .theme-light.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),.theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled) {
-	color: #fff!important;
+	color: #060607!important;
 	border: 2px solid transparent!important;
 	background-color: var(--profile-gradient-secondary-color);
 	background-image: linear-gradient(to right,var(--profile-gradient-secondary-color),var(--profile-gradient-secondary-color));
@@ -366,6 +366,10 @@
 	background-size: 200% 200%;
 }
 
+.theme-light.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5,
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5,
+.theme-light.userProfileOuter__35e59:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.buttonColor_b3c4e5:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_ee8277 .lookFilled__950dd.actionColor_db400e:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_e9e7c5 .lookFilled__950dd.actionColor_db400e,
