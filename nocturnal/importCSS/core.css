@@ -4365,6 +4365,10 @@ input.da-input:focus {
 .lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d:active:not(:disabled) {
 	border: 2px solid transparent !important;
 	background-color: rgb(0, 120, 208) !important;
+	background-color: rgb(88, 101, 242);
+	background-color: rgb(60, 69, 165);
+	background-color: rgb(0, 138, 230);
+	background-color: #004e99;
 }
 
 .card__7756d,
@@ -5164,7 +5168,7 @@ button.button_ae40a4.enabled__214db:hover {
 	padding-right: 10px !important;
 }
 
-.overflow-W0reYu {
+.overflow__4be8d {
 	border-radius: 5px;
 	margin-left: 0;
 	background-color: rgba(0, 0, 0, 0);
@@ -5999,7 +6003,7 @@ button.button_ae40a4.enabled__214db:hover {
 	color: #fff;
 }
 
-.newBadgeText-2Yqi08 {
+.newBadgeText__874d1 {
 	color: rgb(0, 120, 208);
 }
 
@@ -13079,6 +13083,7 @@ path[stroke="rgb(123,162,255)"] {
 .userContainer__06503,
 .userContainer__1d5a2,
 .userContainer__3a358,
+.userContainer__17f5e,
 .session__201cb,
 .paginationContainer_b8c933,
 .section-3OU261,
