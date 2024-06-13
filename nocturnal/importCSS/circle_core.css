@@ -6416,7 +6416,6 @@ button.button_ae40a4.enabled__214db:hover {
 
 .checkboxContainer__063d9,
 .divider-2bkesd,
-.akaBadge__27cd4,
 .messageRequestItem__9f70d.active_a36bbb,
 .messageRequestItem__9f70d:hover {
 	background-color: rgba(0, 0, 0, .2);
@@ -9836,7 +9835,8 @@ img.avatar-2LpRdK,
 .stageUpsellImage-2C_WNd,
 .theme-dark.container_d427b7.messageContainer__842dd,
 .themedPopout-1TrfdI,
-.uploadDropModal_cfadae .bgScale_f4bff5 {
+.uploadDropModal_cfadae .bgScale_f4bff5,
+.headerBar__7c489 {
 	background-color: var(--backgroundDark) !important;
 }
 
@@ -11675,7 +11675,7 @@ p.body-1V700N,
 .theme-dark .css-1t5q03r-control,
 .theme-dark .css-fcsbhh-control,
 .cardInput-33x7OF,
-.copyInput_f549fd,
+.copyInput__7bbd3,
 .textArea_d4942c,
 .input_f27786:not(.descriptionInput__05918,.clipTitleInput_ee6839,.defaultTextInput__8ea55, .searchBox__56feb .searchBoxInput__56498, .input__3006b, .title__20d69, .messageInput_c423ff, .textarea__0461c) {
 	background-color: rgba(0, 0, 0, 0.1);
@@ -14598,7 +14598,7 @@ path[stroke="rgb(123,162,255)"] {
 .recentClipsPopout__5b2fb,
 .theme-dark .content_c4204c,
 .container__74689,
-.darkCardBackground_d398da,
+.darkCardBackground__38c63,
 .theme-dark .prompt__671aa .select_a50fd3 .css-6sv4e8-menu,
 .mainTableContainer_d09fd4,
 .movedTable_dbcb19,
@@ -14620,7 +14620,8 @@ path[stroke="rgb(123,162,255)"] {
 .theme-dark .markdown__8e519 tr:nth-child(2n),
 .statusBubble__1a4c3,
 .statusBubbleOuter__7e51b:before,
-.statusBubbleOuter__7e51b:after {
+.statusBubbleOuter__7e51b:after,
+.akaBadge__27cd4 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -14921,15 +14922,15 @@ input[type=checkbox]:focus-visible+.label__8e100 {
 	border-top: solid 1px rgba(1, 1, 1, 0.25);
 }
 
-.shopCard__9e3fe[style*="background-floating"] {
+.shopCard__3d319[style*="background-floating"] {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
-.shopCard__9e3fe[style*="chat-border"] {
+.shopCard__3d319[style*="chat-border"] {
 	border: none !important;
 }
 
-.shopCard__9e3fe[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
+.shopCard__3d319[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
 	box-shadow: 0 0 15px 1px rgba(0, 0, 0, .75) !important;
 }
 
@@ -15711,4 +15712,9 @@ path[fill="var(--brand-500)"] {
 
 .continueIconContainer_b63ff2 {
 	background-color: rgba(0, 0, 0, .4) !important;
+}
+
+.overlay_d06e6d,
+.profilePanelConnections__34438 {
+	margin-right: 10px;
 }
