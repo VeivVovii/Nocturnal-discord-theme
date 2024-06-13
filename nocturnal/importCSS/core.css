@@ -4348,20 +4348,6 @@ input.da-input:focus {
 	background-size: 200% 200%;
 }
 
-.ctaButton-1jtDA4.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
-.upsellButtons_a786ca .lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
-.lookFilled__950dd.colorBrandInverted__52602.button__08b28:active:not(:disabled),
-.lookFilled__950dd.colorBrandInverted__52602:active:not(:disabled),
-.guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
-.guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
-.lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d:active:not(:disabled),
-.cta_b3dafc:active,
-.cta_b3dafc:active:not(:disabled) {
-	color: #fff !important;
-	border: 2px solid transparent !important;
-	background-color: rgb(0, 120, 208) !important;
-}
-
 .lookFilled__950dd.colorBrandInverted__52602:hover:not(:disabled),
 .button__08b28:active:not(:disabled),
 .button__08b28:hover:not(:disabled),
@@ -4374,6 +4360,20 @@ input.da-input:focus {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--primary) !important;
+}
+
+.ctaButton-1jtDA4.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
+.upsellButtons_a786ca .lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
+.lookFilled__950dd.colorBrandInverted__52602.button__08b28:active:not(:disabled),
+.lookFilled__950dd.colorBrandInverted__52602:active:not(:disabled),
+.guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
+.guildBoostCtaBoost_ac9bf0.lookFilled__950dd.colorWhite__0033e:active:not(:disabled),
+.lookFilled__950dd.colorWhite__0033e.tierCardButton_acba1d:active:not(:disabled),
+.cta_b3dafc:active,
+.cta_b3dafc:active:not(:disabled) {
+	color: #fff !important;
+	border: 2px solid transparent !important;
+	background-color: rgb(0, 120, 208) !important;
 }
 
 .card__7756d,
