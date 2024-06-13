@@ -52,7 +52,7 @@
 }
 
 /* 🖥️ Computer */
-[style*='background-image: url("/assets/26d821c5f8618dd1fbb3.svg");'] {
+[style*='background-image: url("/assets/0ba2e1e67508c741a58c.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/computer.svg") !important;
 }
 
@@ -160,7 +160,7 @@
 
 /* 🖼️ Pictures */
 [style*='background-image: url("/assets/53e9102a961af6cf7254.svg");'],
-[style*='background-image: url("/assets/a001bb040e9c346a399d.svg");'] {
+[style*='background-image: url("/assets/cc58542eb2f3200ece94.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/pictures.svg") !important;
 }
 
@@ -170,7 +170,7 @@
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/pinned.svg") !important;
 }
 
-/* 💩 Poo */
+/* 💩 Poop */
 .theme-dark .invalidPoop__9bdd8, .theme-dark .guildIconExpired__67d9b {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/poop.svg");
 }
@@ -223,7 +223,7 @@
 
 /* 🗝️ Treasure Chest */
 [src="/assets/67430d140a79af95585a19d304731dc5.svg"],
-[src="/assets/0dd9293cce43826a9f23.svg"] {
+[src="/assets/9698913adde7a7553e17.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/treasure_chest.svg");
 }
 
