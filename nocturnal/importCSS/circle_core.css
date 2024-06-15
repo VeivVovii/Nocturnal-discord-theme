@@ -3739,13 +3739,13 @@ input.da-input:focus {
 	background: var(--bg-overlay-2, #11141a);
 }
 
-.tertiary_c0d56f {
+.channelHeader_ea0f89 .tertiary_c0d56f {
 	margin-left: 0;
 	margin-right: 12px;
 	border-radius: 50px;
 }
 
-.tertiary_c0d56f:hover:not(.disabled_b89f88) {
+.channelHeader_ea0f89 .tertiary_c0d56f:hover:not(.disabled_b89f88) {
 	margin-left: 0;
 	margin-right: 12px;
 	border-radius: 50px;
