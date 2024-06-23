@@ -8924,7 +8924,7 @@ body,
 	border: 2px solid transparent !important
 }
 
-.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner__7201d),
+.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f),
 .mockInput_d3257e {
 	background: var(--bg-overlay-5, rgb(14, 16, 21));
 }
@@ -15539,9 +15539,9 @@ path[fill="var(--text-brand)"] {
 	background-color: rgba(0, 0, 0, .65);
 }
 
-.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner__7201d) .after_inlineCode__59586,
-.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner__7201d) .before_inlineCode__48f7c,
-.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner__7201d) .inlineCode__0cacf,
+.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .after_inlineCode__59586,
+.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .before_inlineCode__48f7c,
+.theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .inlineCode__0cacf,
 .theme-dark .tooltipNested_ee18f0 {
 	background-color: #202632;
 }
