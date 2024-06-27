@@ -234,23 +234,23 @@
 }
 
 .cursorDefault_c51b4e,
-.dots_a97068 {
+.dots_ce0450 {
 	overflow: visible;
 }
 
-.mask_c51b4e .dots_a97068 circle {
+.mask_c51b4e .dots_ce0450 circle {
 	cy: -8 !important;
 }
 
-.mask_c51b4e .dots_a97068 circle:nth-child(1) {
+.mask_c51b4e .dots_ce0450 circle:nth-child(1) {
 	cx: -8.5 !important;
 }
 
-.mask_c51b4e .dots_a97068 circle:nth-child(2) {
+.mask_c51b4e .dots_ce0450 circle:nth-child(2) {
 	cx: -2.25 !important;
 }
 
-.mask_c51b4e .dots_a97068 circle:nth-child(3) {
+.mask_c51b4e .dots_ce0450 circle:nth-child(3) {
 	cx: 4 !important;
 }
 
