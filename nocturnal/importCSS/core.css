@@ -8895,8 +8895,8 @@ svg.gameIcon_f394e5 rect,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
-.avatar_bc9cc2,
-.clickable_cc54d6 {
+.clickable_cc54d6,
+.avatar_f18fcb {
 	border: 7px solid var(--backgroundDark);
 	background-color: var(--backgroundDark);
 	border-radius: 12px;
@@ -8920,7 +8920,6 @@ svg.gameIcon_f394e5 rect,
 
 .avatarWrapper_f89da9,
 .avatar_bc9cc2,
-.avatar_bc9cc2,
 .avatar_ec3b75 {
 	left: 14px;
 }
@@ -8929,7 +8928,6 @@ svg.gameIcon_f394e5 rect,
 	left: 16px;
 }
 
-.avatar_bc9cc2,
 .avatar_bc9cc2,
 .avatar_ec3b75 {
 	top: -76px;
@@ -16036,7 +16034,8 @@ path[fill="var(--brand-500)"] {
 }
 
 .clickable_cc54d6,
-.avatar_f94206 {
+.avatar_f94206,
+.avatar_f18fcb {
 	left: 8px;
 	top: 53px;
 }
