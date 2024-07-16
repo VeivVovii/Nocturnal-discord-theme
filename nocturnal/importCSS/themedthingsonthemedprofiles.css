@@ -449,9 +449,12 @@
 .custom-profile-theme .divider__07b2a,
 .custom-profile-theme .menu_ad5fac .colorDefault_d90b3d.focused_d90b3d:not(.hideInteraction_d90b3d),
 .custom-profile-theme .menu_ad5fac .colorDefault_d90b3d:active:not(.hideInteraction_d90b3d),
-.custom-profile-theme .divider_e3d8a6,
-.theme-dark.custom-profile-theme .activity_cd74cc {
+.custom-profile-theme .divider_e3d8a6 {
 	background: var(--profile-gradient-secondary-color);
+}
+
+.theme-dark.custom-profile-theme .activity_cd74cc {
+	background: var(--profile-gradient-primary-color);
 }
 
 .custom-profile-theme .button_edead5 {
