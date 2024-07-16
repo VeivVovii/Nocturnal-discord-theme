@@ -3682,11 +3682,11 @@ input.da-input:focus {
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.blockquoteDivider__5cbad {
+.blockquoteDivider_f8f345 {
 	background-color: var(--primary);
 }
 
-.blockquoteContainer__66aaa .blockquoteDivider__5cbad {
+.blockquoteContainer_f8f345 .blockquoteDivider_f8f345 {
 	border-radius: 5px;
 }
 
@@ -5006,42 +5006,42 @@ button.button_f67531.enabled_f67531:hover {
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
 
-.assetsLargeMaskUserPopout_d5089b,
-.assetsLargeMaskUserPopoutV2_d5089b,
-.assetsLargeMaskStreamPreview_d5089b,
-.assetsLargeMaskVoiceChannel_d5089b,
-.assetsLargeMaskBiteSizePopout_d5089b,
-.assetsLargeMaskVoiceChannel_d5089b,
-.assetsLargeMaskUserPopout_d5089b,
-.assetsLargeMaskUserPopoutV2_d5089b,
-.assetsLargeMaskStreamPreview_d5089b,
-.assetsLargeImageStreamPreviewXbox_d5089b,
-.assetsLargeImageUserPopoutXbox_d5089b,
-.assetsLargeImageActivityFeedXbox_d5089b,
-.assetsLargeImageActivityFeed_d5089b,
-.assetsLargeImageActivityFeedXbox_d5089b,
-.assetsLargeImageProfile_d5089b,
-.assetsLargeImageProfileV2_d5089b,
-.assetsSmallImageUserPopout_d5089b,
-.assetsSmallImageUserPopoutV2_d5089b,
-.assetsSmallImageStreamPreview_d5089b,
-.assetsSmallImageVoiceChannel_d5089b,
-.assetsLargeMaskStreamPreview_d5089b,
-.assetsLargeMaskUserPopout_d5089b,
-.assetsLargeMaskUserPopoutV2_d5089b,
-.assetsLargeMaskActivityFeed_d5089b,
-.assetsLargeMaskProfile_d5089b,
-.assetsLargeMaskProfileV2_d5089b,
-.assetsLargeMaskUserPopout_d5089b,
-.assetsLargeMaskVoiceChannel_d5089b,
-.assetsSmallImageActivityFeed_d5089b,
-.assetsSmallImageProfile_d5089b,
-.assetsSmallImageProfileV2_d5089b,
-.assetsSmallImageSimplifiedProfile_d5089b,
-.assetsLargeMaskActivityFeed_d5089b,
-.assetsLargeMaskProfile_d5089b,
-.assetsLargeMaskProfileV2_d5089b,
-.assetsLargeMaskSimplifiedProfile_d5089b {
+.assetsLargeMaskUserPopout_c1d9fd,
+.assetsLargeMaskUserPopoutV2_c1d9fd,
+.assetsLargeMaskStreamPreview_c1d9fd,
+.assetsLargeMaskVoiceChannel_c1d9fd,
+.assetsLargeMaskBiteSizePopout_c1d9fd,
+.assetsLargeMaskVoiceChannel_c1d9fd,
+.assetsLargeMaskUserPopout_c1d9fd,
+.assetsLargeMaskUserPopoutV2_c1d9fd,
+.assetsLargeMaskStreamPreview_c1d9fd,
+.assetsLargeImageStreamPreviewXbox_c1d9fd,
+.assetsLargeImageUserPopoutXbox_c1d9fd,
+.assetsLargeImageActivityFeedXbox_c1d9fd,
+.assetsLargeImageActivityFeed_c1d9fd,
+.assetsLargeImageActivityFeedXbox_c1d9fd,
+.assetsLargeImageProfile_c1d9fd,
+.assetsLargeImageProfileV2_c1d9fd,
+.assetsSmallImageUserPopout_c1d9fd,
+.assetsSmallImageUserPopoutV2_c1d9fd,
+.assetsSmallImageStreamPreview_c1d9fd,
+.assetsSmallImageVoiceChannel_c1d9fd,
+.assetsLargeMaskStreamPreview_c1d9fd,
+.assetsLargeMaskUserPopout_c1d9fd,
+.assetsLargeMaskUserPopoutV2_c1d9fd,
+.assetsLargeMaskActivityFeed_c1d9fd,
+.assetsLargeMaskProfile_c1d9fd,
+.assetsLargeMaskProfileV2_c1d9fd,
+.assetsLargeMaskUserPopout_c1d9fd,
+.assetsLargeMaskVoiceChannel_c1d9fd,
+.assetsSmallImageActivityFeed_c1d9fd,
+.assetsSmallImageProfile_c1d9fd,
+.assetsSmallImageProfileV2_c1d9fd,
+.assetsSmallImageSimplifiedProfile_c1d9fd,
+.assetsLargeMaskActivityFeed_c1d9fd,
+.assetsLargeMaskProfile_c1d9fd,
+.assetsLargeMaskProfileV2_c1d9fd,
+.assetsLargeMaskSimplifiedProfile_c1d9fd {
 	-webkit-mask: none;
 	mask: none;
 }
@@ -8792,7 +8792,6 @@ svg.gameIcon_f394e5 rect,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
-.avatar__4188a,
 .clickable_cc54d6 {
 	border: 7px solid var(--backgroundDark);
 	background-color: var(--backgroundDark);
@@ -8810,7 +8809,6 @@ svg.gameIcon_f394e5 rect,
 
 .avatarWrapper_f89da9,
 .avatar_bc9cc2,
-.avatar__4188a,
 .avatar_ec3b75 {
 	left: 14px;
 }
@@ -8820,7 +8818,6 @@ svg.gameIcon_f394e5 rect,
 }
 
 .avatar_bc9cc2,
-.avatar__4188a,
 .avatar_ec3b75 {
 	top: -76px;
 }
@@ -9585,8 +9582,8 @@ img.avatar-2LpRdK,
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.userProfileInnerThemedNonPremium_c69a7b .profileBadges__1f2ab,
-.userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .profileBadges__1f2ab {
+.userProfileInnerThemedNonPremium_c69a7b .profileBadges_f89da9,
+.userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .profileBadges_f89da9 {
 	background-color: rgba(0, 0, 0, .15);
 }
 
@@ -13110,7 +13107,7 @@ path[stroke="rgb(123,162,255)"] {
 .tabBar-1_P75h,
 .tabBar_bf82ae,
 .tabBar_bff66b,
-.userProfileInnerThemedNonPremium_c69a7b .tabBarContainer_b283be,
+.userProfileInnerThemedNonPremium_c69a7b .tabBarContainer_b9fccc,
 .divider-23Pydw,
 .tabBar-MGaxA0,
 .header-1Hn2NV,
@@ -14618,7 +14615,7 @@ path[stroke="rgb(123,162,255)"] {
 .tabBar_a013ee,
 .tabContainer__64032,
 .tabBar__97134,
-.userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .tabBarContainer_b283be,
+.userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .tabBarContainer_b9fccc,
 .userProfileModalOuter__90b4a[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .divider__7116f,
 .userProfileInnerThemedNonPremium_c69a7b .divider__7116f,
 .legalText_bfa0f5,
@@ -15194,7 +15191,7 @@ path[fill="var(--text-brand)"] {
 [mask="url(#svg-mask-diagonal-facepile-80)"] img,
 .overlay_cc54d6:after,
 .guildIconImage_d3cb49,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9, .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2, .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9, .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2, .userProfileOuterThemed_c69a7b .avatarWrapper_f89da9, .custom-profile-theme .avatar__4188a, .custom-profile-theme .clickable_cc54d6 {
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9, .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2, .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9, .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2, .userProfileOuterThemed_c69a7b .avatarWrapper_f89da9, .custom-profile-theme .avatar_bc9cc2, .custom-profile-theme .clickable_cc54d6 {
 	border-radius: 100%;
 }
 
@@ -15803,7 +15800,7 @@ path[fill="var(--brand-500)"] {
 
 .icon_bf515c {
 	margin-top: -0.5px;
-	margin-bottom: 0.3rem;
+	margin-bottom: 0.4rem;
 }
 
 .inspectedIndicator_a708c4 {
