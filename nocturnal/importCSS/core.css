@@ -15736,7 +15736,10 @@ path[fill="var(--text-brand)"] {
 .biteSizeOverlayBackground_c69a7b, .fullSizeOverlayBackground_c69a7b,
 .theme-dark .statusBubbleOuter_d0a252, .theme-dark .statusBubbleOuter_d0a252:before, .theme-dark .statusBubbleOuter_d0a252:after,
 .custom-profile-theme .container_e5a42d,
-.gameImageContainer_ecf6f5 {
+.gameImageContainer_ecf6f5,
+.custom-profile-theme.theme-dark .statusBubbleOuter_d0a252,
+.custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:before,
+.custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:after {
 	border: none;
 	box-shadow: none;
 }
