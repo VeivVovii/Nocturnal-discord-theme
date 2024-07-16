@@ -3502,7 +3502,7 @@ svg[name=Nitro] g path {
 .clickable_e9f61e:active .layout_e9f61e:after,
 .clickable_e9f61e:hover .layout_e9f61e:after,
 .selected_e9f61e .layout_e9f61e:after,
-.interactive_c91bad:focus-within.interactive_c91bad::after,
+.interactive_f5eb4b:focus-within.interactive_c91bad::after,
 .interactive_f5eb4b:active.interactive_c91bad:after,
 .interactive_f5eb4b:hover.interactive_c91bad:after,
 .interactiveSelected_c91bad.interactive_c91bad:after {
@@ -8437,8 +8437,8 @@ button.button_f67531.enabled_f67531:hover {
 	border-radius: 0 8px 8px 0;
 }
 
-.link__3a950[data-list-item-id="public-servers"] .avatar-1HDIsL svg,
-.link__3a950[id="public-servers-button"] .avatar-1HDIsL svg {
+.link_c91bad[data-list-item-id="public-servers"] .avatar-1HDIsL svg,
+.link_c91bad[id="public-servers-button"] .avatar-1HDIsL svg {
 	fill: var(--primary)
 }
 
@@ -8974,6 +8974,7 @@ svg.gameIcon_f394e5 rect,
 	background: var(--bg-overlay-4, var(--__header-bar-background));
 }
 
+.theme-dark .sidebarContainer_a3a4ce,
 .theme-dark .button_ef08e7,
 .theme-dark .scroller__7d61e,
 .theme-dark .scroller_c92337,
@@ -11913,8 +11914,8 @@ p.body-1V700N,
 
 .interactive_f5eb4b.selected_f5eb4b,
 .interactive_f5eb4b.selected_f5eb4b:hover,
-.interactive_f5eb4b.selected_f5eb4b .link__3a950,
-.interactive_f5eb4b.selected_f5eb4b:hover .link__3a950 {
+.interactive_f5eb4b.selected_f5eb4b .link_c91bad,
+.interactive_f5eb4b.selected_f5eb4b:hover .link_c91bad {
 	cursor: default;
 }
 
