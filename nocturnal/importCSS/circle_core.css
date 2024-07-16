@@ -12941,7 +12941,6 @@ path[stroke="rgb(123,162,255)"] {
 .userProfileOuterUnthemed_c69a7b .badgeList_ab525a,
 .container_bc56ce,
 .container_e5a42d,
-.theme-dark.custom-profile-theme .activity_cd74cc,
 .activity_cd74cc {
 	background-color: rgba(0, 0, 0, .15);
 	border: none;
@@ -16245,5 +16244,17 @@ path[fill="var(--brand-500)"] {
 
 .avatar_c5b389,
 .avatar_eb1ca6 {
+	border-radius: 100%;
+}
+
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper__0cd44,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar__445f3,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatarWrapper__0cd44,
+.userProfileInnerThemedWithBanner_e9e7c5 .avatar__445f3,
+.userProfileOuterThemed_c69a7b .avatarWrapper__0cd44,
+.custom-profile-theme .avatar_bc9cc2,
+.custom-profile-theme .clickable_cc54d6,
+.custom-profile-theme .avatar_f94206,
+.custom-profile-theme .clickable_f26c88 {
 	border-radius: 100%;
 }
