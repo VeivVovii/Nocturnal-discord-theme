@@ -9283,7 +9283,7 @@ img.avatar-2LpRdK,
 	color: #fff !important;
 }
 
-.hoverButtonGroup_ab8b23 {
+.hoverButtonGroup_e5c1dc {
 	background-color: var(--backgroundDark);
 	box-shadow: inset 0 0 100000px 0 rgba(0, 0, 0, .5);
 }
@@ -9308,8 +9308,8 @@ img.avatar-2LpRdK,
 	text-decoration: underline;
 }
 
-.hoverButton_ab8b23:hover:not(.removeAttachmentHoverButton_ab8b23,.removeMosaicItemHoverButton_ab8b23),
-.keyboard-mode .hoverButton_ab8b23:focus:not(.removeAttachmentHoverButton_ab8b23,.removeMosaicItemHoverButton_ab8b23),
+.hoverButton_e5c1dc:hover:not(.removeAttachmentHoverButton_e5c1dc,.removeMosaicItemHoverButton_e5c1dc),
+.keyboard-mode .hoverButton_e5c1dc:focus:not(.removeAttachmentHoverButton_e5c1dc,.removeMosaicItemHoverButton_e5c1dc),
 .header-3cSJjT,
 .theme-dark .popout-AVsFMl,
 .bumpBox_ca33de,
@@ -9346,11 +9346,11 @@ img.avatar-2LpRdK,
 	border: 2px solid rgba(0, 0, 0, 0)
 }
 
-.nonMediaMosaicItem_ab8b23 {
+.nonMediaMosaicItem_e5c1dc {
 	outline: none;
 }
 
-.nonMediaMosaicItem_ab8b23:hover {
+.nonMediaMosaicItem_e5c1dc:hover {
 	outline: 1px solid rgba(0, 0, 0, .95);
 }
 
