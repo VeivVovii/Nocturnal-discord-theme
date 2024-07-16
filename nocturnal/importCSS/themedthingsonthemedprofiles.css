@@ -427,7 +427,8 @@
 .custom-profile-theme .avatar_bc9cc2,
 .custom-profile-theme .clickable_cc54d6,
 .custom-profile-theme .avatar_f94206,
-.custom-profile-theme .clickable_f26c88 {
+.custom-profile-theme .clickable_f26c88,
+.custom-profile-theme .avatar_f18fcb {
 	border: 7px solid var(--profile-avatar-border-color);
 	background-color: var(--profile-avatar-border-color);
 	border-radius: 12px;
