@@ -7634,7 +7634,7 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 .iconBackground-3gHYPJ,
-.selectGuild-2A4oJC .icon_f11207,
+.selectGuild-2A4oJC .icon_a64689,
 .searchBar-3OIGe3 .richTag_d46ff6 {
 	background-color: rgba(0, 0, 0, .5) !important;
 }
@@ -11693,11 +11693,11 @@ p.body-1V700N,
 	background-color: rgb(60, 193, 235);
 }
 
-.guildStatus-12htKt .icon_f11207[style*="font-size: 17px;"] {
+.guildStatus-12htKt .icon_a64689[style*="font-size: 17px;"] {
 	font-size: 50px !important;
 }
 
-.guildStatus-12htKt .icon_f11207[style*="font-size: 15px;"] {
+.guildStatus-12htKt .icon_a64689[style*="font-size: 15px;"] {
 	font-size: 24px !important;
 }
 
@@ -15474,7 +15474,7 @@ path[fill="var(--text-brand)"] {
 .icon__3fbb1,
 .icon__20c60,
 .image__9143d,
-.iconActiveLarge_f11207,
+.iconActiveLarge_a64689,
 .headerImage_d6594e,
 .avatar__0d465,
 .avatar__52a9b,
@@ -15483,7 +15483,7 @@ path[fill="var(--text-brand)"] {
 .guildIcon__3cd2e,
 .detailsTooltip_G9hSSa div.icon_hSL42R,
 .icon_hSL42R,
-.iconActiveLarger_f11207 {
+.iconActiveLarger_a64689 {
 	border-radius: 100% !important;
 }
 
