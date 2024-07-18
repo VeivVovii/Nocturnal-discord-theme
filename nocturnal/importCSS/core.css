@@ -4529,10 +4529,10 @@ input.da-input:focus {
 	margin-bottom: 0;
 }
 
-.memberGroupsPlaceholder_fb03e5,
-.mulitplePlaceholderUsername_fb03e5,
-.placeholderAvatar_fb03e5,
-.placeholderUsername_fb03e5,
+.memberGroupsPlaceholder_dac468,
+.mulitplePlaceholderUsername_dac468,
+.placeholderAvatar_dac468,
+.placeholderUsername_dac468,
 .attachment_b75bb9,
 .avatar_b75bb9,
 .blob_b75bb9 {
@@ -7778,10 +7778,10 @@ button.button_f67531.enabled_f67531:hover {
 .category_b68b01,
 .channelIcon_b68b01,
 .channelName_b68b01,
-.memberGroupsPlaceholder_fb03e5,
-.mulitplePlaceholderUsername_fb03e5,
-.placeholderAvatar_fb03e5,
-.placeholderUsername_fb03e5,
+.memberGroupsPlaceholder_dac468,
+.mulitplePlaceholderUsername_dac468,
+.placeholderAvatar_dac468,
+.placeholderUsername_dac468,
 .theme-dark .container__55cc1:hover .previewContainer-3BJM_S {
 	background-color: var(--backgroundDarker);
 }
@@ -12118,10 +12118,10 @@ path[stroke="rgb(123,162,255)"] {
 	background: var(--bg-overlay-3, var(--__header-bar-background));
 }
 
-.theme-dark.custom-theme-background .memberGroupsPlaceholder_fb03e5,
-.theme-dark.custom-theme-background .mulitplePlaceholderUsername_fb03e5,
-.theme-dark.custom-theme-background .placeholderAvatar_fb03e5,
-.theme-dark.custom-theme-background .placeholderUsername_fb03e5 {
+.theme-dark.custom-theme-background .memberGroupsPlaceholder_dac468,
+.theme-dark.custom-theme-background .mulitplePlaceholderUsername_dac468,
+.theme-dark.custom-theme-background .placeholderAvatar_dac468,
+.theme-dark.custom-theme-background .placeholderUsername_dac468 {
 	background: var(--bg-overlay-3);
 }
 
