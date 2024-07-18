@@ -3881,14 +3881,14 @@ input.da-input:focus {
 
 .colorDefault_d90b3d.focused_d90b3d:not(.colorDanger_d90b3d):not(.hideInteraction_d90b3d),
 .customLabelContainer_b6bf2d:hover,
-.nagivateBackContainer__953b5:hover,
+.nagivateBackContainer_f6ea32:hover,
 .otherDatesContainer_f6ea32.focused_f6ea32 {
 	background: var(--bg-overlay-hover, rgb(0, 0, 0, 0.2));
 }
 
 .colorDefault_d90b3d:active:not(.colorDanger_d90b3d):not(.hideInteraction_d90b3d),
 .customLabelContainer_b6bf2d:active,
-.nagivateBackContainer__953b5:active,
+.nagivateBackContainer_f6ea32:active,
 .otherDatesContainer_f6ea32:active {
 	background: var(--bg-overlay-active, rgb(0, 0, 0, 0.3));
 }
@@ -15229,7 +15229,7 @@ path[fill="var(--text-brand)"] {
 .container__852f7,
 .elevatedPermission_af9178,
 .otherDatesContainer_f6ea32,
-.nagivateBackContainer__953b5,
+.nagivateBackContainer_f6ea32,
 .activitySectionAssets_cd82a7 .borderRadius0_b7b155 {
 	border-radius: 5px;
 }
@@ -15248,17 +15248,20 @@ path[fill="var(--text-brand)"] {
 
 .radioSelection__254a5,
 .radioSelection__0d9ba,
-.radioSelection__85f56,
+.radioSelection_f6ea32,
 .radioSelection__207e1 {
 	color: #b9bbbe;
 }
 
-.otherDatesContainer_f6ea32.focused_f6ea32 .radioSelection__85f56,
+.otherDatesContainer_f6ea32.focused_f6ea32 .radioSelection_f6ea32,
+.nagivateBackContainer_f6ea32.focused_f6ea32 .radioSelection_f6ea32,
+.otherDatesContainer_f6ea32.focused_f6ea32 path,
+.nagivateBackContainer_f6ea32.focused_f6ea32 path,
 .tierCardButtonCTA__35e44 {
 	color: #fff;
 }
 
-.sortButton_d8b97a path {
+.sortButton_b0740c path {
 	fill: #fff;
 }
 
