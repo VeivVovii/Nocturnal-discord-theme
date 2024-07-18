@@ -15478,6 +15478,9 @@ path[fill="var(--text-brand)"] {
 }
 
 .otherDatesContainer_f6ea32.focused_f6ea32 .radioSelection_f6ea32,
+.nagivateBackContainer_f6ea32.focused_f6ea32 .radioSelection_f6ea32,
+.otherDatesContainer_f6ea32.focused_f6ea32 path,
+.nagivateBackContainer_f6ea32.focused_f6ea32 path,
 .tierCardButtonCTA__35e44 {
 	color: #fff;
 }
