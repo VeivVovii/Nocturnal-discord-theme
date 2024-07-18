@@ -7299,7 +7299,7 @@ button.button_f67531.enabled_f67531:hover {
 	border-radius: 100%;
 }
 
-.theme-dark .contentWarningPopout__84e38,
+.theme-dark .contentWarningPopout_fa823b,
 .wrapper__38bac {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
@@ -9467,6 +9467,7 @@ img.avatar-2LpRdK,
 }
 
 .background_c54132,
+.theme-dark .footer_fa823b,
 .theme-dark .footer__068c0,
 .container_a6d69a,
 .background__2fff8,
