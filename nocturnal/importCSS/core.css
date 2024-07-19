@@ -8101,7 +8101,7 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 .tagRoleColor_effbe2 {
-	border-radius: 2.5px
+	border-radius: 2.5px;
 }
 
 .role_deddac {
@@ -16571,4 +16571,8 @@ body,
 
 .avatar_f9647d path[fill="var(--interactive-normal)"] {
 	fill: var(--primary);
+}
+
+.avatar_e825f6 {
+	border-radius: 8px;
 }
