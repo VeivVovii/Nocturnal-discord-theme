@@ -85,6 +85,10 @@
 	background-size: 40%;
 }
 
+[src*='/assets/742323d36ad1c45d0c2b.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/friend.svg") !important;
+}
+
 /* 🤷‍♂️ GIF not found */
 .theme-dark .sadImage_e78f9e {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/gif_not_found.svg");
@@ -417,7 +421,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/87f8416faec0691b96525d0bb3027809.svg")
 }
 
-.theme-dark .ageGatedImage__0f274 {
+.theme-dark .ageGatedImage_fbb822 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/87f8416faec0691b96525d0bb3027809.svg")
 }
 
@@ -654,7 +658,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
 }
 
-.theme-dark .image__8bdd3 {
+.theme-dark .image_fea561 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
 }
 
@@ -676,4 +680,20 @@
 
 [src*="/assets/494fde817a903b7a26ab.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5f284899e72a967e9f34.svg");
+}
+
+.images-dark .image_def860 {
+	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/df670815658f288bce7d.svg");
+}
+
+[src*='/assets/72637aa9c1ec785944a4.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a9efd5e06b5616d39a6ee4232211f9b0.svg") !important;
+}
+
+[src*='/assets/85fc5205a3e76b57c9f5.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/85fc5205a3e76b57c9f5.svg") !important;
+}
+
+[src*='/assets/1ba25bb80d8ee4c89105.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/1ba25bb80d8ee4c89105.svg") !important;
 }
