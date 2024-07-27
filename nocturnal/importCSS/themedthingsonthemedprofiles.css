@@ -313,7 +313,7 @@
 	border-image: linear-gradient(to right, var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color)) 1;
 }
 
-.custom-profile-theme .showMoreButton_c83b44.pill_c83b44,.custom-profile-theme .statusBubble_d0a252, .custom-profile-theme .statusBubbleOuter_d0a252, .custom-profile-theme .statusBubbleOuter_d0a252:before, .custom-profile-theme .statusBubbleOuter_d0a252:after,.custom-profile-theme .divider__979dc,.custom-profile-theme .listRow_e4be58:hover,.custom-profile-theme .container_e5a42d,.custom-profile-theme .role_f9575e,.custom-profile-theme .note_c2dcc6 textarea:focus {
+.custom-profile-theme .collapseButton_c83b44.pill_c83b44,.custom-profile-theme .showMoreButton_c83b44.pill_c83b44,.custom-profile-theme .statusBubble_d0a252, .custom-profile-theme .statusBubbleOuter_d0a252, .custom-profile-theme .statusBubbleOuter_d0a252:before, .custom-profile-theme .statusBubbleOuter_d0a252:after,.custom-profile-theme .divider__979dc,.custom-profile-theme .listRow_e4be58:hover,.custom-profile-theme .container_e5a42d,.custom-profile-theme .role_f9575e,.custom-profile-theme .note_c2dcc6 textarea:focus {
 	background-color: var(--profile-gradient-secondary-color) !important;
 }
 
