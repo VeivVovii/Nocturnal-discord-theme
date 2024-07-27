@@ -3269,7 +3269,7 @@ svg[name=Nitro] g path {
 	border-right-color: var(--backgroundDarker) !important;
 }
 
-.childWrapper_f90abb,
+.childWrapperNoHoverBg_f90abb,
 .button-2KyEfG:hover:not(.buttonScreenShareDisabled-1xwK5y),
 .button-2b6hmh:hover,
 .container_effbe2,
@@ -15364,6 +15364,9 @@ path[fill="var(--text-brand)"] {
 [mask="url(#svg-mask-diagonal-facepile-32)"] img,
 [mask="url(#svg-mask-diagonal-facepile-64)"] img,
 [mask="url(#svg-mask-diagonal-facepile-80)"] img,
+[mask="url(#svg-mask-diagonal-facepile-status-32)"] img,
+[mask="url(#svg-mask-diagonal-facepile-status-64)"] img,
+[mask="url(#svg-mask-diagonal-facepile-status-80)"] img,
 .overlay_cc54d6:after,
 .guildIconImage_d3cb49,
 .guildIconImage_a2e41e,
@@ -15934,7 +15937,7 @@ path[fill="var(--text-brand)"] {
 	margin-left: 32px;
 }
 
-.wrapper_f90abb:hover .childWrapperHoverScale__6df99, .wrapper_f90abb.selected_f90abb .childWrapperHoverScale__6df99 {
+.wrapper_f90abb:hover .childWrapperHoverScale_f90abb, .wrapper_f90abb.selected_f90abb .childWrapperHoverScale_f90abb {
 	scale: none;
 }
 
@@ -16147,7 +16150,8 @@ path[fill="var(--brand-500)"] {
 .mask_bfabc4 foreignObject,
 .clanIconMask_e0fe28 foreignObject,
 .clanIconInner_e0fe28 foreignObject,
-.mask_a69fe5 foreignObject {
+.mask_a69fe5 foreignObject,
+[mask="url(#svg-mask-diagonal-facepile-status-32)"] {
 	-webkit-mask: none;
 	mask: none;
 }
