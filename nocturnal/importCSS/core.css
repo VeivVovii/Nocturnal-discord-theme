@@ -5846,11 +5846,11 @@ button.button_f67531.enabled_f67531:hover {
 	background-color: var(--backgroundDarker);
 }
 
-.experimentUpsellError__08d60 {
+.experimentUpsellError_ed5743 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.experimentUpsellError__08d60:hover {
+.experimentUpsellError_ed5743:hover {
 	background-color: rgba(0, 0, 0, .35);
 }
 
@@ -8334,7 +8334,8 @@ button.button_f67531.enabled_f67531:hover {
 
 .bd-addon-error-stack code {
 	background: rgba(0, 0, 0, 0);
-	border: 1px solid rgba(0, 0, 0, .55)
+	border: 1px solid rgba(0, 0, 0, .95);
+	scrollbar-color: rgba(0, 0, 0, .35) rgba(0, 0, 0, 0);
 }
 
 .formFieldWrapper-3IiCRS,
@@ -10932,8 +10933,9 @@ p.body-1V700N,
 .monaco-editor,
 .monaco-editor-background,
 .monaco-editor .inputarea.ime-input,
-.monaco-editor .margin {
-	background-color: var(--backgroundDarker) !important;
+.monaco-editor .margin,
+.floating-window-content {
+	background-color: var(--backgroundDarker);
 }
 
 .content_f9a4c9.selectContent_a9236d,
@@ -13201,8 +13203,13 @@ path[stroke="rgb(123,162,255)"] {
 .iconContainer_df0aed,
 .rowIcon_b56b8b,
 .background_b42a48,
-.iconBackground_fc08d1 {
+.iconBackground_fc08d1,
+.floating-window-buttons .maximize-button:hover {
 	background-color: rgba(0, 0, 0, .35);
+}
+
+.floating-window-buttons .maximize-button:active {
+	background-color: rgba(0, 0, 0, .7);
 }
 
 .footer_b96583,
@@ -16479,7 +16486,8 @@ path[fill="var(--brand-500)"] {
 
 .body_e9e42f,
 .overlay_b433b4,
-.overlay_f9da1d {
+.overlay_f9da1d,
+.overlay_a465ac {
 	margin-right: 10px;
 }
 
@@ -16579,7 +16587,8 @@ path[fill="var(--brand-500)"] {
 .container_db0741,
 .container_d3aca4,
 .table_df16c1,
-.iconBackground_a5828d {
+.iconBackground_a5828d,
+.sidebarContainer_e5b5f9 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
@@ -16956,4 +16965,8 @@ body,
 .mainTableContainer_e23072 .container_c18ec9 {
 	background: var(--bg-overlay-1,var(--backgroundDark));
 	box-shadow: var(--bg-overlay-1, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
+}
+
+.content_f9a4c9.modalContent_e5b5f9 {
+	padding-right: 0 !important;
 }
