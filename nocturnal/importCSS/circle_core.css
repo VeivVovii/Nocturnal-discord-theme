@@ -16715,6 +16715,10 @@ body,
 }
 
 .mainTableContainer_e23072 {
-	background: var(--bg-overlay-1,#1c212c);
+	background: var(--bg-overlay-2,#1c212c);
+}
+
+.mainTableContainer_e23072 .container_c18ec9 {
+	background: var(--bg-overlay-1,var(--backgroundDark));
 	box-shadow: var(--bg-overlay-1, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
 }
