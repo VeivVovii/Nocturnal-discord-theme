@@ -16667,7 +16667,6 @@ path[fill="var(--brand-500)"] {
 
 .container_f91bb7,
 .icon_dcd39d,
-.container_ac01d6,
 .gifPicker_fede6c .header_b56bbc,
 .content_cc6017,
 .container_d936aa,
@@ -16686,7 +16685,10 @@ path[fill="var(--brand-500)"] {
 
 .wrapper_ac01d6 {
 	background: var(--bg-overlay-4,var(--backgroundDark));
-	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+}
+
+.container_ac01d6 {
+	background: var(--bg-overlay-selected,rgba(0, 0, 0, .25));
 }
 
 .wrapper_e06857,
