@@ -7973,7 +7973,7 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 .mentionsBar_eba0ba {
-	background: var(--primary);
+	background-color: var(--primary);
 	box-shadow: none;
 }
 
