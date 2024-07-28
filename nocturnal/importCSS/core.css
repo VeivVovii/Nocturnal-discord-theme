@@ -4552,8 +4552,9 @@ input.da-input:focus {
 	border-radius: 5px;
 }
 
-.animatedContainer_fd6364 {
-	background-color: var(--backgroundDark);
+.theme-dark .animatedContainer_fd6364 {
+	background: var(--bg-overlay-4,var(--backgroundDark));
+	transform: none !important;
 }
 
 /*Memory to the past switches :(
@@ -9126,7 +9127,6 @@ svg.gameIcon_a9e62c rect,
 .theme-dark .container_f1c3d9,
 .theme-dark .container_eedf95,
 .theme-dark .scroller_e9196a,
-.theme-dark .animatedContainer_fd6364,
 .theme-dark .titleContainer_e87574,
 .theme-dark .header_bd05f1,
 .theme-dark .scroller_a50853,
@@ -15808,8 +15808,22 @@ path[fill="var(--text-brand)"] {
 }
 
 .list_a478e5,
-.innerContainer__7b4c0 {
+.innerContainer__7b4c0,
+.container_c75f85 {
 	padding-right: 2px;
+}
+
+.progressBarContainer_c75f85 {
+	margin-right: 8px;
+}
+
+.textArea_c75f85,
+.sectionDivider_c43953 {
+	margin-right: 2px;
+}
+
+.container_c75f85:after {
+	right: 2px;
 }
 
 .victorStyles_b5cb3c .answerInner_cf2c85 {
