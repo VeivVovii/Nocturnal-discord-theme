@@ -4538,8 +4538,7 @@ input.da-input:focus {
 }
 
 .theme-dark .animatedContainer_fd6364 {
-	background: var(--bg-overlay-4,var(--backgroundDark));
-	transform: none !important;
+	background-color: rgba(0, 0, 0, 0);
 }
 
 /*Memory to the past switches :(
