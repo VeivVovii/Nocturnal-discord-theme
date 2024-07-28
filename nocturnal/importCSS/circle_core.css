@@ -1405,7 +1405,7 @@
 }
 
 .searchBar_f0963d .searchBarComponent_f0963d {
-	border-radius: 5px
+	border-radius: 5px;
 }
 
 .platform-win .sidebar_a4d4d9 {
@@ -9001,7 +9001,6 @@ svg.gameIcon_a9e62c rect,
 .theme-dark .privateChannels__93473,
 .theme-dark .scroller_c47fa9,
 .theme-dark .privateChannels_f0963d,
-.theme-dark .searchBarComponent_f0963d,
 .theme-dark .content_c2654d,
 .custom-theme-background .container_adcaac,
 .theme-dark.custom-theme-background .container_adcaac,
@@ -9051,11 +9050,11 @@ svg.gameIcon_a9e62c rect,
 
 .theme-dark .searchBar_a46bef,
 .searchBar__310d8 {
-	background: var(--bg-overlay-2, rgb(12, 15, 19));
+	background: var(--bg-overlay-5, rgb(12, 15, 19));
 }
 
 .theme-dark .searchBarComponent_f0963d {
-	background: var(--bg-overlay-2, rgba(0, 0, 0, .45));
+	background: var(--bg-overlay-5, rgba(0, 0, 0, .45));
 }
 
 .searchBar_a46bef {
@@ -16762,7 +16761,7 @@ body,
 }
 
 .searchBar_e0840f {
-	background: var(--bg-overlay-6, var(--backgroundDark));
-	box-shadow: var(--bg-overlay-6, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
+	background: var(--bg-overlay-5, var(--backgroundDark));
+	box-shadow: var(--bg-overlay-5, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
 	margin-right: 30px;
 }
