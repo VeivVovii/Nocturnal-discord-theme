@@ -1309,14 +1309,14 @@
 .da-peopleList,
 .da-nowPlayingScroller,
 .da-itemCard {
-	background-color: var(--backgroundDark) !important
+	background-color: var(--backgroundDark) !important;
 }
 
 .peopleListItem_d51464:hover,
 .wrapper_cd82a7,
 .rowItem_d8c96d.active_d8c96d,
 .rowItem_d8c96d:hover {
-	background-color: rgba(0, 0, 0, .25)
+	background-color: rgba(0, 0, 0, .25);
 }
 
 .searchBar_f0963d .searchBarComponent_f0963d,
@@ -1325,7 +1325,7 @@
 .actionButton_f845fd,
 .button_a39fe9,
 .otherRoles_a39fe9 {
-	background-color: rgba(0, 0, 0, .45) !important
+	background-color: rgba(0, 0, 0, .45) !important;
 }
 
 .modal-2RrUKJ,
@@ -7182,7 +7182,7 @@ button.button_f67531.enabled_f67531:hover {
 
 .colorDefault_d90b3d:not(.colorDanger_d90b3d):not(.focused_d90b3d) .checkbox_d90b3d,
 .colorDefault_d90b3d:not(.colorDanger_d90b3d):not(.focused_d90b3d) .radioSelection_d90b3d {
-	color: var(--primary);
+	color: rgb(60, 193, 235);
 }
 
 .snowsgivingIcon-3d0pr1 path {
@@ -15120,7 +15120,6 @@ path[stroke="rgb(123,162,255)"] {
 .darkCardBackground__38c63,
 .darkCardBackground_c23530,
 .theme-dark .prompt_cd377c .select_fb76b2 .css-6sv4e8-menu,
-.mainTableContainer_dd2627,
 .movedTable_dd2627,
 .container__60a4a,
 .placeholder__278ac,
@@ -16046,8 +16045,8 @@ path[fill="var(--text-brand)"] {
 }
 
 .colorDefault_d90b3d:not(.colorDanger_d90b3d).focused_d90b3d .check_d90b3d {
-	color: #0077a7;
-	fill: #0077a7;
+	color: rgb(60, 193, 235);
+	fill: rgb(60, 193, 235);
 }
 
 .modalContent__39451,
@@ -16947,4 +16946,13 @@ body,
 
 .mainContent_b2b948 {
 	flex-basis: 100%;
+}
+
+.mainTableContainer_e23072 {
+	background: var(--bg-overlay-2,#1c212c);
+}
+
+.mainTableContainer_e23072 .container_c18ec9 {
+	background: var(--bg-overlay-1,var(--backgroundDark));
+	box-shadow: var(--bg-overlay-1, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
 }
