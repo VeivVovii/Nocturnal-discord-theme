@@ -8837,7 +8837,8 @@ svg.gameIcon_a9e62c rect,
 	padding: 16px;
 }
 
-.userProfileOuterUnthemed_c69a7b .avatarWrapper_f89da9 {
+.userProfileOuterUnthemed_c69a7b .avatarWrapper_f89da9,
+.userProfileOuterUnthemed_c69a7b .avatar_f94206 {
 	border: 7px solid var(--backgroundDarker);
 	background-color: var(--backgroundDarker);
 	border-radius: 100%;
@@ -8850,7 +8851,6 @@ svg.gameIcon_a9e62c rect,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_ec3b75,
 .userProfileOuterUnthemed_c69a7b .avatar_ec3b75,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_f94206,
-.userProfileOuterUnthemed_c69a7b .avatar_f94206,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
