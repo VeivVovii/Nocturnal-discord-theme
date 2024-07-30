@@ -1839,7 +1839,14 @@ div[data-contents="true"] {
 	-webkit-mask: linear-gradient(to bottom, #000, transparent)
 }
 
-.wrapper_bf1b19,.executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca {
+.wrapper_bf1b19 {
+	background: rgba(0, 138, 230, 0.302);
+	border-radius: 50px;
+	padding: .5px 5px;
+	transition: all .2s ease !important;
+}
+
+.executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca {
 	background-color: rgba(0, 138, 230, 0.302);
 	border-radius: 50px;
 	padding: .5px 5px;
@@ -1847,11 +1854,17 @@ div[data-contents="true"] {
 }
 
 .wrapper_bf1b19 {
-	color: #71f2ef;
+	color: rgb(113, 242, 239);
+}
+
+.custom-theme-background .wrapper_bf1b19 {
+	color: rgb(60, 193, 235);
 }
 
 .interactive:hover,
 .interactive[aria-expanded=true],
+.custom-theme-background .interactive:hover,
+.custom-theme-background .interactive[aria-expanded=true],
 .executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca:hover {
 	background-color: var(--primary);
 	color: #fff;
@@ -5718,10 +5731,16 @@ button.button_f67531.enabled_f67531:hover {
 	--divider-color: var(--primary);
 }
 
-.theme-dark .message_f3e42a strong {
-	background-color: rgba(0, 138, 230, 0.302);
+.message_f3e42a strong {
+	background: rgba(0, 138, 230, 0.149);
+	color: rgb(0, 121, 208);
 	border-radius: 50px;
 	padding: .5px 5px;
+}
+
+.theme-dark .message_f3e42a strong {
+	background: rgba(0, 138, 230, 0.298);
+	color: rgb(134, 246, 255);
 }
 
 .bd-switch:not(.bd-switch-checked) .bd-switch-body,
@@ -15978,7 +15997,7 @@ path[fill="var(--text-brand)"] {
 	border-radius: 16px;
 }
 
-.questsContainer__0b371 {
+.questsContainer_f1791d {
 	margin-top: 0;
 }
 
