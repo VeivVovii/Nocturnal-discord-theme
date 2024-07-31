@@ -16869,10 +16869,18 @@ body,
 	color: #2ca8de !important;
 }
 
-.icon_bf515c path[fill="var(--mention-foreground)"],
-path[fill="var(--mention-foreground)"] {
+.icon_bf515c path[fill="var(--mention-foreground)"] {
 	fill: rgb(113, 242, 239);
 	transition: all .2s ease;
+}
+
+path[fill="var(--mention-foreground)"] {
+	fill: rgb(113, 242, 239);
+}
+
+.custom-theme-background .icon_bf515c path[fill="var(--mention-foreground)"],
+path[fill="var(--mention-foreground)"] {
+	fill: rgb(60, 193, 235);
 }
 
 .interactive:hover .icon_bf515c path[fill="var(--mention-foreground)"],
