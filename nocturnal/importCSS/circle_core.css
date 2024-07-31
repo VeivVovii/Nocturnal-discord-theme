@@ -16213,7 +16213,8 @@ path[fill="var(--brand-500)"] {
 .clanIconMask_e0fe28 foreignObject,
 .clanIconInner_e0fe28 foreignObject,
 .mask_a69fe5 foreignObject,
-[mask="url(#svg-mask-diagonal-facepile-status-32)"] {
+[mask="url(#svg-mask-diagonal-facepile-status-32)"],
+.iconWrapper_d0585c foreignObject {
 	-webkit-mask: none;
 	mask: none;
 }
@@ -16398,7 +16399,8 @@ path[fill="var(--brand-500)"] {
 .profileAvatar_f4a859,
 .custom-profile-theme .profileAvatar_f4a859,
 .imageContainer_f9bbb4,
-.roleRow_ce608a {
+.roleRow_ce608a,
+.channelGuildIcon_fcf03e {
 	border-radius: 100%;
 }
 
@@ -16572,7 +16574,8 @@ div.cardContainer_c22357,
 .wrapper_c43059,
 .contentWrapper_f98b35,
 .channels_f2b17e,
-.channels_ed91eb {
+.channels_ed91eb,
+.iconWithGuildIcon_fcf03e {
 	background-color: var(--backgroundDark);
 }
 
@@ -16890,4 +16893,62 @@ path[fill="var(--mention-foreground)"] {
 .custom-theme-background .interactive:hover path[fill="var(--mention-foreground)"] {
 	fill: #fff;
 	transition: all .2s ease;
+}
+
+.destinationRow_d0585c {
+	margin-right: 10px;
+	border-radius: 5px;
+}
+
+.destinationRow_d0585c:not(.disabled_d0585c):hover {
+	background-color: rgba(0, 0, 0, .2);
+}
+
+.destinationRow_d0585c:not(.disabled_d0585c)[aria-selected=true] {
+	background-color: rgba(0, 0, 0, .4);
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e foreignObject {
+	mask: none;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e .mask_c51b4e,
+.identity_d0585c {
+	overflow: visible;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect {
+	x: 0;
+	y: 0;
+	content: "";
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	-webkit-mask: none;
+	mask: none;
+	fill: none;
+	rx: 50;
+	ry: 50;
+	stroke-width: 2px;
+	stroke: #666;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect[fill="#23a55a"] {
+	stroke: #43b581;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect[fill="#f23f43"] {
+	stroke: #f04747;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect[fill="#f0b232"] {
+	stroke: #faa61a;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect[fill="#593695"] {
+	stroke: #6441a5;
+}
+
+.iconWrapper_d0585c .wrapper_c51b4e rect[fill="#80848e"] {
+	stroke: #747f8d;
 }
