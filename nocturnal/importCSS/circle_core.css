@@ -4485,12 +4485,12 @@ input.da-input:focus {
 	background-color: rgba(0, 0, 0, .6);
 }
 
-.theme-dark .path_b6db20 {
+.theme-dark .path_b6db20:not(.spinnerPath_b7c924) {
 	stroke: #008ae6;
 }
 
-.theme-dark .path2_b6db20,
-.theme-dark .path3_b6db20 {
+.theme-dark .path2_b6db20:not(.spinnerPath_b7c924),
+.theme-dark .path3_b6db20:not(.spinnerPath_b7c924) {
 	stroke: #3cc1eb;
 }
 
@@ -15561,7 +15561,8 @@ path[fill="var(--text-brand)"] {
 	border-top-color: var(--backgroundDark);
 }
 
-.avatars__52387 {
+.avatars__52387,
+.avatars_ccc074 {
 	margin-right: 2px;
 }
 
