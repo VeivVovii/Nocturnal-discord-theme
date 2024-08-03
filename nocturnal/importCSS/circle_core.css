@@ -386,164 +386,132 @@
 	padding-left: 40px !important;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(2)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(2)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(2)::before,
-[aria-label="用户设置"] .item_a0:nth-child(2)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(2)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(2)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(2)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(2)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(2)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(2)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(2)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(2)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(2)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(2)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(2)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(2)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(2)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(2)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(2)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(2)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(2)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(2)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(2)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(2)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(2)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(2)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(2)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(2)::before,
-[aria-label="User Settings"] .item_a0:nth-child(2)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/account.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(3)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(3)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(3)::before,
+[aria-label="用户设置"] .item_a0:nth-child(3)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(3)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(3)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(3)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(3)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(3)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(3)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(3)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(3)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(3)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(3)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(3)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(3)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(3)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(3)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(3)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(3)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(3)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(3)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(3)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(3)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(3)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(3)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(3)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(3)::before,
+[aria-label="User Settings"] .item_a0:nth-child(3)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/account.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(4)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(4)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(4)::before,
-[aria-label="用户设置"] .item_a0:nth-child(4)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(4)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(4)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(4)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(4)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(4)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(4)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(4)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(4)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(4)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(4)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(4)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(4)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(4)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(4)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(4)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(4)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(4)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(4)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(4)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(4)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(4)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(4)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(4)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(4)::before,
-[aria-label="User Settings"] .item_a0:nth-child(4)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/privacy.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(5)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(5)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(5)::before,
+[aria-label="用户设置"] .item_a0:nth-child(5)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(5)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(5)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(5)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(5)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(5)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(5)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(5)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(5)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(5)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(5)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(5)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(5)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(5)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(5)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(5)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(5)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(5)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(5)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(5)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(5)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(5)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(5)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(5)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(5)::before,
+[aria-label="User Settings"] .item_a0:nth-child(5)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(6)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(6)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(6)::before,
-[aria-label="用户设置"] .item_a0:nth-child(6)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(6)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(6)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(6)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(6)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(6)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(6)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(6)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(6)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(6)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(6)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(6)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(6)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(6)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(6)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(6)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(6)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(6)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(6)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(6)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(6)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(6)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(6)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(6)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(6)::before,
-[aria-label="User Settings"] .item_a0:nth-child(6)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/apps.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(7)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(7)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(7)::before,
+[aria-label="用户设置"] .item_a0:nth-child(7)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(7)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(7)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(7)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(7)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(7)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(7)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(7)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(7)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(7)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(7)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(7)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(7)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(7)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(7)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(7)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(7)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(7)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(7)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(7)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(7)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(7)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(7)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(7)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(7)::before,
+[aria-label="User Settings"] .item_a0:nth-child(7)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/apps.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(8)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(8)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(8)::before,
-[aria-label="用户设置"] .item_a0:nth-child(8)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(8)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(8)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(8)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(8)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(8)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(8)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(8)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(8)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(8)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(8)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(8)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(8)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(8)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(8)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(8)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(8)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(8)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(8)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(8)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(8)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(8)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(8)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(8)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(8)::before,
-[aria-label="User Settings"] .item_a0:nth-child(8)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/connections.png) center
-}
-
-[aria-label="사용자 설정"] .item_a0:nth-child(13)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(13)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(13)::before,
-[aria-label="用户设置"] .item_a0:nth-child(13)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(13)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(13)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(13)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(13)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(13)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(13)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(13)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(13)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(13)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(13)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(13)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(13)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(13)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(13)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(13)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(13)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(13)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(13)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(13)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(13)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(13)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(13)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(13)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(13)::before,
-[aria-label="User Settings"] .item_a0:nth-child(13)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/nitro.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(9)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(9)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(9)::before,
+[aria-label="用户设置"] .item_a0:nth-child(9)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(9)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(9)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(9)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(9)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(9)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(9)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(9)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(9)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(9)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(9)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(9)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(9)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(9)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(9)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(9)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(9)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(9)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(9)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(9)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(9)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(9)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(9)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(9)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(9)::before,
+[aria-label="User Settings"] .item_a0:nth-child(9)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/connections.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(14)::before,
@@ -575,7 +543,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(14)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(14)::before,
 [aria-label="User Settings"] .item_a0:nth-child(14)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/boost.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(15)::before,
@@ -607,7 +575,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(15)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(15)::before,
 [aria-label="User Settings"] .item_a0:nth-child(15)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/boost.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(16)::before,
@@ -639,7 +607,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(16)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(16)::before,
 [aria-label="User Settings"] .item_a0:nth-child(16)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/gift.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(17)::before,
@@ -671,71 +639,71 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(17)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(17)::before,
 [aria-label="User Settings"] .item_a0:nth-child(17)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/gift.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(20)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(20)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(20)::before,
-[aria-label="用户设置"] .item_a0:nth-child(20)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(20)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(20)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(20)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(20)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(20)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(20)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(20)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(20)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(20)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(20)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(20)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(20)::before,
+[aria-label="사용자 설정"] .item_a0:nth-child(18)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(18)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(18)::before,
+[aria-label="用户设置"] .item_a0:nth-child(18)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(18)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(18)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(18)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(18)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(18)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(18)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(18)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(18)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(18)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(18)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(18)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(18)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(18)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(18)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(18)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(18)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(18)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(18)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(18)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(18)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(18)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(18)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(18)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(18)::before,
+[aria-label="User Settings"] .item_a0:nth-child(18)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center;
+}
+
+[aria-label="사용자 설정"] .item_a0:nth-child(21)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(21)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(21)::before,
+[aria-label="用户设置"] .item_a0:nth-child(21)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(21)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(21)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(21)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(21)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(21)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(21)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(21)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(21)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(21)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(21)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(21)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(21)::before,
 [aria-label="Ustawienia użytkownika"] .item_a0:nth-child(19)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(20)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(20)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(20)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(20)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(20)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(20)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(20)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(20)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(20)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(20)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(20)::before,
-[aria-label="User Settings"] .item_a0:nth-child(20)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/eye.png) center
-}
-
-[aria-label="사용자 설정"] .item_a0:nth-child(22)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(22)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(22)::before,
-[aria-label="用户设置"] .item_a0:nth-child(22)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(22)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(22)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(22)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(22)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(22)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(22)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(22)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(22)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(22)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(22)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(22)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(22)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(22)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(22)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(22)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(22)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(22)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(22)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(22)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(22)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(22)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(22)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(22)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(22)::before,
-[aria-label="User Settings"] .item_a0:nth-child(22)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/voice.png) center
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(21)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(21)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(21)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(21)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(21)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(21)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(21)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(21)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(21)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(21)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(21)::before,
+[aria-label="User Settings"] .item_a0:nth-child(21)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/eye.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(23)::before,
@@ -767,7 +735,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(23)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(23)::before,
 [aria-label="User Settings"] .item_a0:nth-child(23)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/text.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/voice.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(24)::before,
@@ -799,7 +767,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(24)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(24)::before,
 [aria-label="User Settings"] .item_a0:nth-child(24)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/notifications.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/text.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(25)::before,
@@ -831,7 +799,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(25)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(25)::before,
 [aria-label="User Settings"] .item_a0:nth-child(25)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/keybinds.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/notifications.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(26)::before,
@@ -863,7 +831,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(26)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(26)::before,
 [aria-label="User Settings"] .item_a0:nth-child(26)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/language.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/keybinds.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(27)::before,
@@ -895,7 +863,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(27)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(27)::before,
 [aria-label="User Settings"] .item_a0:nth-child(27)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/windows.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/language.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(28)::before,
@@ -927,39 +895,39 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(28)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(28)::before,
 [aria-label="User Settings"] .item_a0:nth-child(28)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/twitch.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/windows.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(33)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(33)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(33)::before,
-[aria-label="用户设置"] .item_a0:nth-child(33)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(33)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(33)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(33)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(33)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(33)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(33)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(33)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(33)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(33)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(33)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(33)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(32)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(33)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(33)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(33)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(33)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(33)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(33)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(33)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(33)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(33)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(33)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(33)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(33)::before,
-[aria-label="User Settings"] .item_a0:nth-child(33)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/games.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(29)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(29)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(29)::before,
+[aria-label="用户设置"] .item_a0:nth-child(29)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(29)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(29)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(29)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(29)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(29)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(29)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(29)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(29)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(29)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(29)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(29)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(29)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(29)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(29)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(29)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(29)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(29)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(29)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(29)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(29)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(29)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(29)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(29)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(29)::before,
+[aria-label="User Settings"] .item_a0:nth-child(29)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(34)::before,
@@ -991,71 +959,71 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(34)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(34)::before,
 [aria-label="User Settings"] .item_a0:nth-child(34)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/overlay.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/games.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(37)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(37)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(37)::before,
-[aria-label="用户设置"] .item_a0:nth-child(37)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(37)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(37)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(37)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(37)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(37)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(37)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(37)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(37)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(37)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(37)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(37)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(37)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(37)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(37)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(37)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(37)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(37)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(37)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(37)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(37)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(37)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(37)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(37)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(37)::before,
-[aria-label="User Settings"] .item_a0:nth-child(37)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/core.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(35)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(35)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(35)::before,
+[aria-label="用户设置"] .item_a0:nth-child(35)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(35)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(35)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(35)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(35)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(35)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(35)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(35)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(35)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(35)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(35)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(35)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(35)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(35)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(35)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(35)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(35)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(35)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(35)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(35)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(35)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(35)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(35)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(35)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(35)::before,
+[aria-label="User Settings"] .item_a0:nth-child(35)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/overlay.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(39)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(39)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(39)::before,
-[aria-label="用户设置"] .item_a0:nth-child(39)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(39)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(39)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(39)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(39)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(39)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(39)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(39)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(39)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(39)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(39)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(39)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(39)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(39)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(39)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(39)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(39)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(39)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(39)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(39)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(39)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(39)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(39)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(39)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(39)::before,
-[aria-label="User Settings"] .item_a0:nth-child(39)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/css.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(38)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(38)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(38)::before,
+[aria-label="用户设置"] .item_a0:nth-child(38)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(38)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(38)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(38)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(38)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(38)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(38)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(38)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(38)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(38)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(38)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(38)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(38)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(38)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(38)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(38)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(38)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(38)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(38)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(38)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(38)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(38)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(38)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(38)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(38)::before,
+[aria-label="User Settings"] .item_a0:nth-child(38)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/core.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(40)::before,
@@ -1087,7 +1055,7 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(40)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(40)::before,
 [aria-label="User Settings"] .item_a0:nth-child(40)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/plugins.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/css.png) center;
 }
 
 [aria-label="사용자 설정"] .item_a0:nth-child(41)::before,
@@ -1119,103 +1087,135 @@
 [aria-label="Brugerindstillinger"] .item_a0:nth-child(41)::before,
 [aria-label="Настройки пользователя"] .item_a0:nth-child(41)::before,
 [aria-label="User Settings"] .item_a0:nth-child(41)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/theme.png) center
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(43)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(43)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(43)::before,
-[aria-label="用户设置"] .item_a0:nth-child(43)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(43)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(43)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(43)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(43)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(43)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(43)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(43)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(43)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(43)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(43)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(43)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(43)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(43)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(43)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(43)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(43)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(43)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(43)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(43)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(43)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(43)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(43)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(43)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(43)::before,
-[aria-label="User Settings"] .item_a0:nth-child(43)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/changelog.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(42)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(42)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(42)::before,
+[aria-label="用户设置"] .item_a0:nth-child(42)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(42)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(42)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(42)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(42)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(42)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(42)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(42)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(42)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(42)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(42)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(42)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(42)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(42)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(42)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(42)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(42)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(42)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(42)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(42)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(42)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(42)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(42)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(42)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(42)::before,
+[aria-label="User Settings"] .item_a0:nth-child(42)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/theme.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(45)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(45)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(45)::before,
-[aria-label="用户设置"] .item_a0:nth-child(45)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(45)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(45)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(45)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(45)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(45)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(45)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(45)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(45)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(45)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(45)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(45)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(45)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(45)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(45)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(45)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(45)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(45)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(45)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(45)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(45)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(45)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(45)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(45)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(45)::before,
-[aria-label="User Settings"] .item_a0:nth-child(45)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/hype.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(44)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(44)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(44)::before,
+[aria-label="用户设置"] .item_a0:nth-child(44)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(44)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(44)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(44)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(44)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(44)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(44)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(44)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(44)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(44)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(44)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(44)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(44)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(44)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(44)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(44)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(44)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(44)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(44)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(44)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(44)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(44)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(44)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(44)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(44)::before,
+[aria-label="User Settings"] .item_a0:nth-child(44)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
 }
 
-[aria-label="사용자 설정"] .item_a0:nth-child(47)::before,
-[aria-label="使用者設定"] .item_a0:nth-child(47)::before,
-[aria-label="ユーザー設定"] .item_a0:nth-child(47)::before,
-[aria-label="用户设置"] .item_a0:nth-child(47)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(47)::before,
-[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(47)::before,
-[aria-label="Користувацькі налаштування"] .item_a0:nth-child(47)::before,
-[aria-label="Потребителски настройки"] .item_a0:nth-child(47)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(47)::before,
-[aria-label="Uživatelská nastavení"] .item_a0:nth-child(47)::before,
-[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(47)::before,
-[aria-label="Cài đặt người dùng"] .item_a0:nth-child(47)::before,
-[aria-label="Användarinställningar"] .item_a0:nth-child(47)::before,
-[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(47)::before,
-[aria-label="Setări utilizator"] .item_a0:nth-child(47)::before,
-[aria-label="Configurações de Usuário"] .item_a0:nth-child(47)::before,
-[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(47)::before,
-[aria-label="Brukerinnstillinger"] .item_a0:nth-child(47)::before,
-[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(47)::before,
-[aria-label="Felhasználói beállítások"] .item_a0:nth-child(47)::before,
-[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(47)::before,
-[aria-label="Impostazioni utente"] .item_a0:nth-child(47)::before,
-[aria-label="Korisničke postavke"] .item_a0:nth-child(47)::before,
-[aria-label="Paramètres utilisateur"] .item_a0:nth-child(47)::before,
-[aria-label="Ajustes de usuario"] .item_a0:nth-child(47)::before,
-[aria-label="Benutzereinstellungen"] .item_a0:nth-child(47)::before,
-[aria-label="Brugerindstillinger"] .item_a0:nth-child(47)::before,
-[aria-label="Настройки пользователя"] .item_a0:nth-child(47)::before,
-[aria-label="User Settings"] .item_a0:nth-child(47)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/logout.png) center
+[aria-label="사용자 설정"] .item_a0:nth-child(46)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(46)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(46)::before,
+[aria-label="用户设置"] .item_a0:nth-child(46)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(46)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(46)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(46)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(46)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(46)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(46)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(46)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(46)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(46)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(46)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(46)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(46)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(46)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(46)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(46)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(46)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(46)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(46)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(46)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(46)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(46)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(46)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(46)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(46)::before,
+[aria-label="User Settings"] .item_a0:nth-child(46)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/hype.png) center;
+}
+
+[aria-label="사용자 설정"] .item_a0:nth-child(48)::before,
+[aria-label="使用者設定"] .item_a0:nth-child(48)::before,
+[aria-label="ユーザー設定"] .item_a0:nth-child(48)::before,
+[aria-label="用户设置"] .item_a0:nth-child(48)::before,
+[aria-label="ตั้งค่าผู้ใช้"] .item_a0:nth-child(48)::before,
+[aria-label="यूज़र सेटिंग"] .item_a0:nth-child(48)::before,
+[aria-label="Користувацькі налаштування"] .item_a0:nth-child(48)::before,
+[aria-label="Потребителски настройки"] .item_a0:nth-child(48)::before,
+[aria-label="Ρυθμίσεις χρήστη"] .item_a0:nth-child(48)::before,
+[aria-label="Uživatelská nastavení"] .item_a0:nth-child(48)::before,
+[aria-label="Kullanıcı Ayarları"] .item_a0:nth-child(48)::before,
+[aria-label="Cài đặt người dùng"] .item_a0:nth-child(48)::before,
+[aria-label="Användarinställningar"] .item_a0:nth-child(48)::before,
+[aria-label="Käyttäjäasetukset"] .item_a0:nth-child(48)::before,
+[aria-label="Setări utilizator"] .item_a0:nth-child(48)::before,
+[aria-label="Configurações de Usuário"] .item_a0:nth-child(48)::before,
+[aria-label="Ustawienia użytkownika"] .item_a0:nth-child(48)::before,
+[aria-label="Brukerinnstillinger"] .item_a0:nth-child(48)::before,
+[aria-label="Gebruikersinstellingen"] .item_a0:nth-child(48)::before,
+[aria-label="Felhasználói beállítások"] .item_a0:nth-child(48)::before,
+[aria-label="Naudotojo Nustatymai"] .item_a0:nth-child(48)::before,
+[aria-label="Impostazioni utente"] .item_a0:nth-child(48)::before,
+[aria-label="Korisničke postavke"] .item_a0:nth-child(48)::before,
+[aria-label="Paramètres utilisateur"] .item_a0:nth-child(48)::before,
+[aria-label="Ajustes de usuario"] .item_a0:nth-child(48)::before,
+[aria-label="Benutzereinstellungen"] .item_a0:nth-child(48)::before,
+[aria-label="Brugerindstillinger"] .item_a0:nth-child(48)::before,
+[aria-label="Настройки пользователя"] .item_a0:nth-child(48)::before,
+[aria-label="User Settings"] .item_a0:nth-child(48)::before {
+	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/logout.png) center;
 }
 
 .theme-dark {
@@ -3282,7 +3282,7 @@ svg[name=Nitro] g path {
 .button-2KyEfG:hover:not(.buttonScreenShareDisabled-1xwK5y),
 .button-2b6hmh:hover,
 .container_effbe2,
-.container_c18ec9,
+.theme-dark .container_c18ec9,
 .css-1gnr91b-option:hover,
 .friendSelected-3J_Uh8,
 .inset-GQDQYw,
@@ -3291,7 +3291,7 @@ svg[name=Nitro] g path {
 .section-2VKIPC,
 .tileMedia-1q3guD,
 .tileMedia-1q3guD:hover {
-	background-color: rgba(0, 0, 0, .5) !important
+	background-color: rgba(0, 0, 0, .5) !important;
 }
 
 .genreTag-3QLRUJ,
@@ -4153,7 +4153,6 @@ input.da-input:focus {
 }
 
 .container_effbe2,
-.container_c18ec9,
 .container__33507,
 .container_d2672e {
 	background-color: var(--backgroundDark);
@@ -4629,7 +4628,7 @@ input.da-input:focus {
 .container_effbe2,
 .container_c18ec9,
 .container_d2672e {
-	border-radius: 4px;
+	border-radius: 5px;
 }
 
 .colorHeaderPrimary-3kwW7L,
@@ -6407,7 +6406,7 @@ button.button_f67531.enabled_f67531:hover {
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
-  div[aria-label="USER_SETTINGS"] .standardSidebarView_c25c6d .sidebarRegion__36437 .sidebarRegionScroller_c25c6d .side_a0 .item_a0:nth-child(2)::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/account.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView_c25c6d .sidebarRegion__36437 .sidebarRegionScroller_c25c6d .side_a0 .item_a0:nth-child(3)::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/account.png) center}
   div[aria-label="USER_SETTINGS"] .standardSidebarView_c25c6d .sidebarRegion__36437 .sidebarRegionScroller_c25c6d .side_a0 .item_a0:nth-child(3)::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/privacy.png) center}
   div[aria-label="USER_SETTINGS"] .standardSidebarView_c25c6d .sidebarRegion__36437 .sidebarRegionScroller_c25c6d .side_a0 .item_a0:nth-child(4)::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/apps.png) center}
   div[aria-label="USER_SETTINGS"] .standardSidebarView_c25c6d .sidebarRegion__36437 .sidebarRegionScroller_c25c6d .side_a0 .item_a0:nth-child(5)::before{background:url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/connections.png) center}
@@ -13472,7 +13471,19 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .botTagOP_a9e77f,
-.newChannel_ecb303 {
+.newChannel_ecb303,
+.newBadge__27392,
+.newBadge_b013d6,
+.newBadge_ed88c7,
+.optionNewBadge__83cf5,
+.newBadge__0d020,
+.titleBadge_f04d06,
+.newBadge__93a46,
+.newBadge__40327,
+.newBadge_f1fd9c,
+.newBadge_c6b11b,
+.newBadge_d331f1,
+.newBadge_a57509 {
 	color: rgb(0, 119, 167);
 }
 
@@ -13809,7 +13820,7 @@ path[stroke="rgb(123,162,255)"] {
 .colorPickerSwatch__87597.custom__383ac,
 .colorPickerSwatch__87597,
 .maskBackground__4b2ff,
-.pngImage_dc5271,
+.pngImage_cb3343,
 .wrapper_dc0b29:not(.badge_f3978e),
 .item-1TA5qI,
 .rem-3kT9wc.botTag-7aX5WZ,
@@ -14646,7 +14657,6 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .container_effbe2,
-.container_c18ec9,
 .container__3b77e,
 .container__7a272 {
 	background: var(--bg-overlay-2, var(--backgroundDark));
@@ -14826,6 +14836,7 @@ path[stroke="rgb(123,162,255)"] {
 .divider__979dc,
 .divider__622af,
 .headerSeparator_dc7afa,
+.headerSeparator_cd377c,
 .divider__00189,
 .separator_f5f9d9,
 .divider_f642fa,
@@ -15361,20 +15372,6 @@ path[fill="var(--text-brand)"] {
 
 .container__0d1a7 .lookBlank_dd4f85 {
 	color: #fff;
-}
-
-.newBadge__27392,
-.newBadge_b013d6,
-.newBadge_ed88c7,
-.optionNewBadge__83cf5,
-.newBadge__0d020,
-.titleBadge_f04d06,
-.newBadge__93a46,
-.newBadge__40327,
-.newBadge_f1fd9c,
-.newBadge_c6b11b,
-.newBadge_d331f1 {
-	color: rgb(0, 119, 167);
 }
 
 .resultsListContainer_debb5a {
@@ -15971,7 +15968,8 @@ path[fill="var(--text-brand)"] {
 .scroller_bb12d2,
 .contentContainer_f7ece4,
 .content_ee099b,
-.scroller_a8210b {
+.scroller_a8210b,
+.body_b07019[style*="hidden scroll"] {
 	padding-left: 16px;
 	padding-right: 10px !important;
 }
@@ -16801,11 +16799,6 @@ body,
 	background: var(--bg-overlay-2,#1c212c);
 }
 
-.mainTableContainer_e23072 .container_c18ec9 {
-	background: var(--bg-overlay-1,var(--backgroundDark));
-	box-shadow: var(--bg-overlay-1, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
-}
-
 .content_f9a4c9.modalContent_e5b5f9 {
 	padding-right: 0 !important;
 }
@@ -16913,7 +16906,8 @@ path[fill="var(--mention-foreground)"] {
 }
 
 .iconWrapper_d0585c .wrapper_c51b4e .mask_c51b4e,
-.identity_d0585c {
+.identity_d0585c,
+.moreAvatars_d6c26f {
 	overflow: visible;
 }
 
@@ -16951,4 +16945,25 @@ path[fill="var(--mention-foreground)"] {
 
 .iconWrapper_d0585c .wrapper_c51b4e rect[fill="#80848e"] {
 	stroke: #747f8d;
+}
+
+.theme-light .tooltipPrimary_b6c360,
+.theme-light .container_ac201b {
+	background-color: var(--background-floating);
+}
+
+.theme-light .tooltipPrimary_b6c360 .tooltipPointer_b6c360 {
+	border-top-color: var(--background-floating);
+}
+
+.theme-light .tooltipNested_ee18f0 {
+	background-color: var(--background-nested-floating);
+}
+
+.theme-light .tooltipNested_ee18f0 .tooltipPointer_b6c360 {
+	border-top-color: var(--background-nested-floating);
+}
+
+.theme-light .container_c18ec9 {
+	background-color: var(--background-tertiary) !important;
 }
