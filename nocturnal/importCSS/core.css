@@ -16509,7 +16509,8 @@ path[fill="var(--brand-500)"] {
 .controlPlaceholder_ed91eb,
 .rowDivider_e5da8b,
 .rowDivider_f8c206,
-.presetSeparator_f0a004 {
+.presetSeparator_f0a004,
+.theme-dark .checkboxContainer_cacc4c:before {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -17270,7 +17271,8 @@ path[fill="var(--mention-foreground)"] {
 	background-color: rgba(0, 20, 32, .8);
 }
 
-.sectionContent_da6bd8 .pillItemSelected_a18ec1 {
+.sectionContent_da6bd8 .pillItemSelected_a18ec1,
+.theme-dark .override_cacc4c:hover {
 	background-color: rgba(0, 0, 0, .6);
 }
 
