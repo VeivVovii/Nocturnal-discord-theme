@@ -4484,7 +4484,7 @@ input.da-input:focus {
 .row__018c3.selected__5fd17 .rowInner__62b94,
 .row__018c3:focus .rowInner__62b94,
 .row__018c3:hover .rowInner__62b94 {
-	background-color: rgba(0, 0, 0, .25) !important
+	background-color: rgba(0, 0, 0, .25) !important;
 }
 
 .optionActive-KkAdqq,
@@ -5430,7 +5430,8 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 #app-mount .unread_d8bfb3,
-#app-mount .unread_fd8ff1 {
+#app-mount .unread_fd8ff1,
+#app-mount .unread_f0a004 {
 	height: 8px;
 	width: 8px;
 	border-radius: 4px;
@@ -5446,7 +5447,8 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 #app-mount .unread_d8bfb3:after,
-#app-mount .unread_fd8ff1:after {
+#app-mount .unread_fd8ff1:after,
+#app-mount .unread_f0a004:after {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -5461,7 +5463,8 @@ button.button_f67531.enabled_f67531:hover {
 }
 
 #app-mount .unread_d8bfb3:hover:after,
-#app-mount .unread_fd8ff1:hover:after {
+#app-mount .unread_fd8ff1:hover:after,
+#app-mount .unread_f0a004:hover:after {
 	animation: none
 }
 
@@ -15235,7 +15238,8 @@ path[stroke="rgb(123,162,255)"] {
 .shopScroll_e77fa3,
 .pageWrapper_e77fa3,
 .container__86b23,
-div.cardContainer__94a1c {
+div.cardContainer__94a1c,
+.container_f7a22f {
 	background-color: var(--backgroundDark);
 }
 
@@ -15385,7 +15389,9 @@ div.cardContainer__94a1c {
 .container_dcd0fd,
 .expandedProgressBarContainerSettingsPage_c88bb1,
 .giftCard_cf74b3,
-.wrapper_a8220a {
+.wrapper_a8220a,
+.sectionContent_da6bd8 .pillContainer_a18ec1,
+.channels_b3d000 {
 	background-color: rgba(0, 0, 0, .3);
 	border: none;
 }
@@ -16450,7 +16456,8 @@ path[fill="var(--brand-500)"] {
 .overviewContainerNoVideo_e80fe9,
 .command_f37ac2,
 .sortDropdown_fd3eaf,
-.tagContainer_e80fe9 {
+.tagContainer_e80fe9,
+.ctaContainer_f7a22f {
 	background-color: var(--backgroundDarker);
 	border: none;
 }
@@ -16501,7 +16508,8 @@ path[fill="var(--brand-500)"] {
 .tipLine_ed91eb,
 .controlPlaceholder_ed91eb,
 .rowDivider_e5da8b,
-.rowDivider_f8c206 {
+.rowDivider_f8c206,
+.presetSeparator_f0a004 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -16545,12 +16553,13 @@ path[fill="var(--brand-500)"] {
 .optionals_e18e73,
 .reasonContainer_ad09cb,
 .container_e32a43,
-.commandContainer_f37ac2 .command_f37ac2:not(:last-child) {
+.commandContainer_f37ac2 .command_f37ac2:not(:last-child),
+.separator_b3d000 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
 .container_d1c246,
-.gameIcon_a9e62c,
+svg.gameIcon_a9e62c,
 .userPanelInnerThemed_c69a7b.userProfileInner_c69a7b {
 	border-radius: 0;
 }
@@ -16602,7 +16611,8 @@ path[fill="var(--brand-500)"] {
 .container_b15955,
 .link_d8bfb3,
 .menuItem_ed91eb,
-.button_df39bd {
+.button_df39bd,
+.gameIcon_a9e62c {
 	border-radius: 5px;
 }
 
@@ -16663,7 +16673,9 @@ path[fill="var(--brand-500)"] {
 .column_a8210b,
 .header_a8210b,
 .destinationRow_d0585c:not(.disabled_d0585c):hover,
-.container_f8c206 {
+.container_f8c206,
+.header_da6bd8,
+.sectionContent_da6bd8 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
@@ -16801,7 +16813,9 @@ div.cardContainer_c22357,
 .container_ec8cd2,
 .commandContainer_f37ac2,
 .overviewContainerWithVideo_e80fe9,
-.backButton_bedaeb {
+.backButton_bedaeb,
+.mockMessage_f0a004,
+.channeList_f0a004 {
 	background-color: var(--backgroundDark);
 }
 
@@ -16944,7 +16958,8 @@ body,
 .container_c8eec8,
 .container_e1e1a4,
 .container_ed4410 .tile_dc5fc4,
-.addGamePopout_fd966d {
+.addGamePopout_fd966d,
+.optionName_fff78a {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
 }
@@ -17237,4 +17252,29 @@ path[fill="var(--mention-foreground)"] {
 
 .loadingAnimation_f8c206:after {
 	background: linear-gradient(315deg,rgba(0, 0, 0, 0),#000,rgba(0, 0, 0, 0));
+}
+
+.emptyOption_fff78a {
+	border-color: #fff;
+}
+
+.attachmentFilename_d4df8b {
+	color: var(--primary);
+}
+
+#app-mount .unread_f0a004 {
+	left: auto;
+}
+
+.theme-dark .mockMessageDisabled_f0a004 {
+	background-color: rgba(0, 20, 32, .8);
+}
+
+.sectionContent_da6bd8 .pillItemSelected_a18ec1 {
+	background-color: rgba(0, 0, 0, .6);
+}
+
+.badge_ce502a {
+	top: 0;
+	right: 0;
 }
