@@ -690,6 +690,9 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a9efd5e06b5616d39a6ee4232211f9b0.svg") !important;
 }
 
+[src*="/assets/4285ec1cee503d108bbb.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/4285ec1cee503d108bbb.svg");
+}
 [src*='/assets/85fc5205a3e76b57c9f5.svg'] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/85fc5205a3e76b57c9f5.svg") !important;
 }
