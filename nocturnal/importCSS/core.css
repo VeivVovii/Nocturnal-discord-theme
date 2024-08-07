@@ -6676,7 +6676,6 @@ button.button_adca65.enabled_adca65:hover {
 
 .tag_c993da,
 .tagsButton_a6d69a,
-.sortDropdown_a6d69a,
 .pill_c993da:not(.tags_b7acc4),
 .inlineTag_d66623,
 .inlineTag_d66623 {
@@ -6686,8 +6685,6 @@ button.button_adca65.enabled_adca65:hover {
 .tag_c993da:hover,
 .tagsButton_a6d69a:hover,
 .tagsButton_a6d69a[aria-expanded=true],
-.sortDropdown_a6d69a:hover,
-.sortDropdown_a6d69a[aria-expanded=true],
 .pill_c993da.clickable_c993da:not(.disabled_c993da):hover {
 	background-color: rgba(0, 0, 0, .4);
 }
@@ -9111,12 +9108,9 @@ svg.gameIcon_a9e62c rect,
 .theme-dark.custom-theme-background .withBackgroundOverride_a934d8,
 .theme-dark .chat_a7d72e,
 .theme-dark .chatContent_a7d72e,
-.theme-dark .wrapper_cdfd51,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .member_a31c43,
 .theme-dark .members_cbd271,
 .theme-dark .member_cbd271,
-.theme-dark .members_cbd271,
 .theme-dark .container_c2739c,
 .theme-dark .container_c2739c,
 .theme-dark .container_ee69e0,
@@ -9132,12 +9126,10 @@ svg.gameIcon_a9e62c rect,
 .theme-dark .container_d1c246,
 .theme-dark .nowPlayingColumn_c2739c,
 .theme-dark .container_bf550a,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .container_adcaac,
 .theme-dark .noiseCancellationPopout_adcaac,
 .theme-dark .debugPanelStandalone_feab95,
 .theme-dark .container_f8a938,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .container_b385c8,
 .theme-dark .container_f1c3d9,
 .theme-dark .container_eedf95,
@@ -9372,16 +9364,6 @@ svg.gameIcon_a9e62c rect,
 .profileAvatar_f4a859 {
 	top: 8px;
 	left: 8px;
-}
-
-.avatar_f52a16 {
-	width: calc(100% - 4px);
-	height: calc(100% - 4px);
-}
-
-.avatar_e1522e {
-	width: 52px;
-	height: 52px;
 }
 
 .avatar_dbb3d0 {
@@ -10103,8 +10085,7 @@ svg.gameIcon_a9e62c rect,
 }
 
 .toast_dbb3d0:hover .messageContentWrapper_dbb3d0,
-.icon-3w2lZV,
-.noiseCancellationPopout_adcaac {
+.icon-3w2lZV {
 	background: var(--backgroundDark);
 }
 
@@ -16538,7 +16519,6 @@ svg.gameIcon_a9e62c,
 .avatar_d03bba,
 .icon_d80634,
 .iconWrapper_f925ba,
-.avatar_b75bb9,
 .avatar_dc0b54,
 .avatar_d6c26f,
 .guildAvatar_b26403,
@@ -16916,9 +16896,15 @@ body,
 .container_e1e1a4,
 .container_ed4410 .tile_dc5fc4,
 .optionName_fff78a,
-.editCard_cd99d3 .backgroundContainer_ceff93 {
+.editCard_cd99d3 .backgroundContainer_ceff93,
+.sortDropdown_a6d69a {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
+}
+
+.sortDropdown_a6d69a:hover,
+.sortDropdown_a6d69a[aria-expanded=true] {
+	background-color: #08090c;
 }
 
 .selected_ff1414 {
