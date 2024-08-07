@@ -4165,7 +4165,6 @@ input.da-input:focus {
 	border: none;
 }
 
-.container_effbe2,
 .container__33507,
 .container_d2672e {
 	background-color: var(--backgroundDark);
@@ -11194,12 +11193,6 @@ p.body_cb56ab,
 	border-color: rgba(0, 0, 0, .65);
 }
 
-.searchBox_debb5a .tagLabel_effbe2,
-.searchBox-2FUX5z .container_effbe2 .richTag_effbe2 .tagLabel_effbe2,
-.searchBox-2fu6EP .medium_effbe2 .tag_effbe2 {
-	padding-left: 0;
-}
-
 .rolePill_a039eb div {
 	padding-left: 0;
 	font-size: 12px;
@@ -12607,10 +12600,6 @@ path[stroke="rgb(123,162,255)"] {
 	font-size: 11px !important;
 }
 
-.roleMemberList_a0cc0d {
-	margin-right: -6px;
-}
-
 .container_c75f85 {
 	padding-right: 2px;
 }
@@ -13185,7 +13174,6 @@ path[stroke="rgb(123,162,255)"] {
 .container_adcaac,
 .dot_ccd671,
 .forumPost-3MCART,
-.searchBar_ac8310,
 .container_e1e1a4 {
 	border: none;
 }
@@ -14770,8 +14758,6 @@ path[stroke="rgb(123,162,255)"] {
 	background: var(--bg-overlay-active, rgba(0, 0, 0, .45));
 }
 
-.container_effbe2,
-.container_d2672e,
 .container_d2672e {
 	background: var(--bg-overlay-2, var(--backgroundDark));
 	box-shadow: var(--bg-overlay-2, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
@@ -15875,7 +15861,6 @@ path[fill="var(--text-brand)"] {
 
 .theme-dark .selectedWidget_a9414b,
 .customGiftBox_c4afc7,
-.searchBar_ac8310,
 .biteSizeOverlayBackground_c69a7b, .fullSizeOverlayBackground_c69a7b,
 .theme-dark .statusBubbleOuter_d0a252, .theme-dark .statusBubbleOuter_d0a252:before, .theme-dark .statusBubbleOuter_d0a252:after,
 .custom-profile-theme .container_e5a42d,
@@ -16124,14 +16109,6 @@ path[fill="var(--text-brand)"] {
 
 .searchBox_a0cc0d {
 	padding-right: 22px;
-}
-
-.modal_b545d5 .searchBox_a0cc0d {
-	padding-right: 16px;
-}
-
-.modal_b545d5 .addMemberRow_a0cc0d {
-	margin-right: 6px;
 }
 
 .disabled_f8bc55 {
@@ -16454,7 +16431,6 @@ svg.gameIcon_a9e62c,
 .container_adcaac,
 .pill_f9575e,
 .inner_c36ce4,
-.searchBar_ac8310,
 .icon_e1522e,
 .custom-theme-background .popout_c5b389,
 .checkboxWrapper_dbc5a4,
