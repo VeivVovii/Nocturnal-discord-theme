@@ -2399,16 +2399,16 @@ svg.gameIcon_a9e62c {
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2)) !important;
 }
 
-.notches_e5cdf3 {
-	display: none
+.notches_a1107d {
+	display: none;
 }
 
-.container_e5cdf3 {
+.container_a1107d {
 	border-radius: 50px;
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2)) !important
 }
 
-.theme-dark .progress_e5cdf3 {
+.theme-dark .progress_a1107d {
 	background-color: rgba(0, 0, 0, .75)
 }
 
@@ -6643,7 +6643,6 @@ button.button_adca65.enabled_adca65:hover {
 
 .tag_c993da,
 .tagsButton_a6d69a,
-.sortDropdown_a6d69a,
 .pill_c993da:not(.tags_b7acc4),
 .inlineTag_d66623,
 .inlineTag_d66623 {
@@ -6653,8 +6652,6 @@ button.button_adca65.enabled_adca65:hover {
 .tag_c993da:hover,
 .tagsButton_a6d69a:hover,
 .tagsButton_a6d69a[aria-expanded=true],
-.sortDropdown_a6d69a:hover,
-.sortDropdown_a6d69a[aria-expanded=true],
 .pill_c993da.clickable_c993da:not(.disabled_c993da):hover {
 	background-color: rgba(0, 0, 0, .4);
 }
@@ -7809,10 +7806,6 @@ button.button_adca65.enabled_adca65:hover {
 	cursor: not-allowed;
 }
 
-.avatar_cfe282 {
-	left: -4px;
-}
-
 .sidebarRegionScroller_c25c6d {
 	border-right: 1px solid rgba(1, 1, 1, 0.25);
 }
@@ -8626,13 +8619,6 @@ html.theme-light .app_a01fb1::after {
 	box-shadow: 0 0 0 2px #666 !important
 }
 
-.avatar_cfe282:before,
-.avatar_da77bd::before,
-.avatar_cfe282::before {
-	width: calc(100% - 2px) !important;
-	height: calc(100% - 2px) !important;
-}
-
 .inFront_f61cb8 {
 	width: 24px !important;
 	height: 24px !important
@@ -9000,12 +8986,9 @@ svg.gameIcon_a9e62c rect,
 .theme-dark.custom-theme-background .withBackgroundOverride_a934d8,
 .theme-dark .chat_a7d72e,
 .theme-dark .chatContent_a7d72e,
-.theme-dark .wrapper_cdfd51,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .member_a31c43,
 .theme-dark .members_cbd271,
 .theme-dark .member_cbd271,
-.theme-dark .members_cbd271,
 .theme-dark .container_c2739c,
 .theme-dark .container_c2739c,
 .theme-dark .container_ee69e0,
@@ -9021,12 +9004,10 @@ svg.gameIcon_a9e62c rect,
 .theme-dark .container_d1c246,
 .theme-dark .nowPlayingColumn_c2739c,
 .theme-dark .container_bf550a,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .container_adcaac,
 .theme-dark .noiseCancellationPopout_adcaac,
 .theme-dark .debugPanelStandalone_feab95,
 .theme-dark .container_f8a938,
-.theme-dark .wrapper_b75bb9,
 .theme-dark .container_b385c8,
 .theme-dark .container_f1c3d9,
 .theme-dark .container_eedf95,
@@ -9974,8 +9955,7 @@ svg.gameIcon_a9e62c rect,
 }
 
 .toast_dbb3d0:hover .messageContentWrapper_dbb3d0,
-.icon-3w2lZV,
-.noiseCancellationPopout_adcaac {
+.icon-3w2lZV {
 	background: var(--backgroundDark);
 }
 
@@ -11570,7 +11550,6 @@ p.body_cb56ab,
 .tierCardCurrentTier-ed2p6N,
 .recommendedTierHighlightTag-2Vgifo,
 .recommendedTierHighlightTag_ebd3d3,
-.tierCard_e3ebb9,
 .tierCardCurrentTier_e3ebb9,
 .iconWrapper_a708c4,
 .iconWrapper_a66fbc {
@@ -13338,14 +13317,8 @@ path[stroke="rgb(123,162,255)"] {
 	color: var(--backgroundDark);
 }
 
-.progressBar_e00a24,
 .progressBar_e00a24 {
 	max-width: 95%;
-}
-
-.tierCard_e3ebb9 {
-	width: 460px;
-	box-shadow: none;
 }
 
 .lowerBodyContentWrapper_a50853,
@@ -14236,10 +14209,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .container_c90ddb,
-.container_f1f9c9,
-.container_c90ddb,
 .page_f75c12,
-.container_f1f9c9,
 .tier0Card_dc391a,
 .contentContainer_cac32e,
 .customInput_dd7505,
@@ -15167,10 +15137,6 @@ div.cardContainer_c22357,
 	padding-right: 2px !important;
 }
 
-.scroller_d53d65 {
-	margin-right: -10px;
-}
-
 .searchBar_af5f95 {
 	margin-right: 6px;
 }
@@ -15201,10 +15167,6 @@ div.cardContainer_c22357,
 
 .paginationInput_c90ddb>nav {
 	margin-right: auto;
-}
-
-.scroller_d53d65 {
-	margin-right: 0;
 }
 
 .tooltip_b6c360:has(.inviterTooltipContainer_a6dcab) {
@@ -15513,10 +15475,6 @@ path[fill="var(--text-brand)"] {
 
 .shyButton_a25714 {
 	background: radial-gradient(ellipse at 120%200%, #2599ff 10%, transparent 70%)
-}
-
-.container_c90ddb {
-	padding: 0;
 }
 
 .theme-dark .iconMask_b3f648,
@@ -16483,11 +16441,9 @@ svg.gameIcon_a9e62c,
 	box-shadow: none;
 }
 
-.container_f1f9c9,
 .soundButtonSettingContainer_c801bb,
 .container_c90ddb,
 .scrollerContainer_c90ddb,
-.tierCard_e3ebb9,
 .messageBlock_b74455 {
 	width: 100%;
 }
@@ -16583,19 +16539,9 @@ div.cardContainer_c22357,
 	padding-bottom: 0;
 }
 
-.avatar_da77bd,
-.avatar_cfe282 {
-	width: 32px !important;
-	height: 32px !important;
-}
-
 .theme-dark .footer_a74b6f {
 	background-color: var(--backgroundDark);
 	box-shadow: inset 0 1px 0 rgba(0, 0, 0, .95);
-}
-
-.container_c90ddb {
-	padding: 0;
 }
 
 .theme-dark .wrapper_f72aac,
@@ -16686,9 +16632,15 @@ body,
 .container_e1e1a4,
 .container_ed4410 .tile_dc5fc4,
 .optionName_fff78a,
-.editCard_cd99d3 .backgroundContainer_ceff93 {
+.editCard_cd99d3 .backgroundContainer_ceff93,
+.sortDropdown_a6d69a {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
+}
+
+.sortDropdown_a6d69a:hover,
+.sortDropdown_a6d69a[aria-expanded=true] {
+	background-color: #08090c;
 }
 
 .selected_ff1414 {
@@ -17019,4 +16971,10 @@ path[fill="var(--mention-foreground)"] {
 
 .upsellWrapper_b8772d {
 	padding-right: 14px;
+}
+
+.avatar_cfe282,
+.avatar_da77bd {
+	width: 32px !important;
+	height: 32px !important;
 }
