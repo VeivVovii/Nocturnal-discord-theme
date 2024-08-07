@@ -2400,16 +2400,16 @@ svg.gameIcon_a9e62c {
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2)) !important;
 }
 
-.notches_e5cdf3 {
-	display: none
+.notches_a1107d {
+	display: none;
 }
 
-.container_e5cdf3 {
+.container_a1107d {
 	border-radius: 50px;
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2)) !important
 }
 
-.theme-dark .progress_e5cdf3 {
+.theme-dark .progress_a1107d {
 	background-color: rgba(0, 0, 0, .75)
 }
 
