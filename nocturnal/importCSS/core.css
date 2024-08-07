@@ -17198,7 +17198,8 @@ path[fill="var(--mention-foreground)"] {
 	padding-right: 14px;
 }
 
-.avatar_cfe282 {
+.avatar_cfe282,
+.avatar_da77bd {
 	width: 32px !important;
 	height: 32px !important;
 }
