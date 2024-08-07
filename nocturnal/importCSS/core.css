@@ -15459,15 +15459,18 @@ input[type=checkbox]:focus-visible+.label_d1ac9b {
 	border-top: solid 1px rgba(1, 1, 1, 0.25);
 }
 
-.shopCard_c23530[style*="background-floating"],.shopCard_b37971[style*="background-floating"] {
+.shopCard_c23530[style*="background-floating"],
+.shopCard_b37971[style*="background-floating"] {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
-.shopCard_c23530[style*="chat-border"],.shopCard_b37971[style*="chat-border"] {
+.shopCard_c23530[style*="chat-border"],
+.shopCard_b37971[style*="chat-border"] {
 	border: none !important;
 }
 
-.shopCard_c23530[style*="box-shadow: 0 0 15px 1px var(--primary-700);"],.shopCard_b37971[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
+.shopCard_c23530[style*="box-shadow: 0 0 15px 1px var(--primary-700);"],
+.shopCard_b37971[style*="box-shadow: 0 0 15px 1px var(--primary-700);"] {
 	box-shadow: 0 0 15px 1px rgba(0, 0, 0, .75) !important;
 }
 
@@ -16852,7 +16855,8 @@ body,
 .container_ed4410 .tile_dc5fc4,
 .optionName_fff78a,
 .editCard_cd99d3 .backgroundContainer_ceff93,
-.sortDropdown_a6d69a {
+.sortDropdown_a6d69a,
+.shopCardDark_c23530 {
 	background-color: var(--backgroundDarker-alt);
 	border: none;
 }
