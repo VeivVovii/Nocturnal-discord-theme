@@ -16164,13 +16164,6 @@ path[fill="var(--brand-500)"] {
 	border-top-color: rgba(0, 0, 0, .2);
 }
 
-.activity_cd74cc {
-	padding: 0;
-	background-color: rgba(0, 0, 0, 0) !important;
-	border: none !important;
-	border-radius: 0;
-}
-
 .background_c01868 {
 	--custom-overlay-color: hsl(var(--backgroundDarker-hsl) / 0.8);
 }
