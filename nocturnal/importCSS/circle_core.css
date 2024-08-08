@@ -2,6 +2,7 @@
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
+
 .wrapper_c51b4e[role="img"][aria-label]:before,
 .avatar-2Vndt_[role="img"][aria-label]:before,
 .avatar_db5049[role="img"][aria-label]:before,
@@ -1326,7 +1327,7 @@
 }
 
 .modal_c97cbd,
-.theme-dark .root_f9a4c9:not(.container_f4e139, .container_f4e139, .container_f4e139, .zoomedCarouselModalRoot_f74404),
+.theme-dark .root_f9a4c9:not(.container_f4e139, .zoomedCarouselModalRoot_f74404),
 .bd-modal-root,
 .content_c2654d,
 .popout-13LQ_3,
@@ -10534,8 +10535,7 @@ svg.gameIcon_a9e62c rect,
 	background-color: rgba(0, 0, 0, .35);
 }
 
-.theme-dark .root_f9a4c9.modal_aee8c6,
-.theme-dark .root_f9a4c9.container_f4e139 {
+.theme-dark .root_f9a4c9.modal_aee8c6 {
 	background-color: rgba(0, 0, 0, 0) !important;
 	box-shadow: none !important
 }
@@ -14591,11 +14591,6 @@ path[stroke="rgb(123,162,255)"] {
 .base_df8943[style*="brand-500"],
 .base_df8943[style*="primary-500"] {
 	background-color: var(--primary) !important;
-}
-
-.root_f9a4c9.container_f4e139 {
-	background: none !important;
-	box-shadow: none !important;
 }
 
 .theme-dark .container__5130c.isOpen__036bf {
