@@ -242,7 +242,7 @@
 	background-color: var(--profile-gradient-secondary-color);
 }
 
-.custom-profile-theme .footer_be6801,.userProfileModalOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .divider_b9fccc,.userProfileInnerThemedPremiumWithoutBanner_c69a7b .divider_b9fccc,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .tabBarContainer_b9fccc,.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .mutualFriendsDivider_b433b4,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .userInfoSection_f3eb60+.userInfoSection_f3eb60,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .connectedAccountContainer_f3eb60 {
+.custom-profile-theme .footer_ecc60d,.userProfileModalOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .divider_b9fccc,.userProfileInnerThemedPremiumWithoutBanner_c69a7b .divider_b9fccc,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .tabBarContainer_b9fccc,.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .mutualFriendsDivider_b433b4,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .userInfoSection_f3eb60+.userInfoSection_f3eb60,.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .connectedAccountContainer_f3eb60 {
 	border-color: var(--profile-gradient-secondary-color);
 }
 
