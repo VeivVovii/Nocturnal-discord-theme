@@ -11710,12 +11710,15 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgb(60, 193, 235);
 }
 
-.botTagOP_a9e77f,
-.newChannel_ecb303,
 .textBadge_df8943[style*=brand-260],
 .textBadge_df8943[style*=mention-foreground],
 .textBadge_df8943[style*="201, 205, 251"] {
 	background-color: rgb(113, 242, 239) !important;
+}
+
+.botTagOP_a9e77f,
+.newChannel_ecb303 {
+	background-color: rgb(113, 242, 239);
 }
 
 .botTagOP_a9e77f,
