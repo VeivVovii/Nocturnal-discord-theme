@@ -3190,10 +3190,6 @@ input.da-input:focus {
 	background-color: var(--backgroundDarker) !important;
 }
 
-.list-2bwCXU {
-	padding-right: 8px;
-}
-
 .theme-dark .invite_f61cb8 {
 	background: rgba(0, 0, 0, .15);
 	border: none;
@@ -4404,7 +4400,6 @@ button.button_adca65.enabled_adca65:hover {
 	margin: 16px 2px 9px;
 }
 
-.list-2bwCXU,
 .row_cf6b7d {
 	padding-right: 2px;
 }
@@ -4478,10 +4473,7 @@ button.button_adca65.enabled_adca65:hover {
 
 .scroller_bf550a,
 .scroller_bb12d2,
-.scroll-2wB1Q4,
-.scroller_c2b47d,
-.formContainer-3VIOqr,
-.scrollerInner-1ja-9K {
+.scroller_c2b47d {
 	padding-right: 10px !important;
 	margin-left: 0;
 }
@@ -4949,7 +4941,6 @@ button.button_adca65.enabled_adca65:hover {
 .baseShapeRoundLeft_df8943,
 .liveShapeRoundRight_ec1c2d,
 .liveIndicator_c5881c,
-.textBadge_df8943[style="background-color: rgb(201, 205, 251);"],
 .textBadge_df8943[style="background-color: var(--button-danger-background);"] {
 	background-color: var(--primary) !important;
 }
@@ -11570,9 +11561,11 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgb(60, 193, 235);
 }
 
-[style*=brand-260],
 .botTagOP_a9e77f,
-.newChannel_ecb303 {
+.newChannel_ecb303,
+.textBadge_df8943[style*=brand-260],
+.textBadge_df8943[style*=mention-foreground],
+.textBadge_df8943[style*="201, 205, 251"] {
 	background-color: rgb(113, 242, 239) !important;
 }
 
@@ -14554,12 +14547,13 @@ body,
 	transition: all .2s ease;
 }
 
-path[fill="var(--mention-foreground)"] {
+path[fill="var(--mention-foreground)"],
+path[fill="201, 205, 251"],
+path[fill="brand-260"] {
 	fill: rgb(113, 242, 239);
 }
 
-.custom-theme-background .icon_bf515c path[fill="var(--mention-foreground)"],
-path[fill="var(--mention-foreground)"] {
+.custom-theme-background .icon_bf515c path[fill="var(--mention-foreground)"] {
 	fill: rgb(60, 193, 235);
 }
 
@@ -14747,4 +14741,22 @@ path[fill="var(--mention-foreground)"] {
 
 .sizeMin_dd4f85 .contents_dd4f85 {
 	display: flex;
+}
+
+.textBadge_df8943[style*=#949cf7],
+.textBadge_df8943[style*=control-brand-foreground],
+.textBadge_df8943[style="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"],
+.textBadge_df8943[style*="148, 156, 247"],
+.textBadge_df8943[style*=text-brand] {
+	background-color: rgb(60, 193, 235) !important;
+}
+
+path[fill="222, 224, 252"],
+path[fill="brand-200"] {
+	fill: rgb(134, 246, 255);
+}
+
+.textBadge_df8943[style*="222, 224, 252"],
+.textBadge_df8943[style*="brand-200"] {
+	background-color: rgb(134, 246, 255) !important;
 }
