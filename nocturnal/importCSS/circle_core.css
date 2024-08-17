@@ -2021,7 +2021,8 @@ svg.gameIcon_a9e62c {
 	background: url(https://svgshare.com/i/9pa.svg) center/contain no-repeat !important
 }
 
-.checkbox_f6cde8 {
+.checkbox_f6cde8,
+.checkbox_f6cde8[style*="brand-500"] {
 	background-color: #202632 !important;
 	border: none !important
 }
