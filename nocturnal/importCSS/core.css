@@ -13233,7 +13233,6 @@ svg.gameIcon_a9e62c,
 .avatar_f866f2,
 .avatar_a1527b,
 .avatar_c32699,
-.partyMemberEmpty_f61cb8,
 .layout_d808b0,
 .container_d808b0,
 .layout_ec8679,
@@ -13383,7 +13382,6 @@ svg.gameIcon_a9e62c,
 .promotionIcon_e8af36,
 .content_a5828d,
 .imageContainer_e365d2,
-.theme-dark .moreUsers_f61cb8,
 .background_ad09cb,
 .guildIcon_a8210b:not(.noIcon_a64689),
 .checkmark_a8210b,
@@ -13641,10 +13639,6 @@ body,
 
 .newlyAddedBadge_c3120f {
 	background: linear-gradient(268.26deg, var(--primaryGradient1) 0%, var(--primaryGradient2) 102.45%) !important;
-}
-
-.theme-dark .partyMemberEmpty_f61cb8 {
-	background: rgb(0, 0, 0, .15);
 }
 
 .theme-dark .moreUsers_f61cb8 {
