@@ -1571,15 +1571,19 @@ div[data-contents="true"] {
 	background: rgba(0, 138, 230, 0.302);
 }
 
-.custom-theme-background .wrapper_bf1b19 {
-	color: rgb(60, 193, 235);
-}
-
 .executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca {
 	background-color: rgba(0, 138, 230, 0.302);
 	border-radius: 50px;
 	padding: .5px 5px;
 	transition: all .2s ease;
+}
+
+.custom-theme-background .wrapper_bf1b19 {
+	color: rgb(60, 193, 235);
+}
+
+.custom-theme-background .icon_bf515c path[fill="var(--mention-foreground)"] {
+	fill: rgb(60, 193, 235);
 }
 
 .interactive,
@@ -1599,6 +1603,13 @@ div[data-contents="true"] {
 .executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca:hover {
 	color: #fff;
 	background-color: var(--primary);
+}
+
+.interactive:hover .icon_bf515c path[fill="var(--mention-foreground)"],
+.interactive:hover path[fill="var(--mention-foreground)"],
+.custom-theme-background .interactive:hover .icon_bf515c path[fill="var(--mention-foreground)"],
+.custom-theme-background .interactive:hover path[fill="var(--mention-foreground)"] {
+	fill: #fff;
 }
 
 svg[name=Nova_Discord] * {
@@ -13727,18 +13738,6 @@ path[fill="201, 205, 251"],
 path[fill="brand-260"],
 path[fill="badge-brand-bg"] {
 	fill: rgb(113, 242, 239);
-}
-
-.custom-theme-background .icon_bf515c path[fill="var(--mention-foreground)"] {
-	fill: rgb(60, 193, 235);
-}
-
-.interactive:hover .icon_bf515c path[fill="var(--mention-foreground)"],
-.interactive:hover path[fill="var(--mention-foreground)"],
-.custom-theme-background .interactive:hover .icon_bf515c path[fill="var(--mention-foreground)"],
-.custom-theme-background .interactive:hover path[fill="var(--mention-foreground)"] {
-	fill: #fff;
-	transition: all .2s ease;
 }
 
 .destinationRow_d0585c {
