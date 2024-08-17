@@ -3494,7 +3494,6 @@ svg[name=Nitro] g path {
 .theme-dark .partyMemberEmpty_f61cb8,
 .theme-dark .moreUsers_f61cb8 {
 	background-color: #0e1015;
-	border-radius: 5px;
 }
 
 .divider_b8ab18,
@@ -13196,7 +13195,6 @@ svg.gameIcon_a9e62c,
 .avatar_e1522e,
 .content_a5828d,
 .imageContainer_e365d2,
-.theme-dark .moreUsers_f61cb8,
 .background_ad09cb,
 .guildIcon_a8210b:not(.noIcon_a64689),
 .checkmark_a8210b,
@@ -13429,10 +13427,6 @@ body,
 
 .newlyAddedBadge_c3120f {
 	background: linear-gradient(268.26deg, var(--primaryGradient1) 0%, var(--primaryGradient2) 102.45%) !important;
-}
-
-.theme-dark .partyMemberEmpty_f61cb8 {
-	background: rgb(0, 0, 0, .15);
 }
 
 .theme-dark .moreUsers_f61cb8 {
