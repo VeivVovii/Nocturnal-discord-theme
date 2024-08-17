@@ -25,8 +25,8 @@
 }
 
 [role="img"][aria-label] .avatar_c51b4e,
-.avatarSpeaking_c51b4e,
-[role="img"][aria-label] .avatar_c51b4e:before {
+[role="img"][aria-label] .avatar_c51b4e:before,
+[role="img"][aria-label] .avatarSpeaking_c51b4e {
 	margin: 2px 0 0 2px;
 	width: calc(100% - 4px);
 	height: calc(100% - 4px);
