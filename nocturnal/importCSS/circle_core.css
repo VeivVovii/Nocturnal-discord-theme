@@ -2692,19 +2692,11 @@ svg[name=Nitro] g path {
 	background: var(--bg-overlay-5, var(--background-message-hover));
 }
 
-.mentioned_d5deea:before,
-.replying_d5deea:before,
-.ephemeral_d5deea:not(.automodMessage_d5deea):before {
-	background: rgba(0, 176, 244) !important;
+.mentioned_d5deea:before {
+	background: rgba(0, 176, 244);
 }
 
-.message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea) {
-	background: rgba(0, 176, 244, 0.051);
-}
-
-.message_d5deea.mentioned_d5deea,
-.message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea).selected_d5deea,
-.mouse-mode.full-motion .message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea):hover {
+.message_d5deea.mentioned_d5deea {
 	background: rgba(0, 176, 244, 0.102);
 }
 
@@ -2713,16 +2705,25 @@ svg[name=Nitro] g path {
 	background: rgba(0, 176, 244, 0.078);
 }
 
+.replying_d5deea:before,
+.ephemeral_d5deea:not(.automodMessage_d5deea):before {
+	background: var(--primary);
+}
+
+.message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea) {
+	background: rgba(0, 138, 230, 0.051);
+}
+
 .message_d5deea.highlighted_d5deea,
 .message_d5deea.replying_d5deea {
 	background: rgba(60, 231, 249, 0.078);
 }
 
+.message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea).selected_d5deea,
+.mouse-mode.full-motion .message_d5deea.ephemeral_d5deea:not(.automodMessage_d5deea):hover,
 .message_d5deea.replying_d5deea.selected_d5deea,
-.mouse-mode.full-motion .message_d5deea.replying_d5deea:hover,
-.message_d5deea.highlighted_d5deea.selected_d5deea,
-.mouse-mode.full-motion .message_d5deea.highlighted_d5deea:hover {
-	background: rgba(0, 176, 244, 0.102);
+.mouse-mode.full-motion .message_d5deea.replying_d5deea:hover {
+	background: rgba(0, 138, 230, 0.102)
 }
 
 .message_d5deea.automodMessage_d5deea.selected_d5deea,
