@@ -1588,7 +1588,7 @@ div[data-contents="true"] {
 
 .interactive,
 .icon_bf515c path[fill="var(--mention-foreground)"] {
-	transition: all .2s ease;
+	transition: all .2s ease !important;
 }
 
 .mention {
