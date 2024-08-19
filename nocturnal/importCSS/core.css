@@ -5405,7 +5405,6 @@ button.button_adca65.enabled_adca65:hover {
 }
 
 .container_ddbb27,
-.icon_a64689.guildIcon-2xKEtM,
 .loadingCard_a6d69a {
 	border-radius: 5px;
 }
@@ -7749,9 +7748,7 @@ svg.gameIcon_a9e62c rect,
 .checkbox_aa7c25.selected_aa7c25,
 .icon_e1522e,
 .checked_f6cde8+.seperator-2g-19Q,
-.formInput_f03c49,
-.badge-39TqBS,
-.modalFooter-30Vz9C {
+.formInput_f03c49 {
 	border: none;
 }
 
@@ -7763,8 +7760,6 @@ svg.gameIcon_a9e62c rect,
 
 .roleRow_a930f1:not(.containerDragBefore_a930f1):before,
 .roleRow_a930f1:not(.containerDragBefore_a930f1):last-child:after,
-.stageUpsell-hekoJb,
-.emptyGuild-Am9XfC,
 .iconContainer_abfcad {
 	background-color: rgb(16, 18, 24);
 }
@@ -7774,9 +7769,7 @@ svg.gameIcon_a9e62c rect,
 }
 
 .maskBackground_ccd3df,
-.upsellItem-291cPk,
 .tips_ca0caf,
-.videoContainer-2NITMz,
 .sidebarContainer_e5b5f9 {
 	background-color: rgb(0, 0, 0, .25);
 }
@@ -7797,7 +7790,6 @@ svg.gameIcon_a9e62c rect,
 .container_f9bbb4[style*="brand-500"],
 .icon_dc3fc4[style*="brand-500"],
 .noIcon_a64689.guildIcon_a71a1c,
-.noIcon_a64689.guildIcon-2xKEtM,
 .avatarUploaderInnerEmpty_f0a9ff,
 .selectedBackground_ae3c77,
 .noIcon_a64689.iconSizeLarger_a64689,
@@ -8027,12 +8019,6 @@ svg.gameIcon_a9e62c rect,
 	fill: #202632;
 }
 
-.publishButton-3chyxp {
-	background: none;
-	margin-top: auto;
-	margin-bottom: auto;
-}
-
 .headerImageContainer_f03c49,
 .tierImage_c5ed9a,
 .listingImage_fb0b3c,
@@ -8243,7 +8229,6 @@ svg.gameIcon_a9e62c rect,
 	background: var(--backgroundDark);
 }
 
-.checkmark_cb7c27,
 .checkmark_cb7c27 {
 	color: var(--primary);
 }
@@ -8281,13 +8266,8 @@ svg.gameIcon_a9e62c rect,
 .optionBox_f2f431:hover,
 .prompt_cd377c .optionButtonWrapper_bd5e1f.selected_bd5e1f,
 .theme-dark .selectableItem_d40acf:focus,
-.iconContainer-3jfRTd,
-.divider-1tWBgZ,
-.theme-dark .spoilerText-2G40u0.hidden_aa9639:hover,
-.exampleTextSingleLine-1V7Brj,
 .placeholderSkeleton_cf5d0a,
-.breadcrumbContainer_d74c59:not(:last-child):after,
-.theme-dark.custom-theme-background .spoilerText-2G40u0.hidden_aa9639:hover {
+.breadcrumbContainer_d74c59:not(:last-child):after {
 	background-color: rgba(0, 0, 0, .35);
 }
 
@@ -8345,15 +8325,6 @@ svg.gameIcon_a9e62c rect,
 .content_f9a4c9.selectContent_a9236d,
 .content_f9a4c9.addMembersContainer_b545d5 {
 	padding-right: 0 !important
-}
-
-.selectGuild-2A4oJC {
-	margin-right: 2px;
-}
-
-.stageUpsell-hekoJb {
-	max-width: 95%;
-	padding: 10px 24px
 }
 
 .textContainer_d8e2d0,
@@ -8879,7 +8850,6 @@ svg.gameIcon_a9e62c rect,
 	margin-right: -14px;
 }
 
-.guildIcon-2xKEtM[style*="font-size: 10px;"],
 .guildIconNoIcon_a74b6f[style*="font-size: 10px;"] {
 	font-size: 11px !important;
 }
