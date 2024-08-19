@@ -7930,41 +7930,30 @@ svg.gameIcon_a9e62c rect,
 }
 
 .activityActionButton_ec77c5,
-.happeningNowJoin-38S9z-,
-.luckyButton-3IdJ-R,
-.flipCardText-2qCpbY,
 .editWelcomeButton_e88228,
 .iconCircle_d29eee,
 .chat_a7d72e .userProfileOuterUnthemed_c69a7b .buttonColor_cd74cc,
 .chat_a7d72e .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .buttonColor_cd74cc,
 .chat_a7d72e .userProfileOuterThemed_c69a7b[style*="background-secondary-alt"] .buttonColor_cd74cc,
-.addTags_faaca1,
-.changeTeamButton-2u3mhe {
+.addTags_faaca1 {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--primary) !important;
 	border-radius: 6px !important;
 	color: #fff !important
 }
 
-.luckyButton-3IdJ-R,
 .editWelcomeButton_e88228,
-.flipCardText-2qCpbY,
 .activityActionButton_ec77c5 {
 	background-color: rgba(10, 12, 16) !important;
 }
 
 .activityItem_ec77c5:hover .activityActionButton_ec77c5,
-.happeningNowCard-LQzIBo:focus .happeningNowJoin-38S9z-,
-.happeningNowCard-LQzIBo:hover .happeningNowJoin-38S9z-,
-.luckyButton-3IdJ-R:hover,
-.clickableContainer-1N_Wn8:hover+.flipCardInner-2hI9Pw .flipCardText-2qCpbY,
 .editWelcomeButton_e88228:hover,
 .clickable_d29eee:hover .iconCircle_d29eee,
 .chat_a7d72e .userProfileOuterUnthemed_c69a7b .buttonColor_cd74cc:hover:not(:disabled),
 .chat_a7d72e .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .buttonColor_cd74cc:hover:not(:disabled),
 .chat_a7d72e .userProfileOuterThemed_c69a7b[style*="background-secondary-alt"] .buttonColor_cd74cc:hover:not(:disabled),
-.addTags_faaca1:not(.disabled_faaca1):hover,
-.changeTeamButton-2u3mhe:hover {
+.addTags_faaca1:not(.disabled_faaca1):hover {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
@@ -8032,16 +8021,6 @@ svg.gameIcon_a9e62c rect,
 
 .emojiPicker_c6ee36 {
 	border-radius: 0 0 8px 8px;
-}
-
-.searchBar-KiUuv8.small_e3a503 .input__48d49,
-.searchBar-KiUuv8.small_e3a503 .tag__3ba94 {
-	font-size: 20px;
-}
-
-.searchBar-KiUuv8 .iconContainer__4d295 {
-	width: 32px;
-	height: 32px;
 }
 
 .icon_eff583 path[fill="var(--brand-500)"] {
