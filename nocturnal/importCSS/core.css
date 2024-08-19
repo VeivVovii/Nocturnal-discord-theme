@@ -7717,7 +7717,6 @@ svg.gameIcon_a9e62c rect,
 	background-color: var(--backgroundDarker) !important;
 }
 
-.formFieldWrapper-3IiCRS,
 .radioGroupHorizontal_fea47d .formatOptionRadioItem_fea47d[aria-checked=true] .formatRadioIconWrapper_fea47d,
 .checked_edb725 .checkboxDisplay_edb725,
 .disabled_edb725 .checkboxDisplay_edb725,
@@ -7747,7 +7746,6 @@ svg.gameIcon_a9e62c rect,
 .checkbox_aa7c25,
 .checkbox_aa7c25.selected_aa7c25,
 .icon_e1522e,
-.checked_f6cde8+.seperator-2g-19Q,
 .formInput_f03c49 {
 	border: none;
 }
@@ -7759,8 +7757,7 @@ svg.gameIcon_a9e62c rect,
 }
 
 .roleRow_a930f1:not(.containerDragBefore_a930f1):before,
-.roleRow_a930f1:not(.containerDragBefore_a930f1):last-child:after,
-.iconContainer_abfcad {
+.roleRow_a930f1:not(.containerDragBefore_a930f1):last-child:after {
 	background-color: rgb(16, 18, 24);
 }
 
@@ -10245,7 +10242,6 @@ path[stroke="rgb(123,162,255)"] {
 .circle_b5365d,
 .theme-dark .inviteRow_cedfaf:hover,
 .bd-settings-group.collapsible .bd-settings-title::before,
-.iconContainer_abfcad,
 .iconBackground_e4d3f1,
 .rowIcon_b56b8b,
 .background_b42a48,
