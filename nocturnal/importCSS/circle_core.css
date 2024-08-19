@@ -2376,7 +2376,7 @@ svg[name=Nitro] g path {
 
 .listDefault_d80634 .clickable_d80634:hover .content_d80634,
 .wrapper_d8bfb3:hover .link_d8bfb3 {
-	background: var(--bg-overlay-hover, rgba(0, 0, 0, .25))
+	background: var(--bg-overlay-hover, rgba(0, 0, 0, .25));
 }
 
 .side_a0 .themed_a0.item_a0:active:not(.disabled_a0) {
@@ -4121,7 +4121,7 @@ button.button_adca65.enabled_adca65:hover {
 
 .reaction_ec6b19.reactionMe_ec6b19,
 .custom-theme-background .reaction_ec6b19.reactionMe_ec6b19 {
-	background-color: rgba(0, 138, 230, .15);
+	background-color: rgba(0, 138, 230, 0.15);
 	border-color: var(--primary);
 }
 
@@ -4249,7 +4249,7 @@ button.button_adca65.enabled_adca65:hover {
 
 .message_f3e42a strong {
 	color: rgb(0, 121, 208);
-	background: rgba(0, 138, 230, .15);
+	background: rgba(0, 138, 230, 0.15);
 	padding: .5px 5px;
 	border-radius: 50px;
 }
@@ -7677,7 +7677,6 @@ svg.gameIcon_a9e62c rect,
 
 .unsavedBadge_f03c49,
 .acronym_ce608a,
-.acronym_ce608a,
 .container_f9bbb4[style*="brand-500"],
 .icon_dc3fc4[style*="brand-500"],
 .noIcon_a64689.guildIcon_a71a1c,
@@ -9484,10 +9483,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .noIcon_a64689.headerIcon_d32e26,
 .memberSinceContainer__16630 .noIcon_a64689,
-.acronym-lXtqi2,
 .acronym_d38cb2,
-.toast.toast-success,
-.acronym_ce608a {
+.toast.toast-success {
 	background-color: var(--primary) !important;
 	border-color: var(--primary);
 }
