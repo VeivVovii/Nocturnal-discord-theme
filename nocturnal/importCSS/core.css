@@ -6779,8 +6779,7 @@ svg.gameIcon_a9e62c rect,
 .avatarUploaderPremium-2v2k2d .spinningAvatar_eb2d2c,
 .forumPost_c53f2f,
 .avatar_b13ff2,
-.imageUploaderInner_de76e4.tierSymbolUploaderInner_fe8653,
-.acronym_ce608a {
+.imageUploaderInner_de76e4.tierSymbolUploaderInner_fe8653 {
 	border-radius: 5px;
 }
 
@@ -7791,7 +7790,6 @@ svg.gameIcon_a9e62c rect,
 }
 
 .unsavedBadge_f03c49,
-.acronym_ce608a,
 .acronym_ce608a,
 .container_f9bbb4[style*="brand-500"],
 .icon_dc3fc4[style*="brand-500"],
@@ -9617,10 +9615,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .noIcon_a64689.headerIcon_d32e26,
 .memberSinceContainer__16630 .noIcon_a64689,
-.acronym-lXtqi2,
 .acronym_d38cb2,
-.toast.toast-success,
-.acronym_ce608a {
+.toast.toast-success {
 	background-color: var(--primary) !important;
 	border-color: var(--primary);
 }
@@ -12204,7 +12200,6 @@ path[fill="#949cf7"] {
 }
 
 .avatarHoverTarget_f89da9,
-.acronym_ce608a,
 .acronym_ce608a {
 	border-radius: 16px;
 }
