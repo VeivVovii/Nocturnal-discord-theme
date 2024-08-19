@@ -1708,7 +1708,8 @@ svg[name=Nova_Discord] * {
 .lookFilled_dd4f85.colorBrand_dd4f85:disabled,
 .lookFilled_dd4f85.colorBrand_dd4f85[aria-disabled=true],
 .lookFilled_dd4f85.colorPrimary_dd4f85:not(.color_f9d37d.banner_f9d37d),
-.lookFilled_dd4f85.colorPrimary_dd4f85:disabled, .lookFilled_dd4f85.colorPrimary_dd4f85[aria-disabled=true],
+.lookFilled_dd4f85.colorPrimary_dd4f85:disabled,
+.lookFilled_dd4f85.colorPrimary_dd4f85[aria-disabled=true],
 .lookOutlined_dd4f85.colorBrand_dd4f85,
 .plugin-settings button,
 .standardSidebarView_c25c6d #bd-customcss-attach-controls button {
@@ -11636,7 +11637,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .publishButton_b225f6:hover:not(:disabled),
 .publishButton_b225f6:hover:not(.disabledPublishButton_f77b50),
-.button_e278fb:hover:not(:disabled){
+.button_e278fb:hover:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: #207B8D !important;
@@ -11918,6 +11919,7 @@ div.cardContainer_c22357,
 }
 
 @media (min-width: 1129px) {
+
 	.scroller_a3a4ce,
 	.scroller_a39aa3 {
 		padding-right: 26px !important;
@@ -13603,7 +13605,7 @@ path[fill="badge-brand-bg"] {
 }
 
 .overlay_c5a065 {
-	background: linear-gradient(180deg,rgba(0, 0, 0, 0) 0%,var(--backgroundDark));
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--backgroundDark));
 }
 
 .theme-dark .root_f9a4c9.oauth2Wrapper_c2b22e {
@@ -13639,7 +13641,7 @@ path[fill="brand-200"] {
 }
 
 .theme-dark .footerContainer_ca37d0 {
-	background: linear-gradient(180deg,rgba(52,52,52,0)0%,rgba(35,35,35,.9)50%,#14171F 100%);
+	background: linear-gradient(180deg, rgba(52, 52, 52, 0)0%, rgba(35, 35, 35, .9)50%, #14171F 100%);
 }
 
 .closeInner_ca37d0,
@@ -13649,11 +13651,11 @@ path[fill="brand-200"] {
 }
 
 .theme-dark .gradient_a56260 {
-	background: linear-gradient(180deg,rgba(0,49,44,.5)0%,var(--backgroundDark) 21.78%);
+	background: linear-gradient(180deg, rgba(0, 49, 44, .5)0%, var(--backgroundDark) 21.78%);
 }
 
 .textOverflowBlur_c2d7e2 {
-	background: linear-gradient(rgba(0, 0, 0, 0) 50%,var(--backgroundDarker)100%);
+	background: linear-gradient(rgba(0, 0, 0, 0) 50%, var(--backgroundDarker)100%);
 }
 
 .container_fc867b {
@@ -13661,7 +13663,7 @@ path[fill="brand-200"] {
 }
 
 .darkThemeGradient_f2bc91 {
-	background: linear-gradient(0deg,var(--backgroundDarker-alt)0%,rgba(16, 18, 24, 0.95)20.31%,rgba(16, 18, 24,0)100%);
+	background: linear-gradient(0deg, var(--backgroundDarker-alt)0%, rgba(16, 18, 24, 0.95)20.31%, rgba(16, 18, 24, 0)100%);
 }
 
 .container_f2bc91 {
