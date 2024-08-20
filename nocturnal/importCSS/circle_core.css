@@ -3233,6 +3233,7 @@ svg[name=Nitro] g path {
 
 .lookFilled_dd4f85.colorGreen_dd4f85,
 .lookFilled_dd4f85.colorGreen_dd4f85:disabled,
+.lookFilled_dd4f85.colorGreen_dd4f85[aria-disabled=true],
 .guildBoostCta_cbe7a3.lookOutlined_dd4f85.colorWhite_dd4f85,
 .lookOutlined_dd4f85.colorWhite_dd4f85.managePlanButton_cf74b3,
 .lookOutlined_dd4f85.colorWhite_dd4f85.managePlanButton_cf74b3:disabled {
@@ -3244,9 +3245,8 @@ svg[name=Nitro] g path {
 
 .lookFilled_dd4f85.colorBrandInverted_dd4f85,
 .lookFilled_dd4f85.colorBrandInverted_dd4f85:disabled,
+.lookFilled_dd4f85.colorBrandInverted_dd4f85[aria-disabled=true],
 .upsellButtons_bb33d5 .lookFilled_dd4f85.colorWhite_dd4f85,
-.ctaButton-1jtDA4.lookFilled_dd4f85.colorWhite_dd4f85,
-.ctaButton-1jtDA4 .lookFilled_dd4f85.colorWhite_dd4f85:disabled,
 .guildBoostCtaBoost_cbe7a3.lookFilled_dd4f85.colorWhite_dd4f85,
 .guildBoostCtaBoost_cbe7a3.lookFilled_dd4f85.colorWhite_dd4f85:disabled,
 .lookFilled_dd4f85.colorBrandInverted_dd4f85:disabled.button_ece59a:active,
@@ -3276,7 +3276,6 @@ svg[name=Nitro] g path {
 .lookFilled_dd4f85.colorBrandInverted_dd4f85:hover:not(:disabled),
 .button_ece59a:active:not(:disabled),
 .button_ece59a:hover:not(:disabled),
-.ctaButton-1jtDA4.lookFilled_dd4f85.colorWhite_dd4f85:hover:not(:disabled),
 .upsellButtons_bb33d5 .lookFilled_dd4f85.colorWhite_dd4f85:hover:not(:disabled),
 .guildBoostCtaBoost_cbe7a3.lookFilled_dd4f85.colorWhite_dd4f85:hover:not(:disabled),
 .lookFilled_dd4f85.colorWhite_dd4f85.tierCardButton_cf74b3:hover:not(:disabled),
@@ -3287,11 +3286,9 @@ svg[name=Nitro] g path {
 	background-color: var(--primary) !important;
 }
 
-.ctaButton-1jtDA4.lookFilled_dd4f85.colorWhite_dd4f85:active:not(:disabled),
 .upsellButtons_bb33d5 .lookFilled_dd4f85.colorWhite_dd4f85:active:not(:disabled),
 .lookFilled_dd4f85.colorBrandInverted_dd4f85.button_ece59a:active:not(:disabled),
 .lookFilled_dd4f85.colorBrandInverted_dd4f85:active:not(:disabled),
-.guildBoostCtaBoost_cbe7a3.lookFilled_dd4f85.colorWhite_dd4f85:active:not(:disabled),
 .guildBoostCtaBoost_cbe7a3.lookFilled_dd4f85.colorWhite_dd4f85:active:not(:disabled),
 .lookFilled_dd4f85.colorWhite_dd4f85.tierCardButton_cf74b3:active:not(:disabled),
 .cta_a1eddf:active,
@@ -3576,10 +3573,6 @@ svg[name=Nitro] g path {
 
 .exampleContainer_e803f7 {
 	background-color: var(--backgroundDark);
-}
-
-.theme-dark .selected-3H3-RC {
-	background-color: rgba(0, 0, 0, .2);
 }
 
 .lookOutlined_dd4f85.colorWhite_dd4f85,
