@@ -1708,10 +1708,12 @@ svg[name=Nova_Discord] * {
 .bd-modal-wrapper .footer button,
 .bda-slist .bda-footer button,
 .headerButtonColor__619f1,
-.lookFilled_dd4f85.colorBrand_dd4f85:not(.customSwatch-1axV7B, .optionPillBtn_f6639d),
+.lookFilled_dd4f85.colorBrand_dd4f85:not(.optionPillBtn_f6639d),
 .lookFilled_dd4f85.colorBrand_dd4f85:disabled,
 .lookFilled_dd4f85.colorBrand_dd4f85[aria-disabled=true],
-.theme-dark .lookFilled_dd4f85.colorPrimary_dd4f85:not(.color_f9d37d.banner_f9d37d),
+.lookFilled_dd4f85.colorPrimary_dd4f85:not(.color_f9d37d.banner_f9d37d),
+.lookFilled_dd4f85.colorPrimary_dd4f85:disabled,
+.lookFilled_dd4f85.colorPrimary_dd4f85[aria-disabled=true],
 .lookOutlined_dd4f85.colorBrand_dd4f85,
 .plugin-settings button,
 .standardSidebarView_c25c6d #bd-customcss-attach-controls button {
@@ -1764,8 +1766,6 @@ svg[name=Nova_Discord] * {
 .headerButtonColor__619f1:hover,
 .lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled, .customSwatch-1axV7B, .optionPillBtn_f6639d),
 .lookFilled_dd4f85.colorPrimary_dd4f85:hover:not(.color_f9d37d.banner_f9d37d, :disabled),
-.lookFilled_dd4f85.colorPrimary_dd4f85:disabled,
-.lookFilled_dd4f85.colorPrimary_dd4f85[aria-disabled=true],
 .lookOutlined_dd4f85.colorBrand_dd4f85:hover:not(:disabled),
 .plugin-settings button:hover,
 .standardSidebarView_c25c6d #bd-customcss-attach-controls button:hover {
@@ -4393,14 +4393,6 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
-.customSwatch-1axV7B.sizeMedium_dd4f85 {
-	width: 69px;
-	height: 50px;
-	min-width: 69px;
-	min-height: 50px;
-}
-
-.avatar-2Vndt_,
 .avatar_bc9cc2 {
 	border-color: var(--backgroundDarker);
 	background-color: var(--backgroundDarker);
@@ -11768,7 +11760,8 @@ div.cardContainer_c22357,
 
 .sizeMax_dd4f85,
 .button_dc6abe,
-.sizeLarge_dd4f85 {
+.sizeLarge_dd4f85,
+.button_dd4f85 .text-md\/medium_dc00ef {
 	font-size: 14px;
 }
 
@@ -13472,4 +13465,18 @@ path[fill="brand-200"] {
 
 .category_fa8ebf {
 	border-radius: 8px 8px 0 0;
+}
+
+.container_c1cce6 {
+	width: 100%;
+	margin: 0;
+}
+
+.textContainer_c1cce6,
+.headerContainer_c1cce6 {
+	max-width: none;
+}
+
+.theme-dark [style="color: var(--input-placeholder-text);"] {
+	color: #cdcdcd !important;
 }
