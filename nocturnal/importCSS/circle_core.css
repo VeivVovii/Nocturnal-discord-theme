@@ -4063,7 +4063,7 @@ button.button_adca65.enabled_adca65:hover {
 
 .reaction_ec6b19:active,
 .custom-theme-background .reaction_ec6b19:active {
-	background-color: rgba(0, 0, 0, .45);
+	background-color: rgba(0, 0, 0, .5);
 	border-color: rgba(0, 0, 0, 0);
 }
 
@@ -5715,21 +5715,27 @@ button.button_adca65.enabled_adca65:hover {
 
 .theme-dark .css-8apu49-option:active,
 .backgroundOptionInner_ad7d79,
-.reaction_f61c73 {
+.reaction_f61c73,
+.custom-theme-background .reaction_f61c73 {
 	background-color: rgba(0, 0, 0, .25);
+	border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.reaction_f61c73:hover {
+.reaction_f61c73:hover,
+.custom-theme-background .reaction_f61c73:hover {
 	background-color: rgba(0, 0, 0, 0);
 	border-color: rgba(0, 0, 0, .95);
 }
 
-.reaction_f61c73:active {
-	background-color: rgba(0, 0, 0, .35);
+.reaction_f61c73:active,
+.custom-theme-background .reaction_f61c73:active {
+	background-color: rgba(0, 0, 0, .5);
+	border-color: rgba(0, 0, 0, 0);
 }
 
-.reaction_f61c73.reactionMe_f61c73 {
-	background-color: #008ae626;
+.reaction_f61c73.reactionMe_f61c73,
+.custom-theme-background .reaction_f61c73.reactionMe_f61c73 {
+	background-color: rgba(0, 138, 230, 0.15);
 	border-color: var(--primary);
 }
 
@@ -6023,16 +6029,6 @@ button.button_adca65.enabled_adca65:hover {
 
 .role_d70de6 {
 	border-radius: 11px;
-}
-
-.avatarUploaderDisabled_f0a9ff {
-	opacity: .3;
-	filter: grayscale(100%)
-}
-
-.reactionReadOnly_f61c73,
-.reaction_f61c73.reactionReadOnly_ec6b19 {
-	opacity: .3 !important;
 }
 
 .headerIcon_b8f561 {
@@ -12523,8 +12519,8 @@ path[fill="var(--bg-brand)"] {
 }
 
 .biteSizeInnerThemed_c69a7b .container_e5a42d,
-.theme-dark .custom-profile-theme .biteSizeOverlayBackground_c69a7b,
-.theme-dark .custom-profile-theme .fullSizeOverlayBackground_c69a7b {
+.theme-dark.custom-profile-theme .biteSizeOverlayBackground_c69a7b,
+.theme-dark.custom-profile-theme .fullSizeOverlayBackground_c69a7b {
 	background: rgba(0, 0, 0, .15);
 }
 
@@ -12543,7 +12539,6 @@ path[fill="var(--bg-brand)"] {
 .overlay_b433b4,
 .profilePanelConnections_b433b4,
 .body_e9e42f,
-.overlay_b433b4,
 .overlay_f9da1d,
 .overlay_a465ac,
 .discoverHeader_b992d4,
