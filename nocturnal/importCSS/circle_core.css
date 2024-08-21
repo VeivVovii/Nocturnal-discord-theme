@@ -5478,10 +5478,6 @@ button.button_adca65.enabled_adca65:hover {
 	border-radius: 50px;
 }
 
-.disabled_cebd1c {
-	cursor: not-allowed
-}
-
 .roleCheckmark_b8f561 {
 	background-color: var(--primary);
 }
@@ -5775,10 +5771,6 @@ button.button_adca65.enabled_adca65:hover {
 
 .bd-toast.toast-info {
 	background-color: var(--primary);
-}
-
-.backupCode_ad4a7c .checkbox_f6cde8 {
-	cursor: not-allowed;
 }
 
 .sidebarRegionScroller_c25c6d {
@@ -10460,19 +10452,6 @@ path[stroke="rgb(123,162,255)"] {
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .scrollerSeparator_d2b491 {
 	-webkit-box-shadow: 0 -1px 0 rgba(0, 0, 0, .95);
 	box-shadow: 0 -1px 0 rgba(0, 0, 0, .95);
-}
-
-.box_f6cde8 {
-	cursor: pointer;
-}
-
-.disabled_a33fd3 {
-	cursor: not-allowed;
-	opacity: .5;
-}
-
-.disabled_a33fd3 .box_f6cde8 {
-	cursor: unset;
 }
 
 .forumPost_c53f2f {
