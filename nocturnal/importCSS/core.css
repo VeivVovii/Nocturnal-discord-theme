@@ -3805,8 +3805,7 @@ button.button_adca65.enabled_adca65:hover {
 	color: white;
 }
 
-.theme-dark .tooltipPrimary_b6c360,
-.searchResult_ddc613 {
+.theme-dark .tooltipPrimary_b6c360 {
 	background-color: var(--backgroundDark);
 }
 
@@ -4816,10 +4815,6 @@ button.button_adca65.enabled_adca65:hover {
 	border-radius: 5px;
 }
 
-.stepContainer_a039eb .roleFlowerStar_f9575e path {
-	padding-left: 1px !important;
-}
-
 .stepContainer_a039eb:hover,
 .theme-dark .postBody_a57509 .tagPill_a57509,
 .theme-dark .postBody_a57509 .pill_c993da,
@@ -4909,7 +4904,6 @@ button.button_adca65.enabled_adca65:hover {
 .post_d66623,
 .tag_d66623,
 .container__5130c:hover,
-.loadingCard_a6d69a,
 .tag_effbe2,
 .container_dc3fc4:hover {
 	background-color: #1c212c;
@@ -5531,7 +5525,6 @@ button.button_adca65.enabled_adca65:hover {
 	border-radius: 2.5px !important;
 }
 
-.role_c6b11b,
 .icon_a69fe5,
 .roleRow_ccd405,
 .badge_e17ac7 {
@@ -11467,7 +11460,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 }
 
 .role_b52547,
-.role_c6b11b,
 .roleColorPreview_a14fc2,
 .roleTag_b463ca,
 .attachedRoleColor_f624e3,
@@ -11556,7 +11548,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 }
 
 .permissionItemContainer_f38b88,
-.searchRowLabel_debb5a,
 .icon_ebd74a,
 .tab_ff1414,
 .sortDropdown_c26ebf {
@@ -12805,7 +12796,6 @@ svg.gameIcon_a9e62c,
 .note_c2dcc6 textarea,
 .attachment_b52bef,
 .icon_d80634,
-.iconWrapper_f925ba,
 .avatar_d6c26f,
 .guildAvatar_b26403,
 .imageUploaderInner_de76e4,
@@ -12831,7 +12821,8 @@ svg.gameIcon_a9e62c,
 .button_df39bd,
 .gameIcon_a9e62c,
 .media_f847a3,
-.side_a0 .item_a0 {
+.side_a0 .item_a0,
+.searchRowLabel_debb5a {
 	border-radius: 5px;
 }
 
@@ -13520,7 +13511,8 @@ path[fill="brand-200"] {
 	background: linear-gradient(0deg, var(--backgroundDarker-alt)0%, rgba(16, 18, 24, 0.95)20.31%, rgba(16, 18, 24, 0)100%);
 }
 
-.container_f2bc91 {
+.container_f2bc91,
+.searchRowLabel_debb5a {
 	background-color: var(--backgroundDarker-alt);
 }
 
