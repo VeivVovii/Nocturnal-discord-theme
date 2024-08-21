@@ -1408,6 +1408,10 @@
 	border-radius: 0;
 }
 
+.headerText_c47fa9 {
+	display: block !important;
+}
+
 .embedFull_b0068a,
 .custom-theme-background .embedFull_b0068a {
 	border-left: 2.5px solid rgba(0, 0, 0, .25);
@@ -7113,8 +7117,8 @@ svg.gameIcon_a9e62c rect,
 }
 
 .graphContainer_c73c22,
-.hoverButton_d0395d:hover:not(.removeAttachmentHoverButton_d0395d, .removeMosaicItemHoverButton_d0395d),
-.keyboard-mode .hoverButton_d0395d:focus:not(.removeAttachmentHoverButton_d0395d, .removeMosaicItemHoverButton_d0395d),
+.hoverButton_d0395d:hover:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton_e5c1dc),
+.keyboard-mode .hoverButton_d0395d:focus:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton_e5c1dc),
 .header-3cSJjT,
 .theme-dark .popout_b705bc,
 .bumpBox_ca33de,
