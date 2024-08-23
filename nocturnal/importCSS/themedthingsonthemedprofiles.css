@@ -593,7 +593,6 @@
 .custom-profile-theme .avatar_f18fcb {
 	border: 7px solid var(--profile-avatar-border-color);
 	background-color: var(--profile-avatar-border-color);
-	border-radius: 12px;
 }
 
 .userProfileInnerThemedWithBanner_c69a7b .menu_d90b3d,
@@ -626,5 +625,4 @@
 .custom-profile-theme .profileAvatar_f4a859 {
 	background-color: var(--profile-avatar-border-color);
 	border: 7px solid var(--profile-avatar-border-color);
-	border-radius: 12px;
 }
