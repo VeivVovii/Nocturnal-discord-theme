@@ -12411,7 +12411,6 @@ path[fill="var(--bg-brand)"] {
 .collapseButton_c83b44 {
 	background-color: rgba(0, 0, 0, 0) !important;
 	padding: 4px;
-	justify-content: center;
 }
 
 .collapseButton_c83b44 {
@@ -12419,7 +12418,6 @@ path[fill="var(--bg-brand)"] {
 }
 
 .showMoreButton_c83b44 .text-xs\/medium_dc00ef {
-	font-size: 11px;
 	line-height: 12px;
 }
 
@@ -12436,8 +12434,6 @@ path[fill="var(--bg-brand)"] {
 
 .button_edead5 {
 	height: 22px;
-	font-size: 11px;
-	line-height: 12px;
 	border-radius: 11px;
 }
 
