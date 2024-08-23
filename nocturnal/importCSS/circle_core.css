@@ -4477,13 +4477,8 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, .75);
 }
 
-.avatar_e1522e,
 .container_c06a56 {
 	border-radius: 5px;
-}
-
-.newBadge-1LcB6t {
-	color: #fff;
 }
 
 .newBadgeText_d6a475 {
@@ -6901,7 +6896,6 @@ svg.gameIcon_a9e62c rect,
 }
 
 .container_f9bbb4,
-.avatar_f52a16,
 .emoji_a74b6f {
 	border-radius: 5px;
 }
@@ -8037,7 +8031,7 @@ svg.gameIcon_a9e62c rect,
 }
 
 .avatar_e825f6 {
-	border-radius: 5px;
+	border-radius: 100%;
 }
 
 .body_e89716.content_f9a4c9 {
@@ -11432,7 +11426,6 @@ div.cardContainer_c22357,
 .avatarBackground_bb882a,
 .guildIcon_e58351,
 .image_f9bbb4,
-.avatar_e825f6,
 .icon_a97e58,
 .circularImage_e85446,
 .childWrapperHoverScale_f90abb .avatar_c51b4e {
@@ -12585,7 +12578,6 @@ svg.gameIcon_a9e62c,
 .overlay_f26c88:after,
 .overlay_f94206:after,
 .overlay_f18fcb::after,
-.avatar_e825f6,
 .headerImage_e8df26,
 .avatarBackground_a1289e,
 .avatar_db0741,
@@ -12594,7 +12586,6 @@ svg.gameIcon_a9e62c,
 .channelGuildIcon_fcf03e,
 .icon_a94328,
 .iconPlaceholder_f8c206,
-.childWrapperHoverScale_f90abb .avatar_c51b4e,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75,
 .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
@@ -12709,7 +12700,6 @@ svg.gameIcon_a9e62c,
 .body_bf926b,
 .wrapper_bfc2c6,
 .promotionIcon_e8af36,
-.avatar_e1522e,
 .content_a5828d,
 .imageContainer_e365d2,
 .background_ad09cb,
