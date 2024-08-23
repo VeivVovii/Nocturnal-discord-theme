@@ -12355,7 +12355,8 @@ path[fill="#949cf7"] {
 	padding-right: 6px;
 }
 
-.modalContent_a0e502 {
+.modalContent_a0e502,
+.modalContent_c5828f {
 	padding-right: 0 !important;
 	margin-right: -6px;
 }
@@ -12432,10 +12433,8 @@ path[fill="#949cf7"] {
 	fill: rgb(60, 193, 235);
 }
 
-.modalContent_ac4952,
-.modalContent_c5828f {
+.modalContent_ac4952 {
 	padding-right: 0 !important;
-	margin-right: -6px;
 }
 
 .classificationContainer_dedf6b {
