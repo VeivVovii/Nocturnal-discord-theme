@@ -4518,13 +4518,8 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, .75);
 }
 
-.avatar_e1522e,
 .container_c06a56 {
 	border-radius: 5px;
-}
-
-.newBadge-1LcB6t {
-	color: #fff;
 }
 
 .newBadgeText_d6a475 {
@@ -7002,7 +6997,6 @@ svg.gameIcon_a9e62c rect,
 }
 
 .container_f9bbb4,
-.avatar_f52a16,
 .emoji_a74b6f,
 .imageUploaderInner_de76e4.avatarUploaderInner_adb740 {
 	border-radius: 5px;
@@ -8159,10 +8153,6 @@ svg.gameIcon_a9e62c rect,
 .mask_c51b4e foreignObject,
 .mask_f9bbb4 foreignObject {
 	mask: none;
-}
-
-.avatar_e825f6 {
-	border-radius: 5px;
 }
 
 .body_e89716.content_f9a4c9 {
@@ -11693,7 +11683,6 @@ div.cardContainer_c22357,
 .guildIcon_f51af4,
 .avatar__0e7e1,
 .emojiRow_dc1809 .emojiImage_dc1809,
-.avatar_f866f2,
 .avatar_c32699 {
 	border-radius: 5px;
 }
@@ -12745,7 +12734,6 @@ svg.gameIcon_a9e62c,
 	border: none;
 }
 
-.avatar_d80634,
 .note_c2dcc6 textarea,
 .attachment_b52bef,
 .icon_d80634,
@@ -12762,9 +12750,7 @@ svg.gameIcon_a9e62c,
 .imageWrapper_d4597d,
 .avatar_db0741,
 .imageContainer_f9bbb4,
-.avatar_f866f2,
 .avatar_a1527b,
-.avatar_c32699,
 .layout_d808b0,
 .container_d808b0,
 .layout_ec8679,
@@ -12981,11 +12967,6 @@ div.cardContainer_c22357,
 	border-radius: 12px;
 }
 
-.avatar_e1522e {
-	background-color: rgba(0, 0, 0, 0);
-	border-radius: 5px;
-}
-
 .theme-dark .footer_a74b6f {
 	background-color: var(--backgroundDark);
 	box-shadow: inset 0 1px 0 rgba(0, 0, 0, .95);
@@ -13057,7 +13038,6 @@ body,
 	fill: var(--primary);
 }
 
-.avatar_e825f6,
 .outline_a9414b,
 .outline_d201be {
 	border-radius: 8px;
