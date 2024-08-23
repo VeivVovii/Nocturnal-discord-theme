@@ -4341,12 +4341,6 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
-.avatar_bc9cc2 {
-	border-color: var(--backgroundDarker);
-	background-color: var(--backgroundDarker);
-	border-radius: 100%;
-}
-
 .loadingPopout_a8c724 {
 	background-color: var(--backgroundDark);
 	border-radius: 50px;
@@ -6590,6 +6584,7 @@ svg.gameIcon_a9e62c rect,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_ec3b75,
 .userProfileOuterUnthemed_c69a7b .avatar_ec3b75,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_f94206,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
@@ -11435,7 +11430,6 @@ div.cardContainer_c22357,
 }
 
 .avatarBackground_bb882a,
-.avatar_b3f648,
 .guildIcon_e58351,
 .image_f9bbb4,
 .avatar_e825f6,
@@ -11754,14 +11748,7 @@ path[fill="#949cf7"] {
 .overlay_cc54d6:after,
 .guildIconImage_a2e41e,
 .guildIconImage_a2e41e,
-.clanIconInner_e0fe28,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2,
-.userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
-.userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
-.userProfileOuterThemed_c69a7b .avatarWrapper_f89da9,
-.custom-profile-theme .avatar_bc9cc2,
-.custom-profile-theme .clickable_cc54d6 {
+.clanIconInner_e0fe28 {
 	border-radius: 100%;
 }
 
@@ -12598,8 +12585,16 @@ svg.gameIcon_a9e62c,
 .overlay_f26c88:after,
 .overlay_f94206:after,
 .overlay_f18fcb::after,
-.avatar_b3f648,
 .avatar_e825f6,
+.headerImage_e8df26,
+.avatarBackground_a1289e,
+.avatar_db0741,
+.imageContainer_f9bbb4,
+.roleRow_ce608a,
+.channelGuildIcon_fcf03e,
+.icon_a94328,
+.iconPlaceholder_f8c206,
+.childWrapperHoverScale_f90abb .avatar_c51b4e,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75,
 .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
@@ -12609,17 +12604,7 @@ svg.gameIcon_a9e62c,
 .custom-profile-theme .clickable_cc54d6,
 .custom-profile-theme .avatar_f94206,
 .custom-profile-theme .clickable_f26c88,
-.custom-profile-theme .avatar_f18fcb,
-.headerImage_e8df26,
-.avatarBackground_a1289e,
-.avatar_db0741,
-.profileAvatar_f4a859,
-.custom-profile-theme .profileAvatar_f4a859,
-.imageContainer_f9bbb4,
-.roleRow_ce608a,
-.channelGuildIcon_fcf03e,
-.icon_a94328,
-.iconPlaceholder_f8c206 {
+.custom-profile-theme .avatar_f18fcb {
 	border-radius: 100%;
 }
 
@@ -13288,4 +13273,12 @@ path[fill="brand-200"] {
 .theme-light.content_cb56ab,
 .theme-light .content_cb56ab {
 	background-color: #2f3136;
+}
+
+.button_bba79b.left_bba79b {
+	border-radius: 5px 0 0 5px;
+}
+
+.button_bba79b.right_bba79b {
+	border-radius: 0 5px 5px 0;
 }
