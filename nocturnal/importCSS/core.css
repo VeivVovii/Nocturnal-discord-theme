@@ -4382,12 +4382,6 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
-.avatar_bc9cc2 {
-	border-color: var(--backgroundDarker);
-	background-color: var(--backgroundDarker);
-	border-radius: 12px;
-}
-
 .loadingPopout_a8c724 {
 	background-color: var(--backgroundDark);
 	border-radius: 50px;
@@ -6149,7 +6143,6 @@ button.button_adca65.enabled_adca65:hover {
 .featureBorder_c6d722,
 .roundAvatar_da92c3,
 .channelTextArea_fb4810,
-.avatar_b69b77,
 .avatar_f866f2,
 .overlayBackground_c69a7b {
 	border-radius: 5px;
@@ -6689,6 +6682,7 @@ svg.gameIcon_a9e62c rect,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_ec3b75,
 .userProfileOuterUnthemed_c69a7b .avatar_ec3b75,
 .userProfileInnerThemedNonPremium_c69a7b .avatar_f94206,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
 .userProfileOuterUnthemed_c69a7b[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
@@ -6699,7 +6693,6 @@ svg.gameIcon_a9e62c rect,
 	border-radius: 12px;
 }
 
-.avatarUploaderInner-1dBiHs,
 .avatarUploaderPremium-2v2k2d .spinningAvatar_eb2d2c,
 .forumPost_c53f2f,
 .avatar_b13ff2,
@@ -11643,10 +11636,8 @@ div.cardContainer_c22357,
 }
 
 .avatarBackground_bb882a,
-.avatar_b3f648,
 .guildIcon_e58351,
-.inspectedIndicator_a708c4,
-.avatar_b3f648 {
+.inspectedIndicator_a708c4 {
 	border-radius: 12px;
 }
 
@@ -12976,7 +12967,17 @@ div.cardContainer_c22357,
 }
 
 .avatarBackground_a1289e,
-.childWrapperHoverScale_f90abb .avatar_c51b4e {
+.childWrapperHoverScale_f90abb .avatar_c51b4e,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75,
+.userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
+.userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
+.userProfileOuterThemed_c69a7b .avatarWrapper_f89da9,
+.custom-profile-theme .avatar_bc9cc2,
+.custom-profile-theme .clickable_cc54d6,
+.custom-profile-theme .avatar_f94206,
+.custom-profile-theme .clickable_f26c88,
+.custom-profile-theme .avatar_f18fcb {
 	border-radius: 12px;
 }
 
@@ -13497,4 +13498,12 @@ path[fill="brand-200"] {
 .theme-light.content_cb56ab,
 .theme-light .content_cb56ab {
 	background-color: #2f3136;
+}
+
+.button_bba79b.left_bba79b {
+	border-radius: 5px 0 0 5px;
+}
+
+.button_bba79b.right_bba79b {
+	border-radius: 0 5px 5px 0;
 }
