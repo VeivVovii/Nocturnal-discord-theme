@@ -13470,3 +13470,8 @@ path[fill="brand-200"] {
 .selected_bc4ee1 {
 	border-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2)) 1 !important;
 }
+
+.richImageContainer_ae1fa2 {
+	background-color: rgba(0, 0, 0, 0);
+	border-radius: 5px;
+}
