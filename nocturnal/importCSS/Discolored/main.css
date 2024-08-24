@@ -79,6 +79,10 @@
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/empty.svg");
 }
 
+[src*='/assets/b92aabcc8b65fa979f9f.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/empty.svg") !important;
+}
+
 /* 😊 Friend */
 .theme-dark .channelNotice-tO6Tus.invite-OjTXrW{
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/friend.svg") no-repeat center 20px;
@@ -156,6 +160,14 @@
 /* 🔎 No results search bar*/
 .theme-dark .noResultsImage_c2b47d {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/no_results.svg");
+}
+
+.bd-empty-results path[stroke="#1E2126"] {
+	stroke: #040506;
+}
+
+.bd-empty-results path[fill="#C9D2F0"] {
+	fill: #71f7e4;
 }
 
 /* 📱 Phones */
