@@ -8963,7 +8963,8 @@ svg.gameIcon_a9e62c rect,
 .interactive_f5eb4b.selected_f5eb4b:hover,
 .interactive_f5eb4b.selected_f5eb4b .link_c91bad,
 .interactive_f5eb4b.selected_f5eb4b:hover .link_c91bad,
-.navItem_f1c462.selected_f1c462 {
+.navItem_f1c462.selected_f1c462,
+.modeSelected_d8bfb3:hover .link_d8bfb3 {
 	cursor: default;
 }
 
@@ -9478,6 +9479,9 @@ path[stroke="rgb(123,162,255)"] {
 [mask="url(#svg-mask-diagonal-facepile-32)"],
 [mask="url(#svg-mask-diagonal-facepile-64)"],
 [mask="url(#svg-mask-diagonal-facepile-80)"],
+[mask="url(#svg-mask-diagonal-facepile-typing-32)"],
+[mask="url(#svg-mask-diagonal-facepile-typing-64)"],
+[mask="url(#svg-mask-diagonal-facepile-typing-80)"],
 [mask="url(#svg-mask-squircle)"],
 .mask_f9bbb4 foreignObject,
 .avatarDecorationHint_f89da9 foreignObject,
@@ -10100,7 +10104,8 @@ path[stroke="rgb(123,162,255)"] {
 .commandContainer_f37ac2 .command_f37ac2:not(:last-child),
 .userProfileOuterUnthemed_c69a7b .footer_ecc60d,
 .container_ebf06d,
-.container_cbfbcf {
+.container_cbfbcf,
+.separator_b3d000 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -11713,6 +11718,9 @@ path[fill="#949cf7"] {
 [mask="url(#svg-mask-diagonal-facepile-status-32)"] img,
 [mask="url(#svg-mask-diagonal-facepile-status-64)"] img,
 [mask="url(#svg-mask-diagonal-facepile-status-80)"] img,
+[mask="url(#svg-mask-diagonal-facepile-typing-32)"] img,
+[mask="url(#svg-mask-diagonal-facepile-typing-64)"] img,
+[mask="url(#svg-mask-diagonal-facepile-typing-80)"] img,
 .overlay_cc54d6:after,
 .guildIconImage_a2e41e,
 .guildIconImage_a2e41e,
@@ -12482,6 +12490,8 @@ path[fill="var(--bg-brand)"] {
 .clanIconInner_e0fe28 foreignObject,
 .mask_a69fe5 foreignObject,
 [mask="url(#svg-mask-diagonal-facepile-status-32)"],
+[mask="url(#svg-mask-diagonal-facepile-status-64)"],
+[mask="url(#svg-mask-diagonal-facepile-status-80)"],
 .iconWrapper_d0585c foreignObject {
 	-webkit-mask: none;
 	mask: none;
