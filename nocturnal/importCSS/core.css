@@ -13272,23 +13272,23 @@ path[fill="badge-brand-bg"] {
 .theme-light .tooltipPrimary_b6c360,
 .theme-light .container_ac201b,
 .theme-light .popoutContainer_cf58b5 {
-	background-color: #18191c;
+	background-color: var(--background-floating);
 }
 
 .theme-light .tooltipPrimary_b6c360 .tooltipPointer_b6c360 {
-	border-top-color: #18191c;
+	border-top-color: var(--background-floating);
 }
 
 .theme-light .tooltipNested_b6c360 {
-	background-color: #2f3136;
+	background-color: var(--background-secondary);
 }
 
 .theme-light .tooltipNested_b6c360 .tooltipPointer_b6c360 {
-	border-top-color: #2f3136;
+	border-top-color: var(--background-secondary);
 }
 
 .theme-light .container_c18ec9 {
-	background-color: #202225 !important;
+	background-color: var(--background-tertiary) !important;
 }
 
 .channelAppLauncher_df39bd {
@@ -13452,7 +13452,7 @@ path[fill="brand-200"] {
 
 .theme-light.content_cb56ab,
 .theme-light .content_cb56ab {
-	background-color: #2f3136;
+	background-color: var(--background-secondary);
 }
 
 .button_bba79b.left_bba79b {
