@@ -9602,9 +9602,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .container_d6cb89,
-.content-3l1Kim,
 .container_a1531c,
-.answerInner_cf2c85,
 .secondaryButtonPresentation_a1531c,
 .chatContent_a7d72e .container_c94b03 {
 	background-color: rgba(0, 0, 0, .26);
@@ -11898,13 +11896,14 @@ path[fill="#949cf7"] {
 	top: 72px;
 }
 
-.avatars_ccc074 {
-	margin-right: 2px;
+.answerInner_cf2c85 {
+	background-color: rgba(0, 0, 0, .26);
+	transition: none;
 }
 
-.votePercentageBar_cf2c85 {
-	background-color: rgba(0, 0, 0, .26);
-	outline: none;
+.normalStylesDefault_b5cb3c {
+	--custom-poll-style-vote-background: rgba(0, 0, 0, .26);
+	--custom-poll-style-vote-percentage: rgba(0, 0, 0, .52);
 }
 
 .answer_cf2c85:hover .answerInner_cf2c85.currentlyVoting_cf2c85,
@@ -11912,10 +11911,6 @@ path[fill="#949cf7"] {
 .clickable_a75489:hover {
 	background-color: rgba(0, 0, 0, .52);
 	outline: none;
-}
-
-.answerInner_cf2c85 {
-	transition: none;
 }
 
 .scroller_cbdbf0 {
@@ -11937,7 +11932,7 @@ path[fill="#949cf7"] {
 }
 
 .votedStyles_b5cb3c {
-	background-color: rgb(60, 193, 235, 0.15);
+	--custom-poll-style-vote-percentage: rgba(0, 138, 230, 0.2);
 	--custom-poll-style-border: rgb(60, 193, 235);
 }
 
@@ -11973,10 +11968,6 @@ path[fill="#949cf7"] {
 
 .textArea_c75f85 {
 	margin-right: 2px;
-}
-
-.victorStyles_b5cb3c .answerInner_cf2c85 {
-	background-color: #23a55926;
 }
 
 .headerArt_d32e26 {
