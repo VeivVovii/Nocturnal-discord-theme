@@ -10790,7 +10790,14 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .sideNavContent_d576e9 {
-	padding-right: 34px;
+	padding-right: 18px;
+}
+
+@media (min-width: 900px) {
+
+	.sideNavContent_d576e9 {
+		padding-right: 34px !important;
+	}
 }
 
 #app-mount .unread_d8bfb3 {
