@@ -3530,7 +3530,9 @@ svg[name=Nitro] g path {
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
 
-.upsellTooltipWrapper_dafa63.caretTopCenter_dafa63:after {
+.upsellTooltipWrapper_dafa63.caretTopCenter_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretTopLeft_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretTopRight_dafa63:after {
 	border-bottom-color: var(--backgroundDark);
 }
 
@@ -5527,7 +5529,9 @@ button.button_adca65.enabled_adca65:hover {
 	border-bottom: 1px solid rgba(0, 0, 0, .95);
 }
 
-.upsellTooltipWrapper_dafa63.caretBottomCenter_dafa63:after {
+.upsellTooltipWrapper_dafa63.caretBottomCenter_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretBottomLeft_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretBottomRight_dafa63:after {
 	border-top-color: var(--backgroundDark);
 }
 
@@ -5644,7 +5648,9 @@ button.button_adca65.enabled_adca65:hover {
 	border: none;
 }
 
-.upsellTooltipWrapper_dafa63.caretRightCenter_dafa63:after {
+.upsellTooltipWrapper_dafa63.caretRightCenter_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretRightTop_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretRightBottom_dafa63:after {
 	border-left-color: var(--backgroundDark);
 }
 
@@ -8258,8 +8264,7 @@ svg.gameIcon_a9e62c rect,
 .tooltip_e803f7,
 .earningsPreviewContainer_da92c3,
 .avatarUploader_ab876d .avatarUploaderInner_f0a9ff,
-.avatarUploaderDisabled_f0a9ff .avatarUploaderInner_f0a9ff,
-.tooltip-1ADvWE {
+.avatarUploaderDisabled_f0a9ff .avatarUploaderInner_f0a9ff {
 	box-shadow: none;
 }
 
@@ -10898,7 +10903,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	border: 2px solid var(--chat-avatar-border-color) !important;
 }
 
-.upsellTooltipWrapper_dafa63.caretLeftCenter_dafa63:after {
+.upsellTooltipWrapper_dafa63.caretLeftCenter_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretLeftTop_dafa63:after,
+.upsellTooltipWrapper_dafa63.caretLeftBottom_dafa63:after {
 	border-right-color: var(--backgroundDark);
 }
 
@@ -11884,10 +11891,6 @@ path[fill="#949cf7"] {
 	top: 72px;
 }
 
-.upsellTooltipWrapper_dafa63.caretBottomLeft_dafa63:after {
-	border-top-color: var(--backgroundDark);
-}
-
 .avatars_ccc074 {
 	margin-right: 2px;
 }
@@ -12392,7 +12395,7 @@ path[fill="var(--bg-brand)"] {
 	letter-spacing: 1.2px;
 }
 
-.showMoreButton_c83b44,
+.expandButton_c83b44,
 .collapseButton_c83b44 {
 	background-color: rgba(0, 0, 0, 0) !important;
 	padding: 4px;
@@ -12402,11 +12405,11 @@ path[fill="var(--bg-brand)"] {
 	height: 22px;
 }
 
-.showMoreButton_c83b44 .text-xs\/medium_dc00ef {
+.expandButton_c83b44 .text-xs\/medium_dc00ef {
 	line-height: 12px;
 }
 
-.showMoreButton_c83b44.pill_c83b44,
+.expandButton_c83b44.pill_c83b44,
 .collapseButton_c83b44.pill_c83b44 {
 	border: 1px solid #4f545c !important;
 	border-radius: 11px;
