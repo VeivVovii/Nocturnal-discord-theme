@@ -12502,7 +12502,9 @@ path[fill="var(--bg-brand)"] {
 [mask="url(#svg-mask-diagonal-facepile-status-32)"],
 [mask="url(#svg-mask-diagonal-facepile-status-64)"],
 [mask="url(#svg-mask-diagonal-facepile-status-80)"],
-.iconWrapper_d0585c foreignObject {
+.iconWrapper_d0585c foreignObject,
+.iconWrapper_d0585c .wrapper_c51b4e foreignObject,
+.imageContainer_fa854f foreignObject {
 	-webkit-mask: none;
 	mask: none;
 }
@@ -13022,10 +13024,6 @@ path[fill="badge-brand-bg"] {
 .container_e5da8b:active,
 .command_f37ac2:active {
 	background-color: rgba(0, 0, 0, .8);
-}
-
-.iconWrapper_d0585c .wrapper_c51b4e foreignObject {
-	mask: none;
 }
 
 .iconWrapper_d0585c .wrapper_c51b4e .mask_c51b4e,
