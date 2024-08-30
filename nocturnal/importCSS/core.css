@@ -1809,12 +1809,8 @@ svg[name=Nova_Discord] * {
 	color: hsla(0, 100%, 100%, .85) !important
 }
 
-.membersGroup_cbd271 {
-	pointer-events: none;
-}
-
 .linkButtonIcon_c91bad path[fill="currentColor"] {
-	fill: var(--primary)
+	fill: var(--primary);
 }
 
 svg.gameIcon_a9e62c {
@@ -2528,7 +2524,8 @@ svg[name=Nitro] g path {
 
 .layout_d808b0:after,
 .interactive_c91bad:after,
-.navItem_f1c462:after {
+.navItem_f1c462:after,
+.container_c64476:after {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -2546,7 +2543,8 @@ svg[name=Nitro] g path {
 .channel_c91bad .interactive_c91bad:after,
 .itemInner_c72b37.layout_d808b0:after,
 .itemInner_f75d68.layout_d808b0:after,
-.navItem_f1c462:after {
+.navItem_f1c462:after,
+.channel_c91bad .container_c64476:after {
 	transform: translateX(-110%);
 }
 
@@ -2574,6 +2572,18 @@ svg[name=Nitro] g path {
 	background: var(--bg-overlay-selected, rgba(0, 0, 0, .25));
 }
 
+.container_c64476 {
+	background: var(--bg-overlay-3, var(--backgroundDarker));
+}
+
+.container_c64476:hover {
+	background: var(--bg-overlay-2, rgba(0, 0, 0, .35));
+}
+
+.selected_c64476:hover {
+	background: var(--bg-overlay-1, rgba(0, 0, 0, .7));
+}
+
 .clickable_d808b0[aria-expanded=true] .layout_d808b0:after,
 .clickable_d808b0:active .layout_d808b0:after,
 .clickable_d808b0:hover .layout_d808b0:after,
@@ -2585,7 +2595,9 @@ svg[name=Nitro] g path {
 .navItem_f1c462:hover:after,
 .navItem_f1c462:focus-within:after,
 .navItem_f1c462:active:after,
-.navItem_f1c462.selected_f1c462:after {
+.navItem_f1c462.selected_f1c462:after,
+.container_c64476:hover:after,
+.selected_c64476:hover:after {
 	transform: translateX(0);
 }
 
@@ -12975,13 +12987,8 @@ div.cardContainer_c22357,
 }
 
 .container_e40c16,
-.loading_cea94f,
-.container_c64476 {
+.loading_cea94f {
 	background: var(--bg-overlay-3, var(--backgroundDarker));
-}
-
-.container_c64476:hover {
-	background: var(--bg-overlay-2, rgba(0, 0, 0, .35));
 }
 
 .theme-dark .appMount_ea7e65,
