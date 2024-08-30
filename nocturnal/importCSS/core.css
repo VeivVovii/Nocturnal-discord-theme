@@ -13201,8 +13201,7 @@ body,
 	background-color: rgba(0, 0, 0, .3);
 }
 
-.channel_ed91eb.selected_ed91eb,
-.selected_c64476:hover {
+.channel_ed91eb.selected_ed91eb {
 	background-color: rgba(0, 0, 0, .45);
 }
 
