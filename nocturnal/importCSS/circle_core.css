@@ -12999,7 +12999,8 @@ body,
 	background-color: rgba(0, 0, 0, .45);
 }
 
-.pillItemSelected_a18ec1 {
+.pillItemSelected_a18ec1,
+.badge_fd9982 {
 	background-color: rgba(0, 0, 0, .25);
 	box-shadow: none;
 }
