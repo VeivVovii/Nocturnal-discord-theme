@@ -2582,10 +2582,12 @@ svg[name=Nitro] g path {
 
 .container_c64476:hover {
 	background: var(--bg-overlay-2, rgba(0, 0, 0, .35));
+	border-radius: 12px 12px 0 0;
 }
 
 .selected_c64476:hover {
 	background: var(--bg-overlay-1, rgba(0, 0, 0, .7));
+	border-radius: 12px 12px 0 0;
 }
 
 .clickable_d808b0[aria-expanded=true] .layout_d808b0:after,
@@ -10264,7 +10266,8 @@ path[stroke="rgb(123,162,255)"] {
 .container_ebf06d,
 .container_cbfbcf,
 .separator_b3d000,
-.shareToChannelButton_a35965 {
+.shareToChannelButton_a35965,
+.theme-dark .hr_e70817 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -12755,7 +12758,6 @@ svg.gameIcon_a9e62c,
 .button_df39bd,
 .gameIcon_a9e62c,
 .media_f847a3,
-.side_a0 .item_a0,
 .searchRowLabel_debb5a,
 .navItem_f1c462,
 .category_e21c9d,
