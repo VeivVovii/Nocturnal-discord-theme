@@ -5907,7 +5907,6 @@ button.button_adca65.enabled_adca65:hover {
 }
 
 .iconMask_cf5d0a,
-.card_b5d566,
 .backgroundContainer_ceff93,
 .container_f11cbf,
 .theme-dark .applicationStreamingPreviewWrapper_cd82a7,
@@ -5929,7 +5928,8 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: var(--backgroundDarker);
 }
 
-.userProfileOuterUnthemed_c69a7b .note_c90ad7 .textarea_dde0a8:focus {
+.userProfileOuterUnthemed_c69a7b .note_c90ad7 .textarea_dde0a8:focus,
+.card_b5d566 {
 	background-color: var(--backgroundDarker-alt);
 }
 
@@ -6028,10 +6028,6 @@ button.button_adca65.enabled_adca65:hover {
 .monaco-editor .minimap-slider:hover,
 .monaco-editor .minimap-slider:hover .minimap-slider-horizontal {
 	background-color: rgba(0, 0, 0, .35) !important;
-}
-
-.sidebar_a1eac2 .card_b5d566:hover {
-	background-color: var(--backgroundDarker-alt);
 }
 
 .typingIndicator__0b368,
