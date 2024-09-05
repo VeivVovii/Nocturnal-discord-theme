@@ -1666,6 +1666,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,
+.secondaryButton_a35965,
 .linkButton_c48629,
 .wrapper .controls .caret,
 .ctaButton_ac01d6,
@@ -1721,6 +1722,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn:hover,
+.secondaryButton_a35965:hover:not(:disabled),
 .linkButton_c48629:hover:not(:disabled),
 .wrapper .controls .caret:hover:not(.disabled),
 .ctaButton_ac01d6:hover:not(:disabled),
@@ -10123,7 +10125,8 @@ path[stroke="rgb(123,162,255)"] {
 .container_cbfbcf,
 .separator_b3d000,
 .shareToChannelButton_a35965,
-.theme-dark .hr_e70817 {
+.theme-dark .hr_e70817,
+:where(.banner_c3e427):before {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -12710,7 +12713,8 @@ svg.gameIcon_a9e62c,
 .container_e5da8b.iconCard_e5da8b,
 .spoilerContainer_aa9639,
 .collectiblePreviewsContainer_c5828f,
-.richImageContainer_ae1fa2 {
+.richImageContainer_ae1fa2,
+.progressTextOverlay_df6b25 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -13314,4 +13318,15 @@ path[fill="brand-200"] {
 .popout_a35965 {
 	filter: none;
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+}
+
+.custom-profile-theme .avatar_f94206.biteSize_f94206 {
+	top: 49px;
+	left: 4px;
+}
+
+.button_dd4f85 .text-md\/semibold_dc00ef {
+	font-size: 14px;
+	line-height: inherit;
+	font-weight: inherit;
 }
