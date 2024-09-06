@@ -10266,7 +10266,8 @@ path[stroke="rgb(123,162,255)"] {
 .separator_b3d000,
 .shareToChannelButton_a35965,
 .theme-dark .hr_e70817,
-:where(.banner_c3e427):before {
+:where(.banner_c3e427):before,
+.row_e33a4d {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -12810,7 +12811,8 @@ svg.gameIcon_a9e62c,
 .container_f8c206,
 .header_da6bd8,
 .collectibleInfoContainer_c5828f,
-.sectionContent_da6bd8 {
+.sectionContent_da6bd8,
+.upsellsContainer_b712b6 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
