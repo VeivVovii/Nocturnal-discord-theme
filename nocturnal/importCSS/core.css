@@ -7531,6 +7531,7 @@ svg.gameIcon_a9e62c rect,
 
 .messageContentWrapper_dbb3d0 {
 	background: var(--backgroundDarker-alt);
+	box-shadow: none;
 }
 
 .uploadDropModal_f82cc7 .inner_f82cc7 {
@@ -7737,8 +7738,8 @@ svg.gameIcon_a9e62c rect,
 	margin-right: 2px;
 }
 
-.lookFilled_dd4f85.colorRed_dd4f85.actionButton-zekMHs,
-.lookFilled_dd4f85.colorRed_dd4f85.buttonSpacing_e12b21 {
+.lookFilled_dd4f85.colorRed_dd4f85.buttonSpacing_e12b21,
+.voiceLauncherAppCardButton_e5da8b.lookFilled_dd4f85.colorRed_dd4f85 {
 	background-color: rgb(10, 12, 16) !important;
 }
 
@@ -8310,10 +8311,6 @@ svg.gameIcon_a9e62c rect,
 .guildIcon_f9c402 foreignObject {
 	-webkit-mask: none;
 	mask: none;
-}
-
-.messageContentWrapper_dbb3d0 {
-	box-shadow: none;
 }
 
 .list_c6aa12[style*="padding-right: 8px;"] {
@@ -12701,6 +12698,7 @@ path[fill="var(--bg-brand)"] {
 .card_c21997,
 .theme-dark .expandedProgressBarContainer_c88bb1,
 .container_e5da8b,
+.containerDisabled_e5da8b,
 .container_fb1469,
 .overviewContainerNoVideo_e80fe9,
 .command_f37ac2,
@@ -13544,4 +13542,8 @@ path[fill="brand-200"] {
 	font-size: 14px;
 	line-height: inherit;
 	font-weight: inherit;
+}
+
+.chatIcon_f420ee g {
+	mask-image: none;
 }
