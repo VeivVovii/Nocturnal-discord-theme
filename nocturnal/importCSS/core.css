@@ -8822,19 +8822,14 @@ svg.gameIcon_a9e62c rect,
 	max-width: 95%;
 }
 
-.userPanelOuter_c69a7b.userProfileOuterUnthemed_c69a7b .akaBadge-ep3q0P,
-.progressBarTrack-1JMWIp,
 .progressBarTrack_e00a24,
-.progressBarMarker-2dy17R,
 .progressBarMarker_c29408,
 .theme-dark .headerArtPlaceholder_d32e26,
 .categoryIcon_ceda83.selected_ceda83 {
 	background-color: #0c0e12;
 }
 
-.progressBarMarkerUnlocked_c29408 .progressBarMarkerIndicator_c29408,
 .recommendedTierHighlightTag_ebd3d3,
-.tierCardCurrentTier_e3ebb9,
 .iconWrapper_a708c4,
 .iconWrapper_a66fbc {
 	background: linear-gradient(to top right, var(--primaryGradient1), var(--primaryGradient2));
@@ -8851,15 +8846,8 @@ svg.gameIcon_a9e62c rect,
 	border-color: var(--primaryGradient1);
 }
 
-.progressBarMarkerCurrent-uM9Ee_ .progressBarMarkerIndicator-3_FLlB,
-.progressBarMarkerCurrent_c29408 .progressBarMarkerIndicator_c29408 {
-	box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .55);
-}
-
 .inviteSettingsInviteRow_edb39d:focus-within .revokeInvite_edb39d,
 .inviteSettingsInviteRow_edb39d:hover .revokeInvite_edb39d,
-.boostedTierIconBackground-2d03yZ,
-.tierCardBoostRequirement-1ZQXbZ,
 .coverTitle_f130a3 {
 	opacity: unset;
 }
