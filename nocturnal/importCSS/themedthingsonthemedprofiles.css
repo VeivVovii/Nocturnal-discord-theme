@@ -174,7 +174,7 @@
 
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .textarea_dde0a8,
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .textarea_dde0a8:focus,
-.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .listRow_e4be58:hover {
+.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .listRow_d2d6cb:hover {
 	background: linear-gradient(var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color))
 }
 
@@ -183,8 +183,8 @@
 	background-color: var(--profile-gradient-secondary-color);
 }
 
-.theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
+.theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
 .theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b,
 .theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b {
 	background-color: rgba(0, 0, 0, .5) !important;
@@ -193,8 +193,8 @@
 	color: #fff !important;
 }
 
-.theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .theme-dark .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .theme-dark.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled) {
 	color: #fff !important;
@@ -206,8 +206,8 @@
 	background-size: 200% 200%
 }
 
-.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover,
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
+.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b,
 .theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b {
 	background-color: rgba(0, 0, 0, .5) !important;
@@ -216,8 +216,8 @@
 	color: #2e3338 !important;
 }
 
-.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled) {
 	color: #2e3338 !important;
@@ -267,9 +267,9 @@
 	background-size: 200% 200%
 }
 
-.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_cd74cc,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
+.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_f00225,
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
 .chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_dfbe6b,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b {
@@ -279,9 +279,9 @@
 	color: #fff !important
 }
 
-.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_cd74cc:hover:not(:disabled),
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_f00225:hover:not(:disabled),
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_dfbe6b:hover:not(:disabled),
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled) {
@@ -294,8 +294,8 @@
 	background-size: 200% 200%
 }
 
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .listRow_e4be58:hover,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .listRow_e4be58:hover {
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .listRow_d2d6cb:hover,
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .listRow_d2d6cb:hover {
 	background: var(--profile-gradient-secondary-color)
 }
 
@@ -337,24 +337,24 @@
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .messageInput_f2c0a8,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .textarea_dde0a8:not(.note_a24910 textarea),
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .textarea_dde0a8:focus,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .listRow_e4be58:hover,
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .listRow_d2d6cb:hover,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .profileBadges_f89da9,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .badgeList_ab525a,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .note_a24910 textarea:focus,
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .divider_e6f9ab,
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .textarea_dde0a8,
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .textarea_dde0a8:focus,
-.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .listRow_e4be58:hover {
+.userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .userPanelInnerThemed_c69a7b .listRow_d2d6cb:hover {
 	background-color: var(--profile-gradient-secondary-color);
 }
 
-.custom-profile-theme .footer_ecc60d,
+.custom-profile-theme .footer_a823cd,
 .userProfileModalOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .divider_b9fccc,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .divider_b9fccc,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .tabBarContainer_b9fccc,
 .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .mutualFriendsDivider_b433b4,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .userInfoSection_f3eb60+.userInfoSection_f3eb60,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .connectedAccountContainer_f3eb60 {
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .connectedAccountContainer_ab12c6 {
 	border-color: var(--profile-gradient-secondary-color);
 }
 
@@ -366,8 +366,8 @@
 	border-image: linear-gradient(to right, var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color)) 1;
 }
 
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85 .buttonColor_cd74cc,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85 .buttonColor_cd74cc,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85 .buttonColor_f00225,
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85 .buttonColor_f00225,
 .userProfileOuterThemed_c69a7b .wrapper .controls .caret,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .wrapper .controls .caret,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .wrapper .controls .caret,
@@ -379,8 +379,8 @@
 	color: #fff !important
 }
 
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85 .buttonColor_cd74cc:hover:not(:disabled),
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85 .buttonColor_cd74cc:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85 .buttonColor_f00225:hover:not(:disabled),
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85 .buttonColor_f00225:hover:not(:disabled),
 .userProfileOuterThemed_c69a7b .wrapper .controls .caret:hover:not(.disabled),
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .wrapper .controls .caret:hover:not(.disabled),
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .wrapper .controls .caret:hover:not(.disabled),
@@ -414,9 +414,9 @@
 .chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .colorBrand_dd4f85:disabled,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .colorBrand_dd4f85,
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .colorBrand_dd4f85:disabled,
-.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_cd74cc,
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .buttonColor_cd74cc,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .buttonColor_cd74cc {
+.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_f00225,
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .buttonColor_f00225,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .buttonColor_f00225 {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--profile-gradient-secondary-color) !important;
 	border-radius: 6px !important;
@@ -426,9 +426,9 @@
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .colorBrand_dd4f85:hover:not(:disabled),
 .chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .colorBrand_dd4f85:hover:not(:disabled),
 .userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .colorBrand_dd4f85:hover:not(:disabled),
-.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_cd74cc:hover:not(:disabled),
-.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .buttonColor_cd74cc:hover:not(:disabled),
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .buttonColor_cd74cc:hover:not(:disabled) {
+.chat_a7d72e .userProfileOuterThemed_c69a7b:not([style*="background-secondary-alt"]) .buttonColor_f00225:hover:not(:disabled),
+.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .buttonColor_f00225:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .buttonColor_f00225:hover:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--profile-gradient-secondary-color);
@@ -444,7 +444,7 @@
 	background-color: var(--profile-gradient-primary-color);
 }
 
-.custom-profile-theme .tabBar_c1519f {
+.custom-profile-theme .tabBar_ecc04c {
 	border-color: var(--profile-gradient-secondary-color);
 }
 
@@ -455,17 +455,17 @@
 	border-image: linear-gradient(to right, var(--profile-gradient-secondary-color), var(--profile-gradient-secondary-color)) 1;
 }
 
-.custom-profile-theme .collapseButton_c83b44.pill_c83b44,
-.custom-profile-theme .expandButton_c83b44.pill_c83b44,
+.custom-profile-theme .collapseButton_e6f2d0.pill_e6f2d0,
+.custom-profile-theme .expandButton_e6f2d0.pill_e6f2d0,
 .custom-profile-theme .statusBubble_d0a252,
 .custom-profile-theme .statusBubbleOuter_d0a252,
 .custom-profile-theme .statusBubbleOuter_d0a252:before,
 .custom-profile-theme .statusBubbleOuter_d0a252:after,
 .custom-profile-theme .divider__979dc,
-.custom-profile-theme .listRow_e4be58:hover,
-.custom-profile-theme .container_e5a42d,
+.custom-profile-theme .listRow_d2d6cb:hover,
+.custom-profile-theme .container_b64375,
 .custom-profile-theme .role_f9575e,
-.custom-profile-theme .note_c2dcc6 textarea:focus {
+.custom-profile-theme .note_d53fbd textarea:focus {
 	background-color: var(--profile-gradient-secondary-color) !important;
 }
 
@@ -489,13 +489,13 @@
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorBrand_dd4f85[aria-disabled=true],
 .theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b,
 .theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b,
-.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
+.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
+.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
 .userProfileOuterThemed_c69a7b .giftButton__0988e,
-.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled_dd4f85.buttonColor_cd74cc,
+.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled_dd4f85.buttonColor_f00225,
 .userProfileOuterThemed_c69a7b .userProfileInnerThemedWithBanner_c69a7b .giftButton__0988e,
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .giftButton__0988e {
 	background-color: rgba(0, 0, 0, .5) !important;
@@ -512,13 +512,13 @@
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled),
 .theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
-.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-dark.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .userProfileOuterThemed_c69a7b .giftButton__0988e:hover,
-.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .userProfileOuterThemed_c69a7b .userProfileInnerThemedWithBanner_c69a7b .giftButton__0988e:hover:not(:disabled),
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b .giftButton__0988e:hover:not(:disabled) {
 	color: #fff !important;
@@ -532,26 +532,26 @@
 
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorPrimary_dd4f85:not(.color_f9d37d.banner_f9d37d),
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorPrimary_dd4f85:hover:not(:disabled):not(.color_f9d37d.banner_f9d37d),
-.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
+.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light.userProfileOuter_c69a7b:not([style*="background-secondary-alt"]) .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.actionColor_fc39e7:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.actionColor_fc39e7:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.actionColor_fc39e7,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.actionColor_fc39e7:not(:disabled),
-.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
 .theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b,
 .theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_dfbe6b:not(:disabled),
-.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled_dd4f85.actionColor_fc39e7,
 .theme-light.custom-profile-theme .lookFilled_dd4f85.actionColor_fc39e7:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorPrimary_dd4f85,
@@ -560,17 +560,17 @@
 .theme-light.custom-profile-theme .lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled),
 .theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b,
 .theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_dfbe6b:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_cd74cc:hover:not(:disabled),
-.chat_a7d72e .theme-light.userProfileOuterThemed_c69a7b .buttonColor_cd74cc,
-.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc,
-.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_cd74cc {
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light.custom-profile-theme .lookFilled_dd4f85.buttonColor_f00225:hover:not(:disabled),
+.chat_a7d72e .theme-light.userProfileOuterThemed_c69a7b .buttonColor_f00225,
+.theme-light .userProfileInnerThemedWithBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225,
+.theme-light .userProfileInnerThemedPremiumWithoutBanner_c69a7b .lookFilled_dd4f85.buttonColor_f00225 {
 	color: #060607 !important;
 }
 
-.custom-profile-theme .connectedAccountContainer_f3eb60,
+.custom-profile-theme .connectedAccountContainer_ab12c6,
 .custom-profile-theme .menu_ad5fac div[role=separator] {
 	border-color: var(--profile-gradient-secondary-color);
 }
@@ -614,7 +614,7 @@
 	background: var(--profile-gradient-secondary-color);
 }
 
-.theme-dark.custom-profile-theme .activity_cd74cc {
+.theme-dark.custom-profile-theme .activity_f00225 {
 	background: var(--profile-gradient-primary-color);
 }
 
