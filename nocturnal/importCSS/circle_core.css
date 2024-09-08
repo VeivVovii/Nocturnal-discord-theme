@@ -12977,7 +12977,8 @@ body,
 
 .notifTabs_ed91eb,
 .controls_ed91eb,
-.filter_b02222:hover {
+.filter_b02222:hover,
+.image_a08002 {
 	background-color: rgba(0, 0, 0, .15);
 }
 
