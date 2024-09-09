@@ -6057,8 +6057,7 @@ button.button_adca65.enabled_adca65:hover {
 }
 
 .featureBorder_c6d722,
-.channelTextArea_fb4810,
-.overlayBackground_c69a7b:not(.profileInner_f4a859) {
+.channelTextArea_fb4810 {
 	border-radius: 5px;
 }
 
@@ -10316,7 +10315,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .theme-dark .footerSeparator_f9a4c9 {
-	box-shadow: none;
+	box-shadow: inset 0 1px 0 rgba(0, 0, 0, .95);
 }
 
 .progressBarScrubber_e00a24 {
@@ -12055,7 +12054,7 @@ path[fill="#949cf7"] {
 }
 
 .theme-light .overlayBackground_c69a7b:not(.profileInner_f4a859) {
-	background-color: #fff;
+	background: rgb(var(--bg-overlay-color)/.4);
 }
 
 .bottomRow_d936aa {
@@ -12766,13 +12765,13 @@ div.cardContainer_c22357,
 }
 
 .avatar_f94206.biteSize_f94206 {
-	top: 53px;
-	left: 8px;
+	top: 55px;
+	left: 10px;
 }
 
 .avatar_f94206.panel_f94206 {
-	top: 64px;
-	left: 8px;
+	top: 66px;
+	left: 10px;
 }
 
 .container_e40c16,
@@ -13302,8 +13301,8 @@ path[fill="brand-200"] {
 }
 
 .custom-profile-theme .avatar_f94206.biteSize_f94206 {
-	top: 49px;
-	left: 4px;
+	top: 51px;
+	left: 6px;
 }
 
 .button_dd4f85 .text-md\/semibold_dc00ef {
