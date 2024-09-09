@@ -11601,7 +11601,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .wrapper_c43059,
 .header_c6ee36,
-.footer_cf5d0a,
 .container_f30e90,
 .marker_f7ea1b,
 .preview_d66623,
@@ -11890,10 +11889,6 @@ path[fill="#949cf7"] {
 .page_e77fa3 {
 	padding-right: 26px;
 	max-width: none;
-}
-
-.role_b52547 {
-	padding-right: 0;
 }
 
 .theme-dark .footer_a74b6f {
@@ -12848,10 +12843,6 @@ svg.gameIcon_a9e62c,
 .role_f9575e {
 	background: rgba(0, 0, 0, 0);
 	height: 22px;
-}
-
-.roleName_b52547 {
-	margin-right: 0;
 }
 
 .narrow_e2f46e {
