@@ -11885,7 +11885,8 @@ path[fill="#949cf7"] {
 	fill: rgb(60, 193, 235);
 }
 
-.page_e77fa3 {
+.page_e77fa3,
+.content_ebba41 {
 	padding-right: 26px;
 	max-width: none;
 }
@@ -12688,6 +12689,7 @@ path[fill="var(--bg-brand)"] {
 .sortDropdown_fd3eaf,
 .tagContainer_e80fe9,
 .ctaContainer_f7a22f,
+.collectibleInfoContainer_c5828f,
 .notice_c02a8d {
 	background-color: var(--backgroundDarker);
 	border: none;
@@ -12791,7 +12793,6 @@ svg.gameIcon_a9e62c,
 .destinationRow_d0585c:not(.disabled_d0585c):hover,
 .container_f8c206,
 .header_da6bd8,
-.collectibleInfoContainer_c5828f,
 .sectionContent_da6bd8,
 .upsellsContainer_b712b6 {
 	background-color: rgba(0, 0, 0, .2);
@@ -13355,7 +13356,8 @@ path[fill="badge-brand-bg"] {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--backgroundDark));
 }
 
-.theme-dark .root_f9a4c9.oauth2Wrapper_c2b22e {
+.theme-dark .root_f9a4c9.oauth2Wrapper_c2b22e,
+.theme-dark .root_f9a4c9.modalRoot_c5828f {
 	box-shadow: none !important;
 }
 
@@ -13387,7 +13389,8 @@ path[fill="brand-200"] {
 .container_b120dc,
 .search_eed148,
 .popoutContentWrapper_a35965,
-.interactionsContainer_a35965 {
+.interactionsContainer_a35965,
+.shop_ebba41 {
 	background-color: var(--backgroundDark);
 }
 
