@@ -12523,10 +12523,10 @@ path[fill="var(--bg-brand)"] {
 }
 
 .clickable_cc54d6,
-.avatar_f94206,
-.avatar_f18fcb {
-	left: 8px;
-	top: 53px;
+.avatar_f18fcb,
+.avatar_f94206.biteSize_f94206 {
+	left: 10px;
+	top: 55px;
 }
 
 .role_a3571c,
@@ -12959,11 +12959,6 @@ div.cardContainer_c22357,
 .avatar_f94206.fullSize_f94206 {
 	top: -76px;
 	left: 16px;
-}
-
-.avatar_f94206.biteSize_f94206 {
-	top: 55px;
-	left: 10px;
 }
 
 .avatar_f94206.panel_f94206 {
@@ -13527,4 +13522,8 @@ path[fill="brand-200"] {
 
 .chatIcon_f420ee g {
 	mask-image: none;
+}
+
+.scrollerInner_b70be6 {
+	padding-left: 16px;
 }
