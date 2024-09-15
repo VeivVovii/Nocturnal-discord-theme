@@ -9383,7 +9383,7 @@ path[stroke="rgb(123,162,255)"] {
 	box-sizing: border-box;
 	position: absolute;
 	background: inherit;
-	border-radius: 5px;
+	border-radius: 11px;
 	border: 1px solid rgba(0, 0, 0, 0);
 	-webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0);
 	-webkit-mask-composite: xor;
@@ -13282,4 +13282,12 @@ path[fill="brand-200"] {
 
 .scrollerInner_b70be6 {
 	padding-left: 16px;
+}
+
+.role_b52547[style="border-color: rgba(0, 0, 0, 0.6);"] {
+	border-color: rgb(191, 201, 206, 0.6) !important;
+}
+
+.roleCircle_b52547[style="background-color: rgb(0, 0, 0);"] {
+	background-color: rgb(191, 201, 206) !important;
 }
