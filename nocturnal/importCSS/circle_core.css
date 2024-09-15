@@ -10158,7 +10158,8 @@ path[stroke="rgb(123,162,255)"] {
 .theme-dark .checkboxContainer_cacc4c:before,
 .userProfileOuterUnthemed_c69a7b .divider_ae36e5,
 .headerBar_accde0:after,
-.divider_f0029c {
+.divider_f0029c,
+.separator_e986d9 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -12507,7 +12508,9 @@ svg.gameIcon_a9e62c,
 .checkboxWrapper_dbc5a4,
 .profileAndVideoContainer_e80fe9,
 .shopCard_c23530,
-.custom-theme-background .menu_d90b3d {
+.custom-theme-background .menu_d90b3d,
+.popoverReactionHoverBar_e986d9,
+.popoverReactionHoverBar_e986d9:hover {
 	border: none;
 }
 
