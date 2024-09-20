@@ -3324,14 +3324,6 @@ svg[name=Nitro] g path {
 	background-color: rgba(0, 0, 0, .45);
 }
 
-.selectorButton_a78967:not(.selectorButtonPremiumRequired_a78967):hover {
-	background-color: #0076c5;
-}
-
-.selectorButtonSelected_a78967 {
-	background-color: #008ae6 !important;
-}
-
 .modal_aee8c6 {
 	border-radius: 5px;
 }
@@ -4554,12 +4546,8 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.selectorButton_aa7dff:hover {
-	background-color: #0076c5;
-}
-
 .selectorButtonSelected_aa7dff {
-	background-color: #008ae6 !important;
+	background-color: #008ae6;
 }
 
 .container_c06a56 {
