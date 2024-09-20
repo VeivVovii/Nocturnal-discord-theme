@@ -8522,7 +8522,8 @@ svg.contentImage_fa854f path {
 }
 
 .enableButton_d6d7a8,
-.button_dd4f85 .text-sm\/semibold_dc00ef {
+.secondaryButton_a35965 .text-sm\/semibold_dc00ef,
+.primaryButton_a35965 .text-md\/semibold_dc00ef {
 	font-weight: 500;
 }
 
@@ -11728,7 +11729,7 @@ div.cardContainer_c22357,
 .sizeMax_dd4f85,
 .button_dc6abe,
 .sizeLarge_dd4f85,
-.button_dd4f85 .text-md\/medium_dc00ef {
+.enableButton_d6d7a8 .text-md\/medium_dc00ef {
 	font-size: 14px;
 }
 
@@ -13474,7 +13475,8 @@ path[fill="brand-200"] {
 	left: 6px;
 }
 
-.button_dd4f85 .text-md\/semibold_dc00ef {
+.secondaryButton_a35965 .text-md\/semibold_dc00ef,
+.primaryButton_a35965 .text-md\/semibold_dc00ef {
 	font-size: 14px;
 	line-height: inherit;
 	font-weight: inherit;
