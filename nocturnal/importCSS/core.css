@@ -12834,7 +12834,8 @@ svg.gameIcon_a9e62c,
 .container_e5da8b.iconCard_e5da8b,
 .spoilerContainer_aa9639,
 .collectiblePreviewsContainer_c5828f,
-.progressTextOverlay_df6b25 {
+.progressTextOverlay_df6b25,
+.gameActivityLevel_fda254 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
