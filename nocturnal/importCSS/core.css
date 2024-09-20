@@ -1574,6 +1574,7 @@ div[data-contents="true"] {
 	fill: rgb(39, 189, 219);
 }
 
+.wrapper_bf1b19,
 .interactive,
 .icon_bf515c path[fill="var(--mention-foreground)"] {
 	transition: all .2s ease !important;
