@@ -13503,3 +13503,18 @@ path[fill="brand-200"] {
 .darkThemeGradient_e2fc00 {
 	background: linear-gradient(to top, var(--backgroundDarker-alt) 0%, hsl(225 20% 7.7% /.5) 50%, hsl(225 20% 7.7% /0) 100%);
 }
+
+.roleFlowerStar_e4010c {
+	border-radius: 2.5px !important;
+	width: 12px !important;
+	height: 12px !important;
+	margin-left: 0;
+}
+
+.itemLabel_eef3ef .roleFlowerStar_e4010c .linkIcon_b5435a {
+	margin: 0.5px !important;
+}
+
+.roleFlowerStar_e4010c .linkIcon_b5435a {
+	margin: 1px !important;
+}
