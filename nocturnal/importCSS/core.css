@@ -12965,7 +12965,7 @@ body,
 }
 
 .headerBackground_e8df26 {
-	--custom-overlay-color: hsl(225 20% 8% / 0.9);
+	--custom-overlay-color: hsl(225 20% 7.7% / 0.9);
 }
 
 .avatar_ec8679 path[fill="var(--interactive-normal)"] {
@@ -13398,7 +13398,7 @@ path[fill="brand-200"] {
 }
 
 .darkThemeGradient_f2bc91 {
-	background: linear-gradient(0deg, var(--backgroundDarker-alt)0%, rgba(16, 18, 24, 0.95)20.31%, rgba(16, 18, 24, 0)100%);
+	background: linear-gradient(to top, var(--backgroundDarker-alt) 0%, hsl(225 20% 7.7% /.95) 20.31%, hsl(225 20% 7.7% / 0) 100%);
 }
 
 .container_f2bc91,
@@ -13498,4 +13498,8 @@ path[fill="brand-200"] {
 
 .roleCircle_b52547[style="background-color: rgb(0, 0, 0);"] {
 	background-color: rgb(191, 201, 206) !important;
+}
+
+.darkThemeGradient_e2fc00 {
+	background: linear-gradient(to top, var(--backgroundDarker-alt) 0%, hsl(225 20% 7.7% /.5) 50%, hsl(225 20% 7.7% /0) 100%);
 }
