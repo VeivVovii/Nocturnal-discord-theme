@@ -5751,7 +5751,7 @@ button.button_adca65.enabled_adca65:hover {
 }
 
 .category_b68b01,
-.channelIcon__b68b01,
+.channelIcon_b68b01,
 .channelName_b68b01,
 .memberGroupsPlaceholder_dac468,
 .mulitplePlaceholderUsername_dac468,
@@ -5879,10 +5879,6 @@ button.button_adca65.enabled_adca65:hover {
 .mentionsBar_eba0ba {
 	background-color: var(--primary);
 	box-shadow: none;
-}
-
-.colorable_ef18ee.white_ef18ee {
-	transition: all .3s ease;
 }
 
 .emptyPreview_a5989d {
@@ -7632,13 +7628,7 @@ svg.contentImage_dc67b6 path {
 .theme-dark .label_c46f6a:not(.error_c46f6a, .isEnabled_ad4a7c),
 .theme-dark .legend_c46f6a:not(.error_c46f6a, .isEnabled_ad4a7c),
 .theme-dark .userTagUsernameBase_c9ccf6,
-.theme-dark .discrimBase_c9ccf6,
-.popoutRoot_cb56ab .colorPrimary_dd4f85 .contents_dd4f85,
-.theme-light .voicePanelIntroductionHeader_adcaac,
-.theme-light .voicePanelIntroductionText_adcaac,
-.descriptionText_f4ba67,
-.disabledButtonWrapper_dd4f85 .colorable_ef18ee.white_ef18ee,
-.disabledButtonWrapper_dd4f85 .colorable_ef18ee.white_ef18ee .centerIcon_ef18ee {
+.theme-dark .discrimBase_c9ccf6 {
 	color: #fff;
 }
 
@@ -7654,23 +7644,11 @@ svg.contentImage_dc67b6 path {
 }
 
 .floating-window-titlebar {
-	background: rgb(16, 18, 24)
+	background: rgb(16, 18, 24);
 }
 
 .floating-window {
-	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .95)
-}
-
-.userListOverflow-1suxEu {
-	background-color: rgba(0, 0, 0, 0);
-	padding: 0;
-}
-
-.card_d4f6c7 .conversationMessage__3c425 .applicationName_f9f2ca.clickable_f9f2ca:hover,
-.card_d4f6c7 .conversationMessage__3c425 .commandName_f9f2ca.clickable_f9f2ca:hover,
-.card_d4f6c7 .conversationMessage__3c425 .username_f9f2ca.clickable_f9f2ca:hover {
-	cursor: default;
-	text-decoration: none;
+	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .95);
 }
 
 .activityActionButton_ec77c5,
@@ -11528,7 +11506,8 @@ div.cardContainer_c22357,
 .sizeMax_dd4f85,
 .button_dc6abe,
 .sizeLarge_dd4f85,
-.enableButton_d6d7a8 .text-md\/medium_dc00ef {
+.enableButton_d6d7a8 .text-md\/medium_dc00ef,
+.button_c1cce6 .text-md\/medium_dc00ef {
 	font-size: 14px;
 }
 
@@ -13266,7 +13245,8 @@ path[fill="brand-200"] {
 }
 
 .secondaryButton_a35965 .text-md\/semibold_dc00ef,
-.primaryButton_a35965 .text-md\/semibold_dc00ef {
+.primaryButton_a35965 .text-md\/semibold_dc00ef,
+.button_f34a81 .text-sm\/semibold_dc00ef {
 	font-size: 14px;
 	line-height: inherit;
 	font-weight: inherit;
