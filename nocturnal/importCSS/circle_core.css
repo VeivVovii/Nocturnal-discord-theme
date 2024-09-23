@@ -8938,6 +8938,7 @@ svg.contentImage_dc67b6 path {
 .cardInput_c04e45,
 .copyInput_d7e343,
 .textArea_cc484a,
+.defaultTextInputWrapper_d274ca,
 .input_f8bc55:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-width: 1px;
@@ -8945,6 +8946,7 @@ svg.contentImage_dc67b6 path {
 	border-color: rgba(32, 34, 37, 0.5);
 }
 
+.defaultTextInputWrapper_d274ca:hover,
 .cardInput_c04e45:hover,
 .textArea_cc484a:hover,
 .input_f8bc55:hover:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
@@ -8955,9 +8957,12 @@ svg.contentImage_dc67b6 path {
 	border-color: #020202;
 }
 
+.defaultTextInputWrapper_d274ca:focus,
+.defaultTextInputWrapper_d274ca:focus-within,
 .cardInput_c04e45.cardInputFocused_c04e45,
 .textArea_cc484a:focus,
-.input_f8bc55:focus:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:focus:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8),
+.input_f8bc55:focus-within:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: #00b0f4 !important;
 }
 
@@ -10861,7 +10866,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .container_db0741,
 .container_d66623,
 .previewContainer_d66623,
-.defaultTextInputWrapper_d274ca,
 .addAnswerButton_f24a96,
 .container_c811f3,
 .enhancedBanner_f59576,
@@ -11169,8 +11173,13 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	box-shadow: none;
 }
 
-.container_c298ed {
+.container_c298ed,
+.inputWrapper_a8fde9 {
 	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.inputWrapper_a8fde9:focus-within {
+	border-color: var(--primary);
 }
 
 .attachedRoleContainer_f624e3 {
@@ -12843,14 +12852,6 @@ body,
 
 .theme-dark .moreUsers_f61cb8 {
 	color: #fff;
-}
-
-.inputWrapper_a8fde9 {
-	background-color: rgba(0, 0, 0, 0.1);
-}
-
-.inputWrapper_a8fde9:focus-within {
-	border-color: var(--primary);
 }
 
 .mainContent_b2b948 {
