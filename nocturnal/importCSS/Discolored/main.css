@@ -690,7 +690,8 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/caa42aa2e3b055313b4c.svg");
 }
 
-[src*="/assets/494fde817a903b7a26ab.svg"] {
+[src*="/assets/494fde817a903b7a26ab.svg"],
+[src*="/assets/fa1badaa2086f07c0787.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5f284899e72a967e9f34.svg");
 }
 
