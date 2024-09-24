@@ -6690,7 +6690,8 @@ svg.contentImage_dc67b6 path {
 .theme-dark .debugPanelStandalone_feab95,
 .theme-dark .imagePlaceholder_d4597d,
 .theme-dark .container_fb4810,
-.theme-dark .footer_aa1bff {
+.theme-dark .footer_aa1bff,
+.theme-dark .scroller_b91a2d {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
 
