@@ -9507,10 +9507,6 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
-.list_a6d69a>div:first-child {
-	padding-right: 18px;
-}
-
 .contentWrapper_af5dbb.isBurstReactionPicker_c6ee36 {
 	box-shadow: 0 0 0 2px #e73c7e, 0 0 16px #ee7752
 }
@@ -11970,7 +11966,8 @@ path[fill="#949cf7"] {
 .wrapperCommon_a08117,
 .container_e80fe9,
 .membersGroup_cbd271,
-.row_fd8ff1 {
+.row_fd8ff1,
+.list_a6d69a>div:first-child {
 	padding-right: 10px;
 }
 
