@@ -3704,7 +3704,8 @@ button.button_adca65.enabled_adca65:hover {
 	border-right-color: #0c0e12
 }
 
-.cozy_f9f2ca .repliedMessage_f9f2ca:before {
+.cozy_f9f2ca .repliedMessage_f9f2ca:before,
+.cozy_f9f2ca .repliedMessageSpine_f9f2ca {
 	--gutter: 12px;
 	margin-bottom: -6px;
 	margin-right: 0;
