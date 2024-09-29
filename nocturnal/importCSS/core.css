@@ -4730,11 +4730,6 @@ button.button_adca65.enabled_adca65:hover {
 	background: linear-gradient(var(--backgroundDark), var(--backgroundDark)) padding-box, linear-gradient(to top left, var(--primaryGradient1), var(--primaryGradient2)) border-box;
 }
 
-.fieldBackground_bd5b94,
-.fieldBackground_bd5b94:hover:not(:focus) {
-	border: 1px solid rgba(0, 0, 0, 0);
-}
-
 .fieldBackground_ceff93 {
 	border: none;
 }
@@ -4781,9 +4776,7 @@ button.button_adca65.enabled_adca65:hover {
 }
 
 .stepContainer_a039eb,
-.multiSelectCheckbox_f6639d,
-.fieldBackground_bd5b94,
-.fieldBackground_bd5b94:hover:not(:focus) {
+.multiSelectCheckbox_f6639d {
 	background-color: var(--backgroundDark);
 }
 
@@ -9063,7 +9056,7 @@ svg.contentImage_dc67b6 path {
 .copyInput_d7e343,
 .textArea_cc484a,
 .defaultTextInputWrapper_d274ca,
-.input_f8bc55:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-width: 1px;
 	border-style: solid;
@@ -9073,11 +9066,11 @@ svg.contentImage_dc67b6 path {
 .defaultTextInputWrapper_d274ca:hover,
 .cardInput_c04e45:hover,
 .textArea_cc484a:hover,
-.input_f8bc55:hover:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:hover:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: var(--deprecated-text-input-border-hover);
 }
 
-.theme-light .input_f8bc55:hover:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.theme-light .input_f8bc55:hover:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: #020202;
 }
 
@@ -9085,8 +9078,8 @@ svg.contentImage_dc67b6 path {
 .defaultTextInputWrapper_d274ca:focus-within,
 .cardInput_c04e45.cardInputFocused_c04e45,
 .textArea_cc484a:focus,
-.input_f8bc55:focus:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8),
-.input_f8bc55:focus-within:not(.inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:focus:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8),
+.input_f8bc55:focus-within:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: #00b0f4 !important;
 }
 
@@ -9975,7 +9968,8 @@ path[stroke="rgb(123,162,255)"] {
 	background: linear-gradient(120deg, #0c0e12, var(--backgroundDarker-alt))
 }
 
-.theme-dark .containerSidenav_d576e9 {
+.theme-dark .containerSidenav_d576e9,
+.page_a2a504 {
 	background-color: var(--backgroundDark);
 	border-left: solid 1px rgba(1, 1, 1, 0.25);
 }
@@ -10271,7 +10265,8 @@ path[stroke="rgb(123,162,255)"] {
 .headerBar_accde0:after,
 .divider_f0029c,
 .separator_e986d9,
-.menuDivider_ad5fac {
+.menuDivider_ad5fac,
+.summarySeparator_e41d41 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -12615,8 +12610,6 @@ path[fill="var(--bg-brand)"] {
 .icon_ebd74a,
 .guildSidebar_a74b6f,
 .requirementContainer_b007eb,
-.fieldBackground_bd5b94,
-.fieldBackground_bd5b94:hover:not(:focus),
 .label_b7d6f1,
 .modalHeader_c5ad85,
 .wrapper_a2a7b5,
@@ -12633,7 +12626,8 @@ path[fill="var(--bg-brand)"] {
 .tagContainer_e80fe9,
 .ctaContainer_f7a22f,
 .collectibleInfoContainer_c5828f,
-.notice_c02a8d {
+.notice_c02a8d,
+.summaryContainer_e41d41 {
 	background-color: var(--backgroundDarker);
 	border: none;
 }
@@ -12893,7 +12887,7 @@ div.cardContainer_c22357,
 }
 
 .theme-dark .footer_a74b6f {
-	background-color: var(--backgroundDark);
+	background-color: var(--backgroundDarker);
 	box-shadow: inset 0 1px 0 rgba(0, 0, 0, .95);
 }
 
@@ -13328,7 +13322,9 @@ path[fill="brand-200"] {
 .search_eed148,
 .popoutContentWrapper_a35965,
 .interactionsContainer_a35965,
-.shop_ebba41 {
+.shop_ebba41,
+.contentWrapper_a2a504,
+.headerBadge_e0fe28 {
 	background-color: var(--backgroundDark);
 }
 
@@ -13360,8 +13356,23 @@ path[fill="brand-200"] {
 .rewardDescriptionContainer_c2d7e2,
 .container_bac4a9,
 .container_d60263,
+.fieldBackground_bd5b94,
+.fieldBackground_bd5b94:hover:not(:focus),
 .safetyTable_fb9b39 {
 	background-color: var(--backgroundDarker);
+}
+
+.fieldBackground_bd5b94:not(.input_f8bc55),
+.fieldBackground_bd5b94:hover:not(:focus):not(.input_f8bc55) {
+	border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.input_f8bc55.fieldBackground_bd5b94:not(:hover):not(:focus):not(.focused_f8bc55) {
+	border: 1px solid rgba(32, 34, 37, 0.5);
+}
+
+.input_f8bc55.fieldBackground_bd5b94:hover:not(:focus) {
+	border: 1px solid var(--deprecated-text-input-border-hover);
 }
 
 .theme-dark .contentContainer_a56260 {
