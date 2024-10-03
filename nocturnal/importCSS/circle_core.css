@@ -6696,7 +6696,8 @@ svg.contentImage_dc67b6 path {
 .theme-dark .container_fb4810,
 .theme-dark .footer_aa1bff,
 .theme-dark .scroller_b91a2d,
-.theme-dark .container_e462a4 {
+.theme-dark .container_e462a4,
+.theme-dark .backdrop_accde0 {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
 
@@ -13109,7 +13110,6 @@ path[fill="brand-200"] {
 
 .container_ca37d0,
 .theme-dark .container_a56260,
-.backdrop_accde0,
 .container_b120dc,
 .search_eed148,
 .popoutContentWrapper_a35965,
@@ -13260,7 +13260,8 @@ path[fill="brand-200"] {
 .secondaryButton_a35965 .text-md\/semibold_dc00ef,
 .primaryButton_a35965 .text-md\/semibold_dc00ef,
 .button_f34a81 .text-sm\/semibold_dc00ef,
-.postButton_f24a96 .text-md\/semibold_dc00ef {
+.postButton_f24a96 .text-md\/semibold_dc00ef,
+.addButton_f11cbf {
 	font-size: 14px;
 	line-height: inherit;
 	font-weight: inherit;
