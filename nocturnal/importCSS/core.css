@@ -6683,7 +6683,6 @@ svg.contentImage_dc67b6 path {
 	border-radius: 12px;
 }
 
-.avatarUploaderPremium-2v2k2d .spinningAvatar_bea843,
 .forumPost_c53f2f,
 .avatar_b13ff2,
 .imageUploaderInner_de76e4.tierSymbolUploaderInner_fe8653 {
@@ -6900,25 +6899,15 @@ svg.contentImage_dc67b6 path {
 }
 
 .forumPost_c53f2f:nth-child(1) {
-	border-radius: 0 0 5px 5px
-}
-
-.medium_effbe2.iconLayout_effbe2 {
-	width: 22px;
+	border-radius: 0 0 5px 5px;
 }
 
 .theme-dark .css-xszxaa-option,
-.wrapperActive-k9mCe9,
 .list_f20a46 {
 	background-color: rgba(0, 0, 0, 0.2)
 }
 
-.separator-3pyJLj,
-.termsRow-3MeUQE,
-.listItem-25TTJR,
-.termsRow_bd5b94,
-.columnHeading-2OCw8k,
-.tableCell-kvk1Wn {
+.termsRow_bd5b94 {
 	border-bottom: 1px solid rgba(0, 0, 0, .95);
 }
 
@@ -7080,7 +7069,6 @@ svg.contentImage_dc67b6 path {
 .graphContainer_c73c22,
 .hoverButton_d0395d:hover:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton_e5c1dc),
 .keyboard-mode .hoverButton_d0395d:focus:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton_e5c1dc),
-.header-3cSJjT,
 .theme-dark .popout_b705bc,
 .bumpBox_ca33de,
 .bd-addon-views .bd-view-button:hover {
