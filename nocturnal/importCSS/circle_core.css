@@ -12409,10 +12409,6 @@ path[fill="var(--bg-brand)"] {
 	margin-left: 0;
 }
 
-.headerBar_d8354c {
-	background: var(--backgroundDark) !important;
-}
-
 .splash_f95964 path[fill="#41434a"] {
 	fill: rgba(0, 0, 0, 0);
 }
@@ -13155,7 +13151,8 @@ path[fill="brand-200"] {
 .avatarHalo_ab08a5,
 .fieldBackground_bd5b94,
 .fieldBackground_bd5b94:hover:not(:focus),
-.safetyTable_fb9b39 {
+.safetyTable_fb9b39,
+.shopAll_ebba41 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -13189,7 +13186,8 @@ path[fill="brand-200"] {
 }
 
 .container_f2bc91,
-.searchRowLabel_debb5a {
+.searchRowLabel_debb5a,
+.shopAll_ebba41:hover {
 	background-color: var(--backgroundDarker-alt);
 }
 
@@ -13300,4 +13298,8 @@ path[fill="brand-200"] {
 
 .roleFlowerStar_e4010c .linkIcon_b5435a {
 	margin: 1px !important;
+}
+
+.headerBarTransparentDarkBackground_d8354c {
+	background: rgba(24, 28, 37, 0.8) !important;
 }
