@@ -738,3 +738,11 @@
 .images-dark .resultsBlockedImage_a9e225 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/2d58a0636f814ac589e0.svg");
 }
+
+[style*='background-image: url("/assets/a0180771ce23344c2a95.png");'] {
+	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a0180771ce23344c2a95.png") !important;
+}
+
+[src*='/assets/a0180771ce23344c2a95.png'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a0180771ce23344c2a95.png") !important;
+}
