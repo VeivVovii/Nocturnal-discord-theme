@@ -4407,8 +4407,8 @@ button.button_adca65.enabled_adca65:hover {
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
 
-.roleCircle_a26d7b {
-	margin-left: 0;
+.roleCircle_f9575e {
+	margin: 0;
 }
 
 .roleName_e4010c {
@@ -10183,7 +10183,8 @@ path[stroke="rgb(123,162,255)"] {
 :where(.banner_d5fdb1):before,
 .row_e33a4d,
 .primaryActionPopoutDivider_a35965,
-.header_ac90a2 {
+.header_ac90a2,
+.forwardPreviewWrapper_d0585c {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -12339,6 +12340,7 @@ path[fill="#949cf7"] {
 .theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .after_inlineCode_cdb578,
 .theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .before_inlineCode_cdb578,
 .theme-dark .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) .inlineCode_cdb578,
+.iconWithGuildIcon_fcf03e,
 .theme-dark .tooltipNested_b6c360 {
 	background-color: #202632;
 }
@@ -12688,6 +12690,7 @@ svg.gameIcon_a9e62c,
 
 .iconBadge_fc4f04,
 .quote_f66b8e,
+.quote_e4c972,
 .progressBarInner_e32a43,
 .channel_f2b17e.mention_f2b17e:after,
 .switchOn_ed91eb {
@@ -12847,7 +12850,6 @@ div.cardContainer_c22357,
 .contentWrapper_f98b35,
 .channels_f2b17e,
 .channels_ed91eb,
-.iconWithGuildIcon_fcf03e,
 .contentWrapper_f7506e,
 .container_ec8cd2,
 .commandContainer_f37ac2,
@@ -13154,7 +13156,7 @@ path[fill="badge-brand-bg"] {
 }
 
 .iconWrapper_d0585c .wrapper_c51b4e .mask_c51b4e,
-.identity_d0585c,
+.identity_d0585c:has(.wrapper_c51b4e),
 .moreAvatars_d6c26f,
 .back_dd5a33 .iconButton_dd5a33 {
 	overflow: visible;
@@ -13519,4 +13521,22 @@ path[fill="brand-200"] {
 
 .headerBarTransparentDarkBackground_d8354c {
 	background: rgba(24, 28, 37, 0.8) !important;
+}
+
+.theme-dark .modal_d0585c .themedBackground_d0696b:not(.channelTextAreaInner_c1668f) {
+	background: var(--bg-overlay-2, rgba(0, 0, 0, .45));
+	transition: var(--transition);
+	transition-property: box-shadow;
+}
+
+.theme-dark .modal_d0585c .themedBackground_d0696b:not(.channelTextAreaInner_c1668f):hover {
+	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover);
+}
+
+.theme-dark .modal_d0585c .themedBackground_d0696b:not(.channelTextAreaInner_c1668f):focus-within {
+	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
+}
+
+.sendWithMessage_d0585c {
+	min-height: 44px !important;
 }
