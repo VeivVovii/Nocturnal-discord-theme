@@ -1859,6 +1859,8 @@ svg.contentImage_dc67b6 {
 
 #app-mount ::-webkit-scrollbar-thumb {
 	background: rgba(0, 0, 0, .45) !important;
+	border-radius: 20px !important;
+	border: none !important;
 }
 
 .form_a7d72e {
@@ -2251,8 +2253,7 @@ svg.contentImage_dc67b6 {
 }
 
 .content_b118d9,
-.theme-dark .entitledHeader__408e5,
-.theme-light .entitledHeader__408e5 {
+.theme-dark .entitledHeader__408e5 {
 	background-color: rgba(0, 0, 0, .35) !important
 }
 
@@ -4428,7 +4429,6 @@ button.button_adca65.enabled_adca65:hover {
 
 .icon_cc7b67,
 .container_cc7b67:active,
-.categoryItemRecentEmoji_dfa278:hover,
 .friendRequestsButton_c0c071,
 .primary_a41c2a:hover:not(.disabled_e258f5),
 .secondary_e258f5,
@@ -9220,11 +9220,6 @@ path[stroke="rgb(123,162,255)"] {
 	background: var(--bg-overlay-3);
 }
 
-#app-mount ::-webkit-scrollbar-thumb {
-	border-radius: 20px !important;
-	border: none !important
-}
-
 .infoScroller_a24910,
 .scroller_d2b491 {
 	padding-right: 6px !important;
@@ -13198,14 +13193,18 @@ path[fill="badge-brand-bg"] {
 .theme-light .tooltipPrimary_b6c360,
 .theme-light .container_ac201b,
 .theme-light .popoutContainer_cf58b5 {
-	background-color: var(--background-floating);
+	background-color: var(--background-floating) !important;
 }
 
 .theme-light .tooltipPrimary_b6c360 .tooltipPointer_b6c360 {
 	border-top-color: var(--background-floating);
 }
 
-.theme-light .tooltipNested_b6c360 {
+.theme-light .tooltipNested_b6c360,
+.theme-light.content_cb56ab,
+.theme-light .content_cb56ab,
+.theme-light .contentWrapper_af5dbb,
+.theme-light .wrapper_e06857 {
 	background-color: var(--background-secondary);
 }
 
@@ -13419,9 +13418,29 @@ path[fill="brand-200"] {
 	color: #cdcdcd !important;
 }
 
-.theme-light.content_cb56ab,
-.theme-light .content_cb56ab {
-	background-color: var(--background-secondary);
+.theme-light .inspector_c3120f {
+	background-color: var(--background-secondary-alt);
+}
+
+.theme-light .wrapper_ba23fe,
+.theme-light .container_effbe2,
+.theme-light .premiumRetentionNotice_fa8a68 {
+	background-color: var(--background-tertiary) !important;
+}
+
+.theme-light .diversitySelectorOptions_cce80d {
+	background-color: var(--background-secondary-alt);
+	border: 1px solid var(--background-tertiary);
+}
+
+.theme-light .diversityEmojiItem_cce80d:hover,
+.theme-light .categoryItemDefaultCategory_dfa278:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+.theme-light .categoryItemDefaultCategorySelected_dfa278,
+.theme-light .categoryItemDefaultCategorySelected_dfa278:hover {
+	background-color: var(--background-primary);
 }
 
 .button_bba79b.left_bba79b {
