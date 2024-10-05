@@ -3139,8 +3139,9 @@ svg[name=Nitro] g path {
 	border: none;
 }
 
-.theme-dark .preview-3GfI5V {
-	border: none;
+.peopleListItem_d51464 {
+	border-top: 1px solid rgba(0, 0, 0, .95);
+	margin-right: 24px;
 }
 
 .peopleListItem_d51464.active_d51464,
@@ -3152,7 +3153,7 @@ svg[name=Nitro] g path {
 
 .peopleListItem_d51464.active_d51464,
 .peopleListItem_d51464:hover {
-	margin-right: 12px;
+	margin-right: 14px;
 }
 
 .theme-dark .item_aa2afb,
@@ -3608,11 +3609,6 @@ button.button_adca65.enabled_adca65:hover {
 .theme-dark .installationPath_d037ef {
 	-webkit-box-shadow: 0 1px 0 0 #101218;
 	box-shadow: 0 1.5px 0 0 #101218;
-}
-
-.peopleListItem_d51464 {
-	border-top: 1px solid rgba(0, 0, 0, .95);
-	margin-right: 22px;
 }
 
 .info_c5a741 .line_c5a741:last-child:after {
