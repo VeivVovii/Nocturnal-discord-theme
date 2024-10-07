@@ -7510,8 +7510,7 @@ svg.contentImage_dc67b6 path {
 }
 
 .maskBackground_ccd3df,
-.tips_ca0caf,
-.sidebarContainer_e5b5f9 {
+.tips_ca0caf {
 	background-color: rgb(0, 0, 0, .25);
 }
 
@@ -12053,10 +12052,6 @@ path[fill="#949cf7"] {
 	background-color: var(--primary);
 }
 
-.container_e5a030 {
-	padding-right: 6px;
-}
-
 .modalContent_a0e502,
 .modalContent_c5828f {
 	padding-right: 0 !important;
@@ -12536,7 +12531,6 @@ svg.gameIcon_a9e62c,
 .list_f20a46,
 .container_d3aca4,
 .iconBackground_a5828d,
-.sidebarContainer_e5b5f9,
 .tabs_f2b17e,
 .tabs_ed91eb,
 .tabBackground_f2b17e,
