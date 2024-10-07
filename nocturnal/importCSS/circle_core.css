@@ -6693,6 +6693,8 @@ svg.contentImage_dc67b6 path {
 .theme-dark .footer_aa1bff,
 .theme-dark .scroller_b91a2d,
 .theme-dark .container_e462a4,
+.theme-dark .search_eed148,
+.theme-dark .container_b120dc,
 .theme-dark .backdrop_accde0 {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
@@ -13102,8 +13104,6 @@ path[fill="brand-200"] {
 
 .container_ca37d0,
 .theme-dark .container_a56260,
-.container_b120dc,
-.search_eed148,
 .popoutContentWrapper_a35965,
 .interactionsContainer_a35965,
 .shop_ebba41,
