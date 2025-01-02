@@ -457,10 +457,10 @@
 
 .custom-profile-theme .collapseButton_e6f2d0.pill_e6f2d0,
 .custom-profile-theme .expandButton_e6f2d0.pill_e6f2d0,
-.custom-profile-theme .statusBubble_d0a252,
-.custom-profile-theme .statusBubbleOuter_d0a252,
-.custom-profile-theme .statusBubbleOuter_d0a252:before,
-.custom-profile-theme .statusBubbleOuter_d0a252:after,
+.custom-profile-theme .statusBubble_af9888,
+.custom-profile-theme .statusBubbleOuter_af9888,
+.custom-profile-theme .statusBubbleOuter_af9888:before,
+.custom-profile-theme .statusBubbleOuter_af9888:after,
 .custom-profile-theme .divider__979dc,
 .custom-profile-theme .listRow_d2d6cb:hover,
 .custom-profile-theme .container_b64375,
@@ -469,7 +469,7 @@
 	background-color: var(--profile-gradient-secondary-color) !important;
 }
 
-.custom-profile-theme .themedBackground_d0696b {
+.custom-profile-theme .themedBackground_bdf0de {
 	background: var(--bg-overlay-5, var(--profile-gradient-secondary-color)) !important;
 }
 
