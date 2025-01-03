@@ -4103,10 +4103,6 @@ button.button_adca65.enabled_adca65:hover {
 	margin: 16px 2px 9px;
 }
 
-.row_cf6b7d {
-	padding-right: 2px;
-}
-
 .lookOutlined_dd4f85.colorGreen_dd4f85 .spinnerItem_dd4f85 {
 	background-color: #303f6b;
 }
@@ -6511,10 +6507,6 @@ svg.gameIcon_a9e62c rect,
 .theme-dark .noItemsIcon_e70817 rect,
 svg.contentImage_dc67b6 path {
 	display: none;
-}
-
-.rowInner_cf6b7d {
-	padding-left: 8px;
 }
 
 .chatContent_a7d72e,
@@ -11071,7 +11063,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .dropdown_f52ee7,
 .users_a5bc92,
-.theme-dark .container_cf6b7d .sectionTag_cf6b7d,
 .featuredPackFooter_fbeabf,
 .loading_f3e233,
 .metricCard_bf27f7,
@@ -11083,7 +11074,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .cardBody_b0ceed,
 .container_e1e1a4,
 .tableContainer_d2aca9,
-.skeletonBody_ebba41 {
+.skeletonBody_ebba41,
+.container_cf6b7d {
 	background-color: var(--backgroundDarker);
 }
 
@@ -12213,7 +12205,8 @@ path[fill="#949cf7"] {
 .upsellWrapper_b8772d,
 .collapsed_a478e5,
 .container_ad4620,
-.tabs_fc867b {
+.tabs_fc867b,
+.section_cf6b7d, .empty_cf6b7d {
 	padding-right: 14px;
 }
 
