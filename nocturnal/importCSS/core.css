@@ -13228,6 +13228,10 @@ path[fill="badge-brand-bg"] {
 	background-color: var(--background-floating) !important;
 }
 
+.theme-light .item_eef3ef:hover:not(.disabled_eef3ef), .focused_eef3ef {
+	background-color: var(--background-modifier-hover);
+}
+
 .theme-light .tooltipPrimary_b6c360 .tooltipPointer_b6c360 {
 	border-top-color: var(--background-floating);
 }
