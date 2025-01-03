@@ -639,3 +639,8 @@
 .custom-profile-theme .button_f7e168:active {
 	background-color: var(--profile-gradient-primary-color) !important;
 }
+
+.theme-light.custom-profile-theme .lookFilled_dd4f85.colorPrimary_dd4f85:not(.color_f9d37d.banner_f9d37d),
+.theme-light.custom-profile-theme .lookFilled_dd4f85.colorPrimary_dd4f85:disabled:not(.color_f9d37d.banner_f9d37d) {
+	color: #060607 !important;
+}
