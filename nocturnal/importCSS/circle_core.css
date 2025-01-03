@@ -1752,7 +1752,7 @@ svg[name=Nova_Discord] * {
 .bda-slist .bda-footer button:hover,
 .headerButtonColor__619f1:hover,
 .lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled, .customSwatch-1axV7B, .optionPillBtn_f6639d),
-.lookFilled_dd4f85.colorPrimary_dd4f85:hover:not(.color_f9d37d.banner_f9d37d, :disabled),
+.theme-dark .lookFilled_dd4f85.colorPrimary_dd4f85:hover:not(.color_f9d37d.banner_f9d37d, :disabled),
 .lookOutlined_dd4f85.colorBrand_dd4f85:hover:not(:disabled),
 .plugin-settings button:hover,
 .standardSidebarView_c25c6d #bd-customcss-attach-controls button:hover {
@@ -4935,8 +4935,8 @@ button.button_adca65.enabled_adca65:hover {
 .theme-dark .placeholder_bad108,
 .usagePill_be5c11,
 .benefitsContainer_a11d84,
-.list_a06168,
 .list_e0307d,
+.commandList_a1eac2,
 .intentsContainer_f6d180,
 .container_bf1c84,
 .card_e90143,
@@ -8323,7 +8323,6 @@ svg.contentImage_dc67b6 path {
 }
 
 #permissions-modal-wrapper .role-item.selected,
-.avatarUploaderInnerSquareDisabled_e9b3be,
 .card_d1fdce {
 	background-color: rgb(0, 0, 0, 0.3);
 }
@@ -10035,7 +10034,8 @@ path[stroke="rgb(123,162,255)"] {
 .row_e33a4d,
 .primaryActionPopoutDivider_a35965,
 .header_ac90a2,
-.forwardPreviewWrapper_d0585c {
+.forwardPreviewWrapper_d0585c,
+.benefits_e8df26 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
