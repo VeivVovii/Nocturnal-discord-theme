@@ -9161,7 +9161,8 @@ path[stroke="rgb(123,162,255)"] {
 .upsellPreview_aa7c25 .action_e3f878,
 .root__6943c,
 .root_a5ea57,
-.picker_cd703d {
+.picker_cd703d,
+.picker_cd703d.refresh_cd703d {
 	background-color: var(--backgroundDark);
 	border-color: var(--backgroundDark);
 }
@@ -11257,7 +11258,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .permissionItemContainer_f38b88,
 .icon_ebd74a,
 .tab_ff1414,
-.sortDropdown_c26ebf {
+.sortDropdown_c26ebf,
+.soundButtonRefresh_f40049 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -11269,7 +11271,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .clipThumb_fcf712,
 .theme-dark .subcategory_c7d2ee,
 .tag_a8fde9,
-.acronym_fcf03e {
+.acronym_fcf03e,
+.soundButtonRefresh_f40049:hover {
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -12495,7 +12498,8 @@ svg.gameIcon_a9e62c,
 .shopCard_c23530,
 .custom-theme-background .menu_d90b3d,
 .popoverReactionHoverBar_e986d9,
-.popoverReactionHoverBar_e986d9:hover {
+.popoverReactionHoverBar_e986d9:hover,
+.soundButtonRefresh_f40049 {
 	border: none;
 }
 
@@ -12658,7 +12662,8 @@ svg.gameIcon_a9e62c,
 .collectiblePreviewsContainer_c5828f,
 .richImageContainer_ae1fa2,
 .progressTextOverlay_df6b25,
-.gameActivityLevel_fda254 {
+.gameActivityLevel_fda254,
+.emojiCircle_f40049 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
