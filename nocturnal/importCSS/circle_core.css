@@ -8942,7 +8942,7 @@ svg.contentImage_dc67b6 path {
 .copyInput_d7e343,
 .textArea_cc484a,
 .defaultTextInputWrapper_d274ca,
-.input_f8bc55:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:not(.inputField_cc6ddd,.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-width: 1px;
 	border-style: solid;
@@ -8952,11 +8952,11 @@ svg.contentImage_dc67b6 path {
 .defaultTextInputWrapper_d274ca:hover,
 .cardInput_c04e45:hover,
 .textArea_cc484a:hover,
-.input_f8bc55:hover:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:hover:not(.inputField_cc6ddd,.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: var(--deprecated-text-input-border-hover);
 }
 
-.theme-light .input_f8bc55:hover:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.theme-light .input_f8bc55:hover:not(.inputField_cc6ddd,.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: #020202;
 }
 
@@ -8964,11 +8964,12 @@ svg.contentImage_dc67b6 path {
 .defaultTextInputWrapper_d274ca:focus-within,
 .cardInput_c04e45.cardInputFocused_c04e45,
 .textArea_cc484a:focus,
-.input_f8bc55:focus:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8),
-.input_f8bc55:focus-within:not(.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
+.input_f8bc55:focus:not(.inputField_cc6ddd,.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8),
+.input_f8bc55:focus-within:not(.inputField_cc6ddd,.fieldBackground_bd5b94, .inputInner_a8fde9, .input_cedfaf, .input_de812f, .descriptionInput_dcd39d, .clipTitleInput_fcf712, .defaultTextInput_d274ca, .searchBox_d83b4d .searchBoxInput_d83b4d, .input_de812f, .title_c1668f, .messageInput_f2c0a8, .textarea_dde0a8) {
 	border-color: #00b0f4 !important;
 }
 
+.inputField_cc6ddd,
 .descriptionInput_dcd39d,
 .input_cedfaf,
 .input_f8bc55.noBorder__0a7b8,
@@ -10382,6 +10383,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .bd-notice:first-child {
 	border-bottom: solid 1px rgb(1, 1, 1, 0.25);
+	border-radius: 0;
 }
 
 .overflow_e06fdc {
@@ -11085,7 +11087,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .bannerBody_b0ceed,
 .cardBody_b0ceed,
 .container_e1e1a4,
-.tableContainer_d2aca9 {
+.tableContainer_d2aca9,
+.skeletonBody_ebba41 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -11102,7 +11105,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .subscriptionPerks_ecba8f,
 .userProfileInnerThemedNonPremium_c69a7b .wrapper .controls,
 .theme-dark.outer_c69a7b:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .wrapper .controls,
-.note_d53fbd textarea:focus {
+.note_d53fbd textarea:focus,
+.skeleton_ebba41 {
 	background-color: var(--backgroundDarker-alt);
 }
 
@@ -11398,7 +11402,13 @@ div.cardContainer_c22357,
 .expandedProgressBarContainerSettingsPage_c88bb1,
 .promoBannerContainer_a8b566,
 .content_a56260,
-.content_b97772 {
+.content_b97772,
+.textContainer_c1cce6,
+.headerContainer_c1cce6,
+.nonEmbeddedLeftSplit_bb3b80,
+.popularPicksSection_ebba41,
+.heroBlockContent_ebba41,
+.featuredBlocksContainer_ebba41 {
 	max-width: none;
 }
 
@@ -12383,7 +12393,8 @@ path[fill="var(--bg-brand)"] {
 .inner_c69a7b.fullSize_c69a7b .container_b64375,
 .theme-dark.custom-profile-theme .biteSizeOverlayBackground_c69a7b,
 .theme-dark.custom-profile-theme .fullSizeOverlayBackground_c69a7b,
-.theme-dark :where(.overlay_c69a7b) {
+.theme-dark :where(.overlay_c69a7b),
+.theme-dark.custom-profile-theme :where(.overlay_c69a7b)  {
 	background: rgba(0, 0, 0, .15);
 	border: none;
 }
@@ -12629,7 +12640,8 @@ svg.gameIcon_a9e62c,
 
 .soundButtonSettingContainer_c801bb,
 .scrollerContainer_c90ddb,
-.messageBlock_b74455 {
+.messageBlock_b74455,
+.container_c1cce6 {
 	width: 100%;
 }
 
@@ -13132,7 +13144,8 @@ path[fill="brand-200"] {
 .interactionsContainer_a35965,
 .shop_ebba41,
 .contentWrapper_a2a504,
-.headerBadge_e0fe28 {
+.headerBadge_e0fe28,
+.clanIconInner_c9a4c0 {
 	background-color: var(--backgroundDark);
 }
 
@@ -13215,17 +13228,6 @@ path[fill="brand-200"] {
 .submenuWrapper_f2bc91:focus,
 .submenuWrapper_f2bc91:hover {
 	background-color: #0C0E12B2;
-}
-
-.container_c1cce6 {
-	width: 100%;
-	margin: 0;
-}
-
-.textContainer_c1cce6,
-.headerContainer_c1cce6,
-.nonEmbeddedLeftSplit_bb3b80 {
-	max-width: none;
 }
 
 .theme-dark [style="color: var(--input-placeholder-text);"] {
@@ -13366,4 +13368,9 @@ path[fill="brand-200"] {
 
 .entryPointAppCommandButton_d1f06a {
 	height: 44px;
+}
+
+.feedSingleRow_ebba41 {
+	padding-left: 58vw;
+	padding-right: 52vw;
 }
