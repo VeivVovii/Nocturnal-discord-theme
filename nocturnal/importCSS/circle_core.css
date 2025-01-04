@@ -1663,6 +1663,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,
+.iconButton_accde0,
 .secondaryButton_a35965,
 .linkButton_c48629,
 .wrapper .controls .caret,
@@ -1719,6 +1720,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn:hover,
+.iconButton_accde0:hover:not(:disabled),
 .secondaryButton_a35965:hover:not(:disabled),
 .linkButton_c48629:hover:not(:disabled),
 .wrapper .controls .caret:hover:not(.disabled),
@@ -3075,7 +3077,10 @@ svg[name=Nitro] g path {
 .theme-dark .watchButton_adbea6,
 .theme-dark .giftCardButtonColor_cf74b3,
 .seasonalColor_cf74b3,
-.theme-dark .giftCardButton_d8f41e {
+.theme-dark .giftCardButton_d8f41e,
+.theme-dark .giftCardButtonColor_cf74b3,
+.seasonalColor_cf74b3,
+.halloweenColor_cf74b3 {
 	border-radius: 0;
 	border-width: 1px 0;
 }
@@ -6682,7 +6687,8 @@ svg.contentImage_dc67b6 path {
 .theme-dark .container_e462a4,
 .theme-dark .search_eed148,
 .theme-dark .container_b120dc,
-.theme-dark .backdrop_accde0 {
+.theme-dark .backdrop_accde0,
+.theme-dark .relative_accde0 {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
 
@@ -11398,7 +11404,10 @@ div.cardContainer_c22357,
 .popularPicksSection_ebba41,
 .heroBlockContent_ebba41,
 .featuredBlocksContainer_ebba41,
-.container_ad4620 {
+.container_ad4620,
+.containerWithoutGlow_c88bb1,
+.containerWithGlowWithBanner_c88bb1,
+.containerWithGlowWithoutBanner_c88bb1 {
 	max-width: none;
 }
 
@@ -12656,7 +12665,8 @@ svg.gameIcon_a9e62c,
 .richImageContainer_ae1fa2,
 .progressTextOverlay_df6b25,
 .gameActivityLevel_fda254,
-.emojiCircle_f40049 {
+.emojiCircle_f40049,
+.modalBg_c73f92 {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -13376,4 +13386,13 @@ path[fill="brand-200"] {
 .feedSingleRow_ebba41 {
 	padding-left: 58vw;
 	padding-right: 52vw;
+}
+
+.copyLinkBtn_c73f92 {
+	min-height: 32px;
+	height: 32px;
+}
+
+.contentHeader_c73f92 {
+	background: linear-gradient(90deg,rgba(180,192,233,.1)23.5%,rgba(10,12,18,0)100%);
 }
