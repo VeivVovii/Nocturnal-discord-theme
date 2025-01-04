@@ -13396,3 +13396,7 @@ path[fill="brand-200"] {
 .contentHeader_c73f92 {
 	background: linear-gradient(90deg,rgba(180,192,233,.1)23.5%,rgba(10,12,18,0)100%);
 }
+
+.flash_b15a6f[data-flash=true] {
+	background-color: rgb(60, 193, 235, 0.15);
+}
