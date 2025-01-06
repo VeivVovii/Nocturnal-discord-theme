@@ -613,7 +613,8 @@
 .custom-profile-theme .menu_ad5fac .colorDefault_d90b3d:active:not(.hideInteraction_d90b3d),
 .custom-profile-theme .divider_e3d8a6,
 .custom-profile-theme .menuOverlay_ad5fac .menuItemColor_ad5fac:hover,
-.custom-profile-theme .menuDivider_ad5fac {
+.custom-profile-theme .menuDivider_ad5fac
+.custom-profile-theme .voiceChannelDivider_ae1fa2 {
 	background: var(--profile-gradient-secondary-color);
 }
 
