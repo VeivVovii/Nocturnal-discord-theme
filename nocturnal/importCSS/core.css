@@ -5268,10 +5268,6 @@ button.button_adca65.enabled_adca65:hover {
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.theme-dark .applicationStreamingHoverWrapper_cd82a7 {
-	background: hsl(var(--black-500-hsl)/.6);
-}
-
 .bd-empty-image-container .bd-button {
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: 2px solid var(--primary) !important;
@@ -7940,7 +7936,6 @@ svg.contentImage_dc67b6 path {
 }
 
 .searchSuggestion_de4721,
-.theme-dark .voiceSectionNoGuildImageWrapper_cd82a7,
 .hamBanner_d1cafc,
 .notice_addbba,
 .container-BetterVolume,
@@ -11306,7 +11301,10 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 }
 
 .roleTag_b463ca,
-.pill_ce3dd8 {
+.pill_ce3dd8,
+.theme-dark .separator_cd82a7,
+.theme-dark.outer_c69a7b:not(.custom-theme-background) .userCardInner_c69a7b,
+.theme-dark .voiceSectionNoGuildImageWrapper_cd82a7 {
 	background-color: #1c212c;
 }
 
@@ -12730,11 +12728,6 @@ svg.gameIcon_a9e62c,
 
 .list_fc061a {
 	padding-right: 2px !important;
-}
-
-.theme-dark .separator_cd82a7,
-.theme-dark.outer_c69a7b:not(.custom-theme-background) .userCardInner_c69a7b {
-	background-color: #1c212c;
 }
 
 .button_ccfa44:hover,
