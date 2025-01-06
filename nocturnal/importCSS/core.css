@@ -10165,7 +10165,9 @@ path[stroke="rgb(123,162,255)"] {
 .primaryActionPopoutDivider_a35965,
 .header_ac90a2,
 .forwardPreviewWrapper_d0585c,
-.benefits_e8df26 {
+.benefits_e8df26,
+.sidebar_e881fc,
+.profileEntryCard_f1257c {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -10253,7 +10255,8 @@ path[stroke="rgb(123,162,255)"] {
 .menuDivider_ad5fac,
 .summarySeparator_e41d41,
 .underline_a46f56,
-.underline_b78bb6 {
+.underline_b78bb6,
+.voiceChannelDivider_ae1fa2 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -10505,7 +10508,8 @@ path[stroke="rgb(123,162,255)"] {
 	border-radius: 0;
 }
 
-.overflow_e06fdc {
+.overflow_e06fdc,
+.overflow_ccc074 {
 	background-color: rgb(0, 0, 0, 0);
 	padding: 0;
 }
@@ -11652,7 +11656,8 @@ div.cardContainer_c22357,
 .body_b8cc6d[style*="hidden scroll"],
 .scrollableContent_c7c1c7,
 .scrollContainer_ca37d0,
-.scroller_c0721c {
+.scroller_c0721c,
+.scroller_ccc074 {
 	padding-right: 10px !important;
 }
 
@@ -12744,7 +12749,8 @@ svg.gameIcon_a9e62c,
 .sectionContent_da6bd8,
 .upsellsContainer_b712b6,
 .contentBackground_c5a065,
-.overviewContainerNoVideo_c2f3ef {
+.overviewContainerNoVideo_c2f3ef,
+.friends_d8cab0 {
 	background-color: rgba(0, 0, 0, .2);
 }
 
@@ -12839,7 +12845,8 @@ svg.gameIcon_a9e62c,
 .progressTextOverlay_df6b25,
 .gameActivityLevel_fda254,
 .emojiCircle_f40049,
-.modalBg_c73f92 {
+.modalBg_c73f92,
+.gameArtwork_f5a23b {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -12966,7 +12973,8 @@ body,
 }
 
 .outline_a9414b,
-.outline_d201be {
+.outline_d201be,
+.avatar_f1257c {
 	border-radius: 8px;
 }
 
@@ -13086,7 +13094,8 @@ body,
 .notifModal_ed91eb,
 .bigMenu_ed91eb,
 .menu_ed91eb,
-.container_efc1ac {
+.container_efc1ac,
+.scroller_ccc074 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
@@ -13341,7 +13350,8 @@ path[fill="brand-200"] {
 .shop_ebba41,
 .contentWrapper_a2a504,
 .headerBadge_e0fe28,
-.clanIconInner_c9a4c0 {
+.clanIconInner_c9a4c0,
+.logoWrapper_e881fc {
 	background-color: var(--backgroundDark);
 }
 
@@ -13377,7 +13387,8 @@ path[fill="brand-200"] {
 .fieldBackground_bd5b94:hover:not(:focus),
 .safetyTable_fb9b39,
 .shopAll_ebba41,
-.container_a46f56 {
+.container_a46f56,
+.theme-dark.outer_c69a7b.panel_c69a7b:not(.custom-theme-background) {
 	background-color: var(--backgroundDarker);
 }
 
