@@ -8545,7 +8545,9 @@ svg.contentImage_dc67b6 path {
 .featureCard_f95964,
 .categoryIcon_ceda83:hover,
 .fakeInput_a79deb,
-.targetList_bfd39b {
+.targetList_bfd39b,
+.loadingArtwork_bd82e2,
+.loadingHeading_bd82e2 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
