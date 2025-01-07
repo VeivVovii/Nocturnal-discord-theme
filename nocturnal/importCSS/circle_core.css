@@ -6680,7 +6680,8 @@ svg.contentImage_dc67b6 path {
 .theme-dark .search_eed148,
 .theme-dark .container_b120dc,
 .theme-dark .backdrop_accde0,
-.theme-dark .relative_accde0 {
+.theme-dark .relative_accde0,
+.theme-dark .wrapper_c721cc {
 	background: var(--bg-overlay-4, var(--backgroundDark));
 }
 
@@ -7415,7 +7416,8 @@ svg.contentImage_dc67b6 path {
 .educationUpsell_b5926e,
 .theme-dark.container_f8690a.messageContainer_bc431c,
 .container_fc2651,
-.uploadDropModal_f82cc7 .bgScale_f82cc7 {
+.uploadDropModal_f82cc7 .bgScale_f82cc7,
+.contentWrapper_c721cc {
 	background-color: var(--backgroundDark) !important;
 }
 
@@ -8542,7 +8544,8 @@ svg.contentImage_dc67b6 path {
 .smallDecorationPreviewsContainer_aba31b,
 .featureCard_f95964,
 .categoryIcon_ceda83:hover,
-.fakeInput_a79deb {
+.fakeInput_a79deb,
+.targetList_bfd39b {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -10030,7 +10033,8 @@ path[stroke="rgb(123,162,255)"] {
 .forwardPreviewWrapper_d0585c,
 .benefits_e8df26,
 .sidebar_e881fc,
-.profileEntryCard_f1257c {
+.profileEntryCard_f1257c,
+.targetItem_bfd39b:not(:last-child) {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -10781,7 +10785,16 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	padding-right: 34px !important;
 }
 
-.container_d20375 {
+.container_d20375,
+.content_dec63a,
+.content_c03fd3,
+.clipGrid_e3c915,
+.productPreview_d636bf,
+.content_c862ac,
+.list_f3abf4,
+.modalContent_dd7505,
+.list_cc7518,
+.modalContent_bfd39b {
 	padding-right: 18px !important;
 }
 
@@ -11155,17 +11168,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .attachButtonClip_f298d4 {
 	fill: var(--primary);
-}
-
-.content_dec63a,
-.content_c03fd3,
-.clipGrid_e3c915,
-.productPreview_d636bf,
-.content_c862ac,
-.list_f3abf4,
-.modalContent_dd7505,
-.list_cc7518 {
-	padding-right: 18px !important;
 }
 
 .pill_ffc909 {
@@ -12513,7 +12515,8 @@ svg.gameIcon_a9e62c,
 .quote_e4c972,
 .progressBarInner_e32a43,
 .channel_f2b17e.mention_f2b17e:after,
-.switchOn_ed91eb {
+.switchOn_ed91eb,
+.pill_f2bc91 {
 	background-color: var(--primary);
 }
 
@@ -13145,7 +13148,9 @@ path[fill="brand-200"] {
 .contentWrapper_a2a504,
 .headerBadge_e0fe28,
 .clanIconInner_c9a4c0,
-.logoWrapper_e881fc {
+.logoWrapper_e881fc,
+.legibilityGradient_e23249,
+.heroAssetDarken_e23249 {
 	background-color: var(--backgroundDark);
 }
 
