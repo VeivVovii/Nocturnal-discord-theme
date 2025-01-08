@@ -6426,17 +6426,20 @@ html.theme-light .app_a01fb1::after {
 	background-color: var(--backgroundDarker);
 }
 
-.reactionBtn_ec6b19.forceShowLook_ec6b19 {
+.reactionBtn_ec6b19.forceShowLook_ec6b19,
+.reactionBtn_ec6b19.forceShow_ec6b19 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
-.reactionBtn_ec6b19.forceShowLook_ec6b19:hover {
+.reactionBtn_ec6b19.forceShowLook_ec6b19:hover,
+.reactionBtn_ec6b19.forceShow_ec6b19:hover {
 	background-color: rgba(0, 0, 0, 0);
 	border-color: rgba(0, 0, 0, .95);
 }
 
-.reactionBtn_ec6b19.forceShowLook_ec6b19:active {
-	background-color: rgba(0, 0, 0, .35);
+.reactionBtn_ec6b19.forceShowLook_ec6b19:active,
+.reactionBtn_ec6b19.forceShow_ec6b19:active {
+	background-color: rgba(0, 0, 0, .5);
 }
 
 .raisedHandIcon_de335c path {
