@@ -6703,7 +6703,8 @@ svg.contentImage_dc67b6 path {
 
 .theme-dark .themedBackground_bdf0de:not(.channelTextAreaInner_c1668f),
 .mockInput_c5828f,
-.button_df39bd {
+.button_df39bd,
+.placeholderItem_dda6c7 {
 	background: var(--bg-overlay-2, rgb(14, 16, 21));
 }
 
@@ -12425,7 +12426,9 @@ path[fill="var(--bg-brand)"] {
 .overlay_a8795b,
 .overlay_e96847,
 .discoverHeader_b992d4,
-.rows_bedaeb {
+.rows_bedaeb,
+.appLauncherPlaceholder_dda6c7,
+.chatTextAreaPlaceholder_dda6c7 {
 	margin-right: 10px;
 }
 
@@ -12518,7 +12521,8 @@ svg.gameIcon_a9e62c,
 .progressBarInner_e32a43,
 .channel_f2b17e.mention_f2b17e:after,
 .switchOn_ed91eb,
-.pill_f2bc91 {
+.pill_f2bc91,
+.premiumTrialAcknowledgedBadge_b089d3 {
 	background-color: var(--primary);
 }
 
@@ -13375,6 +13379,7 @@ path[fill="brand-200"] {
 
 .entryPointAppCommandButton_d1f06a {
 	height: 44px;
+	margin-left: 10px;
 }
 
 .feedSingleRow_ebba41 {
@@ -13393,4 +13398,13 @@ path[fill="brand-200"] {
 
 .flash_b15a6f[data-flash=true] {
 	background-color: rgb(60, 193, 235, 0.15);
+}
+
+.container_dda6c7 {
+	margin: 0;
+	padding: 0;
+}
+
+.entryPointAppCommandPlaceholder_dda6c7 {
+	width: 60px;
 }
