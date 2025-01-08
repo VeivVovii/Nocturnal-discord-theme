@@ -1289,7 +1289,7 @@
 }
 
 .modal_c97cbd,
-.theme-dark .root_f9a4c9:not(.container_f4e139, .zoomedCarouselModalRoot_f74404),
+.theme-dark .root_f9a4c9:not(.forcedTransparency_c9eb31, .container_f4e139, .zoomedCarouselModalRoot_f74404),
 .bd-modal-root,
 .content_c2654d,
 .exampleModal_e803f7 {
@@ -11541,7 +11541,9 @@ div.cardContainer_c22357,
 	font-size: 14px;
 }
 
-.giftButton_e70ca4 {
+.giftButton_e70ca4,
+.resolvingFakeButton_a71a1c,
+.placeholderItem_dda6c7.entryPointAppCommandPlaceholder_dda6c7 {
 	border-radius: 6px;
 }
 
@@ -11748,7 +11750,8 @@ path[fill="#949cf7"] {
 .searchRowLabel_debb5a,
 .navItem_e462a4,
 .category_d70b79,
-.quote_e4c972 {
+.quote_e4c972,
+.placeholderItem_dda6c7 {
 	border-radius: 5px;
 }
 
@@ -12265,10 +12268,6 @@ path[fill="#949cf7"] {
 
 .wrapper .controls .carosell .dot.selected {
 	background: var(--primary);
-}
-
-.resolvingFakeButton_a71a1c {
-	border-radius: 6px;
 }
 
 .button_a75489,
@@ -13407,5 +13406,5 @@ path[fill="brand-200"] {
 }
 
 .entryPointAppCommandPlaceholder_dda6c7 {
-	width: 60px;
+	width: 94px;
 }
