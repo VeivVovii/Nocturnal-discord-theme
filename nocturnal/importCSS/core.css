@@ -1663,6 +1663,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,
+.entryPointAppCommandPlaceholder_dda6c7,
 .iconButton_accde0,
 .secondaryButton_a35965,
 .linkButton_c48629,
@@ -12144,7 +12145,8 @@ path[fill="#949cf7"] {
 	padding-right: 26px !important;
 }
 
-.createTierButton_e6ac5f {
+.createTierButton_e6ac5f,
+.placeholderItem_dda6c7 {
 	height: auto;
 }
 
@@ -13622,5 +13624,5 @@ path[fill="brand-200"] {
 }
 
 .entryPointAppCommandPlaceholder_dda6c7 {
-	width: 94px;
+	width: 90px;
 }
