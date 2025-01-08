@@ -1754,7 +1754,7 @@ svg[name=Nova_Discord] * {
 .bd-modal-wrapper .footer button:hover,
 .bda-slist .bda-footer button:hover,
 .headerButtonColor__619f1:hover,
-.lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled, .customSwatch-1axV7B, .optionPillBtn_f6639d),
+.lookFilled_dd4f85.colorBrand_dd4f85:hover:not(:disabled, .optionPillBtn_f6639d),
 .theme-dark .lookFilled_dd4f85.colorPrimary_dd4f85:hover:not(.color_f9d37d.banner_f9d37d, :disabled),
 .lookOutlined_dd4f85.colorBrand_dd4f85:hover:not(:disabled),
 .plugin-settings button:hover,
@@ -6600,7 +6600,8 @@ svg.contentImage_dc67b6 path {
 }
 
 .wrapper_fea3ef,
-.multiSelectCheckbox_f6639d.checked_f6639d {
+.multiSelectCheckbox_f6639d.checked_f6639d,
+.container_feab95 {
 	background-color: var(--backgroundDark);
 }
 
@@ -10130,7 +10131,8 @@ path[stroke="rgb(123,162,255)"] {
 .summarySeparator_e41d41,
 .underline_a46f56,
 .underline_b78bb6,
-.voiceChannelDivider_ae1fa2 {
+.voiceChannelDivider_ae1fa2,
+.tabs_feab95:after {
 	background-color: rgba(0, 0, 0, .95);
 }
 
