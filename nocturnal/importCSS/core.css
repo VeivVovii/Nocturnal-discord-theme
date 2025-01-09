@@ -10847,7 +10847,8 @@ path[stroke="rgb(123,162,255)"] {
 	display: none;
 }
 
-.content_a8af02 {
+.content_a8af02,
+.notice_c484f3 {
 	background-color: rgba(0, 0, 0, .2);
 	padding: 10px;
 }
@@ -11617,7 +11618,8 @@ div.cardContainer_c22357,
 .container_ad4620,
 .containerWithoutGlow_c88bb1,
 .containerWithGlowWithBanner_c88bb1,
-.containerWithGlowWithoutBanner_c88bb1 {
+.containerWithGlowWithoutBanner_c88bb1,
+.container_e0eaac {
 	max-width: none;
 }
 
@@ -12428,7 +12430,8 @@ path[fill="#949cf7"] {
 	scale: none;
 }
 
-.innerWrapperV1_c511e4 {
+.innerWrapperV1_c511e4,
+.innerWrapperBase_c511e4 {
 	background-color: var(--backgroundDark);
 	border-radius: 16px;
 }
@@ -13019,11 +13022,6 @@ body,
 	box-shadow: 0 0 4px 0 var(--primary);
 }
 
-.scroller_a8b566 {
-	background-color: var(--backgroundDark);
-	padding-left: 6px;
-}
-
 .theme-dark .footerSeparator_fc061a {
 	box-shadow: 0 -1px 0 rgba(0, 0, 0, .95);
 }
@@ -13369,7 +13367,9 @@ path[fill="brand-200"] {
 .clanIconInner_c9a4c0,
 .logoWrapper_e881fc,
 .legibilityGradient_e23249,
-.heroAssetDarken_e23249 {
+.heroAssetDarken_e23249,
+.scroller_a8b566,
+.outer_c69a7b:not(.custom-profile-theme) .upsellContent_b8bbd6 {
 	background-color: var(--backgroundDark);
 }
 
