@@ -23,13 +23,13 @@
 }
 
 /* 🔎💥 Broken magnifying glass */
-.theme-dark .errorImage_c2b47d{
+.theme-dark .errorImage_a9e706{
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/broken.svg")
 	center/cover;
 }
 
 /* 🏰 Castle */
-.theme-dark .verification_cdbc7c .image_cdbc7c{
+.theme-dark .verification_dede4b .image_dede4b{
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/castle.svg") 50%/80%
 	no-repeat;
 }
@@ -58,7 +58,7 @@
 }
 
 /* 💥 Crash */
-.theme-dark .image_a2a7b5 {
+.theme-dark .image__61a6b {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/crash.svg");
 }
 
@@ -75,7 +75,7 @@
 }
 
 /* 📭 Empty */
-.theme-dark .image_bbfa4c, .theme-dark .emptyImage_e37a20 {
+.theme-dark .image_df963a, .theme-dark .emptyImage_e37a20 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/empty.svg");
 }
 
@@ -94,32 +94,32 @@
 }
 
 /* 🤷‍♂️ GIF not found */
-.theme-dark .sadImage_e78f9e {
+.theme-dark .sadImage__29ebd {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/gif_not_found.svg");
 }
 
 /* 🤷‍ GIF picker end */
-.theme-dark .endContainer_bad108::after{
+.theme-dark .endContainer__2dc39::after{
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/gif_picker_end.svg");
 }
 
 /* 👥 Groups */
-.theme-dark .noFriends_e6af9c .errorStateIcon_e6af9c {
+.theme-dark .noFriends_cba592 .errorStateIcon_cba592 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/groups.svg");
 }
 
 /* 🎁 Gift Inventory */
-.theme-dark .emptyStateImage_e8af36, .theme-dark .emptyWumpus_f1629a {
+.theme-dark .emptyStateImage_d4883c, .theme-dark .emptyWumpus_adb41f {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/gift_inventory.svg");
 }
 
 /* 🏠 Houses */
-.theme-dark .emptyIconGuilds_d2d6cb {
+.theme-dark .emptyIconGuilds__9d78f {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/houses.svg");
 }
 
 /* ✨ Integrations */
-.theme-dark .footerImage_fab929 {
+.theme-dark .footerImage__98b95 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/integrations.svg");
 }
 
@@ -146,19 +146,19 @@
 }
 
 /* 🙁 No Mutuals */
-.theme-dark .emptyIconFriends_d2d6cb{
+.theme-dark .emptyIconFriends__9d78f{
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/no_mutuals.svg");
 	background-size: 100%;
 }
 
 /* 🔎 🗣️ No results conversation */
-.theme-dark .emptyState_f4e139 {
+.theme-dark .emptyState_ac6cb0 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/no_results_conv.svg");
 	background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
-.theme-dark .noResultsImage_c2b47d {
+.theme-dark .noResultsImage_a9e706 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/no_results.svg");
 }
 
@@ -171,7 +171,7 @@
 }
 
 /* 📱 Phones */
-.theme-dark .verificationBlock__2ee71 .image_cdbc7c.phone__0b460 {
+.theme-dark .verificationBlock__2ee71 .image_dede4b.phone__0b460 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/phones.svg");
 }
 
@@ -188,11 +188,11 @@
 }
 
 /* 💩 Poop */
-.theme-dark .invalidPoop_ff31dd, .theme-dark .guildIconExpired_a71a1c {
+.theme-dark .invalidPoop__857bf, .theme-dark .guildIconExpired_d5f3cd {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/poop.svg");
 }
 
-.theme-dark .imageError_d4597d,[src*="/assets/cdccee83bde523baf3d5.svg"] {
+.theme-dark .imageError_af017a,[src*="/assets/cdccee83bde523baf3d5.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/poop.svg")
 }
 
@@ -203,7 +203,7 @@
 }
 
 /* 🔎 Searching */
-.theme-dark .searchIndexBackground_faff47 {
+.theme-dark .searchIndexBackground_e1fee6 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/searching.svg");
 }
 
@@ -213,7 +213,7 @@
 }
 
 /* 🟢 Spotify error */
-.theme-dark .artworkSpotifySessionEnded_f61cb8 {
+.theme-dark .artworkSpotifySessionEnded__4d3fa {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/spotify_error.svg");
 }
 
@@ -223,7 +223,7 @@
 }
 
 /* 🔴 Streamer Mode */
-.theme-dark .streamerModeEnabledImage_c50c8b, .theme-dark .emptyIconStreamerMode_d2d6cb {
+.theme-dark .streamerModeEnabledImage_aa3ffd, .theme-dark .emptyIconStreamerMode__9d78f {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/streamer_mode.svg");
 }
 
@@ -234,7 +234,7 @@
 }
 
 /* 📹 Test Video */
-.theme-dark .previewImage_ff1ac9 {
+.theme-dark .previewImage_d41d5f {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/test_video.svg");
 }
 
@@ -267,7 +267,7 @@
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_mountain.svg") !important;
 }
 
-.noResultsContainer_b7560d > div:first-child,
+.noResultsContainer__9c6d0 > div:first-child,
 .noResultsContainer_dd2627 > div:first-child {
 	width: 200px;
 	height: 100px;
@@ -276,7 +276,7 @@
 	background-size: contain;
 }
   
-.noResultsContainer_b7560d > div:first-child svg,
+.noResultsContainer__9c6d0 > div:first-child svg,
 .noResultsContainer_dd2627 > div:first-child svg {
 	display: none;
 }
@@ -290,54 +290,54 @@
 /* 🍵 Wumpus Tea Party */
 [style*='background-image: url("/assets/2c264379b38bf71b8358.svg");'],
 [style*='background-image: url("/assets/e61cb3f7d0bd4dc1a78b.svg");'],
-.theme-dark .notFriends_e6af9c .errorStateIcon_e6af9c {
+.theme-dark .notFriends_cba592 .errorStateIcon_cba592 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_tea_party.svg") !important;
 }
 
 /* 💬 Group chat */
 [class^="partyFull-"],
-.theme-dark .partyFull_e6af9c .errorStateIcon_e6af9c {
+.theme-dark .partyFull_cba592 .errorStateIcon_cba592 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/weapons.svg") !important;
 }
 
 /* 🏓 @everyone */
-.contentWarningPopout_fa823b g > :nth-child(2) > :first-child path {
+.contentWarningPopout_be95d0 g > :nth-child(2) > :first-child path {
 	fill: #0000003d;
 }
-.contentWarningPopout_fa823b g > :nth-child(3) > :first-child path {
+.contentWarningPopout_be95d0 g > :nth-child(3) > :first-child path {
 	fill: #41d0cc;
 }
-.contentWarningPopout_fa823b g > :nth-child(3) > :nth-child(2) path {
+.contentWarningPopout_be95d0 g > :nth-child(3) > :nth-child(2) path {
 	fill: #22b3bb;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :first-child path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :first-child path {
 	fill: #5befef;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(2) path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(2) path {
 	fill: #6af7e5;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(3) path,
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(4) path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(3) path,
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(4) path {
 	fill: #48d7d0;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(5) path,
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(6) path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(5) path,
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(6) path {
 	fill: #22b3bb;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(7) path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(7) path {
 	fill: #33c5c6;
 }
-.contentWarningPopout_fa823b g > :nth-child(4) > :nth-child(8) path {
+.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(8) path {
 	fill: #6af7e5;
 }
-.contentWarningPopout_fa823b g > :nth-child(6) > :nth-child(2) path {
+.contentWarningPopout_be95d0 g > :nth-child(6) > :nth-child(2) path {
 	fill: #41d0cc;
 }
-.contentWarningPopout_fa823b g > :nth-child(10) > :first-child path {
+.contentWarningPopout_be95d0 g > :nth-child(10) > :first-child path {
 	fill: #e0c310;
 }
 
-.contentWarningPopout_fa823b g > :nth-child(11) > :first-child path {
+.contentWarningPopout_be95d0 g > :nth-child(11) > :first-child path {
 	fill: #fbd907;
 }
 
@@ -361,7 +361,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/157ccfe93c91db60adddd48a75b69205.svg")
 }
 
-.icon_f847a3.archive_f847a3,.uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.archive_f82cc7,.archive_f82cc7 {
+.icon__41ea0.archive__41ea0,.uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.archive_dbca3c,.archive_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/157ccfe93c91db60adddd48a75b69205.svg");
 }
 
@@ -433,7 +433,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/87f8416faec0691b96525d0bb3027809.svg")
 }
 
-.theme-dark .ageGatedImage_fbb822 {
+.theme-dark .ageGatedImage__28a87 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/87f8416faec0691b96525d0bb3027809.svg")
 }
 
@@ -461,7 +461,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/c1ebd9af7ce0a639af9d99b4980bda13.svg");
 }
 
-.icon_f847a3.spreadsheet_f847a3,.uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.spreadsheet_f82cc7,.spreadsheet_f82cc7 {
+.icon__41ea0.spreadsheet__41ea0,.uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.spreadsheet_dbca3c,.spreadsheet_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/c1ebd9af7ce0a639af9d99b4980bda13.svg");
 }
 
@@ -577,7 +577,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/7b3a37fa249a857b0ff136db0a73f44c.svg")
 }
 
-.icon_f847a3.unknown_f847a3, .uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.unknown_f82cc7,.unknown_f82cc7 {
+.icon__41ea0.unknown__41ea0, .uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.unknown_dbca3c,.unknown_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/7b3a37fa249a857b0ff136db0a73f44c.svg")
 }
 
@@ -585,7 +585,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/325421cb49d6e0717b8c7b9dfa2d4bdc.svg");
 }
 
-.icon_f847a3.acrobat_f847a3, .uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.acrobat_f82cc7,.acrobat_f82cc7 {
+.icon__41ea0.acrobat__41ea0, .uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.acrobat_dbca3c,.acrobat_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/325421cb49d6e0717b8c7b9dfa2d4bdc.svg");
 }
 
@@ -593,7 +593,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/35827c42a3af54bd169cff0a866eb428.svg");
 }
 
-.icon_f847a3.code_f847a3, .uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.code_f82cc7,.code_f82cc7 {
+.icon__41ea0.code__41ea0, .uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.code_dbca3c,.code_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/35827c42a3af54bd169cff0a866eb428.svg");
 }
 
@@ -601,7 +601,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/515d0236bce3ba834026209dc78489f0.svg");
 }
 
-.icon_f847a3.document_f847a3, .uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.document_f82cc7,.document_f82cc7 {
+.icon__41ea0.document__41ea0, .uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.document_dbca3c,.document_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/515d0236bce3ba834026209dc78489f0.svg");
 }
 
@@ -609,7 +609,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/6b35b41a1e3a8099667499b71414328b.svg");
 }
 
-.icon_f847a3.webcode_f847a3, .uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.webcode_f82cc7,.webcode_f82cc7 {
+.icon__41ea0.webcode__41ea0, .uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.webcode_dbca3c,.webcode_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/6b35b41a1e3a8099667499b71414328b.svg");
 }
 
@@ -617,7 +617,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/7252adb1cdb9603a49ce1bab7c3c41e7.svg");
 }
 
-.uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.video_f82cc7,.video_f82cc7 {
+.uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.video_dbca3c,.video_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/7252adb1cdb9603a49ce1bab7c3c41e7.svg");
 }
 
@@ -625,7 +625,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a532e755c36b75762a75ff0794456efb.svg");
 }
 
-.uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.image_f82cc7,.image_f82cc7 {
+.uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.image_dbca3c,.image_dbca3c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/a532e755c36b75762a75ff0794456efb.svg");
 }
 
@@ -633,16 +633,16 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/e83eaad3ae5c32a355b55f157e6cd3da.svg");
 }
 
-.icon_f847a3.audio_f847a3,.uploadModal_f82cc7 .inner_f82cc7 .file_f82cc7 .icon_f82cc7.audio_f82cc7,.audio_f82cc7,.audioMetadata_f72aac:before {
+.icon__41ea0.audio__41ea0,.uploadModal_dbca3c .inner_dbca3c .file_dbca3c .icon_dbca3c.audio_dbca3c,.audio_dbca3c,.audioMetadata_cf09d8:before {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/e83eaad3ae5c32a355b55f157e6cd3da.svg");
 }
 
-.images-dark .header_a3e381 {
+.images-dark .header_d5f35b {
 	background-color: rgba(0, 0, 0, 0);
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/d84c4c746db08b0e4193.svg");
 }
 
-.theme-dark .noResultsImage_c2b47d.alt_c2b47d {
+.theme-dark .noResultsImage_a9e706.alt_a9e706 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3c7bf5537c8d167a6d83.svg");
 }
 
@@ -654,7 +654,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/8545c1ec2e8f647afe56.svg");
 }
 
-.animation_fa823b path[fill="rgb(79,83,92)"],.animation_fa823b path[fill="rgb(31,33,36)"] {
+.animation_be95d0 path[fill="rgb(79,83,92)"],.animation_be95d0 path[fill="rgb(31,33,36)"] {
 	fill: #040506;
 }
 
@@ -670,7 +670,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
 }
 
-.theme-dark .image_fea561 {
+.theme-dark .image__5b754 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
 }
 
@@ -682,7 +682,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/ad29c03d4bb4f948547e.svg");
 }
 
-.headerImage_ab60f4 {
+.headerImage__08bd2 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/ad29c03d4bb4f948547e.svg");
 }
 
@@ -695,7 +695,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5f284899e72a967e9f34.svg");
 }
 
-.images-dark .image_def860 {
+.images-dark .image__7184c {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/df670815658f288bce7d.svg");
 }
 
@@ -714,28 +714,28 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/1ba25bb80d8ee4c89105.svg") !important;
 }
 
-.images-dark .pencilImage_d68e21 {
+.images-dark .pencilImage_dc3bcc {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/bad967454bb23a6adcc8.svg");
 }
 
-.images-dark .tagImage_d68e21 {
+.images-dark .tagImage_dc3bcc {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/886bab997cad31e3ff06.svg");
 }
 
-.images-dark .checkImage_d68e21 {
+.images-dark .checkImage_dc3bcc {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/e7681bff22fc3aa4a4bd.svg");
 }
 
-.images-dark .imageUploaderInnerSquare_e95c0f,
+.images-dark .imageUploaderInnerSquare__97197,
 .images-dark .imageUploaderInnerSquare_b2b948 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/community_banner.svg");
 }
 
-.images-dark .noResults_e6af9c .errorStateIcon_e6af9c {
+.images-dark .noResults_cba592 .errorStateIcon_cba592 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/3ddd194f468b0a998570.svg");
 }
 
-.images-dark .resultsBlockedImage_a9e225 {
+.images-dark .resultsBlockedImage_c68065 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/2d58a0636f814ac589e0.svg");
 }
 
