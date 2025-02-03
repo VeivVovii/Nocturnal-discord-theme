@@ -645,3 +645,8 @@
 .theme-light.custom-profile-theme .lookFilled__201d5.colorPrimary__201d5:disabled:not(.color_f9d37d.banner_fb7f94) {
 	color: #060607 !important;
 }
+
+.custom-profile-theme .container_ab8609 {
+	--custom-status-bubble-background-color: var(--profile-gradient-secondary-color);
+	--custom-status-bubble-background: var(--profile-gradient-secondary-color);
+}
