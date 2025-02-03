@@ -5586,7 +5586,8 @@ button.button__67645.enabled__67645:hover {
 
 .clickable__91a9d[aria-expanded=true]:hover .layout__91a9d,
 .clickable__91a9d:hover .layout__91a9d .activityText__5d473,
-.clickable__91a9d[aria-expanded=true]:hover .layout__91a9d .activityText__5d473 {
+.clickable__91a9d[aria-expanded=true]:hover .layout__91a9d .activityText__5d473,
+.interactive_bf202d:hover .text__8ac07 {
 	color: #dcddde !important;
 }
 
@@ -5594,7 +5595,9 @@ button.button__67645.enabled__67645:hover {
 .selected__91a9d .layout__91a9d .activityText__5d473,
 .clickable__91a9d:active .layout__91a9d .activityText__5d473,
 .clickable__91a9d[aria-expanded=true]:hover .layout__91a9d .activityText__5d473,
-.clickable__91a9d[aria-expanded=true] .layout__91a9d .name__91a9d {
+.clickable__91a9d[aria-expanded=true] .layout__91a9d .name__91a9d,
+.interactive_bf202d:active .text__8ac07,
+.interactive_bf202d.selected_bf202d .text__8ac07 {
 	color: #fff !important;
 }
 
@@ -8921,7 +8924,7 @@ html:not(.visual-refresh) .sidebarCardWrapper__7449f,
 
 .colorMuted_c9946a,
 .colorMuted_f866f2,
-.theme-dark [style="color: var(--text-muted);"]:not(.activityText__5d473),
+.theme-dark [style="color: var(--text-muted);"]:not(.activityText__5d473,.text__8ac07),
 .theme-dark [style="color: var(--header-muted);"],
 .theme-dark [style="color: var(--textbox-markdown-syntax);"] {
 	color: #e9eaeb !important;
@@ -12590,7 +12593,8 @@ path[fill="var(--bg-brand)"] {
 .theme-dark.custom-profile-theme .biteSizeOverlayBackground_c69a7b,
 .theme-dark.custom-profile-theme .fullSizeOverlayBackground_c69a7b,
 .theme-dark :where(.overlay_c0bea0),
-.theme-dark.custom-profile-theme :where(.overlay_c0bea0) {
+.theme-dark.custom-profile-theme :where(.overlay_c0bea0),
+.theme-dark .imgContainer_c55cae {
 	background: rgba(0, 0, 0, .15);
 	border: none;
 }
@@ -13158,7 +13162,8 @@ body,
 .activeNotifTab__8683b,
 .menu__8683b .menuItem__8683b.active__8683b,
 .bd-store-card,
-.bd-store-card-icon {
+.bd-store-card-icon,
+.theme-dark .contentContainer_c55cae {
 	background-color: rgba(0, 0, 0, .3);
 }
 
@@ -13631,7 +13636,7 @@ path[fill="brand-200"] {
 }
 
 .flash__03436[data-flash=true] {
-	background-color: rgb(60, 193, 235, 0.15);
+	background-color: rgb(60, 193, 235, 0.08);
 }
 
 .container__87dda {
