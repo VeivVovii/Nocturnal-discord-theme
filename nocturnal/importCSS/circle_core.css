@@ -11586,7 +11586,8 @@ input[type=checkbox]:focus-visible+.label__0d242 {
 }
 
 .shopCard_c3d04b[style*="chat-border"],
-.shopCard_b37971[style*="chat-border"] {
+.shopCard_b37971[style*="chat-border"],
+.outer_ab8609 {
 	border: none !important;
 }
 
@@ -12243,10 +12244,6 @@ path[fill="#949cf7"] {
 	padding-right: 22px;
 }
 
-.disabled__0f084 {
-	border: none !important;
-}
-
 .userPanelOuter_c69a7b.theme-dark.outer_c0bea0:not(.custom-theme-background) .wrapper .controls,
 .userPanelOuter_c69a7b.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .wrapper .controls {
 	background-color: #0c0e12;
@@ -12453,7 +12450,8 @@ path[fill="var(--bg-brand)"] {
 .notice__51057,
 .summaryContainer__143a4,
 .contentContainer__8f46b,
-.contentContainer_c6b177 {
+.contentContainer_c6b177,
+.contentContainer_f8758b {
 	background-color: var(--backgroundDarker);
 	border: none;
 }
@@ -13136,7 +13134,8 @@ path[fill="brand-200"] {
 .theme-dark .bd-addon-store-card-author-mask,
 .theme-dark .bd-addon-store-card:hover,
 .theme-dark .bd-addon-store-card:hover .bd-addon-store-card-author-mask,
-.bd-install-modal-author-mask {
+.bd-install-modal-author-mask,
+.gifFavoriteButton__43deb {
 	background-color: var(--backgroundDark);
 }
 
@@ -13413,7 +13412,8 @@ path[fill="brand-200"] {
 	border: none;
 }
 
-.searchSuggestion__2dc39.searchSuggestion__2dc39:hover {
+.searchSuggestion__2dc39.searchSuggestion__2dc39:hover,
+.clydeIconContainer_b476ba {
 	background-color: var(--primary);
 	border: none;
 }
