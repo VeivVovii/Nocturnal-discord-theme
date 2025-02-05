@@ -1,19 +1,28 @@
 /* 🛩️ Airplane */
-[style*='background-image: url("/assets/bb9dbec63310ef1d5269.svg");'],
 [style*='background-image: url("/assets/cbb4a0ecd21297ba.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/airplane.svg") !important;
 }
 
+[src="/assets/cbb4a0ecd21297ba.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/airplane.svg");
+}
+
 /* 🕹️ Arcades */
-[style*='background-image: url("/assets/3b6c4f5175af3e9b7270.svg");'],
-[style*='background-image: url("/assets/92742b32a01aa24e12ce.svg");'] {
+[style*='background-image: url("/assets/1712159ed9a9430b.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/arcades.svg") !important;
 }
 
+[src="/assets/1712159ed9a9430b.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/arcades.svg");
+}
+
 /* 🔨 Ban Hammer */
-[style*='background-image: url("/assets/cda085d959d7040960ca.svg");'],
 [style*='background-image: url("/assets/626d8d0fc1024e29.svg");'] {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/ban_hammer.svg") !important;
+}
+
+[src="/assets/626d8d0fc1024e29.svg"] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/ban_hammer.svg");
 }
 
 /* 🔎💥 Broken magnifying glass */
@@ -31,9 +40,17 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/channel_settings.svg");
 }
 
+[style*='background-image: url("/assets/b00bbf36ff21d401.svg");'] {
+	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/channel_settings.svg") !important;
+}
+
 /* ⚙️ Category settings */
 [src="/assets/8819ff5e2c203fa4.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/category_settings.svg");
+}
+
+[style*='background-image: url("/assets/8819ff5e2c203fa4.svg");'] {
+	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/category_settings.svg") !important;
 }
 
 /* 🖥️ Computer */
