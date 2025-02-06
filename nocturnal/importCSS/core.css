@@ -7327,7 +7327,7 @@ svg.contentImage__42bf5 path {
 .row_d13feb,
 .sidebarCardWrapper__7449f,
 html:not(.visual-refresh) .sidebarCardWrapper__7449f,
-.action_c66e86,
+html:not(.visual-refresh) .action_c66e86,
 .activityTag__18da2,
 .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
 .keyboard-mode .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
@@ -9223,7 +9223,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 #permissions-modal-wrapper .modal-body,
-.clickableAction_c66e86:hover .action_c66e86,
+html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refresh) .action_c66e86:hover,
 .voicePanelIntroductionWrapper_e131a9,
 .root__4ad81,
 .wrapper__97f37,
