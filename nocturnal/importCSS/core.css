@@ -3096,8 +3096,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .partyMemberOverflow_e45a82,
-.theme-dark .defaultIndicator_a6f654,
-.theme-dark .contentWrapper__9b0f4 {
+.theme-dark .defaultIndicator_a6f654 {
 	background-color: rgba(0, 0, 0, 0);
 }
 
@@ -10906,7 +10905,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .modalContent__2d5a9,
 .list_dcc822,
 .modalContent__3297f,
-.content__50a6f {
+.content__50a6f,
+.contentWrapper__9b0f4 {
 	padding-right: 18px !important;
 }
 
