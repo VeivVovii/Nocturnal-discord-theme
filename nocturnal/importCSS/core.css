@@ -2968,7 +2968,7 @@ svg[name=Nitro] g path {
 .folder__48112,
 .visual-refresh .folder__48112 {
 	background: var(--bg-overlay-6, #101218);
-	border-radius: 50px;
+	border-radius: 12px;
 }
 
 .folder__48112.hover__48112,
@@ -13393,7 +13393,8 @@ body,
 
 .channel__8683b.selected__8683b,
 .visual-refresh .inlineContainer__74017:not(.flushContainer__74017),
-.visual-refresh-chat-input .inlineContainer__74017:not(.flushContainer__74017) {
+.visual-refresh-chat-input .inlineContainer__74017:not(.flushContainer__74017),
+.messageInput__62280 {
 	background-color: rgba(0, 0, 0, .45);
 }
 
