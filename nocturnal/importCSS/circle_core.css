@@ -13548,17 +13548,17 @@ path[fill="brand-200"] {
 	background: rgba(24, 28, 37, 0.8) !important;
 }
 
-.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46) {
+.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46),.messageInput__62280 {
 	background: var(--bg-overlay-2, rgba(0, 0, 0, .45));
 	transition: var(--transition);
 	transition-property: box-shadow;
 }
 
-.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46):hover {
+.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46):hover,.messageInput__62280:hover {
 	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover);
 }
 
-.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46):focus-within {
+.theme-dark .modal__62280 .themedBackground__74017:not(.channelTextAreaInner_d9be46):focus-within,.messageInput__62280:focus-within {
 	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
 }
 
