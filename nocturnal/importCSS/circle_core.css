@@ -2387,7 +2387,8 @@ svg[name=Nitro] g path {
 	border-radius: 0 !important;
 }
 
-.topPill_b3f026 .item_b3f026 {
+.topPill_b3f026 .item_b3f026,
+.visual-refresh .topPill_b3f026 .item_b3f026 {
 	border-radius: 20px;
 }
 
@@ -4372,6 +4373,8 @@ button.button__67645.enabled__67645:hover,
 .editCard_a25a68.toggled_a25a68.active_cd99d3,
 .compactButton__7ff28,
 .compactButtonDisabled__7ff28,
+.visual-refresh .compactButton__7ff28,
+.visual-refresh .compactButtonDisabled__7ff28,
 .embedCard__44492,
 .box_ee23ac,
 .visual-refresh .box_ee23ac,
@@ -4682,6 +4685,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .compactButton__7ff28:hover,
+.visual-refresh .compactButton__7ff28:hover,
 .fieldBackground_eaaeee {
 	background-color: var(--backgroundDarker-alt);
 }
@@ -10809,7 +10813,9 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 }
 
 .compactButton__7ff28,
-.compactButtonDisabled__7ff28 {
+.compactButtonDisabled__7ff28,
+.visual-refresh .compactButton__7ff28,
+.visual-refresh .compactButtonDisabled__7ff28 {
 	border-radius: 20px;
 }
 
@@ -13183,7 +13189,8 @@ body,
 
 .channel__8683b.selected__8683b,
 .visual-refresh .inlineContainer__74017:not(.flushContainer__74017),
-.visual-refresh-chat-input .inlineContainer__74017:not(.flushContainer__74017) {
+.visual-refresh-chat-input .inlineContainer__74017:not(.flushContainer__74017),
+.messageInput__62280 {
 	background-color: rgba(0, 0, 0, .45);
 }
 
