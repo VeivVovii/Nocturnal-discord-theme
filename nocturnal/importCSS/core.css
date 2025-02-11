@@ -2705,7 +2705,7 @@ svg[name=Nitro] g path {
 	background: rgba(0, 176, 244, 0.08);
 }
 
-.replying__5126c:before:not(.automodMessage__5126c),
+.replying__5126c:before,
 .ephemeral__5126c:not(.automodMessage__5126c):before {
 	background: var(--primary);
 }
@@ -2715,7 +2715,7 @@ svg[name=Nitro] g path {
 }
 
 .message__5126c.highlighted_d5deea:not(.automodMessage__5126c),
-.message__5126c.replying__5126c:not(.automodMessage__5126c) {
+.message__5126c.replying__5126c {
 	background: rgba(60, 231, 249, 0.08);
 }
 
