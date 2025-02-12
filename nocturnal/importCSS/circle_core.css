@@ -3849,27 +3849,33 @@ button.button__67645.enabled__67645:hover,
 	background-color: var(--backgroundDark);
 }
 
-.lookFilled__3f413.select__3f413 {
+.lookFilled__3f413.select__3f413,
+:where(.visual-refresh) .lookFilled__3f413.select__3f413 {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-color: rgba(32, 34, 37, 0.5);
 }
 
-.popout__3f413 {
+.popout__3f413,
+:where(.visual-refresh) .popout__3f413 {
 	background-color: var(--backgroundDarker);
 	border-color: rgba(32, 34, 37, 0.5);
 }
 
 .role_b4b2c3,
-.option__3f413:hover {
+.option__3f413:hover,
+:where(.visual-refresh) .option__3f413:hover {
 	background-color: rgba(0, 0, 0, 0.2);
 }
 
 .option__3f413.focused__3f413,
-.option__3f413:focus {
+.option__3f413:focus,
+:where(.visual-refresh) .option__3f413.focused__3f413,
+:where(.visual-refresh) .option__3f413:focus {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
-.option__3f413[aria-selected=true]:not(.option__3f413.multi__3f413) {
+.option__3f413[aria-selected=true]:not(.option__3f413.multi__3f413),
+:where(.visual-refresh) .option__3f413[aria-selected=true]:hover {
 	background-color: rgba(0, 0, 0, 0.4);
 }
 
@@ -6005,11 +6011,14 @@ button.button__67645.enabled__67645:hover,
 	background-color: rgba(0, 0, 0, .45) !important;
 }
 
-.bar__7aaec {
+.bar__7aaec,
+.visual-refresh .bar__7aaec {
 	background-color: var(--backgroundDark);
+	border: none;
 }
 
-.mentionsBar__7aaec {
+.mentionsBar__7aaec,
+.visual-refresh .mentionsBar__7aaec {
 	background-color: var(--primary);
 	box-shadow: none;
 }
@@ -7570,19 +7579,28 @@ html:not(.visual-refresh) .action_c66e86,
 .optionButtonWrapper__270d7,
 .visual-refresh .optionButtonWrapper__270d7 {
 	background-color: rgba(0, 0, 0, 0);
-	border: 2px solid rgba(0, 0, 0, .35) !important
+	border: 2px solid rgba(0, 0, 0, .2) !important;
 }
 
 .optionButtonWrapper__270d7:hover,
-.visual-refresh .optionButtonWrapper__270d7:hover,
+.visual-refresh .optionButtonWrapper__270d7:hover {
+	background-color: rgba(0, 0, 0, .2);
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+}
+
+.visual-refresh .optionButtonWrapper__270d7.pressed__270d7,
+.optionButtonWrapper__270d7.selected__270d7,
+.visual-refresh .optionButtonWrapper__270d7.selected__270d7 {
+	background-color: rgba(0, 0, 0, .4);
+	border-color: rgba(0, 0, 0, 0) !important;
+}
+
 .row_d13feb:hover,
 .visual-refresh .row_d13feb:hover {
 	background-color: var(--backgroundDark);
 	border-color: rgba(0, 0, 0, 0) !important;
 }
 
-.optionButtonWrapper__270d7.selected__270d7,
-.visual-refresh .optionButtonWrapper__270d7.selected__270d7,
 .description__78aa3,
 .source__78aa3,
 .floating-window.resizable {
@@ -8153,7 +8171,6 @@ html:not(.visual-refresh) .action_c66e86,
 
 .application__750de,
 .optionBox_edf440,
-.prompt_fe70ca .optionButtonWrapper__270d7:hover,
 .confirmChannelItemContainer_cba592:hover,
 .theme-dark .selectableItem_eb626b:hover,
 .listContainer_d123a6,
@@ -8164,7 +8181,6 @@ html:not(.visual-refresh) .action_c66e86,
 
 .application__750de:hover,
 .optionBox_edf440:hover,
-.prompt_fe70ca .optionButtonWrapper__270d7.selected__270d7,
 .theme-dark .selectableItem_eb626b:focus,
 .placeholderSkeleton__51eb2,
 .breadcrumbContainer__0e308:not(:last-child):after {
@@ -12690,8 +12706,7 @@ path[fill="var(--bg-brand)"] {
 
 .theme-dark .root_d06335,
 .theme-dark .root__2055a,
-.modalHeader_a27f2f,
-.visual-refresh .optionButtonWrapper__270d7.pressed__270d7 {
+.modalHeader_a27f2f {
 	background: rgba(0, 0, 0, 0);
 }
 
@@ -12773,7 +12788,9 @@ svg.gameIcon_b52e4f,
 :where(.visual-refresh) .optionPillItem__3f413 button .optionPill__3f413,
 .visual-refresh .channelRow_e4503a,
 .visual-refresh .header_f369db,
-:where(.visual-refresh) .channelTextArea__74017 {
+:where(.visual-refresh) .channelTextArea__74017,
+.visual-refresh .tier_f15dca,
+.visual-refresh .tierHeader_f15dca {
 	border: none;
 }
 
@@ -13825,4 +13842,37 @@ path[fill="brand-200"] {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
+}
+
+.visual-refresh .main_c08b38 {
+	border-top-left-radius: 0;
+}
+
+.visual-refresh .pill_a2c9e8.selected_a2c9e8 {
+	color: #4bdaf0;
+}
+
+.visual-refresh .pill_a2c9e8.selected_a2c9e8 {
+	background-color: rgb(88, 101, 242, 0.239216);
+}
+
+.visual-refresh .pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):hover {
+	background-color: #008ae652;
+}
+
+.visual-refresh .optionButtonWrapper__270d7 {
+	border: 1px solid rgba(0, 0, 0, .5) !important;
+}
+
+.visual-refresh .optionButtonWrapper__270d7:hover {
+	border: 1px solid rgba(0, 0, 0, 0) !important;
+}
+
+.visual-refresh .optionButtonWrapper__270d7.selected__270d7 {
+	border-color: var(--primary) !important;
+	background-color: #008ae614;
+}
+
+.visual-refresh .optionButtonWrapper__270d7.selected__270d7.pressed__270d7 {
+	background-color: #008ae61f;
 }
