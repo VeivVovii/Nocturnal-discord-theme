@@ -13887,7 +13887,8 @@ path[fill="brand-200"] {
 	background-color: #008ae61f;
 }
 
-.visual-refresh.theme-dark.mouse-mode.full-motion .message__5126c:hover:not(.automodMessage__5126c) {
+.visual-refresh.theme-dark.mouse-mode.full-motion .message__5126c:hover:not(.automodMessage__5126c),
+.visual-refresh.theme-dark.mouse-mode.full-motion .message__5126c.selected__5126c:not(.automodMessage__5126c) {
 	--background-message-hover: rgb(2, 2, 2, 0.06);
 }
 
