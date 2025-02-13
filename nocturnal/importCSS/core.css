@@ -10410,7 +10410,9 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 :where(.visual-refresh) .top_b3f026,
 .winButtonsWithDivider_c38106:before,
 .visual-refresh .containerSidenav_dc2e0e,
-.visual-refresh .sidebarTabBar_dc2e0e {
+.visual-refresh .sidebarTabBar_dc2e0e,
+.cell_f70307,
+.visual-refresh .cell_f70307 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
