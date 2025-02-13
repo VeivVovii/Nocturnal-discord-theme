@@ -12866,12 +12866,14 @@ svg.gameIcon_b52e4f,
 .sectionContent_da32a8,
 .upsellsContainer__8f3cb,
 .contentBackground__3d3b0,
+.visual-refresh .contentBackground__3d3b0,
 .overviewContainerNoVideo_b1c9f2,
 .friends_b37a75,
 .bd-install-modal-items,
 .bd-install-modal-clickable:hover,
 .tableRowGroup__19fd1 .content__19fd1 {
 	background-color: rgba(0, 0, 0, .2);
+	border: none;
 }
 
 .inner_c0bea0.biteSize_c0bea0 .member-perm.role_dfa8b6,
