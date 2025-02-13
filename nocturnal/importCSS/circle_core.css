@@ -1637,7 +1637,8 @@ svg[name=Nova_Discord] * {
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 
-.messageGroupWrapper__45690 {
+.messageGroupWrapper__45690,
+.visual-refresh .messageGroupWrapper__45690 {
 	background: var(--bg-overlay-3, var(--backgroundDarker));
 	border-color: rgba(0, 0, 0, 0);
 	border-radius: 5px;
@@ -4550,6 +4551,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .container__6764b,
+.visual-refresh .container__6764b,
 .wrapper_cb9592,
 .chatTarget__01ae2 {
 	background-color: var(--backgroundDarker);
@@ -4563,7 +4565,8 @@ button.button__67645.enabled__67645:hover,
 	background: var(--bg-overlay-5, #101218);
 }
 
-.container__6764b:hover {
+.container__6764b:hover,
+.visual-refresh .container__6764b:hover {
 	background-color: var(--backgroundDarker-alt);
 	border-color: rgba(0, 0, 0, 0);
 }
@@ -7265,6 +7268,7 @@ svg.contentImage__42bf5 path {
 .visual-refresh .jumpButton_ed0c8c,
 .visual-refresh .jumpButton_ed0c8c:hover,
 .jumpButton__45690,
+.visual-refresh .jumpButton__45690,
 .messageContainer__95796,
 .messages__1ccd1,
 .theme-dark .sidebar__68062,
@@ -10247,6 +10251,7 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .visual-refresh .content__19fd1,
 .primaryActionPopoutDivider_af3b89,
 .header__45690,
+.visual-refresh .header__45690,
 .forwardPreviewWrapper__62280,
 .benefits__000a3,
 .sidebar__8e830,
@@ -10266,7 +10271,9 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .visual-refresh-chat-input .accessoryBar__74017,
 .visual-refresh .unicodeShortcut_b9ee0c,
 :where(.visual-refresh) .top_b3f026,
-.winButtonsWithDivider_c38106:before {
+.winButtonsWithDivider_c38106:before,
+.visual-refresh .containerSidenav_dc2e0e,
+.visual-refresh .sidebarTabBar_dc2e0e {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -12795,7 +12802,12 @@ svg.gameIcon_b52e4f,
 .visual-refresh .header_f369db,
 :where(.visual-refresh) .channelTextArea__74017,
 .visual-refresh .tier_f15dca,
-.visual-refresh .tierHeader_f15dca {
+.visual-refresh .tierHeader_f15dca,
+.visual-refresh .box_f8c98c,
+.visual-refresh .row__0624f,
+.visual-refresh .enableCard__74f90,
+.visual-refresh .callContainer_cb9592,
+.visual-refresh.theme-midnight .callContainer_cb9592 {
 	border: none;
 }
 
@@ -13896,4 +13908,12 @@ path[fill="brand-200"] {
 
 .visual-refresh .row__6fddf:hover {
 	background-color: rgb(2, 2, 2, 0.06);
+}
+
+.visual-refresh .container__133bf {
+	border: 1px solid;
+}
+
+:where(.visual-refresh) .checkbox_f525d3 {
+	background-color: var(--primary) !important;
 }
