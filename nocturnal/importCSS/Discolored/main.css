@@ -238,8 +238,8 @@
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_mountain.svg") !important;
 }
 
-.noResultsContainer__9c6d0:not(.searchIndexForeground_e1fee6) > div:first-child,
-.noResultsContainer_dd2627:not(.searchIndexForeground_e1fee6) > div:first-child {
+.noResultsContainer__9c6d0 > div:first-child,
+.noResultsContainer_dd2627 > div:first-child {
 	width: 200px;
 	height: 100px;
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_mountain.svg");
@@ -247,8 +247,8 @@
 	background-size: contain;
 }
   
-.noResultsContainer__9c6d0:not(.searchIndexForeground_e1fee6) > div:first-child svg,
-.noResultsContainer_dd2627:not(.searchIndexForeground_e1fee6) > div:first-child svg {
+.noResultsContainer__9c6d0 > div:first-child svg:not(.searchIndexForeground_e1fee6),
+.noResultsContainer_dd2627 > div:first-child svg:not(.searchIndexForeground_e1fee6) {
 	display: none;
 }
 
