@@ -3180,7 +3180,7 @@ svg[name=Nitro] g path {
 	right: 8px;
 }
 
-.link__2ea32 {
+.wrapper__2ea32 {
 	margin-right: 2px;
 }
 
@@ -3494,6 +3494,7 @@ svg[name=Nitro] g path {
 
 .theme-dark .animatedContainer_f37cb1 {
 	background-color: rgba(0, 0, 0, 0);
+	border: none;
 }
 
 .avatarWrapper_f89da9 {
@@ -3751,8 +3752,11 @@ button.button__67645.enabled__67645:hover,
 .clickable_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1:hover,
 .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1,
 .visual-refresh .clickable_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1:hover,
-.visual-refresh .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1 {
+.visual-refresh .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1,
+.visual-refresh .communityInfoVisible_f37cb1 .header_f37cb1:hover,
+.visual-refresh .hasBanner_f37cb1 .header_f37cb1:hover {
 	background-color: rgba(0, 0, 0, .35);
+	border: none;
 }
 
 .total__260e1,
@@ -8241,9 +8245,11 @@ html:not(.visual-refresh) .action_c66e86,
 .confirmChannelItemContainer_cba592:hover,
 .theme-dark .selectableItem_eb626b:hover,
 .listContainer_d123a6,
+.visual-refresh .listContainer_d123a6,
 .theme-dark .wrapper_f316dd,
 .theme-dark .css-153nlb6-option {
 	background-color: rgba(0, 0, 0, .2);
+	border: none;
 }
 
 .application__750de:hover,
@@ -8377,8 +8383,9 @@ html:not(.visual-refresh) .action_c66e86,
 }
 
 .content__808a1,
-.channels_adcef2 {
-	border-left: 1.2px solid rgba(1, 1, 1, 0.25)
+.channels_adcef2,
+.scroller__23746 {
+	border-left: 1.2px solid rgba(1, 1, 1, 0.25) !important;
 }
 
 .qwert-toast-bar {
@@ -10341,7 +10348,8 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .headerBar__80679,
 .visual-refresh .headerBar__80679,
 .cardFooter__5bdf8,
-.visual-refresh-chat-input .characterCount__795fb {
+.visual-refresh-chat-input .characterCount__795fb,
+.visual-refresh .container_a592e1 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -13066,9 +13074,7 @@ svg.gameIcon_b52e4f,
 .visual-refresh .container_c8ffbb,
 .visual-refresh .header_f37cb1,
 .visual-refresh .communityInfoVisible_f37cb1 .header_f37cb1,
-.visual-refresh .communityInfoVisible_f37cb1 .header_f37cb1:hover,
 .visual-refresh .hasBanner_f37cb1 .header_f37cb1,
-.visual-refresh .hasBanner_f37cb1 .header_f37cb1:hover,
 .visual-refresh .clickable_f37cb1,
 :where(.visual-refresh) .optionPillItem__3f413 button,
 .visual-refresh .channelAttachmentArea_b77158,
@@ -13987,4 +13993,12 @@ path[fill="brand-200"] {
 
 .visual-refresh .container__133bf {
 	border: 1px solid;
+}
+
+.visual-refresh .header_f37cb1 {
+	box-shadow: var(--elevation-low);
+}
+
+.visual-refresh .modalContent_d123a6 {
+	padding-right: 18px !important;
 }
