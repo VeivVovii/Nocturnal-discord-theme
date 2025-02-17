@@ -2684,13 +2684,13 @@ svg[name=Nitro] g path {
 .visual-refresh .sidebar_c48ade,
 .visual-refresh.theme-midnight .sidebar_c48ade {
 	background-color: var(--backgroundDark);
-	border-left: 1.2px solid rgba(1, 1, 1, 0.25);
+	border-left: 1.2px solid rgba(1, 1, 1, 0.25) !important;
 }
 
 .content_f75fb0,
 .visual-refresh .content_f75fb0,
 .visual-refresh.theme-midnight .content_f75fb0 {
-	border-left: 1.2px solid rgba(1, 1, 1, 0.25);
+	border-left: 1.2px solid rgba(1, 1, 1, 0.25) !important;
 }
 
 .avatarHintInner_f89da9 {
