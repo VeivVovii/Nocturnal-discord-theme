@@ -6947,12 +6947,14 @@ svg.contentImage__42bf5 path {
 	border: 2px solid rgba(0, 0, 0, 0) !important
 }
 
-.theme-dark .themedBackground__74017:not(.channelTextAreaInner_d9be46),
+html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9be46),
 .mockInput_c50f62,
 .button_e6e74f,
 .placeholderItem__87dda,
-.visual-refresh .channelTextArea_f75fb0 {
+.visual-refresh .channelTextArea_f75fb0,
+.visual-refresh .bioTextAreaContainer__6a919 {
 	background: var(--bg-overlay-2, rgb(14, 16, 21));
+	border: none;
 }
 
 .theme-dark .searchBar__97492,
@@ -10338,7 +10340,8 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .visual-refresh .cell_f70307,
 .headerBar__80679,
 .visual-refresh .headerBar__80679,
-.cardFooter__5bdf8 {
+.cardFooter__5bdf8,
+.visual-refresh-chat-input .characterCount__795fb {
 	border-color: rgba(0, 0, 0, .95);
 }
 
