@@ -5102,6 +5102,7 @@ button.button__67645.enabled__67645:hover,
 
 .clickable_d9c848.container_d9c848:hover,
 .groupCollapsedContainer_b6a9f9,
+.visual-refresh .groupCollapsedContainer_b6a9f9,
 .pointer_b6a9f9,
 .container__6cd3a,
 .category_d7acc7:hover,
@@ -5271,17 +5272,16 @@ button.button__67645.enabled__67645:hover,
 }
 
 .visual-refresh .backgroundModifierContainer__6cd3a {
-	background-color: rgba(0,0,0,0);
+	background-color: rgba(0, 0, 0, 0);
 	border: none;
 }
 
 .backgroundModifierContainer__6cd3a:hover:not(.disabled__6cd3a):not(.noAction__6cd3a),
-.visual-refresh .backgroundModifierContainer__6cd3a:hover:not(.disabled__6cd3a):not(.noAction__6cd3a) {
-	background-color: rgba(0, 0, 0, .45);
-}
-
-.backgroundModifierContainer__6cd3a:active:not(.disabled__6cd3a):not(.noAction__6cd3a),
+.visual-refresh .backgroundModifierContainer__6cd3a:hover:not(.disabled__6cd3a):not(.noAction__6cd3a),
 .editCard_a25a68.active_cd99d3,
+.visual-refresh .selected_ba5386,
+.editCard_a25a68.active_cd99d3,
+.backgroundModifierContainer__6cd3a:active:not(.disabled__6cd3a):not(.noAction__6cd3a),
 .visual-refresh .backgroundModifierContainer__6cd3a:active:not(.disabled__6cd3a):not(.noAction__6cd3a),
 .visual-refresh .editCard_a25a68.active_cd99d3 {
 	background-color: rgba(0, 0, 0, .5);
@@ -5289,7 +5289,12 @@ button.button__67645.enabled__67645:hover,
 
 .backgroundModifierContainer__6cd3a.selected__6cd3a,
 .visual-refresh .backgroundModifierContainer__6cd3a.selected__6cd3a {
-	background-color: rgba(0, 0, 0, .75) !important;
+	background-color: rgba(0, 0, 0, 2);
+}
+
+.statusGreen__6cd3a,
+.visual-refresh .statusGreen__6cd3a {
+	border-left: 3px solid #43b581;
 }
 
 .statusYellow__6cd3a,
@@ -5297,9 +5302,9 @@ button.button__67645.enabled__67645:hover,
 	border-left: 3px solid #faa61a;
 }
 
-.statusGreen__6cd3a,
-.visual-refresh .statusGreen__6cd3a {
-	border-left: 3px solid #43b581;
+.statusOrange__6cd3a,
+.visual-refresh .statusOrange__6cd3a {
+	border-left: 3px solid var(--orange-360);
 }
 
 .statusRed__6cd3a,
@@ -12307,7 +12312,9 @@ path[fill="#949cf7"] {
 
 .scroller_ed5743,
 .content__49668,
-.modalContent__4da69 {
+.modalContent__4da69,
+.visual-refresh .content__7c901,
+.visual-refresh .footer__7c901 {
 	padding-right: 26px !important;
 }
 
