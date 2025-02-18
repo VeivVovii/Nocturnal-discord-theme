@@ -4982,9 +4982,11 @@ button.button__67645.enabled__67645:hover,
 
 .chatInput_ee8e87,
 .matchingPostsRow_f369db,
+.visual-refresh .matchingPostsRow_f369db,
 .container__5808f,
 .container__6b38f {
 	background-color: var(--backgroundDark);
+	border: none;
 }
 
 .modalHeader__52f07,
@@ -5003,6 +5005,9 @@ button.button__67645.enabled__67645:hover,
 .mainCard_f369db,
 .visual-refresh .mainCard_f369db,
 .visual-refresh .container_faa96b:hover,
+.visual-refresh .container__5130c:active,
+.visual-refresh .container_faa96b:active,
+.visual-refresh .container__9a337:active,
 .container__9a337:hover,
 .post_ee8e87,
 .tag_ee8e87,
@@ -5011,6 +5016,10 @@ button.button__67645.enabled__67645:hover,
 .container__6b38f:hover {
 	background-color: #1c212c;
 	border: none;
+}
+
+.visual-refresh .container_faa96b:hover {
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
 
 .fakeReactions_ee8e87 {
@@ -7449,9 +7458,10 @@ html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9b
 .container__5130c:active,
 .container_faa96b:active,
 .container__9a337:active,
-.visual-refresh .container__5130c:active,
-.visual-refresh .container_faa96b:active,
-.visual-refresh .container__9a337:active {
+.visual-refresh.theme-dark .container__5130c.isOpen__036bf,
+.visual-refresh.theme-dark .container_faa96b.isOpen_faa96b,
+.visual-refresh .container__9a337.isOpen__9a337,
+.visual-refresh.theme-dark .container__9a337.isOpen__9a337 {
 	background-color: #222834;
 	border: none;
 }
@@ -7459,12 +7469,9 @@ html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9b
 .theme-dark .container__5130c.isOpen__036bf,
 .theme-dark .container_faa96b.isOpen_faa96b,
 .container__9a337.isOpen__9a337,
-.theme-dark .container__9a337.isOpen__9a337,
-.visual-refresh.theme-dark .container__5130c.isOpen__036bf,
-.visual-refresh.theme-dark .container_faa96b.isOpen_faa96b,
-.visual-refresh .container__9a337.isOpen__9a337,
-.visual-refresh.theme-dark .container__9a337.isOpen__9a337 {
+.theme-dark .container__9a337.isOpen__9a337 {
 	background-color: #282e3c;
+	box-shadow: none;
 }
 
 .overlayLabel__31fc2 {
