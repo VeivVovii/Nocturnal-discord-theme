@@ -13211,9 +13211,13 @@ body,
 	border-right: solid 1px rgba(1, 1, 1, 0.25);
 }
 
+.visual-refresh .sortDropdown_f369db:hover {
+	background-color: #0c0e12;
+}
+
 .sortDropdown_f369db:hover,
 .sortDropdown_f369db[aria-expanded=true],
-.visual-refresh .sortDropdown_f369db:hover,
+.visual-refresh .sortDropdown_f369db:active,
 .visual-refresh .sortDropdown_f369db[aria-expanded=true] {
 	background-color: #08090c;
 }
