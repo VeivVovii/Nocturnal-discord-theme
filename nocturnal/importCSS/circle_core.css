@@ -9206,6 +9206,7 @@ html:not(.visual-refresh) .colorBrand_c1e9c4,
 .copyInput_fffc15,
 .textArea_d19bc9,
 .defaultTextInputWrapper__7b848,
+.visual-refresh .defaultTextInputWrapper__7b848,
 .input__0f084:not(.note_fcb628 textarea,.inputField_d64f22,.fieldBackground_d48a51, .inputInner_a97616, .input_cedfaf, .input__72ba7, .descriptionInput__5579e, .clipTitleInput__1d12e, .defaultTextInput__7b848, .searchBox_d727b3 .searchBoxInput_d727b3, .input__72ba7, .title_d9be46, .messageInput_f2c0a8, .textarea_dde0a8) {
 	background-color: rgba(0, 0, 0, 0.1);
 	border-width: 1px;
@@ -9214,6 +9215,7 @@ html:not(.visual-refresh) .colorBrand_c1e9c4,
 }
 
 .defaultTextInputWrapper__7b848:hover,
+.visual-refresh .defaultTextInputWrapper__7b848:hover,
 .cardInput__8b579:hover,
 .textArea_d19bc9:hover,
 .input__0f084:hover:not(.note_fcb628 textarea,.inputField_d64f22,.fieldBackground_d48a51, .inputInner_a97616, .input_cedfaf, .input__72ba7, .descriptionInput__5579e, .clipTitleInput__1d12e, .defaultTextInput__7b848, .searchBox_d727b3 .searchBoxInput_d727b3, .input__72ba7, .title_d9be46, .messageInput_f2c0a8, .textarea_dde0a8) {
@@ -9226,6 +9228,8 @@ html:not(.visual-refresh) .colorBrand_c1e9c4,
 
 .defaultTextInputWrapper__7b848:focus,
 .defaultTextInputWrapper__7b848:focus-within,
+.visual-refresh .defaultTextInputWrapper__7b848:focus,
+.visual-refresh .defaultTextInputWrapper__7b848:focus-within,
 .cardInput__8b579.cardInputFocused__8b579,
 .textArea_d19bc9:focus,
 .input__0f084:focus:not(.note_fcb628 textarea,.inputField_d64f22,.fieldBackground_d48a51, .inputInner_a97616, .input_cedfaf, .input__72ba7, .descriptionInput__5579e, .clipTitleInput__1d12e, .defaultTextInput__7b848, .searchBox_d727b3 .searchBoxInput_d727b3, .input__72ba7, .title_d9be46, .messageInput_f2c0a8, .textarea_dde0a8),
@@ -9804,9 +9808,11 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 
 .container_a8e786,
 .container__0be77,
+.visual-refresh .container__0be77,
 .secondaryButtonPresentation__0be77,
 .chatContent_f75fb0 .container_b9f75c {
 	background-color: rgba(0, 0, 0, .26);
+	border-color: rgba(0, 0, 0, .29);
 }
 
 .headerText_c19a55 .botTag__82f07,
@@ -11142,7 +11148,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .list_dcc822,
 .modalContent__3297f,
 .content__50a6f,
-.contentWrapper__9b0f4 {
+.contentWrapper__9b0f4,
+.visual-refresh .modalContent_d123a6,
+.visual-refresh .content_d97f89 {
 	padding-right: 18px !important;
 }
 
@@ -11214,6 +11222,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .container_ee8e87,
 .previewContainer_ee8e87,
 .addAnswerButton_d97f89,
+.visual-refresh .addAnswerButtonDefault_d97f89,
 .container__03b47,
 .enhancedBanner__39bd2,
 .safetyPolicyNoticeContainer_e80b85,
@@ -11270,6 +11279,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .container__04119:hover:not(.canceled__04119),
 .addAnswerButton_d97f89:hover,
+.visual-refresh .addAnswerButtonDefault_d97f89:hover,
 .bd-addon-controls .bd-button:hover,
 .classificationPolicyCard_a48d6b:hover,
 .tipNumber_a193aa,
@@ -12415,7 +12425,8 @@ path[fill="#949cf7"] {
 .statusBubbleOuter_af9888:after,
 .custom-profile-theme.theme-dark .statusBubble_af9888,
 .custom-profile-theme.theme-dark .statusBubbleOuter_af9888:before,
-.custom-profile-theme.theme-dark .statusBubbleOuter_af9888:after {
+.custom-profile-theme.theme-dark .statusBubbleOuter_af9888:after,
+.visual-refresh-chat-input .forwardPreviewWrapper__62280 {
 	border: none;
 	box-shadow: none;
 }
@@ -13149,8 +13160,12 @@ div.cardContainer__88e24,
 
 .theme-dark .wrapper_cf09d8,
 .custom-theme-background .wrapper_cf09d8,
-.container_f69538 {
+.visual-refresh.theme-dark .wrapper_cf09d8,
+.visual-refresh.custom-theme-background .wrapper_cf09d8,
+.container_f69538,
+.visual-refresh .container_f69538 {
 	background-color: rgba(0, 0, 0, .26);
+	border-color: rgba(0, 0, 0, .29);
 }
 
 .avatar__75742.fullSize__75742 {
@@ -14014,8 +14029,4 @@ path[fill="brand-200"] {
 
 .visual-refresh .header_f37cb1 {
 	box-shadow: var(--elevation-low);
-}
-
-.visual-refresh .modalContent_d123a6 {
-	padding-right: 18px !important;
 }
