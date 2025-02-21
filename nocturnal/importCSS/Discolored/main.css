@@ -718,3 +718,7 @@
 .images-dark .resultsBlockedImage_c68065 {
 	background-image: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/2d58a0636f814ac589e0.svg");
 }
+
+.custom-profile-theme .inlineContainer__74017 {
+	background: var(--bg-overlay-5, var(--profile-gradient-secondary-color)) !important;
+}
