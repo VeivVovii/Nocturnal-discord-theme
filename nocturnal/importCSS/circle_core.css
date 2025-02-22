@@ -14293,7 +14293,9 @@ path[fill="brand-200"] {
 	height: 32px;
 }
 
-.visual-refresh .inlineContainer__74017 .themedBackground__74017 {
+.visual-refresh .inlineContainer__74017 .themedBackground__74017,
+.visual-refresh-chat-input .themedBackground__74017 {
 	background: none !important;
 	box-shadow: none !important;
+	transition: none !important;
 }
