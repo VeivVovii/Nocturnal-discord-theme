@@ -2722,15 +2722,6 @@ svg[name=Nitro] g path {
 	background: var(--bg-overlay-5, var(--background-message-hover));
 }
 
-.message__5126c.ephemeral__5126c:not(.automodMessage__5126c) {
-	background: rgba(0, 138, 230, 0.05);
-}
-
-.message__5126c.highlighted_d5deea:not(.automodMessage__5126c),
-.message__5126c.replying__5126c {
-	background: rgba(60, 231, 249, 0.08);
-}
-
 .mentioned__5126c:before {
 	background: rgba(0, 176, 244);
 }
