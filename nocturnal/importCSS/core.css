@@ -2751,8 +2751,8 @@ svg[name=Nitro] g path {
 
 .message__5126c.ephemeral__5126c:not(.automodMessage__5126c).selected__5126c,
 .mouse-mode.full-motion .message__5126c.ephemeral__5126c:not(.automodMessage__5126c):hover,
-.message__5126c.replying__5126c.selected__5126c:not(.automodMessage__5126c),
-.mouse-mode.full-motion .message__5126c.replying__5126c:hover:not(.automodMessage__5126c) {
+.message__5126c.replying__5126c.selected__5126c,
+.mouse-mode.full-motion .message__5126c.replying__5126c:hover {
 	background: rgba(0, 138, 230, 0.1) !important;
 }
 
