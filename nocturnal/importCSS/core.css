@@ -2667,7 +2667,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark) !important
 }
 
-.channelTextArea_f75fb0 {
+html:not(.visual-refresh) .channelTextArea_f75fb0 {
 	margin-bottom: 0;
 	background-color: rgba(0, 0, 0, 0);
 }
@@ -7134,6 +7134,7 @@ html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9b
 .mockInput_c50f62,
 .button_e6e74f,
 .placeholderItem__87dda,
+:where(.visual-refresh-chat-input) .channelTextArea__74017,
 .visual-refresh .channelTextArea_f75fb0,
 .visual-refresh .bioTextAreaContainer__6a919 {
 	background: var(--bg-overlay-2, rgb(14, 16, 21));
@@ -14398,7 +14399,9 @@ path[fill="brand-200"] {
 }
 
 .visual-refresh-chat-input .channelBottomBarArea_f75fb0 {
-	margin: 9px 12px;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin: 9px 4px;
 }
 
 .visual-refresh .container__5808f {
