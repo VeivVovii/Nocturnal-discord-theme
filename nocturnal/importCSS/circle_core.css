@@ -1896,8 +1896,7 @@ svg.contentImage__42bf5 {
 	border: none !important;
 }
 
-.form_f75fb0,
-.visual-refresh .form_f75fb0 {
+html:not(.visual-refresh) .form_f75fb0 {
 	padding-left: 8px;
 	padding-right: 8px;
 	margin: 9px 2px;
@@ -4259,7 +4258,7 @@ button.button__67645.enabled__67645:hover,
 	color: rgb(60, 193, 235);
 }
 
-.form_f75fb0:has(.base_b88801) {
+html:not(.visual-refresh) .form_f75fb0:has(.base_b88801) {
 	margin: 16px 2px 9px;
 }
 
@@ -14183,7 +14182,7 @@ path[fill="brand-200"] {
 }
 
 .visual-refresh-chat-input .channelBottomBarArea_f75fb0 {
-	margin: 0;
+	margin: 9px 12px;
 }
 
 .visual-refresh .container__5808f {
