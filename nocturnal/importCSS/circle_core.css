@@ -12725,7 +12725,8 @@ path[fill="#949cf7"] {
 
 .backButton__91fb9,
 .floatingNitroButton__39749,
-.burstReactionTooltipUpsellCta_b49891 {
+.burstReactionTooltipUpsellCta_b49891,
+.tier2Gradient__29199 {
 	background: none;
 }
 
@@ -13136,7 +13137,8 @@ svg.gameIcon_b52e4f,
 .bd-install-modal-clickable:hover,
 .tableRowGroup__19fd1 .content__19fd1,
 .pill_f7c056,
-.pill_f7c056:hover {
+.pill_f7c056:hover,
+.earnedBadge_a92dc5 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
