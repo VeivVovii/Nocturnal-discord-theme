@@ -3577,11 +3577,11 @@ html:not(.visual-refresh) .wrapper__2ea32 {
 	box-shadow: inset 0 1px 0 rgba(47, 49, 54, .6);
 }
 
-.listRow__9d78f {
+.listScroller__9d78f .listRow__9d78f {
 	margin: 1px 0 1px 6px;
 }
 
-.base_b88801 {
+html:not(.visual-refresh) .base_b88801 {
 	bottom: 43px;
 	top: -20px;
 	left: 14.5px;
