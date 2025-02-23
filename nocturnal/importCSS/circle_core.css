@@ -2051,7 +2051,7 @@ html:not(.visual-refresh) .form_f75fb0 {
 
 .customColumn__23e6b,
 .contentColumn__23e6b {
-	max-width: 95%;
+	max-width: 95% !important;
 }
 
 .layer__960e4,
@@ -2946,7 +2946,7 @@ html:not(.visual-refresh) .channelTextArea_f75fb0 {
 
 .customScroller__23e6b>div,
 .sidebarScrollable__53543+.content__53543 {
-	max-width: none;
+	max-width: none !important;
 }
 
 .noticeRegion__23e6b {
