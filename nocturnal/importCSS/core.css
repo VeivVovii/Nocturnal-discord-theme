@@ -14021,10 +14021,10 @@ path[fill="brand-200"] {
 .visual-refresh .header__8ef02,
 .buttonSection__49094,
 .visual-refresh .buttonSection__49094,
-.colorable_f1ceac.experimentdisconnect_f1ceac.active_f1ceac,
-.colorable_f1ceac.experimentdisconnect_f1ceac:hover,
-.visual-refresh .colorable_f1ceac.experimentdisconnect_f1ceac.active_f1ceac,
-.visual-refresh .colorable_f1ceac.experimentdisconnect_f1ceac:hover {
+.colorable_f1ceac.experimentDisconnect_f1ceac.active_f1ceac,
+.colorable_f1ceac.experimentDisconnect_f1ceac:hover,
+.visual-refresh .colorable_f1ceac.experimentDisconnect_f1ceac.active_f1ceac,
+.visual-refresh .colorable_f1ceac.experimentDisconnect_f1ceac:hover {
 	background-color: var(--backgroundDark);
 	border: none;
 }
