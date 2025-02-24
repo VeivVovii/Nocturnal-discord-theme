@@ -1200,7 +1200,8 @@
 	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/logout.png) center;
 }
 
-.theme-dark {
+.theme-dark,
+.visual-refresh {
 	--backgroundDark: rgb(24, 28, 37);
 	--backgroundDarker: rgb(20, 23, 31);
 	--backgroundDarker-alt: rgb(16, 18, 24);
@@ -12602,10 +12603,10 @@ path[fill="#949cf7"] {
 	width: 1.9rem;
 }
 
-.list_c3cd7d,
+html:not(.visual-refresh) .list_c3cd7d,
 .innerContainer__656be,
 .item__81f73,
-.voiceUserSummary__629e4 {
+html:not(.visual-refresh) .voiceUserSummary__629e4 {
 	padding-right: 2px;
 }
 
