@@ -13739,7 +13739,8 @@ body,
 .bd-store-card,
 .card__5cea9,
 .header__5cea9,
-.loadMoreButton__5cea9 {
+.loadMoreButton__5cea9,
+.clickableContainer__39ec2:hover>.card__39ec2 {
 	background-color: rgba(0, 0, 0, .3);
 }
 
