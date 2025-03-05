@@ -7175,6 +7175,10 @@ html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9b
 	border-radius: 9px;
 }
 
+.visual-refresh .box_ee23ac {
+	margin: 10px 0 10px 11px;
+}
+
 .scrollerSpacer__36d07.emptyForum__36d07 {
 	height: 0;
 }
