@@ -13332,7 +13332,9 @@ svg.gameIcon_b52e4f,
 .tableRowGroup__19fd1 .content__19fd1,
 .pill_f7c056,
 .pill_f7c056:hover,
-.earnedBadge_a92dc5 {
+.earnedBadge_a92dc5,
+.listContainer_bdbb1b,
+.visual-refresh .listContainer_bdbb1b {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
