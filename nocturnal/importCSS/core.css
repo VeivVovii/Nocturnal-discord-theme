@@ -7816,7 +7816,9 @@ html:not(.visual-refresh) .action_c66e86,
 .visual-refresh .reactionSelected_cc2dff,
 .visual-refresh .reactionSelected_cc2dff:hover,
 .theme-dark .reactionSelected_cc2dff,
-.voteSelected__01c8c,
+.theme-dark .voteSelected__01c8c,
+.visual-refresh .voteSelected__01c8c,
+.visual-refresh .voteSelected__01c8c:hover,
 .channelRowLabel__9c6c0,
 .row__23488.checked__23488,
 .row__23488.checked__23488:hover,
@@ -10393,7 +10395,8 @@ html:not(.visual-refresh) .colorBrand_c1e9c4.colorDefault_c1e9c4:active:not(.hid
 .iconContainer__8a472,
 .iconPlaceholder__1729d,
 .clickable__761e5:hover,
-.theme-dark .contentContainer_c55cae {
+.theme-dark .contentContainer_c55cae,
+.autocompletePlaceholder__13533 {
 	background-color: rgba(0, 0, 0, .35);
 	border: none;
 }
