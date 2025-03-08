@@ -12946,7 +12946,8 @@ path[fill="var(--bg-brand)"] {
 .theme-dark.custom-profile-theme .fullSizeOverlayBackground_c69a7b,
 .theme-dark :where(.overlay_c0bea0),
 .theme-dark.custom-profile-theme :where(.overlay_c0bea0),
-.theme-dark .imgContainer_c55cae {
+.theme-dark .imgContainer_c55cae,
+.custom-profile-theme .clickableContainer__39ec2:hover>.card__39ec2 {
 	background: rgba(0, 0, 0, .15);
 	border: none;
 }
