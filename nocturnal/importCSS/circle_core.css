@@ -7495,6 +7495,8 @@ html:not(.visual-refresh) .themedBackground__74017:not(.channelTextAreaInner_d9b
 	border-top-right-radius: 0;
 }
 
+.visual-refresh .reactionDefault_cc2dff:hover,
+.visual-refresh .voteDefault__01c8c:hover,
 .reactionDefault_cc2dff:hover,
 .voteDefault__01c8c:hover {
 	background-color: rgba(0, 0, 0, .25);
@@ -7703,6 +7705,8 @@ html:not(.visual-refresh) .action_c66e86,
 	background-color: rgb(18, 21, 27);
 }
 
+.visual-refresh .reactionSelected_cc2dff,
+.visual-refresh .reactionSelected_cc2dff:hover,
 .theme-dark .reactionSelected_cc2dff,
 .voteSelected__01c8c,
 .channelRowLabel__9c6c0,
@@ -13865,6 +13869,7 @@ path[fill="brand-200"] {
 
 .closeInner__6a6d6,
 .container_cec934,
+.visual-refresh .container_cec934,
 .rewardDescriptionContainer__956c6,
 .container__74f3e,
 .container__51563,
@@ -13877,6 +13882,7 @@ path[fill="brand-200"] {
 .container__1729d,
 .theme-dark.outer_c0bea0.panel_c0bea0:not(.custom-theme-background),
 .container__956c6,
+.visual-refresh .container__956c6,
 .darkerIcon__36dee,
 .button__14992,
 .floatingUpsell__9d295,
@@ -13885,6 +13891,8 @@ path[fill="brand-200"] {
 .joinOptions__959cb,
 .rules__92677 {
 	background-color: var(--backgroundDarker);
+	border: none;
+	box-shadow: none;
 }
 
 .fieldBackground_d48a51:not(.input__0f084),
