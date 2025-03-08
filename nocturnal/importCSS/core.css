@@ -13460,7 +13460,9 @@ svg.gameIcon_b52e4f,
 .visual-refresh .channelAttachmentArea_b77158,
 .overflowCount__68334,
 .visual-refresh .wrapper__260e1,
-.visual-refresh .rows_b1c9f2 {
+.visual-refresh .rows_b1c9f2,
+.clickable_f37cb1 .header_f37cb1:hover,
+.selected_f37cb1 .header_f37cb1 {
 	background: rgba(0, 0, 0, 0);
 	border: none;
 }
