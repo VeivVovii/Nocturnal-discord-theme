@@ -6415,7 +6415,6 @@ html:not(.visual-refresh) .form_f75fb0:has(.base_b88801) {
 	flex-shrink: 0
 }
 
-.featureBorder_fbfab6fbfab6c6d722,
 .roundAvatar__02e4c,
 .channelTextArea_fb64c9,
 .avatar__16b66 {
@@ -9146,6 +9145,12 @@ html:not(.visual-refresh)  .presets__67a11:nth-child(1) .themeSelectionContainer
 	box-shadow: none;
 }
 
+.appContainer__5a4b6:focus, .appContainer__5a4b6:hover,
+.full-motion .appContainer__5a4b6:focus, .full-motion .appContainer__5a4b6:hover {
+	background-color: var(--backgroundDarker-alt);
+	transform: none;
+}
+
 .recommendedTierHighlightTag__686cf,
 .iconWrapper_c6367b,
 .iconWrapper_d13236 {
@@ -10495,7 +10500,6 @@ html:not(.visual-refresh) .colorBrand_c1e9c4.colorDefault_c1e9c4:active:not(.hid
 .scopes__29337,
 .scopes__29337:not(:last-child),
 .header__03630,
-.featureBorder_fbfab6fbfab6_4626b,
 .botPermissions__41924,
 .botPermissions__41924:not(:last-child),
 .separator_a1eac2,
