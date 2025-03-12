@@ -14378,3 +14378,7 @@ path[fill="brand-200"] {
 .stack_dbd263 {
 	overflow: visible !important;
 }
+
+svg.contentImage__42bf5[style*='max-width: 60px;'] {
+	max-width: 70px !important;
+}
