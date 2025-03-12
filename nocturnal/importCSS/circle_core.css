@@ -12755,7 +12755,8 @@ html:not(.visual-refresh) .voiceUserSummary__629e4 {
 .backButton__91fb9,
 .floatingNitroButton__39749,
 .burstReactionTooltipUpsellCta_b49891,
-.tier2Gradient__29199 {
+.tier2Gradient__29199,
+.tier2Gradient__95fb7 {
 	background: none;
 }
 
@@ -13902,7 +13903,8 @@ path[fill="brand-200"] {
 .fractionalPremiumAccountCredit__94f72,
 .premiumSubscriptionAccountCredit__94f72,
 .joinOptions__959cb,
-.rules__92677 {
+.rules__92677,
+.greyedOut__83ef9 {
 	background-color: var(--backgroundDarker);
 	border: none;
 	box-shadow: none;
