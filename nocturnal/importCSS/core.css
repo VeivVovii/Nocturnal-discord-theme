@@ -13260,7 +13260,8 @@ svg.gameIcon_b52e4f,
 .visual-refresh .searchBar__35e86,
 :where(.visual-refresh) .input__0f084:hover,
 :where(.visual-refresh) .input__0f084[readonly],
-.visual-refresh .phoneField_a0c54f {
+.visual-refresh .phoneField_a0c54f,
+.minimalState__6f029 .colorSwatch__6f029 {
 	border: none;
 }
 
@@ -14598,4 +14599,8 @@ path[fill="brand-200"] {
 
 svg.contentImage__42bf5[style*='max-width: 60px;'] {
 	max-width: 70px !important;
+}
+
+.colorVariant__6f029 {
+	padding-right: 6px;
 }
