@@ -3866,7 +3866,8 @@ button.button__67645.enabled__67645:hover,
 	background-color: rgba(0, 0, 0, .15);
 }
 
-.itemFilled__001a7:hover:not([aria-checked=true]):not(.disabled__001a7) {
+.itemFilled__001a7:hover:not([aria-checked=true]):not(.disabled__001a7),
+.gameSuggestionRadioItem__50a6f:hover {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -10630,7 +10631,8 @@ html:not(.visual-refresh) .colorBrand_c1e9c4.colorDefault_c1e9c4:active:not(.hid
 .visual-refresh-chat-input .header__62280,
 .visual-refresh .stackedBars__74017:not(:last-child),
 .termsRow__523ab,
-.failedDestinations_c3ef83 {
+.failedDestinations_c3ef83,
+.applicationSearch__50a6f {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -14616,4 +14618,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 
 .banner__86ab2[style*='radial-gradient(105.43% 127.05% at 50.1% 127.05%, rgb(107, 108, 113) 20.65%, rgb(35, 36, 40) 85.16%)'] {
 	background: radial-gradient(105.43% 127.05% at 50.1% 127.05%, rgb(88, 90, 97) 20.65%, rgb(16, 18, 24) 85.16%) !important;
+}
+
+.gameInfoBox__50a6f[style*='linear-gradient(45deg, rgb(17, 18, 20), rgb(17, 18, 20))'] {
+	background: linear-gradient(45deg, rgb(0, 0, 0, .2), rgb(0, 0, 0, .2)) !important;
 }
