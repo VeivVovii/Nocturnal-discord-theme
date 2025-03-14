@@ -13294,7 +13294,8 @@ svg.gameIcon_b52e4f,
 .visual-refresh .wrapper__260e1,
 .visual-refresh .rows_b1c9f2,
 .clickable_f37cb1 .header_f37cb1:hover,
-.selected_f37cb1 .header_f37cb1 {
+.selected_f37cb1 .header_f37cb1,
+.modalContent_de2fa0 {
 	background: rgba(0, 0, 0, 0);
 	border: none;
 }
@@ -13950,7 +13951,7 @@ path[fill="brand-200"] {
 }
 
 .darkThemeGradient_b5b7aa {
-	background: linear-gradient(to top, var(--backgroundDarker-alt) 0%, hsl(225 20% 7.7% /.95) 20.31%, hsl(225 20% 7.7% / 0) 100%);
+	background: linear-gradient(0deg, var(--backgroundDarker-alt) 0, hsl(225 20% 7.7% /.95) 20.31%, hsl(225 20% 7.7% / 0));
 }
 
 .submenuWrapper_f2bc91,
@@ -14056,7 +14057,7 @@ path[fill="brand-200"] {
 }
 
 .darkThemeGradient__9192b {
-	background: linear-gradient(to top, var(--backgroundDarker-alt) 0%, hsl(225 20% 7.7% /.5) 50%, hsl(225 20% 7.7% /0) 100%);
+	background: linear-gradient(0deg, var(--backgroundDarker-alt) 0, hsl(225 20% 7.7% /.5) 50%, hsl(225 20% 7.7% /0));
 }
 
 .roleFlowerStar__48c1c {
