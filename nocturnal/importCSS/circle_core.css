@@ -10496,7 +10496,8 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .visual-refresh .stackedBars__74017:not(:last-child),
 .termsRow__523ab,
 .failedDestinations_c3ef83,
-.applicationSearch__50a6f {
+.applicationSearch__50a6f,
+.customizationSection__42179.opened__42179 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -11818,7 +11819,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .filterBackground__72086:hover,
 .pill__33d66:hover,
 .joinOptionContent__959cb.active__959cb,
-.guildIconImage__79e3e.acronym__79e3e {
+.guildIconImage__79e3e.acronym__79e3e,
+.headerIconWrapper__42179 {
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -13184,7 +13186,9 @@ svg.gameIcon_b52e4f,
 .pill_f7c056:hover,
 .earnedBadge_a92dc5,
 .listContainer_bdbb1b,
-.visual-refresh .listContainer_bdbb1b {
+.visual-refresh .listContainer_bdbb1b,
+.editProfileContainer__42179,
+.visual-refresh .editProfileContainer__42179 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
