@@ -14605,7 +14605,7 @@ path[fill="brand-200"] {
 	margin-top: 0;
 }
 
-.stack_dbd263 {
+.stack_dbd263:not(.scroller_ef3116) {
 	overflow: visible !important;
 }
 
@@ -14623,4 +14623,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 
 .gameInfoBox__50a6f[style*='linear-gradient(45deg, rgb(17, 18, 20), rgb(17, 18, 20))'] {
 	background: linear-gradient(45deg, rgb(0, 0, 0, .2), rgb(0, 0, 0, .2)) !important;
+}
+
+.backgroundSecondary__08415 {
+	background: color-mix(in srgb,var(--backgroundDarker-alt) 50%,rgba(0, 0, 0, 0));
 }
