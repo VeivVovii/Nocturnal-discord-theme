@@ -246,6 +246,13 @@
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+
+.noResultsContainer__9c6d0:has(.searchIndexForeground_e1fee6) > div:first-child,
+.noResultsContainer_dd2627:has(.searchIndexForeground_e1fee6) > div:first-child {
+	width: auto;
+	height: auto;
+	background-image: none;
+}
   
 .noResultsContainer__9c6d0 > div:first-child svg:not(.searchIndexForeground_e1fee6),
 .noResultsContainer_dd2627 > div:first-child svg:not(.searchIndexForeground_e1fee6) {
