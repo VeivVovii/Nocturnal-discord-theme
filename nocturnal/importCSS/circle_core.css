@@ -1290,6 +1290,7 @@
 .searchBar__35e86 .searchBarComponent__35e86,
 .actionButton_f8fa06,
 .theme-dark .inset_bf1984,
+.visual-refresh .inset_bf1984,
 .actionButton_d9752c,
 .button__71c22,
 .otherRoles__71c22 {
@@ -13300,9 +13301,12 @@ svg.gameIcon_b52e4f,
 .visual-refresh .rows_b1c9f2,
 .clickable_f37cb1 .header_f37cb1:hover,
 .selected_f37cb1 .header_f37cb1,
-.modalContent_de2fa0 {
+.modalContent_de2fa0,
+.wrapper__960df,
+.visual-refresh .wrapper__960df {
 	background: rgba(0, 0, 0, 0);
 	border: none;
+	box-shadow: none;
 }
 
 .wrapper__4413f {
@@ -14419,4 +14423,23 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 
 .backgroundSecondary__08415 {
 	background: color-mix(in srgb,var(--backgroundDarker-alt) 50%,rgba(0, 0, 0, 0));
+}
+
+.promotedTagBackground__1d868,
+.visual-refresh .promotedTagBackground__1d868 {
+	background-color: #202632 !important;
+	border: none;
+}
+
+.wrapper_b76891,
+.visual-refresh .wrapper_b76891,
+.postEnrollmentBackground__636a2,
+.visual-refresh .postEnrollmentBackground__636a2 {
+	background-color: var(--backgroundDarker);
+	border: none;
+}
+
+.postEnrollmentBackground__636a2,
+.visual-refresh .postEnrollmentBackground__636a2 {
+	background-color: var(--backgroundDarker-alt);
 }
