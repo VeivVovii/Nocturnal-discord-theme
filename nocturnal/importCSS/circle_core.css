@@ -5096,15 +5096,11 @@ html:not(.visual-refresh) .form_f75fb0:has(.base_b88801) {
 
 .chatInput_ee8e87 {
 	box-shadow: inset 0 0 100000px 0 rgba(0, 0, 0, .5);
-	margin: 0 9px 9px;
+	margin: 9px 10px;
 }
 
 .previewContainer_ee8e87 {
 	border-radius: 0 5px 5px 0;
-}
-
-.previewContainer_ee8e87[style*="max-height: 472px;"] {
-	max-height: 440px !important;
 }
 
 .opTag_ee8e87 {
@@ -14453,5 +14449,5 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 }
 
 .visual-refresh.theme-dark .root__49fc1 {
- 	box-shadow: none !important;
- }
+	box-shadow: none !important;
+}
