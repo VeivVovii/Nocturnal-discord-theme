@@ -10526,6 +10526,7 @@ html:not(.visual-refresh) .clickableAction_c66e86:hover, html:not(.visual-refres
 .helpSeparator_a9b452,
 .posterDivider_b572de,
 .posterDivider_f09e45,
+.posterDivider__9fa5a,
 .divider_a5b35c,
 .separator__841c8,
 .userProfileInnerThemedNonPremium_c69a7b .divider_e6f9ab,
@@ -11813,7 +11814,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .pill__33d66:hover,
 .joinOptionContent__959cb.active__959cb,
 .guildIconImage__79e3e.acronym__79e3e,
-.headerIconWrapper__42179 {
+.headerIconWrapper__42179,
+.colorable_f1ceac.experimentRed_f1ceac.active_f1ceac,
+.colorable_f1ceac.experimentRed_f1ceac:hover {
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -14464,7 +14467,7 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 }
 
 .fullRegionIcon_f1ceac {
-	padding: 0;
+	padding: 0 12px;
 }
 
 .visual-refresh .container_a55fdc {
