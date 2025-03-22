@@ -11304,7 +11304,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .content__50a6f,
 .contentWrapper__9b0f4,
 .visual-refresh .modalContent_bdbb1b,
-.visual-refresh .content_d97f89 {
+.visual-refresh .content_d97f89,
+.body__527b1 {
 	padding-right: 18px !important;
 }
 
