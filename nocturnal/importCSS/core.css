@@ -9706,9 +9706,9 @@ path[stroke="rgb(123,162,255)"] {
 .visual-refresh .safetyChecklist_eae0ef,
 .simpleItemWrapper__5dac8,
 .visual-refresh .simpleItemWrapper__5dac8,
-.soundButton__6d4ed,
+.soundButton__9be63,
 .keybindHint__46002,
-.buttonOverlayBackground__6d4ed,
+.buttonOverlayBackground__9be63,
 .chatHeaderBar__452bd {
 	background-color: var(--backgroundDarker);
 	border-color: var(--backgroundDarker);
@@ -9894,8 +9894,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .titleInput__5d756,
 .input__0f084.fieldBackground_eaaeee,
-.soundAddButton__58c6c.focused__58c6c,
-.soundAddButton__58c6c:hover {
+.soundAddButton_da9eb2.focused_da9eb2,
+.soundAddButton_da9eb2:hover {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
@@ -10337,9 +10337,9 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgb(18, 21, 27);
 }
 
-.soundButton__6d4ed.focused__6d4ed.hoverActiveBackground__6d4ed,
-.soundButton__6d4ed:focus-within.hoverActiveBackground__6d4ed,
-.soundButton__6d4ed:hover.hoverActiveBackground__6d4ed,
+.soundButton__9be63.focused__9be63.hoverActiveBackground__9be63,
+.soundButton__9be63:focus-within.hoverActiveBackground__9be63,
+.soundButton__9be63:hover.hoverActiveBackground__9be63,
 .counter__90981,
 .cardFooter_b99f57,
 .row__0624f,
@@ -11940,7 +11940,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .tab_d804ff,
 .sortDropdown_bb26d9,
 .visual-refresh .sortDropdown_bb26d9,
-.soundButtonRefresh__6d4ed,
+.soundButtonRefresh__9be63,
 .filterBackground__72086,
 .pill__33d66,
 .joinOptionContent__959cb:hover,
@@ -11957,7 +11957,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .theme-dark .subcategory_c20c25,
 .tag_a97616,
 .acronym__2894c,
-.soundButtonRefresh__6d4ed:hover,
+.soundButtonRefresh__9be63:hover,
 .guildIcon__0fa6d,
 .bd-install-modal-guild,
 .acronym_f0dcaf,
@@ -13239,7 +13239,7 @@ svg.gameIcon_b52e4f,
 .custom-theme-background .menu_c1e9c4,
 .popoverReactionHoverBar_f84418,
 .popoverReactionHoverBar_f84418:hover,
-.soundButtonRefresh__6d4ed,
+.soundButtonRefresh__9be63,
 :where(.visual-refresh) .tooltip__382e7,
 .visual-refresh .panels_c48ade,
 .visual-refresh .quickswitcher_ac6cb0,
@@ -13462,7 +13462,7 @@ svg.gameIcon_b52e4f,
 .collectiblePreviewsContainer_c50f62,
 .progressTextOverlay_bb1069,
 .gameActivityLevel_fda254,
-.emojiCircle__6d4ed,
+.emojiCircle__9be63,
 .modalBg_de2fa0,
 .bd-store-card-icon,
 .gameArtwork_a1cc72,
@@ -14604,9 +14604,9 @@ path[fill="brand-200"] {
 	margin-right: 18px;
 }
 
-.premiumDisabledRefresh__6d4ed.focused__6d4ed,
-.premiumDisabledRefresh__6d4ed:hover,
-.premiumDisabledRefresh__6d4ed:active:not(:focus-within) {
+.premiumDisabledRefresh__9be63.focused__9be63,
+.premiumDisabledRefresh__9be63:hover,
+.premiumDisabledRefresh__9be63:active:not(:focus-within) {
 	background: rgba(0, 0, 0, .5);
 	border: none;
 }
