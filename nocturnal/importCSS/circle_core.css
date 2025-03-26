@@ -9585,9 +9585,11 @@ path[stroke="rgb(123,162,255)"] {
 .visual-refresh .safetyChecklist_eae0ef,
 .simpleItemWrapper__5dac8,
 .visual-refresh .simpleItemWrapper__5dac8,
-.soundButton__9be63,
+.soundButton__6d4ed,
+.visual-refresh .soundButton__6d4ed,
 .keybindHint__46002,
-.buttonOverlayBackground__9be63,
+.buttonOverlayBackground__6d4ed,
+.visual-refresh .buttonOverlayBackground__6d4ed,
 .chatHeaderBar__452bd {
 	background-color: var(--backgroundDarker);
 	border-color: var(--backgroundDarker);
@@ -10174,6 +10176,8 @@ path[stroke="rgb(123,162,255)"] {
 .embedCard_b99f57,
 .card__38524,
 .container__5dbf8,
+.box_f8c98c,
+.visual-refresh .box_f8c98c,
 .box_d9914b,
 .container__5b321,
 .freeWrapper_fd28b8,
@@ -10200,9 +10204,12 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgb(18, 21, 27);
 }
 
-.soundButton__9be63.focused__9be63.hoverActiveBackground__9be63,
-.soundButton__9be63:focus-within.hoverActiveBackground__9be63,
-.soundButton__9be63:hover.hoverActiveBackground__9be63,
+.soundButton__6d4ed.focused__6d4ed.hoverActiveBackground__6d4ed,
+.soundButton__6d4ed:focus-within.hoverActiveBackground__6d4ed,
+.soundButton__6d4ed:hover.hoverActiveBackground__6d4ed,
+.visual-refresh .soundButton__6d4ed.focused__6d4ed.hoverActiveBackground__6d4ed,
+.visual-refresh .soundButton__6d4ed:focus-within.hoverActiveBackground__6d4ed,
+.visual-refresh .soundButton__6d4ed:hover.hoverActiveBackground__6d4ed,
 .counter__90981,
 .cardFooter_b99f57,
 .row__0624f,
@@ -11776,7 +11783,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .tab_d804ff,
 .sortDropdown_bb26d9,
 .visual-refresh .sortDropdown_bb26d9,
-.soundButtonRefresh__9be63,
+.soundButtonRefresh__6d4ed,
+.visual-refresh .soundButtonRefresh__6d4ed,
 .filterBackground__72086,
 .pill__33d66,
 .joinOptionContent__959cb:hover,
@@ -11793,7 +11801,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .theme-dark .subcategory_c20c25,
 .tag_a97616,
 .acronym__2894c,
-.soundButtonRefresh__9be63:hover,
+.soundButtonRefresh__6d4ed:hover,
+.visual-refresh .soundButtonRefresh__6d4ed:hover,
 .bd-install-modal-guild,
 .acronym_f0dcaf,
 .colorable_f1ceac.experimentDark_f1ceac.active_f1ceac:not(.disabled_f1ceac),
@@ -13073,7 +13082,8 @@ svg.gameIcon_b52e4f,
 .custom-theme-background .menu_c1e9c4,
 .popoverReactionHoverBar_f84418,
 .popoverReactionHoverBar_f84418:hover,
-.soundButtonRefresh__9be63,
+.soundButtonRefresh__6d4ed,
+.visual-refresh .soundButtonRefresh__6d4ed,
 :where(.visual-refresh) .tooltip__382e7,
 .visual-refresh .panels_c48ade,
 .visual-refresh .quickswitcher_ac6cb0,
@@ -13101,7 +13111,10 @@ svg.gameIcon_b52e4f,
 .traitContainer__4cbea,
 .traitContainer__4cbea:focus,
 .visual-refresh.theme-midnight .content_f75fb0, .visual-refresh.theme-midnight .subtitleContainer_f75fb0,
-.visual-refresh .chat_f75fb0.threadSidebarOpen_f75fb0 {
+.visual-refresh .chat_f75fb0.threadSidebarOpen_f75fb0,
+.visual-refresh .soundButton__6d4ed.focused__6d4ed,
+.visual-refresh .soundButton__6d4ed:active:not(:focus-within),
+.visual-refresh .soundButton__6d4ed:hover {
 	border: none;
 }
 
@@ -13283,7 +13296,7 @@ svg.gameIcon_b52e4f,
 .richImageContainer_ae1fa2,
 .progressTextOverlay_bb1069,
 .gameActivityLevel_fda254,
-.emojiCircle__9be63,
+.emojiCircle__6d4ed,
 .modalBg_de2fa0,
 .bd-store-card-icon,
 .gameArtwork_a1cc72,
@@ -14388,9 +14401,12 @@ path[fill="brand-200"] {
 	margin-right: 18px;
 }
 
-.premiumDisabledRefresh__9be63.focused__9be63,
-.premiumDisabledRefresh__9be63:hover,
-.premiumDisabledRefresh__9be63:active:not(:focus-within) {
+.premiumDisabledRefresh__6d4ed.focused__6d4ed,
+.premiumDisabledRefresh__6d4ed:hover,
+.premiumDisabledRefresh__6d4ed:active:not(:focus-within),
+.visual-refresh .premiumDisabledRefresh__6d4ed.focused__6d4ed,
+.visual-refresh .premiumDisabledRefresh__6d4ed:hover,
+.visual-refresh .premiumDisabledRefresh__6d4ed:active:not(:focus-within) {
 	background: rgba(0, 0, 0, .5);
 	border: none;
 }
@@ -14514,4 +14530,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'] {
 .visual-refresh.theme-light .themeOption__81345,
 .stack_dbd263.theme-light {
 	display: none;
+}
+
+.optionsActive__07f91, .optionsButton__07f91:hover {
+	background: var(--bg-overlay-active, rgba(0, 0, 0, 1));
 }
