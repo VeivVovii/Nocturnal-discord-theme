@@ -10041,9 +10041,7 @@ path[stroke="rgb(123,162,255)"] {
 .theme-dark .tooltipGreen__382e7,
 .theme-dark .tooltipBrand__382e7 {
 	background-color: rgb(10, 12, 16);
-	border-width: 2px;
-	border-style: solid;
-	border-color: var(--primary);
+	border: 2px solid var(--primary) !important;
 }
 
 .theme-dark .tooltip__382e7.tooltipGreen__382e7,
