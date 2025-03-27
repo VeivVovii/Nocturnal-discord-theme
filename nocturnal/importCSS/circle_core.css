@@ -8382,9 +8382,9 @@ svg.contentImage__42bf5 path {
 	border-radius: 100%;
 }
 
-.addMemberRow__01dab {
+.visual-refresh .addMemberRow__01dab {
 	border-radius: 0;
-	margin-right: 12px;
+	margin-right: 0;
 }
 
 .overflowRolesPopout__48c1c,
@@ -10493,7 +10493,8 @@ path[stroke="rgb(123,162,255)"] {
 .failedDestinations_c3ef83,
 .applicationSearch__50a6f,
 .customizationSection__42179.opened__42179,
-.theme-dark .emojiRow_e7d73e {
+.theme-dark .emojiRow_e7d73e,
+.visual-refresh .scrollSeparator__01dab {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -11307,6 +11308,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .contentWrapper__9b0f4,
 .visual-refresh .modalContent_bdbb1b,
 .visual-refresh .content_d97f89,
+.visual-refresh .roleMemberList__01dab,
 .body__527b1 {
 	padding-right: 18px !important;
 }
@@ -12014,7 +12016,6 @@ div.cardContainer__88e24,
 .scroller_ef4a91,
 .visual-refresh .container_c791b2,
 .visual-refresh .modalContent__0651b,
-.visual-refresh .roleMemberList__01dab,
 .visual-refresh .searchBox__01dab {
 	padding-right: 10px !important;
 }
@@ -12472,7 +12473,6 @@ path[fill="#949cf7"] {
 
 .guildCategorySeparator_b9ee0c,
 .bottomDivider__01014,
-.content__01dab,
 .guildCategorySeparator__3ad28,
 .categoryIcon_a1e0e0 {
 	margin-right: -6px;
@@ -12522,6 +12522,7 @@ path[fill="#949cf7"] {
 }
 
 .container_fa0751,
+.visual-refresh .searchBox__01dab,
 .modalContent__859a7 {
 	padding-right: 24px !important;
 }
@@ -14558,10 +14559,10 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 	background: var(--bg-overlay-active, rgba(0, 0, 0, 1));
 }
 
-.visual-refresh .searchBox__01dab {
-	padding-right: 30px !important;
-}
-
 .gradient__864b0 {
 	background: linear-gradient(180deg,var(--backgroundDark),transparent 70%);
+}
+
+.modal_ac72c6 {
+	overflow-y: hidden;
 }
