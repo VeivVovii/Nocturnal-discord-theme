@@ -14561,6 +14561,7 @@ path[fill="brand-200"] {
 
 .visual-refresh.theme-dark.mouse-mode.full-motion .message__5126c:hover:not(.automodMessage__5126c),
 .visual-refresh.theme-dark.mouse-mode.full-motion .message__5126c.selected__5126c:not(.automodMessage__5126c),
+.visual-refresh.theme-dark .message__5126c.selected__5126c:not(.automodMessage__5126c),
 .visual-refresh .expanded__7a70a {
 	--background-message-hover: rgb(2, 2, 2, 0.06);
 }
