@@ -2472,8 +2472,9 @@ svg[name=Nitro] g path {
 	border: none !important;
 }
 
-.wrapper__44df5 {
+.visual-refresh .wrapper__44df5 {
 	background-color: var(--backgroundDarker) !important;
+	border: none;
 }
 
 .activityPanel_c48ade {
@@ -2712,7 +2713,8 @@ svg[name=Nitro] g path {
 
 .content_f75fb0,
 .visual-refresh .content_f75fb0,
-.visual-refresh.theme-midnight .content_f75fb0 {
+.visual-refresh.theme-midnight .content_f75fb0,
+.visual-refresh .container_c8ffbb {
 	border-left: 1.2px solid rgba(1, 1, 1, 0.25) !important;
 }
 
@@ -4085,8 +4087,8 @@ button.button__67645.enabled__67645:hover,
 	background-color: rgba(0, 0, 0, 0);
 }
 
-.wrapper__44df5 {
-	margin-bottom: 0;
+.visual-refresh .wrapper__44df5 {
+	margin: 0;
 }
 
 .button_e131a9.buttonColor_e131a9.buttonActive_e131a9,
@@ -6948,7 +6950,6 @@ svg.contentImage__42bf5 path {
 	display: none;
 }
 
-.chatContent_f75fb0,
 .scroller__28a87 {
 	border-right: 1px solid rgba(1, 1, 1, 0.25) !important;
 }
@@ -10057,11 +10058,10 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .button_e131a9.lookFilled__201d5.colorBrand__201d5 {
-	padding: 0 14px;
+	padding: 0 14px; 
 }
 
-.container_a8e786,
-.container__0be77,
+.visual-refresh .container_a8e786,
 .visual-refresh .container__0be77,
 .secondaryButtonPresentation__0be77,
 .chatContent_f75fb0 .container_b9f75c {
@@ -10631,7 +10631,8 @@ path[stroke="rgb(123,162,255)"] {
 .applicationSearch__50a6f,
 .customizationSection__42179.opened__42179,
 .theme-dark .emojiRow_e7d73e,
-.visual-refresh .scrollSeparator__01dab {
+.visual-refresh .scrollSeparator__01dab,
+.visual-refresh .darkCardBackground_c3d04b {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -10737,7 +10738,8 @@ path[stroke="rgb(123,162,255)"] {
 .divider_f83afb,
 .separator__2dc49,
 .divider_bb7f52,
-.divider__864b0 {
+.divider__864b0,
+.interactionsContainer_af3b89:before {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -11446,7 +11448,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .visual-refresh .modalContent_bdbb1b,
 .visual-refresh .content_d97f89,
 .visual-refresh .roleMemberList__01dab,
-.body__527b1 {
+.body__527b1,
+.visual-refresh .content__7c901,
+.visual-refresh .footer__7c901 {
 	padding-right: 18px !important;
 }
 
@@ -12688,9 +12692,7 @@ path[fill="#949cf7"] {
 
 .scroller_ed5743,
 .content__49668,
-.modalContent__4da69,
-.visual-refresh .content__7c901,
-.visual-refresh .footer__7c901 {
+.modalContent__4da69 {
 	padding-right: 26px !important;
 }
 
@@ -12819,7 +12821,8 @@ path[fill="#949cf7"] {
 }
 
 .modalContent__78e61,
-.modalContent_c50f62 {
+.modalContent_c50f62,
+.visual-refresh .modalContent_c50f62 {
 	padding-right: 0 !important;
 	margin-right: -6px;
 }
@@ -13328,7 +13331,8 @@ svg.gameIcon_b52e4f,
 .placeholderItem__87dda,
 .appIcon_f37514,
 .avatar__06137,
-.buttonSection__1405b {
+.buttonSection__1405b,
+.loadingMutualFriend__325ce>:first-child {
 	border-radius: 5px;
 }
 
@@ -13418,7 +13422,7 @@ svg.gameIcon_b52e4f,
 .inner_c0bea0.fullSize_c0bea0 .role_dfa8b6 .roleRemoveIcon_dfa8b6,
 .fullSizeOverlayBackground_c69a7b .role_dfa8b6 .roleRemoveIcon_dfa8b6,
 :where(.overlay_c0bea0) .role_dfa8b6 .roleRemoveIcon_dfa8b6 {
-	margin: 0 0 0 -4px;
+	margin: 0 0 0 -1px;
 	left: unset;
 	transform: translate(50%, -50%);
 }
@@ -13758,7 +13762,7 @@ body,
 }
 
 .theme-dark .searchBar__5ec2f {
-	background: var(--bg-overlay-5, var(--backgroundDark));
+	background: var(--bg-overlay-5, var(--backgroundDark)) !important;
 	box-shadow: var(--bg-overlay-5, inset 0 0 100000px 0 rgb(0 0 0 / 50%));
 }
 
@@ -14491,7 +14495,8 @@ path[fill="brand-200"] {
 }
 
 .visual-refresh .bottomBar__0f481:not(.messagesErrorBar__0f481) {
-	background-color: #1e232e;
+	background-color: var(--backgroundDark);
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
 }
 
@@ -14781,4 +14786,9 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .modal_ac72c6 {
 	overflow-y: hidden;
+}
+
+.roleCircle_dfa8b6 {
+	margin-left: 3px;
+	margin-right: 2px;
 }
