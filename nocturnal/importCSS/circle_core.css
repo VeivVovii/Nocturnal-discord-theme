@@ -14576,3 +14576,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 	margin-left: 3px;
 	margin-right: 2px;
 }
+
+.imageContainer_ef9ae7 .contentImage_ef9ae7 {
+	min-width: 70px;
+	min-height: 70px !important;
+}
