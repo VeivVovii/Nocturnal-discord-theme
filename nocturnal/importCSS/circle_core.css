@@ -6429,18 +6429,18 @@ button.button__67645.enabled__67645:hover,
 	border: none;
 }
 
-.channelTextArea_fb64c9 {
+.visual-refresh .channelTextArea_fb64c9 {
 	width: auto;
 	margin: 0 10px 9px;
 	transition: var(--transition);
 	transition-property: box-shadow;
 }
 
-.channelTextArea_fb64c9:hover {
+.visual-refresh .channelTextArea_fb64c9:hover {
 	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover);
 }
 
-.channelTextArea_fb64c9:focus-within {
+.visual-refresh .channelTextArea_fb64c9:focus-within {
 	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
 }
 
