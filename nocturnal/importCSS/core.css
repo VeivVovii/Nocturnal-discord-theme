@@ -14592,12 +14592,19 @@ path[fill="brand-200"] {
 .visual-refresh .sidebarList_c48ade,
 .visual-refresh .searchBar__35e86 {
 	border-color: rgba(1, 1, 1, 0.25);
-	border-width: 1px;
+	border-width: 1.2px;
 }
 
 .theme-midnight .container__9293f,
 .visual-refresh .container__9293f {
-	border-left: solid 1px rgba(1, 1, 1, 0.25);
+	border-left: solid 1.2px rgba(1, 1, 1, 0.25);
+}
+
+.theme-midnight .container__9293f,
+.visual-refresh .container__9293f,
+.visual-refresh .sidebarList_c48ade,
+.visual-refresh .searchBar__35e86 {
+	border-width: 1px !important;
 }
 
 .visual-refresh .chat_f75fb0[data-has-border=true],
