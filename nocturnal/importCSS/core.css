@@ -1554,7 +1554,6 @@ div[data-contents="true"] {
 
 .circleIconButton__5bc7e {
 	border-radius: 12px;
-	color: #fff;
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -8424,6 +8423,7 @@ svg.contentImage__42bf5 path {
 
 .defaultThemeSelection__36dee.lightIcon__36dee,
 .lightOverlay__36dee,
+.themeSelectionContainer__36dee:has(.lightOverlay__36dee),
 .presets__67a11:nth-child(1) .themeSelectionContainer__36dee:nth-child(1),
 .header__67a11+.presets__67a11 .themeSelectionContainer__36dee:nth-child(1),
 .header__67a11+.presets__67a11 .themeSelectionContainer__36dee:nth-child(2),
@@ -8666,12 +8666,19 @@ svg.contentImage__42bf5 path {
 	box-shadow: inset 0 0 100000px rgba(0, 0, 0, .5), 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25) !important
 }
 
-.addFriendInputWrapper__72ba7:not(.error__72ba7) {
+.addFriendInputWrapper__72ba7 {
 	background-color: rgba(0, 0, 0, 0.1);
 	transition: var(--transition);
 	transition-property: box-shadow;
-	border-color: rgba(0, 0, 0, 0) !important;
 	box-shadow: 0 0 0 1px var(--deprecated-text-input-border);
+}
+
+.addFriendInputWrapper__72ba7:not(.error__72ba7) {
+	border-color: rgba(0, 0, 0, 0) !important;
+}
+
+.addFriendInputWrapper__72ba7.error__72ba7 {
+	box-shadow: none !important;
 }
 
 .addFriendInputWrapper__72ba7:hover {
@@ -10612,18 +10619,15 @@ path[stroke="rgb(123,162,255)"] {
 .row__5cea9,
 .bd-install-modal-items>.bd-install-modal-item:not(:last-child),
 .appContainer_f37514,
-.visual-refresh .container__133bf,
 .visual-refresh-chat-input .accessoryBar__74017,
 .visual-refresh .unicodeShortcut_b9ee0c,
 .visual-refresh .top_b3f026,
-.winButtonsWithDivider_c38106:before,
 .cell_f70307,
 .visual-refresh .cell_f70307,
 .headerBar__80679,
 .visual-refresh .headerBar__80679,
 .cardFooter__5bdf8,
 .visual-refresh-chat-input .characterCount__795fb,
-.visual-refresh .container_a592e1,
 .visual-refresh-chat-input .header__62280,
 .visual-refresh .stackedBars__74017:not(:last-child),
 .termsRow__523ab,
@@ -10718,7 +10722,6 @@ path[stroke="rgb(123,162,255)"] {
 .presetSeparator__9c019,
 .theme-dark .checkboxContainer_db81c6:before,
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .divider_ae36e5,
-.headerBar__8a7fc:after,
 .divider__04d5b,
 .separator_f84418,
 .menuDivider_af7fb7,
@@ -11538,9 +11541,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .benefitToggleContainer__7fffd,
 .theme-dark .learnMoreTipContainer__9c6a8,
 .container__3dc42,
-.clipItem-3C35Ec,
 .clipItem__1d12e,
 .linkButton_b1585f,
+.visual-refresh .listContainer__527b1 .listElement__527b1,
 .decorationPreview-1EtFuW,
 .smallDecorationPreviewsContainer__51743,
 .uploadImage_e45886,
@@ -11588,6 +11591,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .clipItem-3C35Ec:hover,
 .clipItem__1d12e:hover,
 .linkButton_b1585f:hover,
+.visual-refresh .listContainer__527b1 .listElement__527b1:hover,
 .uploadImage_e45886:hover,
 .replies__1b03e:hover,
 .listItemContainer__7c901:hover,
@@ -11610,6 +11614,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .container__04119:hover.active__04119,
 .classificationPolicyCardIcon_a48d6b,
 .linkButton_b1585f:active,
+.visual-refresh .listContainer__527b1 .listElement__527b1:active,
 .listItemContainer__7c901:active,
 .container_a14595:active {
 	background-color: rgba(0, 0, 0, .8);
@@ -11832,7 +11837,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .loader_c48ade,
 .shopScroll__6db1d,
 .container__49668,
-.container_cbd375 {
+.container_cbd375,
+.backdrop__8a7fc {
 	border-left: solid 1px rgba(1, 1, 1, 0.25) !important;
 }
 
@@ -13288,7 +13294,6 @@ svg.gameIcon_b52e4f,
 .visual-refresh .enableCard__74f90,
 .visual-refresh .callContainer_cb9592,
 .visual-refresh.theme-midnight .callContainer_cb9592,
-.visual-refresh .searchBar__35e86,
 .visual-refresh .phoneField_a0c54f,
 .minimalState__6f029 .colorSwatch__6f029,
 .container_cd2100,
@@ -14404,7 +14409,8 @@ path[fill="brand-200"] {
 	border-color: var(--bg-overlay-4, var(--backgroundDark));
 }
 
-.actionContainer_adfd31 .colorBrand__201d5 {
+.actionContainer_adfd31 .colorBrand__201d5,
+.actionContainer_adfd31 .colorPrimary__201d5 {
 	min-height: 38px;
 	height: 38px;
 }
@@ -14473,6 +14479,7 @@ path[fill="brand-200"] {
 
 .visual-refresh-chat-input .messageInput__62280,
 .button_aec7ab,
+.buttonInner_aec7ab,
 .buttonInner_aec7ab:hover,
 .actionButtons_cc1819,
 .buttonInner_aec7ab:active,
@@ -14482,6 +14489,7 @@ path[fill="brand-200"] {
 .buttonInner_aec7ab.selected_aec7ab {
 	background-color: rgba(0, 0, 0, 0) !important;
 	box-shadow: none !important;
+	border: none;
 }
 
 .visual-refresh .guildIcon__48112 {
@@ -14570,25 +14578,31 @@ path[fill="brand-200"] {
 	background-color: rgb(2, 2, 2, 0.06);
 }
 
-.visual-refresh .header_f37cb1 {
-	box-shadow: var(--elevation-low);
-}
-
 .visual-refresh .channel__972a0 {
 	margin-right: 2px;
 }
 
-.theme-midnight .container__9293f,
-.visual-refresh .container__9293f {
+.visual-refresh .header__551b0,
+.visual-refresh .header_f37cb1 {
 	border-bottom: solid 1px rgba(1, 1, 1, 0.25);
 }
 
-.visual-refresh .sidebarList_c48ade {
+.theme-midnight .container__9293f,
+.visual-refresh .container__9293f,
+.visual-refresh .sidebarList_c48ade,
+.visual-refresh .searchBar__35e86 {
 	border-color: rgba(1, 1, 1, 0.25);
-	border-width: 1.2px;
+	border-width: 1px;
 }
 
-.visual-refresh .chat_f75fb0[data-has-border=true] {
+.theme-midnight .container__9293f,
+.visual-refresh .container__9293f {
+	border-left: solid 1px rgba(1, 1, 1, 0.25);
+}
+
+.visual-refresh .chat_f75fb0[data-has-border=true],
+.visual-refresh .container_a592e1,
+.winButtonsWithDivider_c38106:before {
 	border-color: rgba(1, 1, 1, 0.25);
 }
 
@@ -14614,7 +14628,8 @@ path[fill="brand-200"] {
 	border-color: #1c212c;
 }
 
-.visual-refresh .header_c791b2 {
+.visual-refresh .header_c791b2,
+.visual-refresh .container__133bf {
 	border-top: solid 1px rgba(1, 1, 1, 0.25);
 }
 
@@ -14801,4 +14816,12 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .visual-refresh .scroller__629e4 {
 	margin-right: 0;
+}
+
+:where(.visual-refresh) .container_deee3a {
+	background: radial-gradient(100% 100% at 50% 100%, var(--backgroundDark) 60%, var(--transparent) 100%), linear-gradient(270deg, var(--bg-modal-gradient-navy-end), var(--bg-modal-gradient-navy-start));
+}
+
+.overlay__8a7fc:after {
+	background-color: rgba(1, 1, 1, 0.25);
 }
