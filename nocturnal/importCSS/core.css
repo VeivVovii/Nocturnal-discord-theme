@@ -10742,7 +10742,8 @@ path[stroke="rgb(123,162,255)"] {
 .separator__2dc49,
 .divider_bb7f52,
 .divider__864b0,
-.interactionsContainer_af3b89:before {
+.interactionsContainer_af3b89:before,
+.separator__60d39 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
