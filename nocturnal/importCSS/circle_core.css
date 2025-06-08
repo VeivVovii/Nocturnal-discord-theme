@@ -14527,7 +14527,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .contentRegionScroller__23e6b .container__86ab2,
 .contentRegionScroller__23e6b .avatarWrapper__86ab2,
 .profileEntryCard__655fa,
-.container__98cbd {
+.container__98cbd,
+.levelContainer__3dcc3 {
 	background-color: var(--backgroundDarker);
 	border: none;
 }
@@ -14730,4 +14731,9 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .background__6343b {
 	background: linear-gradient(180deg,rgba(10,12,18,0),rgba(10,12,18,.4))
+}
+
+.visual-refresh .modalContentContainer_b30d08 {
+	padding: 0 !important;
+	overflow: hidden !important;
 }
