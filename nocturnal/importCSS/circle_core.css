@@ -2998,7 +2998,7 @@ svg[name=Nitro] g path {
 
 .folderPreviewWrapper__48112 {
 	background: var(--bg-overlay-6, #101218);
-	border-radius: 12px;
+	border-radius: 50px;
 }
 
 .folderIcon__48112:hover, .keyboard-mode .folderButton__48112:focus .folderIcon__48112 {
