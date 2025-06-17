@@ -14698,8 +14698,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 	-webkit-mask: none;
 	mask: none;
 	fill: none;
-	rx: 8;
-	ry: 8;
+	rx: 50;
+	ry: 50;
 	stroke-width: 2px;
 	stroke: #666;
 }
