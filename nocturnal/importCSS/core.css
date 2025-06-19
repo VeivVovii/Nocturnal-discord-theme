@@ -3309,10 +3309,6 @@ svg[name=Nitro] g path {
 	background: var(--backgroundDarker);
 }
 
-.friendWrapper_bbd192 {
-	margin-right: 6px;
-}
-
 .helpIcon__4d3fa {
 	top: 0;
 	right: 0;
@@ -9944,8 +9940,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .scrollerInner_e4503a,
-.visual-refresh .scrollerInner_e4503a,
-.visual-refresh .scroller_cba592 {
+.visual-refresh .scrollerInner_e4503a {
 	padding-left: 10px;
 }
 
@@ -10656,7 +10651,8 @@ path[stroke="rgb(123,162,255)"] {
 .customizationSection__42179.opened__42179,
 .theme-dark .emojiRow_e7d73e,
 .visual-refresh .scrollSeparator__01dab,
-.visual-refresh .darkCardBackground_c3d04b {
+.visual-refresh .darkCardBackground_c3d04b,
+.footer_cba592 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -11471,7 +11467,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .visual-refresh .roleMemberList__01dab,
 .body__527b1,
 .visual-refresh .content__7c901,
-.visual-refresh .footer__7c901 {
+.visual-refresh .footer__7c901,
+.scroller_cba592 {
 	padding-right: 18px !important;
 }
 
@@ -12971,7 +12968,8 @@ path[fill="#949cf7"] {
 .burstReactionTooltipUpsellCta_b49891,
 .tier2Gradient_e00877,
 .tier2Gradient__95fb7,
-.visual-refresh .root_bfe55a {
+.visual-refresh .root_bfe55a,
+.button__83f66 {
 	background: none;
 }
 
@@ -14805,7 +14803,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .messageContainer__93e55,
 .pickerItem__69ef9,
 .full-motion .shuffleOutro__08415,
-.hero_af3b89 {
+.hero_af3b89,
+.themeResponsiveContainer__83f66 {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14823,6 +14822,9 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .boostButton__25ea7,
 .boostButton__25ea7:hover,
 .boostButton__25ea7:active,
+.boostButton__58c46,
+.boostButton__58c46:hover,
+.boostButton__58c46:active,
 .option_edf440 {
 	border: none;
 	background-color: var(--backgroundDarker-alt);
