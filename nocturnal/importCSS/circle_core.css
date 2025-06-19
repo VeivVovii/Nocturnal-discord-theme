@@ -1230,20 +1230,6 @@
 	--to-text-content-footer-on-forums: 1, 1, 1;
 	--chat-avatar-border-color: darkcyan;
 	--color: #00b4cd;
-	--background-accent: #4f545c;
-	--primary-530: #4f545c;
-	--background-primary: #36393f;
-	--primary-600: #36393f;
-	--background-secondary: #2f3136;
-	--primary-630: #2f3136;
-	--background-nested-floating: #2f3136;
-	--background-secondary-alt: #292b2f;
-	--primary-660: #292b2f;
-	--background-tertiary: #202225;
-	--primary-700: #202225;
-	--background-floating: #18191c;
-	--primary-800: #18191c;
-	--text-link: #00b0f4;
 	--roles-roundness: 0;
 	--__spoiler-background-color--hidden: rgba(0, 0, 0, .2);
 	--__spoiler-background-color--hidden--hover: rgba(0, 0, 0, .4);
@@ -13237,7 +13223,8 @@ svg.gameIcon_b52e4f,
 .editProfileContainer__42179,
 .visual-refresh .editProfileContainer__42179,
 .option__54675,
-.iconPlaceholder__46773 {
+.iconPlaceholder__46773
+.nameplate__5a2c6 {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -13753,10 +13740,11 @@ path[fill="badge-brand-bg"] {
 .theme-light .tooltipPrimary__382e7,
 .theme-light .container__3dde2,
 .theme-light .popoutContainer__0f481 {
-	background-color: var(--background-floating) !important;
+	background-color: var(--background-primary) !important;
 }
 
-.theme-light .item__97e86:hover:not(.disabled__97e86), .focused__97e86 {
+.theme-light .item__97e86:hover:not(.disabled__97e86),
+.theme-light .focused__97e86 {
 	background-color: var(--background-modifier-hover);
 }
 
@@ -13777,7 +13765,7 @@ path[fill="badge-brand-bg"] {
 }
 
 .theme-light .container_a45028 {
-	background-color: var(--background-tertiary) !important;
+	background-color: var(--input-background) !important;
 }
 
 .channelAppLauncher_e6e74f {
@@ -14213,7 +14201,10 @@ path[fill="brand-200"] {
 	width: 90px;
 }
 
-.container_ab8609 {
+.container_ab8609,
+.inner_ab8609,
+.container_ab8609.editable_ab8609:hover,
+.visual-refresh .container_ab8609 {
 	--custom-status-bubble-background-color: #202632;
 	--custom-status-bubble-background: #202632;
 }
@@ -14594,7 +14585,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .pickerItem__69ef9,
 .full-motion .shuffleOutro__08415,
 .hero_af3b89,
-.themeResponsiveContainer__83f66 {
+.themeResponsiveContainer__83f66,
+.visual-refresh .nameplate__5a2c6 {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14777,7 +14769,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 :where(.visual-refresh) .input__0f084:hover, :where(.visual-refresh) .input__0f084[readonly],
 .profileNote__9c3be textarea,
-.popover__2d0ab {
+.popover__2d0ab,
+.popover_c97e55 {
 	border: none;
 }
 
