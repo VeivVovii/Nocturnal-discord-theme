@@ -14872,7 +14872,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .visual-refresh .theme-midnight .themeOption__81345,
 .visual-refresh .theme-midnight .themeOption__81345[data-selected=true],
 .visual-refresh .option__81345[data-selected=true],
-.contentRegionScroller__23e6b .guildIconImage__79e3e.acronym__79e3e {
+.contentRegionScroller__23e6b .guildIconImage__79e3e.acronym__79e3e,
+.topPerksCardLabelContainer__3add8 {
 	border: none;
 	background-color: #0c0e12;
 }
@@ -15141,4 +15142,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .roleStyleMessageContainer__981c8:after {
 	background: linear-gradient(to right,rgba(0, 0, 0, 0),var(--backgroundDarker));
+}
+
+#permissions-modal-wrapper .perm-item {
+	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
 }
