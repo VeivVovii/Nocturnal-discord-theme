@@ -1679,6 +1679,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn,
+.roleStyleUpsellButton__981c8,
 .entryPointAppCommandPlaceholder__87dda,
 .iconButton__8a7fc,
 .secondaryButton_af3b89,
@@ -1737,6 +1738,7 @@ svg[name=Nova_Discord] * {
 }
 
 #bd-settingspane-container .bd-pfbtn:hover,
+.roleStyleUpsellButton__981c8:hover:not(:disabled),
 .iconButton__8a7fc:hover:not(:disabled),
 .secondaryButton_af3b89:hover:not(:disabled),
 .linkButton__24654:hover:not(:disabled),
@@ -3516,7 +3518,6 @@ svg[name=Nitro] g path {
 	fill: var(--backgroundDarker);
 }
 
-.colorable_f1ceac.primaryDark_f1ceac,
 .colorable_f1ceac.primaryDark_f1ceac:hover,
 .colorable_f1ceac.primaryDark_f1ceac.active_f1ceac {
 	background: #0e1015;
@@ -4563,6 +4564,7 @@ button.button__67645.enabled__67645:hover,
 	margin-right: 0;
 }
 
+.visual-refresh .previewContainer__981c8,
 .previewContainer__981c8,
 .placeholderCard_d87d30 {
 	border-color: rgba(0, 0, 0, .95);
@@ -5415,6 +5417,7 @@ button.button__67645.enabled__67645:hover,
 .visual-refresh .chatHeaderBar_dc83f5,
 .option__8e5b0:hover,
 .container_c02108,
+.visual-refresh .container_c02108,
 .collapseable__217b7.toggled__217b7:active,
 .visual-refresh .collapseable__217b7.toggled__217b7:active {
 	background-color: var(--backgroundDarker);
@@ -5494,8 +5497,7 @@ button.button__67645.enabled__67645:hover,
 	box-shadow: inset 0px 0px 10px 0px #000;
 }
 
-.pinIcon__08166,
-.detailsTooltip_G9hSSa div.icon_hSL42R {
+.pinIcon__08166 {
 	background-color: var(--primary);
 }
 
@@ -6808,6 +6810,7 @@ html.theme-light .app__160d8::after {
 	background-color: rgba(0, 0, 0, .5);
 }
 
+.visual-refresh .ruleContainer_c02108,
 .ruleContainer_c02108 {
 	border-top: 1px solid rgba(0, 0, 0, .95);
 }
@@ -10345,10 +10348,6 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.messageContainer__981c8 .avatar_c19a55 {
-	border-radius: 50px;
-}
-
 .confirmationContainer__892e3,
 .generalContainer__892e3 {
 	background-color: var(--backgroundDark);
@@ -11858,7 +11857,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .joinOptionContent__959cb.active__959cb,
 .headerIconWrapper__42179,
 .colorable_f1ceac.experimentRed_f1ceac.active_f1ceac,
-.colorable_f1ceac.experimentRed_f1ceac:hover {
+.colorable_f1ceac.experimentRed_f1ceac:hover,
+.detailsTooltip_78f589 div.icon_78f589 {
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -12046,7 +12046,8 @@ div.cardContainer__88e24,
 .scroller_ef4a91,
 .visual-refresh .container_c791b2,
 .visual-refresh .modalContent__0651b,
-.visual-refresh .searchBox__01dab {
+.visual-refresh .searchBox__01dab,
+.visual-refresh .content_f549e5 {
 	padding-right: 10px !important;
 }
 
@@ -12573,7 +12574,7 @@ path[fill="#949cf7"] {
 .avatar_f52a16,
 .iconActiveXLarge_f34534,
 .guildIcon_b962dc,
-.detailsTooltip_G9hSSa div.icon_hSL42R,
+.detailsTooltip_78f589 div.icon_78f589,
 .icon_hSL42R,
 .iconActiveLarger_f34534 {
 	border-radius: 100% !important;
@@ -13368,6 +13369,7 @@ svg.gameIcon_b52e4f,
 .modalContent_de2fa0,
 .wrapper__960df,
 .visual-refresh .wrapper__960df,
+.container_e928f4,
 .container_e928f4:before,
 .sidebarCard_b962dc,
 .visual-refresh .folderIconContent__93fc9,
@@ -13996,6 +13998,7 @@ path[fill="brand-200"] {
 .disabledFieldBackground__523ab,
 .restrictedSafetyTable__573a4,
 .safetyTable__573a4,
+.safetyTable__1f3e3,
 .shopAll__08415,
 .container__1729d,
 .theme-dark.outer_c0bea0.panel_c0bea0:not(.custom-theme-background),
@@ -14505,7 +14508,6 @@ path[fill="brand-200"] {
 .visual-refresh .premiumDisabledRefresh__9be63.focused__9be63,
 .visual-refresh .premiumDisabledRefresh__9be63:hover,
 .visual-refresh .premiumDisabledRefresh__9be63:active:not(:focus-within),
-.container_e928f4,
 .noIcon_f34534.guildIcon_d5f3cd,
 .guildIconImage_bab6e1.acronym_bab6e1 {
 	background: rgba(0, 0, 0, .5);
@@ -14622,7 +14624,10 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .inventoryControlsButton__6980e,
 .deleteButton__1df30,
 .upsellContainer__4a7f0,
-.container__11014 {
+.container__11014,
+.infoGroup_f549e5,
+.roleStyleUpsell__981c8,
+.roleStylePreviewContainer__981c8 {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14643,7 +14648,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .boostButton__58c46,
 .boostButton__58c46:hover,
 .boostButton__58c46:active,
-.option_edf440 {
+.option_edf440,
+.roleStyleLabel__981c8 {
 	border: none;
 	background-color: var(--backgroundDarker-alt);
 }
@@ -14651,7 +14657,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .visual-refresh .theme-midnight .themeOption__81345,
 .visual-refresh .theme-midnight .themeOption__81345[data-selected=true],
 .visual-refresh .option__81345[data-selected=true],
-.contentRegionScroller__23e6b .guildIconImage__79e3e.acronym__79e3e {
+.contentRegionScroller__23e6b .guildIconImage__79e3e.acronym__79e3e,
+.topPerksCardLabelContainer__3add8 {
 	border: none;
 	background-color: #0c0e12;
 }
@@ -14899,4 +14906,19 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 #app-mount .unreadPill__972a0 {
 	left: -4px;
+}
+
+.member-perms .member-perm .name {
+	margin-left: -4px;
+}
+
+.roleStylePreviewContainer__981c8.selected__981c8,
+.selected__981c8 .roleStyleLabel__981c8,
+.roleStyleMessageContainer__981c8 {
+	background-color: var(--backgroundDarker);
+	border-color: var(--primary);
+}
+
+.roleStyleMessageContainer__981c8:after {
+	background: linear-gradient(to right,rgba(0, 0, 0, 0),var(--backgroundDarker));
 }
