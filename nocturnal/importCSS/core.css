@@ -1622,7 +1622,8 @@ svg[name=Nova_Discord] * {
 .visual-refresh .wrapper_d5f3cd,
 .file__0ccae,
 .custom-theme-background .file__0ccae,
-.visual-refresh .file__0ccae {
+.visual-refresh .file__0ccae,
+.guildInviteContainer__083ae {
 	border-color: rgba(0, 0, 0, .29);
 	background-color: rgba(0, 0, 0, .26);
 }
@@ -3643,13 +3644,13 @@ svg[name=Nitro] g path {
 }
 
 .container_eb2cd2 {
-	background-color: var(--backgroundDark) !important;
+	background-color: #202632 !important;
 	box-shadow: inset 0 0 100000px rgba(0, 0, 0, .5);
 	border: none;
 }
 
 .container_eb2cd2:hover {
-	background-color: var(--backgroundDarker) !important;
+	background-color: #1c212c !important;
 	box-shadow: inset 0 0 100000px rgba(0, 0, 0, .5);
 	border: none;
 }
@@ -4180,7 +4181,8 @@ button.button__67645.enabled__67645:hover,
 
 #app-mount .unread__2ea32,
 #app-mount .unread__6fddf,
-#app-mount .unread__9c019 {
+#app-mount .unread__9c019,
+#app-mount .unreadPill__972a0 {
 	height: 8px;
 	width: 8px;
 	border-radius: 4px;
@@ -4197,7 +4199,8 @@ button.button__67645.enabled__67645:hover,
 
 #app-mount .unread__2ea32:after,
 #app-mount .unread__6fddf:after,
-#app-mount .unread__9c019:after {
+#app-mount .unread__9c019:after,
+#app-mount .unreadPill__972a0:after {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -4213,7 +4216,8 @@ button.button__67645.enabled__67645:hover,
 
 #app-mount .unread__2ea32:hover:after,
 #app-mount .unread__6fddf:hover:after,
-#app-mount .unread__9c019:hover:after {
+#app-mount .unread__9c019:hover:after,
+#app-mount .unreadPill__972a0:hover:after {
 	animation: none
 }
 
@@ -4853,6 +4857,7 @@ button.button__67645.enabled__67645:hover,
 
 .actionContainer_bc4513,
 .mentionLimitContainer_ed9c90,
+.visual-refresh .mentionLimitContainer_ed9c90,
 .stepCountIcon_b6c6eb,
 .actionContainer__6446f,
 .visual-refresh .actionContainer__6446f,
@@ -6428,8 +6433,7 @@ button.button__67645.enabled__67645:hover,
 	top: 38px;
 }
 
-.flexChild__7c0ba:has(.avatarUploader_ab876d) .imageUploaderIconWrapper_e4d0bf,
-.banner-2boKnS {
+.flexChild__7c0ba:has(.avatarUploader_ab876d) .imageUploaderIconWrapper_e4d0bf {
 	width: auto;
 }
 
@@ -7937,16 +7941,16 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 }
 
 .rowContainer__991a0 {
-	background-color: var(--backgroundDark);
+	background-color: #202632;
 	box-shadow: inset 0 0 100000px 0 rgba(0, 0, 0, .5);
 }
 
 .rowContainer__991a0:hover {
-	background-color: var(--backgroundDarker);
+	background-color: #1c212c;
 }
 
 .rowContainer__991a0:active {
-	background-color: var(--backgroundDarker-alt)
+	background-color: var(--backgroundDark);
 }
 
 .insightsNoticeContainer-2ZrM4d,
@@ -8025,7 +8029,6 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .unsavedBadge_d7a3d0,
 .container_db811b[style*="brand-500"],
 .icon__6b38f[style*="brand-500"],
-.noIcon_f34534.guildIcon_d5f3cd,
 .avatarUploaderInnerEmpty_cd0bbe,
 .selectedBackground_e681d1,
 .guildIconNoIcon_b962dc {
@@ -9468,6 +9471,9 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:focus-within,
 	opacity: unset;
 }
 
+.tagInputWrapper__69ef9,
+.disabledForm__69ef9 .tagInputWrapper__69ef9:focus-within,
+.disabledForm__69ef9 .tagInputWrapper__69ef9:hover,
 .theme-dark .z-select,
 .inputWrapper_a97616,
 .theme-dark .css-1t5q03r-control,
@@ -10648,7 +10654,8 @@ path[stroke="rgb(123,162,255)"] {
 .theme-dark .emojiRow_e7d73e,
 .visual-refresh .scrollSeparator__01dab,
 .visual-refresh .darkCardBackground_c3d04b,
-.footer_cba592 {
+.footer_cba592,
+.disabledForm__69ef9 .pickerItemSelected__69ef9 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -11848,7 +11855,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .shopScroll__6db1d,
 .container__49668,
 .container_cbd375,
-.backdrop__8a7fc {
+.backdrop__8a7fc,
+.theme-dark.user-profile-sidebar.outer_c0bea0:not(.custom-theme-background) {
 	border-left: solid 1px rgba(1, 1, 1, 0.25) !important;
 }
 
@@ -12171,7 +12179,8 @@ div.cardContainer__88e24,
 .containerWithGlowWithBanner_a61c56,
 .containerWithGlowWithoutBanner_a61c56,
 .container__6f73d,
-.leftColumn_dbba93 {
+.leftColumn_dbba93,
+.leftContent__69ef9 {
 	max-width: none;
 }
 
@@ -12966,7 +12975,8 @@ path[fill="#949cf7"] {
 .tier2Gradient_e00877,
 .tier2Gradient__95fb7,
 .visual-refresh .root_bfe55a,
-.button__83f66 {
+.button__83f66,
+.upsellButton__4a7f0 {
 	background: none;
 }
 
@@ -13544,7 +13554,8 @@ svg.gameIcon_b52e4f,
 .container_e928f4:before,
 .sidebarCard_b962dc,
 .visual-refresh .folderIconContent__93fc9,
-.avatarWithBackground__183c2 {
+.avatarWithBackground__183c2,
+.footerContent__083ae {
 	background: rgba(0, 0, 0, 0);
 	border: none;
 	box-shadow: none;
@@ -14472,7 +14483,8 @@ path[fill="brand-200"] {
 .searchSuggestion__2dc39.searchSuggestion__2dc39:hover,
 .clydeIconContainer_b476ba,
 .visual-refresh .mini_a562c8 .barFill_a562c8,
-.visual-refresh .slider_a562c8 .barFill_a562c8 {
+.visual-refresh .slider_a562c8 .barFill_a562c8,
+.noIcon__0a95c {
 	background-color: var(--primary);
 	border: none;
 }
@@ -14707,7 +14719,9 @@ path[fill="brand-200"] {
 .visual-refresh .premiumDisabledRefresh__9be63.focused__9be63,
 .visual-refresh .premiumDisabledRefresh__9be63:hover,
 .visual-refresh .premiumDisabledRefresh__9be63:active:not(:focus-within),
-.container_e928f4 {
+.container_e928f4,
+.noIcon_f34534.guildIcon_d5f3cd,
+.guildIconImage_bab6e1.acronym_bab6e1 {
 	background: rgba(0, 0, 0, .5);
 	border: none;
 }
@@ -14820,7 +14834,9 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .visual-refresh .nameplate__5a2c6,
 .previewBox__36852,
 .inventoryControlsButton__6980e,
-.deleteButton__1df30 {
+.deleteButton__1df30,
+.upsellContainer__4a7f0,
+.container__11014 {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14990,7 +15006,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 	background: linear-gradient(180deg,rgba(20,23,31,0),rgba(20,23,31,.4))
 }
 
-.visual-refresh .modalContentContainer_b30d08 {
+.visual-refresh .modalContentContainer_b30d08,
+.visual-refresh .modalContentContainer__61aee {
 	padding: 0 !important;
 	overflow: hidden !important;
 }
@@ -15098,4 +15115,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .placeholderFill__7ffbc {
 	fill: var(--backgroundDarker-alt);
+}
+
+#app-mount .unreadPill__972a0 {
+	left: -4px;
 }
