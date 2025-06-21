@@ -14922,3 +14922,7 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .roleStyleMessageContainer__981c8:after {
 	background: linear-gradient(to right,rgba(0, 0, 0, 0),var(--backgroundDarker));
 }
+
+#permissions-modal-wrapper .perm-item {
+	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
+}
