@@ -10079,7 +10079,8 @@ path[stroke="rgb(123,162,255)"] {
 	padding-right: 16px !important;
 }
 
-.moreGuilds_bb856d {
+.moreGuilds_bb856d,
+.moreGuilds_3df50b {
 	background-color: rgba(0, 0, 0, 0);
 	padding: 0;
 }
@@ -15150,4 +15151,9 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 #permissions-modal-wrapper .perm-item {
 	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .95);
+}
+
+.user-profile-modal-v2 :where(.avatar__75742) {
+	left: 24px;
+	top: 72px;
 }
