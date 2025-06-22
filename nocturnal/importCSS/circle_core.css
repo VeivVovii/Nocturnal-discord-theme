@@ -6872,29 +6872,29 @@ svg.contentImage__42bf5 path {
 	padding: 16px;
 }
 
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar__75742.panel__75742,
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatarWrapper_f89da9,
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatar__75742 {
-	border: 4px solid var(--backgroundDarker);
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar__75742.panel__75742:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatar__75742:not(.withReactReply__75742) {
+	border: 7px solid var(--backgroundDarker);
 	background-color: var(--backgroundDarker);
 	border-radius: 100%;
 }
 
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar__75742,
-.userProfileInnerThemedNonPremium_c69a7b .avatar__75742,
-.userProfileInnerThemedNonPremium_c69a7b .avatarWrapper_f89da9,
-.userProfileInnerThemedNonPremium_c69a7b .avatar_bc9cc2,
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatarWrapper_f89da9,
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar_bc9cc2,
-.userProfileInnerThemedNonPremium_c69a7b .avatar_ec3b75,
-.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar_ec3b75,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2,
-.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
-.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2,
-.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
-.clickable_cc54d6,
-.avatar_d28e10 {
-	border: 4px solid var(--backgroundDark);
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar__75742:not(.withReactReply__75742),
+.userProfileInnerThemedNonPremium_c69a7b .avatar__75742:not(.withReactReply__75742),
+.userProfileInnerThemedNonPremium_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.userProfileInnerThemedNonPremium_c69a7b .avatar_bc9cc2:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatarWrapper_f89da9:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar_bc9cc2:not(.withReactReply__75742),
+.userProfileInnerThemedNonPremium_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar_ec3b75:not(.withReactReply__75742),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_bc9cc2:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_bc9cc2:not(.withReactReply__75742),
+.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-secondary-alt"] .userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.clickable_cc54d6:not(.withReactReply__75742),
+.avatar_d28e10:not(.withReactReply__75742) {
+	border: 7px solid var(--backgroundDark);
 	background-color: var(--backgroundDark);
 	border-radius: 100%;
 }
