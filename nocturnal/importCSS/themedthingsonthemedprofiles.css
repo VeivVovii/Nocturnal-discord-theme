@@ -477,7 +477,7 @@
 	background-color: var(--profile-gradient-secondary-color) !important;
 }
 
-.custom-user-profile-theme .inlineContainer__74017 .themedBackground__74017 {
+.visual-refresh .custom-user-profile-theme .inlineContainer__74017 .themedBackground__74017 {
 	background: var(--bg-overlay-5, var(--profile-gradient-secondary-color)) !important;
 }
 
@@ -677,4 +677,8 @@
 
 .custom-user-profile-theme .top_b3f026 .item_b3f026 {
 	--selected-tab-item-color: var(--profile-gradient-secondary-color) !important;
+}
+
+.visual-refresh .custom-user-profile-theme .inlineContainer__74017:not(.flushContainer__74017) {
+	background-color: var(--profile-gradient-primary-color) !important;
 }
