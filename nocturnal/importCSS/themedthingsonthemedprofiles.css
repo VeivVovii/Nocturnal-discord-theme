@@ -626,7 +626,9 @@
 }
 
 .custom-user-profile-theme .button_f7ecac:hover,
-.custom-user-profile-theme .button_f7ecac:active {
+.custom-user-profile-theme .button_f7ecac:active,
+.custom-user-profile-theme .button_f7ecac[aria-expanded=true],
+.custom-user-profile-theme .button_f7ecac.selected_f7ecac {
 	background-color: var(--profile-gradient-secondary-color) !important;
 }
 
