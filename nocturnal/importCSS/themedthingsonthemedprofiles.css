@@ -671,8 +671,8 @@
 .custom-user-profile-theme .inner_ab8609,
 .custom-user-profile-theme .container_ab8609.editable_ab8609:hover,
 .custom-user-profile-theme .visual-refresh .container_ab8609 {
-	--custom-status-bubble-background-color: var(--profile-gradient-secondary-color);
-	--custom-status-bubble-background: var(--profile-gradient-secondary-color);
+	--custom-status-bubble-background-color: var(--profile-gradient-secondary-color) !important;
+	--custom-status-bubble-background: var(--profile-gradient-secondary-color) !important;
 }
 
 .custom-user-profile-theme .top_b3f026 .item_b3f026 {
