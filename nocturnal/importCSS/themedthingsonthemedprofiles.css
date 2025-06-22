@@ -450,7 +450,7 @@
 }
 
 .custom-user-profile-theme .tabBar_d1d9f3 {
-	border-color: var(--profile-gradient-secondary-color);
+	border-color: var(--profile-gradient-secondary-color) !important;
 }
 
 .custom-user-profile-theme .top_b3f026 .brand_b3f026.item_b3f026:hover,
@@ -665,4 +665,16 @@
 
 .theme-light .button_f7ecac {
 	color: var(--interactive-normal) !important;
+}
+
+.custom-user-profile-theme .container_ab8609,
+.custom-user-profile-theme .inner_ab8609,
+.custom-user-profile-theme .container_ab8609.editable_ab8609:hover,
+.custom-user-profile-theme .visual-refresh .container_ab8609 {
+	--custom-status-bubble-background-color: var(--profile-gradient-secondary-color);
+	--custom-status-bubble-background: var(--profile-gradient-secondary-color);
+}
+
+.custom-user-profile-theme .top_b3f026 .item_b3f026 {
+	--selected-tab-item-color: var(--profile-gradient-secondary-color) !important;
 }
