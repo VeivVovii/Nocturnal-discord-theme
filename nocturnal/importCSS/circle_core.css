@@ -1292,15 +1292,6 @@
 	box-shadow: inset 0 0 100000px 0 rgba(0, 0, 0, .5) !important;
 }
 
-.webkit__8d35a .buttons__74017,
-.buttons__74017:not(.platform-web .buttons__74017) {
-	margin-right: 0;
-}
-
-.scrollableContainer__74017 {
-	overflow-y: auto;
-}
-
 .attachWrapper__0923f {
 	border: none;
 }
@@ -6432,10 +6423,6 @@ button.button__67645.enabled__67645:hover,
 
 .visual-refresh .channelTextArea_fb64c9:focus-within {
 	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
-}
-
-.sansAttachButtonCreateThread__74017 .buttons__74017 {
-	margin-right: 0;
 }
 
 .popoutLoadingForeground__0f481 {
