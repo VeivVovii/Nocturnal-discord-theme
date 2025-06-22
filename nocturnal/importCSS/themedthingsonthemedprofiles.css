@@ -642,23 +642,23 @@
 	--custom-status-bubble-background: var(--profile-gradient-secondary-color);
 }
 
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9,
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75,
-.userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9,
-.userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75,
-.userProfileOuterThemed_c69a7b .avatarWrapper_f89da9,
-.custom-user-profile-theme .avatar_bc9cc2,
-.custom-user-profile-theme .clickable_cc54d6,
-.custom-user-profile-theme .avatar__75742,
-.custom-user-profile-theme .clickable_f26c88,
-.custom-user-profile-theme .avatar_f9d668 {
-	border: 4px solid var(--profile-gradient-primary-color) !important;
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.userProfileOuterThemed_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar_bc9cc2:not(.withReactReply__75742),
+.custom-user-profile-theme .clickable_cc54d6:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar__75742:not(.withReactReply__75742),
+.custom-user-profile-theme .clickable_f26c88:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar_f9d668:not(.withReactReply__75742) {
+	border: 7px solid var(--profile-gradient-primary-color) !important;
 	background-color: var(--profile-gradient-primary-color) !important;
 }
 
-.custom-user-profile-theme .profileAvatar__89307 {
+.custom-user-profile-theme .profileAvatar__89307:not(.withReactReply__75742) {
 	background-color: var(--profile-gradient-primary-color) !important;
-	border: 4px solid var(--profile-gradient-primary-color) !important;
+	border: 7px solid var(--profile-gradient-primary-color) !important;
 }
 
 .custom-user-profile-theme .top_b3f026 {
