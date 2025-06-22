@@ -652,17 +652,17 @@
 .custom-user-profile-theme .avatar__75742,
 .custom-user-profile-theme .clickable_f26c88,
 .custom-user-profile-theme .avatar_f9d668 {
-	border: 4px solid var(--profile-gradient-primary-color);
-	background-color: var(--profile-gradient-primary-color);
+	border: 4px solid var(--profile-gradient-primary-color) !important;
+	background-color: var(--profile-gradient-primary-color) !important;
 }
 
 .custom-user-profile-theme .profileAvatar__89307 {
-	background-color: var(--profile-gradient-primary-color);
-	border: 4px solid var(--profile-gradient-primary-color);
+	background-color: var(--profile-gradient-primary-color) !important;
+	border: 4px solid var(--profile-gradient-primary-color) !important;
 }
 
 .custom-user-profile-theme .top_b3f026 {
-	border-color: var(--profile-gradient-secondary-color);
+	border-color: var(--profile-gradient-secondary-color) !important;
 }
 
 .theme-light .button_f7ecac {
@@ -683,4 +683,8 @@
 
 .visual-refresh .custom-user-profile-theme .inlineContainer__74017:not(.flushContainer__74017) {
 	background-color: var(--profile-gradient-primary-color) !important;
+}
+
+.custom-user-profile-theme .top_b3f026 .item_b3f026.selected_b3f026 {
+	color: var(--profile-gradient-secondary-color) !important;
 }
