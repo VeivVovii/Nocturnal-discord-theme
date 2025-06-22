@@ -2935,7 +2935,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDarker);
 }
 
-.folderIconWrapper__48112[style*="background-color: rgba(88, 101, 242, 0.4);"] {
+.folderPreviewWrapper__48112[style*="background-color: rgba(88, 101, 242, 0.4);"] {
 	background-color: rgba(0, 138, 230, 0.4) !important;
 }
 
@@ -2994,7 +2994,7 @@ svg[name=Nitro] g path {
 }
 
 .folderPreviewWrapper__48112 {
-	background: var(--bg-overlay-6, #101218);
+	background-color: var(--custom-preview-background,#101218);
 	border-radius: 12px;
 }
 
@@ -6336,7 +6336,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .size16__183c2 .avatarContainerMasked__183c2,
-.iconContainerMasked_G-akdf.iconContainer_IBAtWs {
+.iconContainerMasked_3df50b.iconContainer_3df50b {
 	margin-right: 6.5px;
 	-webkit-mask: none;
 	mask: none;
@@ -7707,7 +7707,9 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .activityTag__18da2,
 .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
 .keyboard-mode .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
-.inlineButton__5cc6a {
+.inlineButton__5cc6a,
+.root__6c5a1,
+.visual-refresh .root__6c5a1 {
 	background-color: #1c212c;
 	border: none;
 }
@@ -7717,7 +7719,6 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .container_e9b3cb,
 .channelList__75906,
 .feedback_fa4f12,
-.root__6c5a1,
 .upsellPreview_d9161f,
 .channelRow__1ea09,
 .onboardingStepContainer__28e57,
@@ -11530,8 +11531,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .upsellTooltipWrapper__675aa.caretLeftCenter__675aa:after,
 .upsellTooltipWrapper__675aa.caretLeftTop__675aa:after,
-.upsellTooltipWrapper__675aa.caretLeftBottom_dafa63:after {
-	border-right-color: var(--backgroundDark);
+.upsellTooltipWrapper__675aa.caretLeftBottom_dafa63:after,
+.container_a1bfef.caretLeftTop_a1bfef:after {
+	border-right-color: var(--backgroundDark) !important;
 }
 
 .setCustomButton__669b5 {
