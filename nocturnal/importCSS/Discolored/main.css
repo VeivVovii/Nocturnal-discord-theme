@@ -377,7 +377,7 @@
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/545be34456b41a8695d986221389ea00.svg")
 }
 
-[src*="/assets/6cb2268dd459245064ab.svg"] {
+[src*="/assets/f13bb5d4ef6ec865.svg"] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5a6c298c68b5963581a107d420352d07.svg")
 }
 
@@ -729,4 +729,8 @@
 
 .custom-profile-theme .inlineContainer__74017 {
 	background: var(--bg-overlay-5, var(--profile-gradient-secondary-color)) !important;
+}
+
+.background_fdf9c0 {
+	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5071d09daafd2d99.svg");
 }
