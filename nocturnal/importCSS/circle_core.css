@@ -6877,6 +6877,7 @@ svg.contentImage__42bf5 path {
 	padding: 16px;
 }
 
+.theme-dark.user-profile-sidebar.outer_c0bea0:not(.custom-theme-background) .avatar__75742:not(.withReactReply__75742),
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .avatar__75742.panel__75742:not(.withReactReply__75742),
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .userPanelInnerThemed_c69a7b .avatar__75742:not(.withReactReply__75742) {
@@ -12936,8 +12937,8 @@ path[fill="var(--bg-brand)"] {
 .avatar_d28e10,
 .avatar__75742.user-profile-popout,
 .user-profile-popout :where(.avatar__75742) {
-	left: 10px;
-	top: 55px;
+	left: 9px;
+	top: 54px;
 }
 
 .role_a3571c,
