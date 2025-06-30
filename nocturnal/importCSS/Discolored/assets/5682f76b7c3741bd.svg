@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="856" viewBox="0 0 340 856" fill="none">
+<g clip-path="url(#clip0_17234_70623)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M340 0H0V120H10C10 94.5949 30.5949 74 56 74C81.4051 74 102 94.5949 102 120H340V0Z" fill="#000" fill-opacity="0.3"/>
+<rect y="119" width="10" height="1" fill="#000" fill-opacity="0.3"/>
+<rect x="102" y="119" width="238" height="1" fill="#000" fill-opacity="0.3"/>
+<path d="M96 120C96 142.091 78.0914 160 56 160C33.9086 160 16 142.091 16 120C16 97.9086 33.9086 80 56 80C78.0914 80 96 97.9086 96 120Z" fill="#000" fill-opacity="0.3"/>
+<rect x="16" y="183" width="83" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="16" y="201" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="16" y="227" width="308" height="132" rx="8" fill="#000" fill-opacity="0.3"/>
+<rect x="24" y="235" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="302" y="235" width="14" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="24" y="257" width="36" height="36" rx="4" fill="#000" fill-opacity="0.3"/>
+<rect x="68" y="257" width="248" height="12" rx="6" fill="#000" fill-opacity="0.3"/>
+<rect x="68" y="277" width="248" height="12" rx="6" fill="#000" fill-opacity="0.3"/>
+<rect x="68" y="297" width="248" height="12" rx="6" fill="#000" fill-opacity="0.3"/>
+<rect x="24" y="317" width="292" height="34" rx="4" fill="#000" fill-opacity="0.3"/>
+<rect x="16" y="371" width="308" height="255" rx="8" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="383" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="409" width="284" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="427" width="180" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="453" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="479" width="284" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="497" width="180" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="523" width="284" height="1" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="536" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="562" width="284" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="580" width="180" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="16" y="638" width="308" height="101" rx="8" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="654" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="688" width="284" height="1" fill="#000" fill-opacity="0.3"/>
+<rect x="28" y="705" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+<rect y="808" width="340" height="1" fill="#000" fill-opacity="0.3"/>
+<rect x="115" y="825" width="110" height="14" rx="7" fill="#000" fill-opacity="0.3"/>
+</g>
+<defs>
+<clipPath id="clip0_17234_70623">
+<rect width="340" height="856" fill="white"/>
+</clipPath>
+</defs>
+</svg>
