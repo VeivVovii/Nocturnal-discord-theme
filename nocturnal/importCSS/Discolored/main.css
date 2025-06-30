@@ -734,3 +734,8 @@
 .background_fdf9c0 {
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5071d09daafd2d99.svg");
 }
+
+.preview_a419e0,
+[src*='/assets/5682f76b7c3741bd.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/5682f76b7c3741bd.svg") !important;
+}
