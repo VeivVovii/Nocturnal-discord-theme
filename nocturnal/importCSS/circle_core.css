@@ -2461,7 +2461,8 @@ svg[name=Nitro] g path {
 }
 
 .folderGroupBackground__48112,
-.visual-refresh .folderGroupBackground__48112 {
+.visual-refresh .folderGroupBackground__48112,
+.pendingFolderButtonIcon__93fc9 {
 	background-color: #101218;
 	border-radius: 50px;
 	border: none;
@@ -2982,7 +2983,9 @@ svg[name=Nitro] g path {
 	border-radius: 50px;
 }
 
-.folderIcon__48112:hover, .keyboard-mode .folderButton__48112:focus .folderIcon__48112 {
+.folderIcon__48112:hover,
+.keyboard-mode .folderButton__48112:focus .folderIcon__48112,
+.pendingFolderButtonIcon__93fc9:hover {
 	background-color: rgb(10, 12, 16);
 }
 
@@ -10289,7 +10292,8 @@ path[stroke="rgb(123,162,255)"] {
 .iconPlaceholder__1729d,
 .clickable__761e5:hover,
 .theme-dark .contentContainer_c55cae,
-.autocompletePlaceholder__13533 {
+.autocompletePlaceholder__13533,
+.iconWrapper__1051d {
 	background-color: rgba(0, 0, 0, .35);
 	border: none;
 }
@@ -14364,7 +14368,8 @@ path[fill="brand-200"] {
 }
 
 .visual-refresh .main_c08b38,
-.visual-refresh .sidebarListRounded_c48ade {
+.visual-refresh .sidebarListRounded_c48ade,
+.contentWrapper__99a7e {
 	border-top-left-radius: 0;
 }
 
@@ -14632,7 +14637,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 .roleStylePreviewContainer__981c8,
 .emptyContainer_de8069,
 .authedAppV2__50a54,
-.theme-dark.user-profile-sidebar.outer_c0bea0:not(.custom-theme-background) {
+.theme-dark.user-profile-sidebar.outer_c0bea0:not(.custom-theme-background),
+.confirmation__1051d {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14963,4 +14969,8 @@ svg.contentImage__42bf5[style*='max-width: 60px;'],
 
 .avatar_e928f4 {
 	outline: none;
+}
+
+.defaultGradient__99a7e {
+	background: linear-gradient(112deg,var(--backgroundDark) 0,var(--backgroundDark) 100%)
 }
