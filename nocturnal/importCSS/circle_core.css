@@ -3966,7 +3966,6 @@ button.button__67645.enabled__67645:hover,
 	padding: 0;
 }
 
-.theme-dark .tierHeaderUnlocked_f15dca,
 .cardFolder__1a4ef,
 .theme-dark .tierBody_f15dca,
 .theme-dark .subscribersPopout_f15dca {
@@ -3979,6 +3978,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .settingCard__1a4ef.active__1a4ef,
+.theme-dark .tierHeaderUnlocked_f15dca,
 .theme-dark .tierHeaderLocked_f15dca,
 .theme-dark .tierInProgress_c44edb {
 	background-color: rgb(18, 21, 27);
@@ -10517,7 +10517,8 @@ path[stroke="rgb(123,162,255)"] {
 .visual-refresh .darkCardBackground_c3d04b,
 .footer_cba592,
 .disabledForm__69ef9 .pickerItemSelected__69ef9,
-.trait_d452e4:hover {
+.trait_d452e4:hover,
+.uploadItem_ec9088 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -13155,7 +13156,6 @@ svg.gameIcon_b52e4f,
 .visual-refresh .channelRow_e4503a,
 .visual-refresh .header_f369db,
 .visual-refresh .channelTextArea__74017,
-.visual-refresh .tier_f15dca,
 .visual-refresh .tierHeader_f15dca,
 .visual-refresh .box_f8c98c,
 .visual-refresh .row__0624f,
@@ -13387,7 +13387,8 @@ svg.gameIcon_b52e4f,
 .actionMenuButton_d84e0f:hover,
 .actionMenuButton_d84e0f:active,
 .guildTagContainer__63ed3,
-.guildTagContainer__63ed3:hover {
+.guildTagContainer__63ed3:hover,
+.overflowCount_e928f4 {
 	background: rgba(0, 0, 0, 0);
 	border: none;
 	box-shadow: none;
@@ -14160,7 +14161,7 @@ path[fill="brand-200"] {
 	padding-left: 16px;
 }
 
-.role__5c799[style="border-color: rgba(0, 0, 0, 0.6);"] {
+.role__5c799[style*="border-color: rgba(0, 0, 0, 0.6);"] {
 	border-color: rgb(191, 201, 206, 0.6) !important;
 }
 
@@ -14642,7 +14643,8 @@ path[fill="brand-200"] {
 .theme-dark.user-profile-sidebar.outer_c0bea0:not(.custom-theme-background),
 .confirmation__1051d,
 .guildRow__58ae6,
-.right__58ae6 {
+.right__58ae6,
+.visual-refresh .tier_f15dca {
 	border: none;
 	background-color: var(--backgroundDarker);
 }
@@ -14821,7 +14823,8 @@ path[fill="brand-200"] {
 :where(.visual-refresh) .input__0f084:hover, :where(.visual-refresh) .input__0f084[readonly],
 .profileNote__9c3be textarea,
 .popover__2d0ab,
-.popover_c97e55 {
+.popover_c97e55,
+.itemContainer_ec9088 {
 	border: none;
 }
 
@@ -14973,4 +14976,14 @@ path[fill="brand-200"] {
 
 .defaultGradient__99a7e {
 	background: linear-gradient(112deg,var(--backgroundDark) 0,var(--backgroundDark) 100%)
+}
+
+.itemSelected_ec9088,
+.uploadItemSelected_ec9088 {
+	border: none;
+	box-shadow: 0 0 0 2px var(--primary);
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
 }
