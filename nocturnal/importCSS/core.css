@@ -13210,7 +13210,8 @@ path[fill="var(--bg-brand)"] {
 .discoverHeader_b992d4,
 .rows_c3787a,
 .appLauncherPlaceholder__87dda,
-.chatTextAreaPlaceholder__87dda {
+.chatTextAreaPlaceholder__87dda,
+.channelSelectorComponent__7f727 {
 	margin-right: 10px;
 }
 
@@ -13439,7 +13440,8 @@ svg.gameIcon_b52e4f,
 .visual-refresh .editProfileContainer__42179,
 .option__54675,
 .iconPlaceholder__46773,
-.nameplate__5a2c6 {
+.nameplate__5a2c6,
+.channelResult__32fe1:hover {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
@@ -13881,7 +13883,7 @@ body,
 	background-color: rgba(0, 0, 0, .45);
 }
 
-.pillItemSelected__9e06a,
+.pillItem__9e06a:not(.pillItemSelected__9e06a):hover,
 .badge__91f7b,
 #app-mount :where(.bd-paginator-back,.bd-paginator-next):hover,
 .footerContainer__122e4:hover,
@@ -14737,6 +14739,7 @@ path[fill="brand-200"] {
 .visual-refresh .premiumDisabledRefresh__9be63:hover,
 .visual-refresh .premiumDisabledRefresh__9be63:active:not(:focus-within),
 .noIcon_f34534.guildIcon_d5f3cd,
+.pillItemSelected__9e06a,
 .guildIconImage_bab6e1.acronym_bab6e1 {
 	background: rgba(0, 0, 0, .5);
 	border: none;
@@ -15165,7 +15168,7 @@ path[fill="brand-200"] {
 }
 
 .avatar_ef4a91.size24_ef4a91:not(.isLast_ef4a91) {
-	margin-right: 8px;
+	margin-right: 6.5px;
 }
 
 [style*='85, 98, 238'] {
