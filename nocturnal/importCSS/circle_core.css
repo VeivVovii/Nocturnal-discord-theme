@@ -4647,7 +4647,6 @@ button.button__67645.enabled__67645:hover,
 .row__76f04:hover,
 .iconWrapper__54b20,
 .result__71961[aria-selected=true],
-.header_d0b769,
 .card__88264,
 .previewCard__735fb .card__88264:hover,
 .theme-dark .previewCard_f70348,
@@ -9154,9 +9153,11 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 
 [style="color: var(--text-brand);"],
 [style="color: #949cf7;"],
+[style="color: #93a7fd;"],
 [style="color: var(--control-brand-foreground);"],
 [style="color: hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%);"],
-[style="color: rgba(148, 156, 247);"] {
+[style="color: rgba(148, 156, 247);"],
+[style="color: rgba(147, 167, 253);"] {
 	color: rgb(60, 193, 235) !important;
 }
 
@@ -10280,7 +10281,8 @@ path[stroke="rgb(123,162,255)"] {
 .iconPlaceholder_ccbbbb,
 .bannerImage_ccbbbb,
 .textPlaceholder_ccbbbb,
-.loadingHeader__32c75 {
+.loadingHeader__32c75,
+.textPlaceholder__1729d {
 	background-color: rgba(0, 0, 0, .35);
 	border: none;
 }
@@ -12226,7 +12228,9 @@ input[type=checkbox]:focus-visible+.label__0d242 {
 .container__4216d path[fill="var(--text-brand)"],
 path[fill="var(--text-brand)"],
 .eventStatusContainer__29021 path[fill="#949cf7"],
-path[fill="#949cf7"] {
+.eventStatusContainer__29021 path[fill="#93a7fd"],
+path[fill="#949cf7"],
+path[fill="#93a7fd"] {
 	fill: rgb(60, 193, 235);
 }
 
@@ -12811,7 +12815,6 @@ path[fill="#949cf7"] {
 .backButton__91fb9,
 .floatingNitroButton__39749,
 .burstReactionTooltipUpsellCta_b49891,
-.tier2Gradient_e00877,
 .tier2Gradient__95fb7,
 .visual-refresh .root_bfe55a,
 .button__83f66,
@@ -13874,9 +13877,11 @@ path[fill="badge-brand-bg"] {
 }
 
 [style*="background-color: #949cf7;"],
+[style*="background-color: #93a7fd;"],
 [style*="background-color: var(--control-brand-foreground);"],
 [style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%);"],
 [style*="background-color: rgba(148, 156, 247);"],
+[style*="background-color: rgba(147, 167, 253);"],
 [style*="background-color: var(--text-brand);"] {
 	background-color: rgb(60, 193, 235) !important;
 }
@@ -15012,4 +15017,9 @@ path[fill="brand-200"] {
 .bottomBar__0f481 {
 	bottom: -8px;
 	border-radius: 16px 16px 0 0;
+}
+
+.settingsItemHighlight__7cd2d[style*="123, 176, 245"] {
+	background-color: rgba(35, 213, 235, 0.1) !important;
+	border-color: rgba(35, 213, 235, 0.99) !important;
 }
