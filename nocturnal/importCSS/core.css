@@ -12174,7 +12174,9 @@ div.cardContainer__88e24,
 .containerWithGlowWithoutBanner_a61c56,
 .container__6f73d,
 .leftColumn_dbba93,
-.leftContent__69ef9 {
+.leftContent__69ef9,
+.page__6db1d,
+.inventory__6db1d {
 	max-width: none;
 }
 
@@ -12417,10 +12419,10 @@ path[fill="#93a7fd"] {
 	fill: rgb(60, 193, 235);
 }
 
-.page__6db1d,
 .content__08415,
 .homeContainer__7449f,
-.content_f0d60d {
+.content_f0d60d,
+.inventoryNoFilter__6db1d {
 	padding-right: 26px;
 	max-width: none;
 }
@@ -14165,7 +14167,8 @@ path[fill="brand-200"] {
 .contentContainer__89463,
 .exampleImage__61aee,
 .background_fdf9c0:after,
-.right__58ae6 .container__11014 {
+.right__58ae6 .container__11014,
+.page__6db1d {
 	background-color: var(--backgroundDark);
 	border: none;
 }
