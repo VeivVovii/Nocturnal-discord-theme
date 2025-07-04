@@ -14992,7 +14992,10 @@ path[fill="brand-200"] {
 }
 
 .visual-refresh .container__8061a:not(.badgeList__1fed1),
-.custom-user-profile-theme .container__8061a {
+.custom-user-profile-theme .container__8061a,
+.headerButton__57d3f,
+.headerButton__57d3f:hover,
+.keyboard-mode .headerButton__57d3f:focus {
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 
