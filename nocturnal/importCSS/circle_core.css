@@ -10618,8 +10618,6 @@ path[stroke="rgb(123,162,255)"] {
 .divider__864b0,
 .interactionsContainer_af3b89:before,
 .separator__60d39,
-.placeholderBar_c3d04b,
-.nameplatePlaceholderAvatar_c3d04b,
 .user-profile-modal-v2 .row__19fd1:not(:last-child):after {
 	background-color: rgba(0, 0, 0, .95);
 }
@@ -14777,6 +14775,11 @@ path[fill="brand-200"] {
 .nameplatePreview_c50f62 .wrapper__44b0c rect[mask="url(#svg-mask-status-offline)"],
 .avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c rect[mask="url(#svg-mask-status-offline)"] {
 	stroke: #747f8d;
+}
+
+.nameplatePreviewSampleItem_c3d04b .wrapper__44b0c rect[fill="var(--border-subtle)"],
+.avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c rect[mask="var(--border-subtle)"] {
+	stroke: var(--border-subtle);
 }
 
 .folderIcon__48112 {
