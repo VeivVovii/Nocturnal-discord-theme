@@ -12967,7 +12967,8 @@ path[fill="#93a7fd"] {
 .tier2Gradient__95fb7,
 .visual-refresh .root_bfe55a,
 .button__83f66,
-.upsellButton__4a7f0 {
+.upsellButton__4a7f0,
+.gradient_c08b38 {
 	background: none;
 }
 
@@ -13273,7 +13274,8 @@ svg.gameIcon_b52e4f,
 .userPanelInnerThemed_c69a7b.userProfileInner_c69a7b,
 .category_ed45d7,
 .searchSuggestion__2dc39,
-.overlayAvatar__57752 {
+.overlayAvatar__57752,
+.outerWrapping_cd1bf7 {
 	border-radius: 0;
 }
 
@@ -15209,7 +15211,8 @@ path[fill="brand-200"] {
 .custom-user-profile-theme .container__8061a,
 .headerButton__57d3f,
 .headerButton__57d3f:hover,
-.keyboard-mode .headerButton__57d3f:focus {
+.keyboard-mode .headerButton__57d3f:focus,
+.transparentBackground_cd1bf7 {
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 
@@ -15240,4 +15243,16 @@ path[fill="brand-200"] {
 
 .gradient__083ae {
 	background: linear-gradient(180deg,rgba(0, 0, 0, 0) 0,var(--backgroundDarker) 100%)
+}
+
+.page_c48ade:has(.main_c08b38) {
+	border-left: solid 1px rgba(1, 1, 1, 0.25);
+}
+
+.avatar_b2d72f.avatarSize_b2d72f:not([style*='24px;']) {
+	margin-right: 2px;
+}
+
+.avatar_b2d72f.avatarSize_b2d72f[style*='24px;'] {
+	margin-right: 10px;
 }
