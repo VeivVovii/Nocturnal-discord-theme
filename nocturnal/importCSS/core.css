@@ -13583,7 +13583,6 @@ div.cardContainer__88e24,
 .container__7bdb0,
 .commandContainer_c94584,
 .overviewContainerWithVideo__95856,
-.backButton_c3787a,
 .mockMessage__9c019,
 .channeList__9c019,
 .visual-refresh .scroller__28a87 {
@@ -15199,6 +15198,10 @@ path[fill="brand-200"] {
 	fill: none;
 }
 
+.backButton_c3787a,
+.backButton_c3787a:hover,
+.keyboard-mode .backButton_c3787a:focus,
+.backButton_c3787a:active,
 .visual-refresh .container__8061a:not(.badgeList__1fed1),
 .custom-user-profile-theme .container__8061a,
 .headerButton__57d3f,
