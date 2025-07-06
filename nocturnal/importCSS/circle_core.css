@@ -14666,15 +14666,6 @@ path[fill="brand-200"] {
 	background: radial-gradient(123.96% 100% at 50% 100%,var(--backgroundDark) 52.07%,rgba(36,36,41,0) 100%),linear-gradient(270deg,rgba(160,86,242,.3),rgba(62,22,137,.3));
 }
 
-.visual-refresh .theme-midnight .themeOption__81345,
-.visual-refresh .theme-midnight .themeOption__81345[data-selected=true],
-.visual-refresh .option__81345[data-selected=true],
-.contentRegionScroller__23e6b .guildIconImage__79e3e.acronym__79e3e,
-.topPerksCardLabelContainer__3add8 {
-	border: none;
-	background-color: #0c0e12;
-}
-
 .visual-refresh .option__81345[data-selected=true] {
 	outline-color: var(--primary);
 	outline-offset: 0;
