@@ -6194,8 +6194,8 @@ button.button__67645.enabled__67645:hover,
 	background-color: rgba(0, 0, 0, .45) !important;
 }
 
-.bar__7aaec,
-.visual-refresh .bar__7aaec {
+.bar__7aaec:not(.voiceBar__7aaec,.mentionsBar__7aaec),
+.visual-refresh .bar__7aaec:not(.voiceBar__7aaec,.mentionsBar__7aaec) {
 	background-color: var(--backgroundDark);
 	border: none;
 }
@@ -8311,13 +8311,11 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	border-color: rgba(0, 0, 0, 0);
 }
 
-.toast__3fde7,
-.visual-refresh .toast__3fde7,
-.visual-refresh .toast__3fde7[data-type=success] {
+.toast__3fde7:not([data-type=success]),
+.visual-refresh .toast__3fde7:not([data-type=success]) {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
-	padding: 10px 16px;
 }
 
 .popoutRoot__79cbe.right__79cbe.arrowAlignmentTop__79cbe:before {
@@ -15048,7 +15046,11 @@ path[fill="brand-200"] {
 .popover_c97e55,
 .appAvatarV2__50a54,
 .itemContainer_ec9088,
-.modalFooter__08bd2 {
+.modalFooter__08bd2,
+.voiceBar__7aaec,
+.mentionsBar__7aaec,
+.toast__3fde7,
+.toast__3fde7[data-type=success] {
 	border: none;
 }
 
@@ -15121,7 +15123,7 @@ path[fill="brand-200"] {
 }
 
 .theme-light .container_b1f01d {
-	background: var(--bg-base-primary);
+	background: var(--background-base-low);
 }
 
 .selected__6980e {
@@ -15255,4 +15257,12 @@ path[fill="brand-200"] {
 
 .avatar_b2d72f.avatarSize_b2d72f[style*='24px;'] {
 	margin-right: 10px;
+}
+
+.spoilerContent__54ab5 {
+	--__current--spoiler-background-color: rgba(0, 0, 0, 0);
+}
+
+.wrapper__44b0c[style*='16px'] .avatar__44b0c {
+	border-radius: 4px;
 }
