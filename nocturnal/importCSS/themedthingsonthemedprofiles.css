@@ -688,3 +688,22 @@
 .custom-user-profile-theme .top_b3f026 .item_b3f026.selected_b3f026 {
 	color: var(--profile-gradient-secondary-color) !important;
 }
+
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.userProfileInnerThemedWithBanner_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.userProfileInnerThemedWithBanner_c69a7b .avatar_ec3b75:not(.withReactReply__75742),
+.userProfileOuterThemed_c69a7b .avatarWrapper_f89da9:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar_bc9cc2:not(.withReactReply__75742),
+.custom-user-profile-theme .clickable_cc54d6:not(.withReactReply__75742),
+.custom-user-profile-theme .clickable_f26c88:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar_d28e10:not(.withReactReply__75742),
+.user-profile-modal-v2.custom-user-profile-theme .avatar__75742:not(.withReactReply__75742) {
+	border: 7px solid color-mix(in oklab,var(--profile-gradient-overlay-color) 35%,var(--profile-gradient-primary-color)) !important;
+	background-color: color-mix(in oklab,var(--profile-gradient-overlay-color) 35%,var(--profile-gradient-primary-color)) !important;
+}
+
+.user-profile-popout.custom-user-profile-theme .avatar__75742:not(.withReactReply__75742) {
+	border: 7px solid var(--profile-gradient-modal-background-color / 85%) !important;
+	background-color: var(--profile-gradient-modal-background-color / 85%) !important;
+}
