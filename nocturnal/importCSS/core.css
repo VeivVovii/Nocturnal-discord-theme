@@ -15305,3 +15305,8 @@ path[fill="brand-200"] {
 &.theme-dark .lookLink__201d5.colorPrimary__201d5:hover .contents__201d5 {
 	--button--underline-color: #36c7ee;
 }
+
+#app-mount .unread__6fddf {
+	left: 2px;
+	top: 24px;
+}
