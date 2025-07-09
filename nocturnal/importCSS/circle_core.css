@@ -2660,7 +2660,8 @@ svg[name=Nitro] g path {
 
 .avatar_c19a55,
 .mockMessageAvatar__9c019,
-.avatar__11014 {
+.avatar__11014,
+.messageContainer__11014 .avatarContainer__11014 {
 	margin-top: auto;
 	left: 18px;
 	border-color: var(--chat-avatar-border-color);
@@ -13220,7 +13221,8 @@ svg.gameIcon_b52e4f,
 .smallImageContainer_ef9ae7,
 .guildImage__2f300,
 .avatarWrapper__86ab2,
-.guildIcon_c4eb81 {
+.guildIcon_c4eb81,
+.loadingItem__764cd>:first-child {
 	border-radius: 100%;
 }
 
@@ -13975,7 +13977,8 @@ path[fill="brand-200"] {
 .contentContainer__89463,
 .exampleImage__61aee,
 .background_fdf9c0:after,
-.page__6db1d {
+.page__6db1d,
+.exampleMessage__6c253 {
 	background-color: var(--backgroundDark);
 	border: none;
 }
@@ -14621,7 +14624,8 @@ path[fill="brand-200"] {
 .boostButton__58c46:active,
 .container__935ef,
 .progressContainer__0d0f9,
-.gradient__864b0+.container__86ab2 {
+.gradient__864b0+.container__86ab2,
+.container__6c253 {
 	border: none;
 	box-shadow: none;
 	background-color: var(--backgroundDarker);
