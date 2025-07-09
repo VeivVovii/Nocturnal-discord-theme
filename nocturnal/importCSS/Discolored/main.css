@@ -742,3 +742,7 @@
 .fullArt__86d5c {
 	background: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/vocal_full.svg");
 }
+
+[src*='/assets/eaca44c64758a5ee.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/eaca44c64758a5ee.svg") !important;
+}
