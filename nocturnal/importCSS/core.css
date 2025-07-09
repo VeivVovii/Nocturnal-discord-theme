@@ -8957,7 +8957,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 :where(.overlay_c0bea0) .role_dfa8b6 .roleRemoveIcon_dfa8b6,
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .role_dfa8b6 .roleRemoveIcon_dfa8b6 {
 	margin: 0;
-	margin-left: -1px;
+	margin-left: -3px;
 	left: unset;
 	transform: translate(50%, -50%);
 }
@@ -15336,6 +15336,7 @@ path[fill="brand-200"] {
 }
 
 .roleCircle_dfa8b6 {
+	margin-left: 1px;
 	margin-right: 2px;
 }
 
