@@ -13218,7 +13218,8 @@ svg.gameIcon_b52e4f,
 .guildImage__2f300,
 .avatarWrapper_dca174,
 .guildIcon_c4eb81,
-.loadingItem__764cd>:first-child {
+.loadingItem__764cd>:first-child,
+.overlay_dca174 {
 	border-radius: 100%;
 }
 
