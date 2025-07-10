@@ -2661,7 +2661,7 @@ svg[name=Nitro] g path {
 .avatar_c19a55,
 .mockMessageAvatar__9c019,
 .avatar__11014,
-.messageContainer__11014 .avatarContainer__11014 {
+.avatarContainer__11014:not(:has(.avatar__11014)) {
 	margin-top: auto;
 	left: 18px;
 	border-color: var(--chat-avatar-border-color);
@@ -3809,26 +3809,22 @@ button.button__67645.enabled__67645:hover,
 }
 
 .multipleChoiceItem_d48a51,
-.visual-refresh .radioItemStyles__837b7 {
+.visual-refresh .radioItemStyles__837b7,
+.gameSuggestionRadioItem__50a6f:hover,
+.itemFilled__001a7:hover:not([aria-checked=true]):not(.disabled__001a7),
+.visual-refresh .radioItemStyles__837b7:hover:not([aria-checked=true]):not(.disabled__001a7) {
 	background-color: rgba(0, 0, 0, .15);
 	border: none;
 }
 
-.gameSuggestionRadioItem__50a6f:hover,
-.itemFilled__001a7:hover:not([aria-checked=true]):not(.disabled__001a7),
-.visual-refresh .radioItemStyles__837b7:hover:not([aria-checked=true]):not(.disabled__001a7) {
-	background-color: rgba(0, 0, 0, .3);
-}
-
-.gameSuggestionRadioItem__50a6f:active,
 .itemFilled__001a7:active:not([aria-checked=true]):not(.disabled__001a7),
 .visual-refresh .radioItemStyles__837b7:active:not([aria-checked=true]):not(.disabled__001a7) {
-	background-color: rgba(0, 0, 0, .35);
+	background-color: rgba(0, 0, 0, .25);
 }
 
 .itemFilled__001a7[aria-checked=true],
 .visual-refresh .radioItemStyles__837b7[aria-checked=true] {
-	background-color: rgba(0, 0, 0, .6);
+	background-color: rgba(0, 0, 0, .5);
 }
 
 .popoutContainer__0f481,
@@ -11375,14 +11371,14 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	margin-top: auto;
 }
 
-.avatarContainer__44492 .wrapper__44b0c .avatar__44b0c[src="/assets/c11c66353ba9b3973cdd.png"],
+.avatarContainer__44492 .wrapper__44b0c .avatar__44b0c[src="/assets/32336875baac6ac1.png"],
 .wrapper__44b0c .avatar__44b0c[src="/assets/d9bd8932f55dc4ba.gif"] {
 	width: 40px;
 	height: 40px;
 	margin: 0;
 }
 
-.avatarContainer__44492 .wrapper__44b0c:has(.avatar__44b0c[src="/assets/c11c66353ba9b3973cdd.png"]):before,
+.avatarContainer__44492 .wrapper__44b0c:has(.avatar__44b0c[src="/assets/32336875baac6ac1.png"]):before,
 .wrapper__44b0c:has(.avatar__44b0c[src="/assets/d9bd8932f55dc4ba.gif"]):before {
 	width: 100%;
 	height: 100%;
@@ -15140,4 +15136,9 @@ path[fill="brand-200"] {
 
 .actionContainer__6b102 circle[fill='var(--interactive-normal)'] {
 	fill: #fff;
+}
+
+.messageContainer__11014 .avatarContainer__11014 {
+	width: auto;
+	height: auto;
 }
