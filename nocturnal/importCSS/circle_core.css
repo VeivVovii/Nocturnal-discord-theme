@@ -8620,7 +8620,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	margin-right: 0;
 }
 
-.rolePills__83361 .role__48c1c,
+.rolePills__83361 .role__48c1c.overflowButton__48c1c,
 .overflowRolesPopout__48c1c .addButton__48c1c.role__48c1c,
 .overflowRolesPopout__48c1c .overflowButton__48c1c.role__48c1c,
 .addButton__48c1c.role__48c1c {
@@ -11774,7 +11774,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	background: rgba(0, 0, 0, .2)padding-box;
 }
 
-.modalContent__81f73 {
+.visual-refresh .modalContent__81f73 {
 	padding-right: 0px !important;
 }
 
