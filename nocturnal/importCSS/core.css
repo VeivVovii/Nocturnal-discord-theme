@@ -13633,7 +13633,8 @@ div.cardContainer__88e24,
 .custom-user-profile-theme .clickable_f26c88,
 .custom-user-profile-theme .avatar_d28e10,
 .bd-addon-store-card-author-img,
-.bd-install-modal-author-img {
+.bd-install-modal-author-img,
+.guildIconImage_d28ae0 {
 	border-radius: 12px;
 }
 
@@ -13699,8 +13700,7 @@ body,
 .outline__669b5,
 .outline__7fe3a,
 .avatar_f24497,
-.circular__1df30,
-.guildIconImage_d28ae0 {
+.circular__1df30 {
 	border-radius: 8px;
 }
 
