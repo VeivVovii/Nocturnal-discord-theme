@@ -15144,7 +15144,7 @@ path[fill="brand-200"] {
 	fill: #fff;
 }
 
-.messageContainer__11014 .avatarContainer__11014 {
+.avatarContainer__11014:not(:has(.avatar__11014)) {
 	width: auto;
 	height: auto;
 }
