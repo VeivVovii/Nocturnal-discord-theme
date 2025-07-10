@@ -3778,9 +3778,7 @@ button.button__67645.enabled__67645:hover,
 .clickable_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1:hover,
 .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1,
 .visual-refresh .clickable_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1:hover,
-.visual-refresh .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1,
-.visual-refresh .communityInfoVisible_f37cb1 .header_f37cb1:hover,
-.visual-refresh .hasBanner_f37cb1 .header_f37cb1:hover {
+.visual-refresh .selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1 {
 	background-color: rgba(0, 0, 0, .35);
 	border: none;
 }
@@ -13545,14 +13543,11 @@ svg.gameIcon_b52e4f,
 .visual-refresh .header_f37cb1,
 .visual-refresh .communityInfoVisible_f37cb1 .header_f37cb1,
 .visual-refresh .hasBanner_f37cb1 .header_f37cb1,
-.visual-refresh .clickable_f37cb1,
 .visual-refresh .optionPillItem__3f413 button,
 .visual-refresh .channelAttachmentArea_b77158,
 .overflowCount__68334,
 .visual-refresh .wrapper__260e1,
 .visual-refresh .rows_b1c9f2,
-.clickable_f37cb1 .header_f37cb1:hover,
-.selected_f37cb1 .header_f37cb1,
 .modalContent_de2fa0,
 .wrapper__960df,
 .visual-refresh .wrapper__960df,
@@ -14600,7 +14595,8 @@ path[fill="brand-200"] {
 
 .visual-refresh .main_c08b38,
 .visual-refresh .sidebarListRounded_c48ade,
-.contentWrapper__99a7e {
+.contentWrapper__99a7e,
+.bannerVisible_f37cb1 .header_f37cb1 {
 	border-top-left-radius: 0;
 }
 
@@ -15086,7 +15082,8 @@ path[fill="brand-200"] {
 .mentionsBar__7aaec,
 .toast__3fde7,
 .toast__3fde7[data-type=success],
-.rippleContainer_a8e786 {
+.rippleContainer_a8e786,
+.bannerVisible_f37cb1 .headerGlass_f37cb1 {
 	border: none;
 }
 
@@ -15382,4 +15379,9 @@ path[fill="brand-200"] {
 
 .playing_a8e786 .playbackRateContainer_a8e786:hover .playbackRate_a8e786 {
 	background-color: rgba(0, 0, 0, .25);
+}
+
+.bannerVisible_f37cb1:hover .headerGlass_f37cb1,
+.bannerVisible_f37cb1 .headerGlass_f37cb1 {
+	opacity: 0 !important;
 }
