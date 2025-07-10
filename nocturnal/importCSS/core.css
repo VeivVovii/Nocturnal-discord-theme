@@ -3845,7 +3845,6 @@ button.button__67645.enabled__67645:hover,
 	border: none;
 }
 
-.gameSuggestionRadioItem__50a6f:active,
 .itemFilled__001a7:active:not([aria-checked=true]):not(.disabled__001a7),
 .visual-refresh .radioItemStyles__837b7:active:not([aria-checked=true]):not(.disabled__001a7) {
 	background-color: rgba(0, 0, 0, .25);
