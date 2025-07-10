@@ -2661,7 +2661,7 @@ svg[name=Nitro] g path {
 .avatar_c19a55,
 .mockMessageAvatar__9c019,
 .avatar__11014,
-.messageContainer__11014 .avatarContainer__11014 {
+.avatarContainer__11014:not(:has(.avatar__11014)) {
 	margin-top: auto;
 	left: 18px;
 	border-radius: 5px;
@@ -3837,26 +3837,23 @@ button.button__67645.enabled__67645:hover,
 }
 
 .multipleChoiceItem_d48a51,
-.visual-refresh .radioItemStyles__837b7 {
-	background-color: rgba(0, 0, 0, .15);
-	border: none;
-}
-
+.visual-refresh .radioItemStyles__837b7,
 .gameSuggestionRadioItem__50a6f:hover,
 .itemFilled__001a7:hover:not([aria-checked=true]):not(.disabled__001a7),
 .visual-refresh .radioItemStyles__837b7:hover:not([aria-checked=true]):not(.disabled__001a7) {
-	background-color: rgba(0, 0, 0, .3);
+	background-color: rgba(0, 0, 0, .15);
+	border: none;
 }
 
 .gameSuggestionRadioItem__50a6f:active,
 .itemFilled__001a7:active:not([aria-checked=true]):not(.disabled__001a7),
 .visual-refresh .radioItemStyles__837b7:active:not([aria-checked=true]):not(.disabled__001a7) {
-	background-color: rgba(0, 0, 0, .35);
+	background-color: rgba(0, 0, 0, .25);
 }
 
 .itemFilled__001a7[aria-checked=true],
 .visual-refresh .radioItemStyles__837b7[aria-checked=true] {
-	background-color: rgba(0, 0, 0, .6);
+	background-color: rgba(0, 0, 0, .5);
 }
 
 .popoutContainer__0f481,
@@ -15361,4 +15358,9 @@ path[fill="brand-200"] {
 
 .actionContainer__6b102 circle[fill='var(--interactive-normal)'] {
 	fill: #fff;
+}
+
+.messageContainer__11014 .avatarContainer__11014 {
+	width: auto;
+	height: auto;
 }
