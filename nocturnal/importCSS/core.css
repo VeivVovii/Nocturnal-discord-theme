@@ -5151,6 +5151,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .iconWrapper__83361,
+.lookFilled__201d5.colorBrand__201d5.optionPillBtn__3f413,
 .primary__6af3a.optionPillBtn__3f413 {
 	background-color: rgba(0, 0, 0, 0);
 }
@@ -6552,6 +6553,7 @@ button.button__67645.enabled__67645:hover,
 	border: none;
 }
 
+.lookOutlined__201d5.colorRed__201d5,
 .critical-secondary__6af3a {
 	background-color: rgba(0, 0, 0, .5);
 	border-radius: 6px;
@@ -6559,6 +6561,7 @@ button.button__67645.enabled__67645:hover,
 	border-color: #f04747;
 }
 
+.lookOutlined__201d5.colorRed__201d5:hover,
 .critical-secondary__6af3a:hover {
 	border-color: rgba(0, 0, 0, 0);
 	background-color: #f04747;
@@ -8054,7 +8057,9 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 }
 
 .critical-primary__6af3a.buttonSpacing_fcb27c,
-.voiceLauncherAppCardButton_cb32c7.critical-primary__6af3a {
+.voiceLauncherAppCardButton_cb32c7.critical-primary__6af3a,
+.lookFilled__201d5.colorRed__201d5.buttonSpacing_fcb27c,
+.voiceLauncherAppCardButton_cb32c7.lookFilled__201d5.colorRed__201d5 {
 	background-color: rgb(10, 12, 16) !important;
 }
 
@@ -8132,6 +8137,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	background-size: 200% 200%
 }
 
+.lookFilled__201d5.colorRed__201d5,
 .critical-primary__6af3a,
 .bd-button-filled.bd-button-color-red,
 .bd-button.bd-button-danger,
@@ -8147,6 +8153,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	border-radius: 5px !important;
 }
 
+.lookFilled__201d5.colorRed__201d5:hover:not(:disabled),
 .critical-primary__6af3a:hover:not(:disabled),
 .bd-button-filled.bd-button-color-red:hover:not(.bd-button-disabled),
 .bd-button.bd-button-danger:hover:not(.bd-button-disabled),
@@ -10055,6 +10062,7 @@ path[stroke="rgb(123,162,255)"] {
 	padding: 0;
 }
 
+.button_e131a9.lookFilled__201d5.colorBrand__201d5,
 .button_e131a9.primary__6af3a {
 	padding: 0 14px;
 }
