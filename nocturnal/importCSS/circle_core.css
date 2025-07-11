@@ -8973,9 +8973,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active,
 .visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active,
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true],
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true] {
+.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	color: #fff;
 	border: 2px solid rgba(0, 0, 0, 0);
