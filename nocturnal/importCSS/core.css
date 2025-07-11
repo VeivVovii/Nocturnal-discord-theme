@@ -8988,19 +8988,19 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 :where(.overlay_c0bea0) .role_dfa8b6 .roleFlowerStar_dfa8b6:before,
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .roleCircle_dfa8b6:not(.perm-circle):before,
 .theme-dark.outer_c0bea0:not(.custom-theme-background) .roleFlowerStar_dfa8b6:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 5px;
-    background: inherit;
-    border: 1px solid rgba(0, 0, 0, 0);
-    box-sizing: border-box;
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+	background: inherit;
+	border: 1px solid rgba(0, 0, 0, 0);
+	box-sizing: border-box;
 	-webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0);
 	-webkit-mask-composite: xor;
-    opacity: 0.6;
+	opacity: 0.6;
 	pointer-events: none;
 }
 
@@ -9087,9 +9087,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active,
 .visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active,
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true],
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true] {
+.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	color: #fff;
 	border: 2px solid rgba(0, 0, 0, 0);
