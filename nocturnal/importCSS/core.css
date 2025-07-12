@@ -4473,7 +4473,6 @@ button.button__67645.enabled__67645:hover,
 	}
 }
 
-.wrapper__83b1d,
 .header_d9c882,
 .chatHeaderBar_a5700d,
 .container_d8f25b,
@@ -4576,6 +4575,11 @@ button.button__67645.enabled__67645:hover,
 
 .previewContainer__981c8 .theme-light .messageContainer__981c8 {
 	background-color: #fff;
+}
+
+.wrapper__83b1d,
+.visual-refresh .wrapper__83b1d {
+	background-color: var(--backgroundDarker-alt);
 }
 
 .container_d8f25b:hover,
@@ -6564,7 +6568,9 @@ button.button__67645.enabled__67645:hover,
 }
 
 .lookOutlined__201d5.colorRed__201d5:hover,
-.critical-secondary__6af3a:hover {
+.critical-secondary__6af3a:hover,
+.lookOutlined__201d5.colorRed__201d5:active,
+.critical-secondary__6af3a:active {
 	border-color: rgba(0, 0, 0, 0);
 	background-color: #f04747;
 }
@@ -7531,11 +7537,13 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	background: var(--background-gradient-chat, rgba(0, 0, 0, .15));
 }
 
-.theme-dark .header_c791b2.container__9293f {
+.theme-dark .header_c791b2.container__9293f.themed__9293f,
+.visual-refresh .header_c791b2.container__9293f.themed__9293f {
 	--__header-bar-background: var(--backgroundDarker);
 }
 
-.theme-dark .header_c791b2.themed__9293f {
+.theme-dark .header_c791b2.container__9293f.themed__9293f,
+.visual-refresh .header_c791b2.container__9293f.themed__9293f {
 	background: var(--background-gradient-high, var(--__header-bar-background))
 }
 
@@ -8157,6 +8165,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 
 .lookFilled__201d5.colorRed__201d5:hover:not(:disabled),
 .critical-primary__6af3a:hover:not(:disabled),
+.critical-primary__6af3a:active:not(:disabled),
 .bd-button-filled.bd-button-color-red:hover:not(.bd-button-disabled),
 .bd-button.bd-button-danger:hover:not(.bd-button-disabled),
 .colorable_f1ceac.disconnect_f1ceac:hover,
@@ -12259,7 +12268,8 @@ div.cardContainer__88e24,
 .visual-refresh .searchBox__01dab,
 .visual-refresh .content_f549e5,
 .visual-refresh .modalContentContainer_bc32e9,
-.visual-refresh .content__99afd {
+.visual-refresh .content__99afd,
+.visual-refresh .updateContent_e6fa8e {
 	padding-right: 10px !important;
 }
 
@@ -13729,7 +13739,9 @@ body,
 .popout__669b5 .divider__669b5,
 .visual-refresh-chat-input .destinationRow__62280,
 .list__3b260 .row__0a95c,
-.listScroller__9d78f .row__0a95c {
+.list__3b260 .row__89036,
+.listScroller__9d78f .row__0a95c,
+.listScroller__9d78f .row__89036 {
 	margin-right: 6px;
 }
 
@@ -14205,7 +14217,8 @@ path[fill="brand-200"] {
 .background_fdf9c0:after,
 .page__6db1d,
 .exampleMessage__6c253,
-.cardContainer__6b102 {
+.userInfoContainer__6b102,
+.actionContainer__6b102 {
 	background-color: var(--backgroundDark);
 	border: none;
 }
@@ -14505,7 +14518,8 @@ path[fill="brand-200"] {
 }
 
 .actionContainer_adfd31 .colorBrand__201d5,
-.actionContainer_adfd31 .colorPrimary__201d5 {
+.actionContainer_adfd31 .colorPrimary__201d5,
+.sizeMedium__201d5.createButton__41ed7 {
 	min-height: 38px;
 	height: 38px;
 }
@@ -14862,10 +14876,8 @@ path[fill="brand-200"] {
 .container__935ef,
 .progressContainer__0d0f9,
 .gradient__864b0+.container_dca174,
-.container__6c253,
 .sidebar__6b102,
-.userInfoContainer__6b102,
-.actionContainer__6b102 {
+.container__6c253 {
 	border: none;
 	box-shadow: none;
 	background-color: var(--backgroundDarker);
@@ -14892,6 +14904,7 @@ path[fill="brand-200"] {
 .roleStyleLabel__981c8,
 .selected__981c8 .roleStyleLabel__981c8,
 .uploadImage_e45886:hover,
+.cardContainer__6b102,
 .headerV2__50a54 {
 	border: none;
 	background-color: var(--backgroundDarker-alt);
@@ -15106,7 +15119,8 @@ path[fill="brand-200"] {
 .toast__3fde7,
 .toast__3fde7[data-type=success],
 .rippleContainer_a8e786,
-.bannerVisible_f37cb1 .headerGlass_f37cb1 {
+.bannerVisible_f37cb1 .headerGlass_f37cb1,
+:where(.banner__68edb):before {
 	border: none;
 }
 
@@ -15409,7 +15423,7 @@ path[fill="brand-200"] {
 	opacity: 0 !important;
 }
 
-.secondary__6af3a {
+.button__6af3a {
 	height: 32px;
 }
 
@@ -15417,4 +15431,13 @@ path[fill="brand-200"] {
 	padding: 2px 16px;
 	min-height: 32px;
 	min-width: 32px;
+}
+
+.memberRowContainer__71c22.memberSelected__71c22 td {
+	background-color: #008ae629;
+}
+
+.testimonial__3e7e2 {
+	padding-right: 256px;
+	padding-left: 256px;
 }
