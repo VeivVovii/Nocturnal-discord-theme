@@ -1,17 +1,8 @@
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
-.wrapper__44b0c[role="img"][aria-label]:before,
-.avatar_e3077c[role="img"][aria-label]:before,
-.bannedUserAvatar_a73dc3[role="img"][aria-label]:before,
-.avatar__0a06e[role="img"][aria-label]:before,
-.avatar__1fed1[role="img"][aria-label]:before,
-.avatar_bc9cc2[role="img"][aria-label]:before,
-.listAvatar__9d78f[role="img"][aria-label]:before,
-.avatar__37e49[role="img"][aria-label]:before,
-.avatarWrapper_fb62e2[role="img"][aria-label]:before {
+.wrapper__44b0c[role="img"][aria-label]:before {
 	content: "";
 	position: absolute;
 	top: 2px;
@@ -4790,6 +4781,10 @@ button.button__67645.enabled__67645:hover,
 .keywordsTextArea__6a631,
 .visual-refresh .keywordsTextArea__6a631 {
 	border: 1px solid rgba(0, 0, 0, .95);
+	background-color: rgb(88, 101, 242);
+	background-color: rgb(83, 97, 234);
+	background-color: rgb(0, 138, 230);
+	background-color: #0081de;
 }
 
 .interactiveRow__60626:hover {
@@ -11109,10 +11104,6 @@ path[stroke="rgb(123,162,255)"] {
 
 .size56__183c2 .moreUsers__183c2 {
 	margin-left: -3px;
-}
-
-.guildIcon_d5cd2d {
-	border-radius: 10px;
 }
 
 .icon_d5d194 {
