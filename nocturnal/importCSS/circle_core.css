@@ -1,17 +1,8 @@
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
 @import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
-.wrapper__44b0c[role="img"][aria-label]:before,
-.avatar_e3077c[role="img"][aria-label]:before,
-.bannedUserAvatar_a73dc3[role="img"][aria-label]:before,
-.avatar__0a06e[role="img"][aria-label]:before,
-.avatar__1fed1[role="img"][aria-label]:before,
-.avatar_bc9cc2[role="img"][aria-label]:before,
-.listAvatar__9d78f[role="img"][aria-label]:before,
-.avatar__37e49[role="img"][aria-label]:before,
-.avatarWrapper_fb62e2[role="img"][aria-label]:before {
+.wrapper__44b0c[role="img"][aria-label]:before {
 	content: "";
 	position: absolute;
 	top: 2px;
@@ -2467,35 +2458,6 @@ svg[name=Nitro] g path {
 	border: none;
 }
 
-.wrapper__6e9f8[aria-label="Direct Messages"],
-.wrapper__6e9f8[aria-label="Личные сообщения"],
-.wrapper__6e9f8[aria-label="Direkte beskeder"],
-.wrapper__6e9f8[aria-label="Direktnachrichten"],
-.wrapper__6e9f8[aria-label="Mensajes directos"],
-.wrapper__6e9f8[aria-label="Messages privés"],
-.wrapper__6e9f8[aria-label="Izravne poruke"],
-.wrapper__6e9f8[aria-label="Messaggi diretti"],
-.wrapper__6e9f8[aria-label="Asmeninės žinutės"],
-.wrapper__6e9f8[aria-label="Közvetlen üzenetek"],
-.wrapper__6e9f8[aria-label="Directe berichten"],
-.wrapper__6e9f8[aria-label="Direktemeldinger"],
-.wrapper__6e9f8[aria-label="Prywatne wiadomości"],
-.wrapper__6e9f8[aria-label="Mensagens diretas"],
-.wrapper__6e9f8[aria-label="Mesaje directe"],
-.wrapper__6e9f8[aria-label="Yksityisviestit"],
-.wrapper__6e9f8[aria-label="Direktmeddelanden"],
-.wrapper__6e9f8[aria-label="Tin nhắn trực tiếp"],
-.wrapper__6e9f8[aria-label="Direkt Mesajlar"],
-.wrapper__6e9f8[aria-label="Přímé zprávy"],
-.wrapper__6e9f8[aria-label="Άμεσα μηνύματα"],
-.wrapper__6e9f8[aria-label="Директни съобщения"],
-.wrapper__6e9f8[aria-label="डायरेक्ट मैसेज"],
-.wrapper__6e9f8[aria-label="ข้อความส่วนตัว"],
-.wrapper__6e9f8[aria-label=私信],
-.wrapper__6e9f8[aria-label=ダイレクトメッセージ],
-.wrapper__6e9f8[aria-label=私人訊息],
-.wrapper__6e9f8[aria-label="다이렉트 메시지"],
-.wrapper__6e9f8[aria-label="Приватні повідомлення"],
 .wrapper__6e9f8[aria-owns="guild-list-unread-dms"],
 .clydeIconContainer_b476ba {
 	transition: all .3s ease;
@@ -2506,35 +2468,6 @@ svg[name=Nitro] g path {
 	-webkit-mask-size: contain;
 }
 
-.wrapper__6e9f8[aria-label="Direct Messages"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Личные сообщения"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Direkte beskeder"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Direktnachrichten"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Mensajes directos"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Messages privés"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Izravne poruke"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Messaggi diretti"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Asmeninės žinutės"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Közvetlen üzenetek"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Directe berichten"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Direktemeldinger"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Prywatne wiadomości"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Mensagens diretas"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Mesaje directe"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Yksityisviestit"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Direktmeddelanden"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Tin nhắn trực tiếp"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Direkt Mesajlar"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Přímé zprávy"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Άμεσα μηνύματα"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Директни съобщения"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="डायरेक्ट मैसेज"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label=ข้อความส่วนตัว] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="私信"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label=ダイレクトメッセージ] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label=私人訊息] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="다이렉트 메시지"] .childWrapper__6e9f8,
-.wrapper__6e9f8[aria-label="Приватні повідомлення"] .childWrapper__6e9f8,
 .wrapper__6e9f8[aria-owns="guild-list-unread-dms"] .childWrapper__6e9f8 {
 	display: none;
 }
