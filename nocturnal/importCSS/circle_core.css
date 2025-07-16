@@ -1762,14 +1762,6 @@ svg[name=Nova_Discord] * {
 	background-color: rgba(0, 0, 0, .9);
 }
 
-.theme-dark.custom-theme-background .topPill_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled_b3f026) {
-	background: var(--bg-overlay-hover);
-}
-
-.theme-dark.custom-theme-background .topPill_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled_b3f026) {
-	background: var(--bg-overlay-active);
-}
-
 .linkButtonIcon__972a0 path[fill="currentColor"] {
 	fill: var(--primary);
 }
