@@ -1502,7 +1502,7 @@ div[data-contents="true"] {
 	line-height: 24px;
 }
 
-.visual-refresh .circleIconButton__5bc7e {
+.circleIconButton__5bc7e {
 	border-radius: 50px;
 	background-color: rgba(0, 0, 0, .5);
 }
@@ -3991,8 +3991,8 @@ button.button__67645.enabled__67645:hover,
 	border-left: 1px solid rgba(1, 1, 1, 0.25);
 }
 
-.visual-refresh .circleIconButton__5bc7e.selected__5bc7e,
-.visual-refresh .circleIconButton__5bc7e:hover:not(.disabled__5bc7e) {
+.circleIconButton__5bc7e.selected__5bc7e,
+.circleIconButton__5bc7e:hover:not(.disabled__5bc7e) {
 	background-color: var(--primary);
 }
 
