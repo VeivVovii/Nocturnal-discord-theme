@@ -1749,6 +1749,58 @@ svg[name=Nova_Discord] * {
 	background-size: 200% 200%;
 }
 
+#bd-settingspane-container .bd-pfbtn:active,
+.roleStyleUpsellButton__981c8:active:not(:disabled),
+.iconButton__8a7fc:active:not(:disabled),
+.secondaryButton_af3b89:active:not(:disabled),
+.linkButton__24654:active:not(:disabled),
+.wrapper .controls .caret:active:not(.disabled),
+.ctaButton__4413f:active:not(:disabled),
+.selected_d804ff:active:not(:disabled),
+.bd-button-filled.bd-button-color-brand:active:not(.bd-button-disabled),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .giftButton__0988e:active:not(:disabled),
+.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-base-lower"] .giftButton__0988e:active:not(:disabled),
+[style*="background-base-lower"] .userProfileInnerThemedWithBanner_c69a7b .giftButton__0988e:active:not(:disabled),
+.userProfileInnerThemedNonPremium_c69a7b .giftButton__0988e:active:not(:disabled),
+.addFileButtonLook_f8a8fa:active:not(:disabled),
+.theme-dark .lookFilled__201d5.colorTransparent__201d5:active:not(:disabled),
+.selectGuild__39466:active .selectGuildPseudoCta__39466:not(:disabled),
+.colorable_f1ceac.join_f1ceac:active:not(:disabled),
+.colorable_f1ceac.join_f1ceac.contextMenuNub_f1ceac.active_f1ceac,
+.pill__6d851:active,
+.userProfileInnerThemedNonPremium_c69a7b .VoiceActivity-voiceprofilesection-button:active,
+.userProfileInnerThemedNonPremium_c69a7b .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.theme-dark.outer_c0bea0:not(.custom-theme-background) .lookFilled__201d5.actionColor_fc39e7:active:not(:disabled),
+.userProfileInnerThemedNonPremium_c69a7b .lookFilled__201d5.actionColor_fc39e7:active:not(:disabled),
+.userProfileInnerThemedNonPremium_c69a7b .lookFilled__201d5.buttonColor_dfbe6b:active:not(:disabled),
+[style*="background-base-lower"] .userProfileInnerThemedWithBanner_c69a7b .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+[style*="background-base-lower"] .userProfileInnerThemedWithBanner_c69a7b .lookFilled__201d5.actionColor_fc39e7:active:not(:disabled),
+[style*="background-base-lower"] .userProfileInnerThemedWithBanner_c69a7b .lookFilled__201d5.buttonColor_dfbe6b:active:not(:disabled),
+.theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-base-lower"] .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.lookFilled__201d5.colorBrandNew__8872c:active:not(:disabled),
+#friends .tab-bar .tab-bar-item.tab-bar-item-primary,
+.bd-detached-css-editor #bd-customcss-attach-controls button:active,
+.bd-modal-wrapper .footer button:active,
+.bda-slist .bda-footer button:active,
+.headerButtonColor__619f1:active,
+.primary__6af3a:active:not(:disabled, .optionPillBtn__3f413),
+.lookFilled__201d5.colorBrand__201d5:active:not(:disabled, .optionPillBtn__3f413),
+.lookFilled__201d5.colorBrand__201d5[aria-expanded=true],
+.theme-dark .secondary__6af3a:active:not(.color_f9d37d.banner_fb7f94, :disabled),
+.theme-dark .lookFilled__201d5.colorPrimary__201d5:active:not(.color_f9d37d.banner_fb7f94, :disabled),
+.lookOutlined__201d5.colorBrand__201d5:active:not(:disabled),
+.plugin-settings button:active,
+.standardSidebarView__23e6b #bd-customcss-attach-controls button:active {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0079d0, #00d079);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%;
+}
+
 .bd-button-filled.bd-button-color-brand:hover {
 	background-color: rgb(0, 141, 217);
 	background-image: linear-gradient(to right, rgb(0, 141, 217), rgb(0, 217, 141));
@@ -3239,6 +3291,19 @@ svg[name=Nitro] g path {
 	background-size: 200% 200%;
 }
 
+.lookFilled__201d5.colorGreen__201d5:active:not(:disabled),
+.active__6af3a:active:not(:disabled),
+.guildBoostCta_f9f04c.lookOutlined__201d5.colorWhite__201d5:active:not(:disabled),
+.lookOutlined__201d5.colorWhite__201d5.managePlanButton_a45ed3:active:not(:disabled) {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0079d0, #00d079);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%
+}
+
 .lookFilled__201d5.colorBrandInverted__201d5:hover:not(:disabled),
 .button_bf1984:active:not(:disabled),
 .button_bf1984:hover:not(:disabled),
@@ -3261,7 +3326,7 @@ svg[name=Nitro] g path {
 .cta_a1eddf:active:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
-	background-color: rgb(0, 119, 167) !important;
+	background-color: rgb(0, 121, 208) !important;
 }
 
 .card__4bb93,
@@ -4586,7 +4651,7 @@ button.button__67645.enabled__67645:hover,
 }
 
 .newBadgeText__29021 {
-	color: rgb(0, 119, 167);
+	color: rgb(0, 121, 208);
 }
 
 .container__65338,
@@ -5140,6 +5205,16 @@ button.button__67645.enabled__67645:hover,
 	background-size: 200% 200%
 }
 
+.category_d169f5:active {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0079d0, #00d079);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%
+}
+
 .partnerBadge_de92a5 {
 	background-color: var(--backgroundDarker) !important;
 }
@@ -5412,6 +5487,16 @@ button.button__67645.enabled__67645:hover,
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
+}
+
+.bd-empty-image-container .bd-button:active {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0079d0, #00d079);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%
 }
 
 .groupCollapsedContainer_b6a9f9 {
@@ -8025,6 +8110,22 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	background-size: 200% 200%
 }
 
+.activityItem__8a940:active .activityActionButton__8a940,
+.editWelcomeButton_d2b0e4:active,
+.clickable__183e8:active .iconCircle__183e8,
+.chat_f75fb0 .theme-dark.outer_c0bea0:not(.custom-theme-background) .buttonColor_f00225:active:not(:disabled),
+.chat_f75fb0 .theme-dark.outer_c0bea0:not(.custom-theme-background)[style*="background-base-lower"] .buttonColor_f00225:active:not(:disabled),
+.chat_f75fb0 .userProfileOuterThemed_c69a7b[style*="background-base-lower"] .buttonColor_f00225:active:not(:disabled),
+.addTags__3f6df:not(.disabled__3f6df):active {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0079d0, #00d079);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%
+}
+
 .lookFilled__201d5.colorRed__201d5,
 .critical-primary__6af3a,
 .bd-button-filled.bd-button-color-red,
@@ -8153,7 +8254,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 .theme-dark .button_aa63ab:focus-within .activeButtonChild_aa63ab,
 .theme-dark .button_aa63ab:focus .activeButtonChild_aa63ab,
 .theme-dark .button_aa63ab:hover .activeButtonChild_aa63ab {
-	color: rgb(0, 119, 167);
+	color: rgb(0, 121, 208);
 }
 
 .enableSwitch__3c9fa {
@@ -8668,7 +8769,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 
 .mediaBarInteraction_b26b79:hover .mediaBarGrabber_b26b79,
 .mediaBarInteractionDragging_b26b79 .mediaBarGrabber_b26b79 {
-	background-color: rgb(0, 119, 167);
+	background-color: rgb(0, 121, 208);
 }
 
 #permissions-modal-wrapper .role-item:hover {
@@ -8971,10 +9072,17 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	color: #fff;
 }
 
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover {
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	color: #fff;
+	border: 2px solid rgba(0, 0, 0, 0);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%;
+}
+
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
+	background: linear-gradient(to right, #0079d0, #00d079);
 	border: 2px solid rgba(0, 0, 0, 0);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -9228,7 +9336,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 }
 
 .theme-dark .container_a8e786:not(.playing_a8e786) .playButtonContainer_a8e786 {
-	background: linear-gradient(151.11deg, #0d96e7 16.55%, #0077a7 104.36%);
+	background: linear-gradient(151.11deg, #0d96e7 16.55%, #0079d0 104.36%);
 }
 
 .theme-dark .container_a8e786:not(.playing_a8e786) .playButtonContainer_a8e786:hover {
@@ -9236,7 +9344,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 }
 
 .theme-dark .container_a8e786:not(.playing_a8e786) .playButtonContainer_a8e786:active {
-	background: linear-gradient(0deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), linear-gradient(151.11deg, #0d96e7 16.55%, #0077a7 104.36%)
+	background: linear-gradient(0deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), linear-gradient(151.11deg, #0d96e7 16.55%, #0079d0 104.36%)
 }
 
 .playing_a8e786 .playButtonContainer_a8e786:active,
@@ -10800,7 +10908,7 @@ path[stroke="rgb(123,162,255)"] {
 .visual-refresh .titleBadge_e4503a,
 .newBadge_faa96b,
 .newBadge__9a337 {
-	color: rgb(0, 119, 167);
+	color: rgb(0, 121, 208);
 }
 
 .bd-modal-footer {
