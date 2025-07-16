@@ -1754,28 +1754,12 @@ svg[name=Nova_Discord] * {
 	background-image: linear-gradient(to right, rgb(0, 141, 217), rgb(0, 217, 141));
 }
 
-#friends .tab-bar .tab-bar-item.selected {
-	background-color: var(--primary) !important;
-	color: #fff !important
-}
-
-#friends .tab-bar .tab-bar-item:hover:not(.selected),
-.topPill_b3f026 .item_b3f026:hover:not(.disabled_b3f026):not(.selected_b3f026),
-.visual-refresh .topPill_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled_b3f026) {
+.topPill_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled_b3f026) {
 	background-color: rgba(0, 0, 0, .45);
 }
 
-.topPill_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled_b3f026):not(.selected_b3f026),
-.visual-refresh .topPill_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled_b3f026):not(.selected_b3f026) {
+.topPill_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled_b3f026) {
 	background-color: rgba(0, 0, 0, .9);
-}
-
-.theme-dark.custom-theme-background .topPill_b3f026 .item_b3f026:hover:not(.disabled_b3f026):not(.selected_b3f026):not(.addFriend__133bf) {
-	background: var(--bg-overlay-hover);
-}
-
-.theme-dark.custom-theme-background .topPill_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled_b3f026):not(.selected_b3f026):not(.addFriend__133bf) {
-	background: var(--bg-overlay-active);
 }
 
 .linkButtonIcon__972a0 path[fill="currentColor"] {
@@ -2343,8 +2327,7 @@ svg[name=Nitro] g path {
 	border-radius: 0 !important;
 }
 
-.topPill_b3f026 .item_b3f026,
-.visual-refresh .topPill_b3f026 .item_b3f026 {
+.topPill_b3f026 .item_b3f026 {
 	border-radius: 20px;
 }
 
@@ -7375,8 +7358,8 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 
 .icon_f34534 .guildIconBadge_f34534,
 .voiceSectionIconWrapper__00943 {
-	right: -4px;
-	bottom: -4px;
+	right: -3px;
+	bottom: -3px;
 }
 
 .newlyAddedBadge_aeaaeb {
@@ -8982,32 +8965,29 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d:not(.channelTextAreaInne
 	overflow: visible;
 }
 
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf,
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
 	background: rgba(0, 0, 0, .5);
 	border: 2px solid var(--primary);
+	color: #fff;
 }
 
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active,
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:hover,
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
 	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	color: #fff;
 	border: 2px solid rgba(0, 0, 0, 0);
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 200% 200%
+	background-size: 200% 200%;
 }
 
-.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true],
-.visual-refresh .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true] {
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf[aria-selected=true] {
 	background: linear-gradient(to right, #008ae629, #00e68a29);
 	color: rgb(60, 193, 235);
 	border: 2px solid rgba(0, 0, 0, 0);
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 200% 200%
+	background-size: 200% 200%;
 }
 
 .topPill_b3f026 .item_b3f026.addFriend__133bf {
@@ -10683,7 +10663,8 @@ path[stroke="rgb(123,162,255)"] {
 .separator__60d39,
 .user-profile-modal-v2 .row__19fd1:not(:last-child):after,
 .divider__935ef,
-.divider__67dba {
+.divider__67dba,
+.divider__65a39 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
@@ -13480,7 +13461,6 @@ svg.gameIcon_b52e4f,
 .modalContent_de2fa0,
 .wrapper__960df,
 .visual-refresh .wrapper__960df,
-.container_e928f4,
 .container_e928f4:before,
 .sidebarCard_b962dc,
 .visual-refresh .folderIconContent__93fc9,
@@ -15386,4 +15366,14 @@ path[fill="brand-200"] {
 .optionsButton__70ee5,
 .streamButton__70ee5 {
 	min-width: 0;
+}
+
+.voiceSectionIcon__00943 {
+	width: 12px;
+	height: 12px;
+}
+
+.container_e928f4 {
+	background-color: rgba(0, 0, 0, .45);
+	border: none;
 }
