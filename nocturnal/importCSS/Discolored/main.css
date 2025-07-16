@@ -750,3 +750,7 @@
 [src*='/assets/25c27c1328c986f6.svg'] {
 	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/25c27c1328c986f6.svg") !important;
 }
+
+[src*='/assets/1b763dab67be227b.svg'] {
+	content: url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/switch.svg") !important;
+}
