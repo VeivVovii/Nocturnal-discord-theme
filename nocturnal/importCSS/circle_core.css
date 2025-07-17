@@ -8817,6 +8817,7 @@ svg.contentImage__42bf5 path {
 	color: var(--quinary) !important;
 }
 
+[style="color: var(--brand-230);"],
 [style="color: var(--badge-brand-bg);"],
 [style="color: var(--mention-foreground);"],
 [style="color: rgba(201, 205, 251);"] {
@@ -13402,6 +13403,14 @@ svg.avatarDecoration__44b0c,
 [style*="background-color: rgba(147, 167, 253);"],
 [style*="background-color: var(--text-brand);"] {
 	background-color: var(--quaternary) !important;
+}
+
+path[fill="brand-230"] {
+	fill: var(--senary);
+}
+
+[style*="background-color: var(--brand-230);"] {
+	background-color: var(--senary) !important;
 }
 
 path[fill="222, 224, 252"],
