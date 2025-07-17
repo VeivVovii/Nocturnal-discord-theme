@@ -1571,9 +1571,7 @@ div[data-contents="true"] {
 }
 
 .interactive:hover .icon_b75563 path[fill="var(--mention-foreground)"],
-.interactive:hover path[fill="var(--mention-foreground)"],
-.custom-theme-background .interactive:hover .icon_b75563 path[fill="var(--mention-foreground)"],
-.custom-theme-background .interactive:hover path[fill="var(--mention-foreground)"] {
+.interactive:hover path[fill="var(--mention-foreground)"] {
 	fill: #fff;
 }
 
