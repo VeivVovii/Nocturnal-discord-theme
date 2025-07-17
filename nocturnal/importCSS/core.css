@@ -1199,12 +1199,15 @@
 	--quaternary: rgb(59, 204, 241);
 	--quaternaryGradient1: rgb(59, 204, 241);
 	--quaternaryGradient2: rgb(59, 241, 204);
-	--quinary: rgb(118, 252, 243);
-	--quinaryGradient1: rgb(118, 252, 243);
-	--quinaryGradient2: rgb(118, 243, 252);
-	--senary: rgb(145, 255, 243);
-	--senaryGradient1: rgb(145, 255, 243);
-	--senaryGradient2: rgb(145, 243, 255);
+	--quinary: rgb(111, 247, 243);
+	--quinaryGradient1: rgb(111, 247, 243);
+	--quinaryGradient2: rgb(111, 243, 247);
+	--senary: rgb(118, 252, 243);
+	--senaryGradient1: rgb(118, 252, 243);
+	--senaryGradient2: rgb(118, 243, 252);
+	--septenary: rgb(140, 255, 243);
+	--septenaryGradient1: rgb(140, 255, 243);
+	--septenaryGradient2: rgb(140, 243, 255);
 	--accent: 0, 231, 169;
 	--glow-intensity: 1;
 	--chat-glow-intensity: var(--glow-intensity);
@@ -1238,24 +1241,30 @@
 	--quaternary: rgb(34, 179, 237);
 	--quaternaryGradient1: rgb(34, 179, 237);
 	--quaternaryGradient2: rgb(34, 237, 179);
-	--quinary: rgb(81, 223, 243);
-	--quinaryGradient1: rgb(81, 223, 243);
-	--quinaryGradient2: rgb(81, 243, 223);
-	--senary: rgb(97, 236, 243);
-	--senaryGradient1: rgb(97, 236, 243);
-	--senaryGradient2: rgb(97, 243, 236);
+	--quinary: rgb(74, 218, 243);
+	--quinaryGradient1: rgb(74, 218, 243);
+	--quinaryGradient2: rgb(74, 243, 218);
+	--senary: rgb(81, 223, 243);
+	--senaryGradient1: rgb(81, 223, 243);
+	--senaryGradient2: rgb(81, 243, 223);
+	--septenary: rgb(97, 236, 243);
+	--septenaryGradient1: rgb(97, 236, 243);
+	--septenaryGradient2: rgb(97, 243, 236);
 }
 
 .theme-midnight {
 	--quaternary: rgb(18, 162, 234);
 	--quaternaryGradient1: rgb(18, 162, 234);
 	--quaternaryGradient2: rgb(18, 234, 162);
-	--quinary: rgb(57, 202, 239);
-	--quinaryGradient1: rgb(57, 202, 239);
-	--quinaryGradient2: rgb(57, 239, 202);
-	--senary: rgb(75, 217, 242);
-	--senaryGradient1: rgb(75, 217, 242);
-	--senaryGradient2: rgb(75, 242, 217);
+	--quinary: rgb(50, 197, 239);
+	--quinaryGradient1: rgb(50, 197, 239);
+	--quinaryGradient2: rgb(50, 239, 197);
+	--senary: rgb(57, 202, 239);
+	--senaryGradient1: rgb(57, 202, 239);
+	--senaryGradient2: rgb(57, 239, 202);
+	--septenary: rgb(75, 217, 242);
+	--septenaryGradient1: rgb(75, 217, 242);
+	--septenaryGradient2: rgb(75, 242, 217);
 }
 
 #app-mount {
@@ -1542,7 +1551,7 @@ div[data-contents="true"] {
 .wrapper_f61d60 {
 	border-radius: 50px;
 	padding: .5px 5px;
-	color: var(--quinary);
+	color: var(--senary);
 	background: rgba(0, 138, 230, 0.239216);
 }
 
@@ -2183,11 +2192,11 @@ svg.contentImage__42bf5,
 .bd-modal-wrapper .header,
 .theme-dark .calendarPicker_d27f17 .react-datepicker,
 .calendarPicker_d27f17 .react-datepicker__header {
-	background-color: var(--backgroundDarker) !important
+	background-color: var(--backgroundDarker) !important;
 }
 
 .calendarPicker_d27f17 .react-datepicker__current-month {
-	border: none !important
+	border: none !important;
 }
 
 .theme-dark .calendarPicker_d27f17 .react-datepicker__day--disabled,
@@ -2198,7 +2207,7 @@ svg.contentImage__42bf5,
 }
 
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:after {
-	background-color: var(--primary) !important
+	background-color: var(--primary) !important;
 }
 
 .calendarPicker_d27f17 .react-datepicker__day {
@@ -2207,12 +2216,12 @@ svg.contentImage__42bf5,
 }
 
 .theme-dark .calendarPicker_d27f17 .react-datepicker__week .react-datepicker__day:last-of-type {
-	border-right-color: rgba(0, 0, 0, .25)
+	border-right-color: rgba(0, 0, 0, .25);
 }
 
 .content_f1d99d,
 .theme-dark .entitledHeader__408e5 {
-	background-color: rgba(0, 0, 0, .35) !important
+	background-color: rgba(0, 0, 0, .35) !important;
 }
 
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--keyboard-selected,
@@ -2222,11 +2231,11 @@ svg.contentImage__42bf5,
 }
 
 svg[name=Nitro] g path {
-	fill: var(--primary) !important
+	fill: var(--primary) !important;
 }
 
 .wrapper__02fc8 .inner__02fc8.accountButtonInner_c7f964 {
-	border-color: rgba(0, 0, 0, .15) !important
+	border-color: rgba(0, 0, 0, .15) !important;
 }
 
 .accountButtonInner_c7f964 {
@@ -4065,7 +4074,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .reaction__23977.reactionMe__23977 .reactionCount__23977 {
-	color: var(--senary);
+	color: var(--septenary);
 }
 
 .form_f75fb0:has(.base_b88801) {
@@ -4094,6 +4103,11 @@ span.button__67645.enabled__67645:hover,
 .mediaBarProgress_b26b79:before {
 	background-color: var(--primary);
 	border: none;
+}
+
+.mediaBarInteraction_b26b79:hover .mediaBarGrabber_b26b79,
+.mediaBarInteractionDragging_b26b79 .mediaBarGrabber_b26b79 {
+	background-color: rgb(0, 103, 180);
 }
 
 .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:hover,
@@ -4189,7 +4203,7 @@ span.button__67645.enabled__67645:hover,
 
 .theme-dark .message_dae006 strong {
 	background: rgba(0, 138, 230, 0.298);
-	color: var(--senary);
+	color: var(--septenary);
 }
 
 .bd-switch:not(.bd-switch-checked) .bd-switch-body,
@@ -4842,7 +4856,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .opTag_ee8e87 {
-	background-color: var(--senary);
+	background-color: var(--septenary);
 	color: var(--primary);
 }
 
@@ -5743,7 +5757,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .reaction_f8896c.reactionMe_f8896c .reactionCount_f8896c {
-	color: var(--senary);
+	color: var(--septenary);
 }
 
 .theme-dark .directoryContainer_da3f59 {
@@ -8420,11 +8434,6 @@ svg.contentImage__42bf5 path {
 	border-top-right-radius: 0;
 }
 
-.mediaBarInteraction_b26b79:hover .mediaBarGrabber_b26b79,
-.mediaBarInteractionDragging_b26b79 .mediaBarGrabber_b26b79 {
-	background-color: rgb(0, 121, 208);
-}
-
 #permissions-modal-wrapper .role-item:hover {
 	background-color: rgb(0, 0, 0, 0.2);
 }
@@ -8924,16 +8933,19 @@ svg.contentImage__42bf5 path {
 	color: var(--quaternary) !important;
 }
 
-[style="color: var(--brand-260);"],
+[style="color: var(--brand-260);"] {
+	color: var(--quinary) !important;
+}
+
 [style="color: var(--badge-brand-bg);"],
 [style="color: var(--mention-foreground);"],
 [style="color: rgba(201, 205, 251);"] {
-	color: var(--quinary) !important;
+	color: var(--senary) !important;
 }
 
 [style="color: var(--brand-200);"],
 [style="color: rgba(222, 224, 252);"] {
-	color: var(--senary) !important;
+	color: var(--septenary) !important;
 }
 
 .colorMuted_c9946a,
@@ -9844,10 +9856,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .pinIcon_a93f74,
 .pinIcon__08166,
-.newTag-3g6dtV,
 .redPing_f0dcaf,
 .icon_a14595,
-.ripple_a8e786,
 .playhead__7dce2:before,
 .dropIndicatorBefore_b96967:before,
 .dropIndicatorBefore_d2b0e4:before,
@@ -9858,6 +9868,10 @@ path[stroke="rgb(123,162,255)"] {
 .dropIndicatorBefore_e34850:before,
 .dropIndicatorAfter_e34850:after {
 	background-color: var(--primary);
+}
+
+.ripple_a8e786 {
+	background-color: rgb(0, 99, 175);
 }
 
 .birthdayFeatureBorder-24qmMm {
@@ -10438,11 +10452,14 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .botTagOP__82f07,
-[style*="background-color: var(--brand-260);"],
+[style*="background-color: var(--brand-260);"]  {
+	background-color: var(--quinary) !important;
+}
+
 [style*="background-color: var(--mention-foreground);"],
 [style*="background-color: rgba(201, 205, 251);"],
 [style*="background-color: var(--badge-brand-bg);"] {
-	background-color: var(--quinary) !important;
+	background-color: var(--senary) !important;
 }
 
 .botTagOP__82f07,
@@ -13393,11 +13410,14 @@ body {
 	color: #2ca8de !important;
 }
 
+path[fill="brand-260"] {
+	fill: var(--quinary);
+}
+
 path[fill="var(--mention-foreground)"],
 path[fill="201, 205, 251"],
-path[fill="brand-260"],
 path[fill="badge-brand-bg"] {
-	fill: var(--quinary);
+	fill: var(--senary);
 }
 
 .destinationRow__62280 {
@@ -13589,12 +13609,12 @@ svg.avatarDecoration__44b0c,
 
 path[fill="222, 224, 252"],
 path[fill="brand-200"] {
-	fill: var(--senary);
+	fill: var(--septenary);
 }
 
 [style*="background-color: rgba(222, 224, 252);"],
 [style*="background-color: var(--brand-200);"] {
-	background-color: var(--senary) !important;
+	background-color: var(--septenary) !important;
 }
 
 .container__6a6d6,
@@ -14049,7 +14069,7 @@ path[fill="brand-200"] {
 
 .pill_a2c9e8.selected_a2c9e8 {
 	background-color: rgb(0, 138, 230, 0.239216);
-	color: var(--senary);
+	color: var(--septenary);
 }
 
 .pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):hover {
@@ -14807,7 +14827,7 @@ path[fill="brand-200"] {
 
 .playing_a8e786 .playbackRateContainer_a8e786 .playbackRate_a8e786 {
 	background-color: rgba(0, 0, 0, .15);
-	color: #8cfff3;
+	color: var(--septenary);
 }
 
 .playing_a8e786 .playbackRateContainer_a8e786:hover .playbackRate_a8e786 {
@@ -14886,7 +14906,7 @@ path[fill="brand-200"] {
 
 .playing_a8e786 .volumeButtonIcon_a8e786,
 .playing_a8e786 .volumeButtonIcon_a8e786:active {
-	color: #20fffb;
+	color: var(--septenary);
 }
 
 .floatingNitroUpsell__39749 {
