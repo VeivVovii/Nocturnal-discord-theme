@@ -1214,9 +1214,15 @@
 	--nonary: rgb(111, 247, 243);
 	--nonaryGradient1: rgb(111, 247, 243);
 	--nonaryGradient2: rgb(111, 243, 247);
+	--denaryformentions: rgb(118, 252, 243);
+	--denaryformentionsGradient1: rgb(118, 252, 243);
+	--denaryformentionsGradient2: rgb(118, 243, 252);
 	--denary: rgb(121, 255, 243);
 	--denaryGradient1: rgb(121, 255, 243);
 	--denaryGradient2: rgb(121, 243, 255);
+	--undenaryforreactions: rgb(145, 255, 243);
+	--undenaryforreactionsGradient1: rgb(145, 255, 243);
+	--undenaryforreactionsGradient2: rgb(145, 243, 255);
 	--undenary: rgb(140, 255, 243);
 	--undenaryGradient1: rgb(140, 255, 243);
 	--undenaryGradient2: rgb(140, 243, 255);
@@ -1256,12 +1262,12 @@
 	--nonary: rgb(74, 218, 243);
 	--nonaryGradient1: rgb(74, 218, 243);
 	--nonaryGradient2: rgb(74, 243, 218);
-	--denary: rgb(81, 223, 243);
-	--denaryGradient1: rgb(81, 223, 243);
-	--denaryGradient2: rgb(81, 243, 223);
-	--undenary: rgb(97, 236, 243);
-	--undenaryGradient1: rgb(97, 236, 243);
-	--undenaryGradient2: rgb(97, 243, 236);
+	--denaryformentions: rgb(81, 223, 243);
+	--denaryformentionsGradient1: rgb(81, 223, 243);
+	--denaryformentionsGradient2: rgb(81, 243, 223);
+	--undenaryforreactions: rgb(97, 236, 243);
+	--undenaryforreactionsGradient1: rgb(97, 236, 243);
+	--undenaryforreactionsGradient2: rgb(97, 243, 236);
 }
 
 .theme-midnight {
@@ -1271,12 +1277,12 @@
 	--nonary: rgb(50, 197, 239);
 	--nonaryGradient1: rgb(50, 197, 239);
 	--nonaryGradient2: rgb(50, 239, 197);
-	--denary: rgb(57, 202, 239);
-	--denaryGradient1: rgb(57, 202, 239);
-	--denaryGradient2: rgb(57, 239, 202);
-	--undenary: rgb(75, 217, 242);
-	--undenaryGradient1: rgb(75, 217, 242);
-	--undenaryGradient2: rgb(75, 242, 217);
+	--denaryformentions: rgb(57, 202, 239);
+	--denaryformentionsGradient1: rgb(57, 202, 239);
+	--denaryformentionsGradient2: rgb(57, 239, 202);
+	--undenaryforreactions: rgb(75, 217, 242);
+	--undenaryforreactionsGradient1: rgb(75, 217, 242);
+	--undenaryforreactionsGradient2: rgb(75, 242, 217);
 }
 
 #app-mount {
@@ -1563,7 +1569,7 @@ div[data-contents="true"] {
 .wrapper_f61d60 {
 	border-radius: 50px;
 	padding: .5px 5px;
-	color: var(--denary);
+	color: var(--denaryformentions);
 	background: rgba(0, 138, 230, 0.239216);
 }
 
@@ -4056,7 +4062,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .reaction__23977.reactionMe__23977 .reactionCount__23977 {
-	color: var(--undenary);
+	color: var(--undenaryforreactions);
 }
 
 .form_f75fb0:has(.base_b88801) {
@@ -5718,7 +5724,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .reaction_f8896c.reactionMe_f8896c .reactionCount_f8896c {
-	color: var(--undenary);
+	color: var(--undenaryforreactions);
 }
 
 .theme-dark .directoryContainer_da3f59 {
@@ -8833,9 +8839,12 @@ svg.contentImage__42bf5 path {
 	color: var(--nonary) !important;
 }
 
+[style="color: var(--mention-foreground);"] {
+	color: var(--denaryformentions) !important;
+}
+
 [style="color: var(--brand-230);"],
 [style="color: var(--badge-brand-bg);"],
-[style="color: var(--mention-foreground);"],
 [style="color: rgba(201, 205, 251);"] {
 	color: var(--denary) !important;
 }
@@ -8973,7 +8982,7 @@ svg.contentImage__42bf5 path {
 .theme-dark .css-1t5q03r-control,
 .theme-dark .css-fcsbhh-control,
 .cardInput__8b579,
-.copyInput_fffc15,
+.copyInput_fffc15:not(.copyInputSuccess_fffc15),
 .textArea_d19bc9,
 .defaultTextInputWrapper__7b848,
 .input__0f084:not(.tagInput__69ef9,.multiInputField_b404ff,.textarea__9daae,.traitInput__4cbea,.note_fcb628 textarea,.inputField_d64f22,.fieldBackground_d48a51, .inputInner_a97616, .input_cedfaf, .input__72ba7, .descriptionInput__5579e, .clipTitleInput__1d12e, .defaultTextInput__7b848, .searchBox_d727b3 .searchBoxInput_d727b3, .input__72ba7, .title_d9be46, .messageInput_f2c0a8, .textarea_dde0a8) {
@@ -10336,7 +10345,10 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: var(--nonary) !important;
 }
 
-[style*="background-color: var(--mention-foreground);"],
+[style*="background-color: var(--mention-foreground);"] {
+	background-color: var(--denaryformentions) !important;
+}
+
 [style*="background-color: rgba(201, 205, 251);"],
 [style*="background-color: var(--badge-brand-bg);"] {
 	background-color: var(--denary) !important;
@@ -13231,7 +13243,10 @@ path[fill="brand-260"] {
 	fill: var(--nonary);
 }
 
-path[fill="var(--mention-foreground)"],
+path[fill="var(--mention-foreground)"] {
+	fill: var(--denaryformentions);
+}
+
 path[fill="201, 205, 251"],
 path[fill="badge-brand-bg"] {
 	fill: var(--denary);
@@ -13549,7 +13564,7 @@ path[fill="brand-200"] {
 }
 
 .input__0f084.fieldBackground_d48a51:not(:hover):not(:focus):not(.focused__0f084),
-.copyInput_fffc15,
+.copyInput_fffc15:not(.copyInputSuccess_fffc15),
 .container_f89b2c {
 	border: 1px solid rgba(32, 34, 37, 0.5);
 }
@@ -14774,4 +14789,9 @@ rect[fill="#43a25a"] {
 
 .playing_a8e786 {
 	border: 1px solid #008ae699;
+}
+
+.copyInputSuccess_fffc15 {
+	background-color: rgb(88, 101, 242, 0.0784314);
+	border-color: var(--primary);
 }
