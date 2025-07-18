@@ -737,6 +737,7 @@
 	background: var(--profile-gradient-secondary-color);
 }
 
-.showMoreButton__84832 {
+.theme-dark.custom-user-profile-theme .showMoreButton__84832,
+.theme-light.custom-user-profile-theme .showMoreButton__84832 {
 	border-radius: 0 0 6px 6px !important;
 }
