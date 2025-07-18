@@ -10114,7 +10114,6 @@ path[stroke="rgb(123,162,255)"] {
 .cell_f70307,
 .cardFooter__5bdf8,
 .characterCount__795fb,
-.header__62280,
 .stackedBars__74017:not(:last-child),
 .termsRow__523ab,
 .failedDestinations_c3ef83,
@@ -13841,11 +13840,6 @@ path[fill="brand-200"] {
 	stroke: none;
 }
 
-.footerWarningWrapper__62280 {
-	border-color: rgba(0, 0, 0, .95);
-	padding: 16px;
-}
-
 .link__2ea32::after {
 	transform: translateX(-360px);
 }
@@ -14708,6 +14702,7 @@ rect[fill="#43a25a"] {
 }
 
 .iconButton_adfd31 {
+	width: 32px;
 	min-width: 32px;
 }
 
@@ -14794,4 +14789,8 @@ rect[fill="#43a25a"] {
 .copyInputSuccess_fffc15 {
 	background-color: rgb(88, 101, 242, 0.0784314);
 	border-color: var(--primary);
+}
+
+.titleLine__62280+.container_a45028 {
+	margin-bottom: 12px;
 }
