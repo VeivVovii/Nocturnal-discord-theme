@@ -481,6 +481,8 @@
 	background: var(--bg-overlay-5, var(--profile-gradient-secondary-color)) !important;
 }
 
+.theme-dark.custom-user-profile-theme .showMoreButton__84832,
+.theme-light.custom-user-profile-theme .showMoreButton__84832,
 .theme-dark.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7,
 .theme-light.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7,
 .theme-dark.custom-user-profile-theme .lookFilled__201d5.colorPrimary__201d5:not(.color_f9d37d.banner_fb7f94),
@@ -512,6 +514,8 @@
 	color: #fff !important;
 }
 
+.theme-dark.custom-user-profile-theme .showMoreButton__84832:hover:not(:disabled),
+.theme-light.custom-user-profile-theme .showMoreButton__84832:hover:not(:disabled),
 .theme-dark.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7:hover:not(:disabled),
 .theme-light.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7:hover:not(:disabled),
 .theme-dark.custom-user-profile-theme .lookFilled__201d5.colorPrimary__201d5:hover:not(:disabled):not(.color_f9d37d.banner_fb7f94),
@@ -528,7 +532,26 @@
 .userProfileOuterThemed_c69a7b .lookFilled__201d5.buttonColor_f00225:hover:not(:disabled),
 .userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled__201d5.buttonColor_f00225:hover:not(:disabled),
 .userProfileOuterThemed_c69a7b .userProfileInnerThemedWithBanner_c69a7b .giftButton__0988e:hover:not(:disabled),
-.userProfileInnerThemedPremiumWithoutBanner_c69a7b .giftButton__0988e:hover:not(:disabled) {
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .giftButton__0988e:hover:not(:disabled),
+.theme-dark.custom-user-profile-theme .showMoreButton__84832:active:not(:disabled),
+.theme-light.custom-user-profile-theme .showMoreButton__84832:active:not(:disabled),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7:active:not(:disabled),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.actionColor_fc39e7:active:not(:disabled),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.colorPrimary__201d5:active:not(:disabled):not(.color_f9d37d.banner_fb7f94),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.colorPrimary__201d5:active:not(:disabled):not(.color_f9d37d.banner_fb7f94),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.colorBrand__201d5:active:not(:disabled),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.colorBrand__201d5:active:not(:disabled),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.buttonColor_dfbe6b:active:not(:disabled),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.buttonColor_dfbe6b:active:not(:disabled),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.theme-dark.custom-user-profile-theme .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.theme-light.custom-user-profile-theme .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.userProfileOuterThemed_c69a7b .giftButton__0988e:active,
+.userProfileOuterThemed_c69a7b .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.userProfileOuterThemed_c69a7b:not([style*=background-secondary-alt]) .lookFilled__201d5.buttonColor_f00225:active:not(:disabled),
+.userProfileOuterThemed_c69a7b .userProfileInnerThemedWithBanner_c69a7b .giftButton__0988e:active:not(:disabled),
+.userProfileInnerThemedPremiumWithoutBanner_c69a7b .giftButton__0988e:active:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid transparent !important;
 	background-color: var(--profile-gradient-secondary-color);
@@ -711,4 +734,8 @@
 
 .theme-dark.custom-user-profile-theme .container_e928f4 {
 	background: var(--profile-gradient-secondary-color);
+}
+
+.showMoreButton__84832 {
+	border-radius: 0 0 6px 6px !important;
 }
