@@ -684,7 +684,8 @@
 	border: 7px solid var(--profile-gradient-primary-color) !important;
 }
 
-.custom-user-profile-theme .top_b3f026 {
+.custom-user-profile-theme .top_b3f026,
+.custom-user-profile-theme .footer__7f9c0 {
 	border-color: var(--profile-gradient-secondary-color) !important;
 }
 
