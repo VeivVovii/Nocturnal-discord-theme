@@ -1191,41 +1191,17 @@
 	--primaryGradient1: rgb(0, 138, 230);
 	--primaryGradient2: rgb(0, 230, 138);
 	--secondary: rgb(11, 153, 232);
-	--secondaryGradient1: rgb(11, 153, 232);
-	--secondaryGradient2: rgb(11, 232, 153);
 	--tertiary: rgb(18, 162, 234);
-	--tertiaryGradient1: rgb(18, 162, 234);
-	--tertiaryGradient2: rgb(18, 234, 162);
 	--quaternary: rgb(29, 173, 236);
-	--quaternaryGradient1: rgb(29, 173, 236);
-	--quaternaryGradient2: rgb(29, 236, 173);
 	--quinary: rgb(53, 198, 240);
-	--quinaryGradient1: rgb(53, 198, 240);
-	--quinaryGradient2: rgb(53, 240, 198);
 	--senary: rgb(59, 204, 241);
-	--senaryGradient1: rgb(59, 204, 241);
-	--senaryGradient2: rgb(59, 241, 204);
 	--septenary: rgb(75, 217, 242);
-	--septenaryGradient1: rgb(75, 217, 242);
-	--septenaryGradient2: rgb(75, 242, 217);
 	--octonary: rgb(97, 236, 243);
-	--octonaryGradient1: rgb(97, 236, 243);
-	--octonaryGradient2: rgb(97, 243, 236);
 	--nonary: rgb(111, 247, 243);
-	--nonaryGradient1: rgb(111, 247, 243);
-	--nonaryGradient2: rgb(111, 243, 247);
 	--denaryformentions: rgb(118, 252, 243);
-	--denaryformentionsGradient1: rgb(118, 252, 243);
-	--denaryformentionsGradient2: rgb(118, 243, 252);
 	--denary: rgb(121, 255, 243);
-	--denaryGradient1: rgb(121, 255, 243);
-	--denaryGradient2: rgb(121, 243, 255);
 	--undenaryforreactions: rgb(145, 255, 243);
-	--undenaryforreactionsGradient1: rgb(145, 255, 243);
-	--undenaryforreactionsGradient2: rgb(145, 243, 255);
 	--undenary: rgb(140, 255, 243);
-	--undenaryGradient1: rgb(140, 255, 243);
-	--undenaryGradient2: rgb(140, 243, 255);
 	--accent: 0, 231, 169;
 	--glow-intensity: 1;
 	--chat-glow-intensity: var(--glow-intensity);
@@ -1257,32 +1233,16 @@
 
 .theme-darker {
 	--senary: rgb(34, 179, 237);
-	--senaryGradient1: rgb(34, 179, 237);
-	--senaryGradient2: rgb(34, 237, 179);
 	--nonary: rgb(74, 218, 243);
-	--nonaryGradient1: rgb(74, 218, 243);
-	--nonaryGradient2: rgb(74, 243, 218);
 	--denaryformentions: rgb(81, 223, 243);
-	--denaryformentionsGradient1: rgb(81, 223, 243);
-	--denaryformentionsGradient2: rgb(81, 243, 223);
 	--undenaryforreactions: rgb(97, 236, 243);
-	--undenaryforreactionsGradient1: rgb(97, 236, 243);
-	--undenaryforreactionsGradient2: rgb(97, 243, 236);
 }
 
 .theme-midnight {
 	--senary: rgb(18, 162, 234);
-	--senaryGradient1: rgb(18, 162, 234);
-	--senaryGradient2: rgb(18, 234, 162);
 	--nonary: rgb(50, 197, 239);
-	--nonaryGradient1: rgb(50, 197, 239);
-	--nonaryGradient2: rgb(50, 239, 197);
 	--denaryformentions: rgb(57, 202, 239);
-	--denaryformentionsGradient1: rgb(57, 202, 239);
-	--denaryformentionsGradient2: rgb(57, 239, 202);
 	--undenaryforreactions: rgb(75, 217, 242);
-	--undenaryforreactionsGradient1: rgb(75, 217, 242);
-	--undenaryforreactionsGradient2: rgb(75, 242, 217);
 }
 
 #app-mount {
@@ -1330,7 +1290,8 @@
 }
 
 .attachWrapper__0923f,
-.button__201d5:not(.lookOutlined__201d5):not(.lookFilled__201d5):not(.lookLink__201d5) {
+.button__201d5:not(.lookOutlined__201d5):not(.lookFilled__201d5):not(.lookLink__201d5),
+.button__6af3a {
 	border: none;
 }
 
@@ -1757,8 +1718,9 @@ svg[name=Nova_Discord] * {
 .bd-modal-wrapper .footer button:hover,
 .bda-slist .bda-footer button:hover,
 .headerButtonColor__619f1:hover,
-.primary__6af3a:hover:not(:disabled, .optionPillBtn__3f413),
-.lookFilled__201d5.colorBrand__201d5:hover:not(:disabled, .optionPillBtn__3f413),
+.primary__6af3a:hover:not(:disabled,.optionPillBtn__3f413,[aria-disabled=true]),
+.primary__6af3a[aria-expanded=true],
+.lookFilled__201d5.colorBrand__201d5:hover:not(:disabled,.optionPillBtn__3f413,[aria-disabled=true]),
 .lookFilled__201d5.colorBrand__201d5[aria-expanded=true],
 .theme-dark .secondary__6af3a:hover:not(.color_f9d37d.banner_fb7f94, :disabled),
 .theme-dark .lookFilled__201d5.colorPrimary__201d5:hover:not(.color_f9d37d.banner_fb7f94, :disabled),
@@ -1810,14 +1772,22 @@ svg[name=Nova_Discord] * {
 .bd-modal-wrapper .footer button:active,
 .bda-slist .bda-footer button:active,
 .headerButtonColor__619f1:active,
-.primary__6af3a:active:not(:disabled, .optionPillBtn__3f413),
-.lookFilled__201d5.colorBrand__201d5:active:not(:disabled, .optionPillBtn__3f413),
-.lookFilled__201d5.colorBrand__201d5[aria-expanded=true],
-.theme-dark .secondary__6af3a:active:not(.color_f9d37d.banner_fb7f94, :disabled),
+.lookFilled__201d5.colorBrand__201d5:active:not(:disabled,.optionPillBtn__3f413,[aria-disabled=true]),
 .theme-dark .lookFilled__201d5.colorPrimary__201d5:active:not(.color_f9d37d.banner_fb7f94, :disabled),
 .lookOutlined__201d5.colorBrand__201d5:active:not(:disabled),
 .plugin-settings button:active,
 .standardSidebarView__23e6b #bd-customcss-attach-controls button:active {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0067b4, #00b467);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%;
+}
+
+.primary__6af3a:active:not(:disabled,.optionPillBtn__3f413,[aria-disabled=true]),
+.theme-dark .secondary__6af3a:active:not(.color_f9d37d.banner_fb7f94, :disabled) {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
@@ -3215,9 +3185,18 @@ svg[name=Nitro] g path {
 }
 
 .lookFilled__201d5.colorGreen__201d5:active:not(:disabled),
-.active__6af3a:active:not(:disabled),
 .guildBoostCta_f9f04c.lookOutlined__201d5.colorWhite__201d5:active:not(:disabled),
 .lookOutlined__201d5.colorWhite__201d5.managePlanButton_a45ed3:active:not(:disabled) {
+	color: #fff !important;
+	border: 2px solid rgba(0, 0, 0, 0) !important;
+	background-color: var(--primary);
+	background-image: linear-gradient(to right, #0067b4, #00b467);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200% 200%
+}
+
+.active__6af3a:active:not(:disabled) {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
@@ -4989,7 +4968,7 @@ span.button__67645.enabled__67645:hover,
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0063af, #00af63);
+	background-image: linear-gradient(to right, #0067b4, #00b467);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
@@ -5258,7 +5237,7 @@ span.button__67645.enabled__67645:hover,
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0063af, #00af63);
+	background-image: linear-gradient(to right, #0067b4, #00b467);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
@@ -7706,7 +7685,7 @@ svg.contentImage__42bf5 path {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0063af, #00af63);
+	background-image: linear-gradient(to right, #0067b4, #00b467);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
@@ -8360,7 +8339,7 @@ svg.contentImage__42bf5 path {
 }
 
 .subscriberCountText__2485e {
-	background-color: rgb(0, 99, 175);
+	background-color: rgb(0, 123, 207);
 }
 
 .subscriberCountValue__2485e {
@@ -8370,13 +8349,16 @@ svg.contentImage__42bf5 path {
 .check__5dac8,
 .createTierIcon__15926,
 .addBenefitIcon_d28fa1,
-.playing_a8e786 .playIcon_a8e786,
-.playing_a8e786 .playButtonContainer_a8e786:active .playIcon_a8e786 {
+.playing_a8e786 .playIcon_a8e786 {
 	color: var(--primary);
 }
 
 .playButtonContainer_a8e786:active .playIcon_a8e786 {
-	color: var(--senary);
+	color: var(--quinary);
+}
+
+.playing_a8e786 .playButtonContainer_a8e786:active .playIcon_a8e786 {
+	color: var(--primary);
 }
 
 .sizeMedium__201d5 .text-md\/medium_cf4812 {
@@ -8652,7 +8634,7 @@ svg.contentImage__42bf5 path {
 }
 
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf:active {
-	background: linear-gradient(to right, #0063af, #00af63);
+	background: linear-gradient(to right, #0067b4, #00b467);
 	border: 2px solid rgba(0, 0, 0, 0);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -8882,7 +8864,10 @@ svg.contentImage__42bf5 path {
 	background: linear-gradient(0deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), linear-gradient(151.11deg, #0b99e8 16.55%, #0067b4 104.36%)
 }
 
-.playing_a8e786 .playButtonContainer_a8e786:active,
+.playing_a8e786 .playButtonContainer_a8e786:active {
+	background-color: var(--quinary);
+}
+
 .selectedProgressBar__5537c,
 .progressBarCurrent__008b2,
 .chattableIndicator__75906,
@@ -8984,7 +8969,7 @@ svg.contentImage__42bf5 path {
 .theme-dark .css-1t5q03r-control,
 .theme-dark .css-fcsbhh-control,
 .cardInput__8b579,
-.copyInput_fffc15:not(.copyInputSuccess_fffc15),
+.copyInput_fffc15,
 .textArea_d19bc9,
 .defaultTextInputWrapper__7b848,
 .input__0f084:not(.tagInput__69ef9,.multiInputField_b404ff,.textarea__9daae,.traitInput__4cbea,.note_fcb628 textarea,.inputField_d64f22,.fieldBackground_d48a51, .inputInner_a97616, .input_cedfaf, .input__72ba7, .descriptionInput__5579e, .clipTitleInput__1d12e, .defaultTextInput__7b848, .searchBox_d727b3 .searchBoxInput_d727b3, .input__72ba7, .title_d9be46, .messageInput_f2c0a8, .textarea_dde0a8) {
@@ -9762,7 +9747,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .ripple_a8e786 {
-	background-color: rgb(0, 99, 175);
+	background-color: rgb(0, 123, 207);
 }
 
 .birthdayFeatureBorder-24qmMm {
@@ -10652,8 +10637,6 @@ path[stroke="rgb(123,162,255)"] {
 	color: #fff;
 }
 
-.emoji,
-.emoji.jumboable,
 .colorPickerSwatch__459fb.default__459fb,
 .colorPickerSwatch__459fb.custom__459fb,
 .colorPickerSwatch__459fb,
@@ -10662,8 +10645,7 @@ path[stroke="rgb(123,162,255)"] {
 .wrapper__8b9fc:not(.badge__35a7e),
 .item__001a7,
 .rem__82f07.botTag__82f07,
-.px__82f07.botTag__82f07,
-.emojiRow_e7d73e .emojiImage_e7d73e {
+.px__82f07.botTag__82f07 {
 	border-radius: 5px;
 }
 
@@ -12958,7 +12940,8 @@ svg.gameIcon_b52e4f,
 .bottomRowActionDisabled__34940 .innerBottomRowAction__34940,
 .bottomRowActionDisabled__34940 .innerBottomRowAction__34940:hover,
 .emojiPickerHasTabWrapper_c0e32c .emojiPicker_c0e32c,
-.emojiPickerHasTabWrapper_c0e32c .header_c0e32c {
+.emojiPickerHasTabWrapper_c0e32c .header_c0e32c,
+.icon-only__6af3a:hover {
 	background: rgba(0, 0, 0, 0);
 	border: none;
 	box-shadow: none;
@@ -13496,7 +13479,8 @@ path[fill="brand-200"] {
 .exampleMessage__6c253,
 .userInfoContainer__6b102,
 .actionContainer__6b102,
-.container__53cea {
+.container__53cea,
+.previewBar__9c3be {
 	background-color: var(--backgroundDark);
 	border: none;
 }
@@ -13564,7 +13548,6 @@ path[fill="brand-200"] {
 }
 
 .input__0f084.fieldBackground_d48a51:not(:hover):not(:focus):not(.focused__0f084),
-.copyInput_fffc15:not(.copyInputSuccess_fffc15),
 .container_f89b2c {
 	border: 1px solid rgba(32, 34, 37, 0.5);
 }
