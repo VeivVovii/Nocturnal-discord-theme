@@ -2074,13 +2074,11 @@ svg.contentImage__42bf5,
 }
 
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,
-.cardPrimaryEditable-3KtE4g[style*="rgb(114, 137, 218)"],
 .option_e03935:hover,
 .selected_e03935.option_e03935 {
 	background-color: var(--primary)
 }
 
-.cardPrimaryEditable-2mz_3i[style*="rgb(114, 137, 218)"],
 .wrapper_e03935 {
 	border-color: var(--primary) !important
 }
@@ -7327,8 +7325,8 @@ svg.contentImage__42bf5 path {
 .contentPreview__9a337,
 .container__5130c,
 .row_d13feb,
-.sidebarCardWrapper__7449f,
-.action_c66e86,
+.card__73069:not(.outline__73069).sidebarCardWrapper__7449f,
+.card__73069:not(.outline__73069).action_c66e86,
 .activityTag__18da2,
 .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
 .keyboard-mode .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
@@ -8007,9 +8005,7 @@ svg.contentImage__42bf5 path {
 }
 
 .messageRequestItem_abb9ad.selected_dcc822,
-.messageRequestItem_abb9ad.selected_dcc822:hover,
-.channelIconContainer_c66e86,
-.rulesIconContainer_c66e86 {
+.messageRequestItem_abb9ad.selected_dcc822:hover {
 	background-color: rgba(0, 0, 0, .35);
 }
 
@@ -9310,11 +9306,11 @@ path[stroke="rgb(123,162,255)"] {
 
 #permissions-modal-wrapper .modal-body,
 .clickableAction_c66e86:hover,
-.action_c66e86:hover,
+.card__73069:not(.outline__73069).action_c66e86:hover,
 .voicePanelIntroductionWrapper_e131a9,
 .root__4ad81,
 .wrapper__97f37,
-.upsellPreview_d9161f .action_c66e86,
+.upsellPreview_d9161f .card__73069:not(.outline__73069).action_c66e86,
 .root__6943c,
 .root__4ad81,
 .picker__09f65,
@@ -12100,8 +12096,8 @@ path[fill="#6a7df6"] {
 }
 
 .cardPrimary__73069,
-.cardPrimary__73069:not(.container_d878e7,.sidebarCardWrapper__7449f),
-.cardPrimary__73069.editable__73069 {
+.cardPrimary__73069.editable__73069,
+.card__73069:not(.outline__73069) {
 	background: rgba(0, 0, 0, .3);
 	border: none;
 }
@@ -13418,7 +13414,10 @@ body {
 .pillItem__9e06a:not(.pillItemSelected__9e06a):hover,
 .badge__91f7b,
 #app-mount :where(.bd-paginator-back,.bd-paginator-next):hover,
-.footerContainer__122e4:hover {
+.footerContainer__122e4:hover,
+.channelIconContainer_c66e86,
+.rulesIconContainer_c66e86,
+.tagIconContainer_c66e86 {
 	background-color: rgba(0, 0, 0, .25);
 	box-shadow: none;
 }
