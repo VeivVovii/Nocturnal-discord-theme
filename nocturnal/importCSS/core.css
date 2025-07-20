@@ -12105,7 +12105,7 @@ path[fill="#6a7df6"] {
 
 .cardPrimary__73069,
 .cardPrimary__73069.editable__73069,
-.card__73069:not(.outline__73069) {
+.card__73069:not(.outline__73069,.cardWarning__73069) {
 	background: rgba(0, 0, 0, .3);
 	border: none;
 }
