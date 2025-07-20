@@ -1191,9 +1191,9 @@
 	--primary: rgb(0, 138, 230);
 	--primaryGradient1: rgb(0, 138, 230);
 	--primaryGradient2: rgb(0, 230, 138);
-	--primaryformentions: color-mix(in oklab,rgba(0, 138, 230, 0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
-	--primaryforreplyingmessages: color-mix(in oklab, rgba(0, 138, 230, 0.1607843137254902) 100%, hsl(var(--custom-theme-base-color-hsl, 0 0% 0%) / 0.1607843137254902) var(--custom-theme-base-color-amount, 0%));
-	--primaryforcodes: color-mix(in oklab,rgba(0, 138, 230, 0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+	--primaryformentions: color-mix(in oklab,rgb(0, 138, 230, 0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
+	--primaryforreplyingmessages: color-mix(in oklab, rgb(0, 138, 230, 0.1607843137254902) 100%, hsl(var(--custom-theme-base-color-hsl, 0 0% 0%) / 0.1607843137254902) var(--custom-theme-base-color-amount, 0%));
+	--primaryforcodes: color-mix(in oklab,rgb(0, 138, 230, 0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
 	--secondary: rgb(11, 153, 232);
 	--tertiary: rgb(18, 162, 234);
 	--quaternary: rgb(29, 173, 236);
@@ -1204,7 +1204,7 @@
 	--nonary: rgb(111, 247, 243);
 	--denaryformentions: color-mix(in oklab,rgb(118, 252, 243, 1) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
 	--denary: rgb(121, 255, 243);
-	--undenaryforreactions: rgb(145, 255, 243);
+	--undenaryforreactions: color-mix(in oklab,rgb(145, 255, 243, 1) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
 	--undenary: rgb(140, 255, 243);
 	--mentionedmessages: color-mix(in oklab,rgb(0, 176, 244, 0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
 	--mentionedmessageshover: color-mix(in oklab,rgb(0, 176, 244, 0.0392156862745098) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0392156862745098) var(--custom-theme-base-color-amount,0%));;
