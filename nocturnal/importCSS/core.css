@@ -14570,7 +14570,8 @@ path[fill="brand-200"] {
 .bannerVisible_f37cb1 .headerGlass_f37cb1,
 :where(.banner__68edb):before,
 .mention__3b95d,
-.gameIconImage__4e338 {
+.gameIconImage__4e338,
+.bannerBlockContainer__08415 {
 	border: none;
 }
 
