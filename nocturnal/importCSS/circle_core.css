@@ -1202,7 +1202,7 @@
 	--septenary: rgb(75, 217, 242);
 	--octonary: rgb(97, 236, 243);
 	--nonary: rgb(111, 247, 243);
-	--denaryformentions: color-mix(in oklab,rgb(121, 255, 243, 1) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
+	--denaryformentions: color-mix(in oklab,rgb(118, 252, 243, 1) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
 	--denary: rgb(121, 255, 243);
 	--undenaryforreactions: rgb(145, 255, 243);
 	--undenary: rgb(140, 255, 243);
