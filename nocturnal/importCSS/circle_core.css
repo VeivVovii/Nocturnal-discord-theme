@@ -220,7 +220,8 @@
 	cx: 4 !important;
 }
 
-.markup__75297 pre {
+.markup__75297 pre,
+.markup__75297 code.inline {
 	border-radius: 6px;
 }
 
