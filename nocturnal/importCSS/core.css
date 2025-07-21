@@ -1402,7 +1402,8 @@
 	border-radius: 0;
 }
 
-.embedFull__623de {
+.embedFull__623de,
+.custom-theme-background .embedFull__623de {
 	border: none;
 	border-left: 2.5px solid rgba(0, 0, 0, .25);
 	background: rgba(1, 1, 1, 0.1);
@@ -2400,7 +2401,8 @@ svg[name=Nitro] g path {
 
 .childContainer__91a9d,
 .interactive__972a0,
-.navItem__551b0 {
+.navItem__551b0,
+.container__0f2e8 {
 	position: relative;
 }
 
@@ -2438,8 +2440,10 @@ svg[name=Nitro] g path {
 .interactive_bf202d:focus-within,
 .interactive_bf202d:hover,
 .navItem__551b0:hover,
-.navItem__551b0:focus-within {
+.navItem__551b0:focus-within,
+.container__0f2e8 {
 	background: rgba(0, 0, 0, .15);
+	border: none;
 }
 
 .clickable__91a9d:active .childContainer__91a9d,
@@ -2458,18 +2462,14 @@ svg[name=Nitro] g path {
 	background: rgba(0, 0, 0, .25);
 }
 
-.container__0f2e8 {
-	background: var(--background-gradient-high, var(--backgroundDarker));
-	border: none;
-}
-
 .container__0f2e8:hover {
-	background: var(--background-gradient-chat, rgba(0, 0, 0, .35));
+	background: var(--background-gradient-chat, rgba(0, 0, 0, .25));
 	border-radius: 12px 12px 0 0;
 }
 
+.selected__0f2e8,
 .selected__0f2e8:hover {
-	background:  rgba(0, 0, 0, .7);
+	background: rgba(0, 0, 0, .5);
 	border-radius: 12px 12px 0 0;
 }
 
@@ -2486,6 +2486,7 @@ svg[name=Nitro] g path {
 .navItem__551b0:active:after,
 .navItem__551b0.selected__551b0:after,
 .container__0f2e8:hover:after,
+.selected__0f2e8:after,
 .selected__0f2e8:hover:after {
 	transform: translateX(0);
 }
@@ -11474,7 +11475,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .filterBackground__72086,
 .pill__33d66,
 .joinOptionContent__959cb:hover,
-.attachedCaretButtonContainer_f1ceac.popoutOpen_f1ceac .primaryDark_f1ceac, .attachedCaretButtonContainer_f1ceac:hover .primaryDark_f1ceac {
+.attachedCaretButtonContainer_f1ceac.popoutOpen_f1ceac .primaryDark_f1ceac, .attachedCaretButtonContainer_f1ceac:hover .primaryDark_f1ceac,
+.surpriseMeButton__68a18 {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -11500,7 +11502,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .headerIconWrapper__42179,
 .colorable_f1ceac.experimentRed_f1ceac.active_f1ceac,
 .colorable_f1ceac.experimentRed_f1ceac:hover,
-.detailsTooltip_78f589 div.icon_78f589 {
+.detailsTooltip_78f589 div.icon_78f589,
+.surpriseMeButton__68a18:hover {
 	background-color: rgba(0, 0, 0, .5);
 }
 
@@ -12744,7 +12747,9 @@ svg.gameIcon_b52e4f,
 .category_ed45d7,
 .searchSuggestion__2dc39,
 .overlayAvatar__57752,
-.outerWrapping_cd1bf7 {
+.outerWrapping_cd1bf7,
+.popoutContentWrapper_af3b89,
+.interactionsContainer_af3b89 {
 	border-radius: 0;
 }
 
@@ -13019,6 +13024,8 @@ svg.gameIcon_b52e4f,
 .bottomRowActionDisabled__34940 .innerBottomRowAction__34940:hover,
 .emojiPickerHasTabWrapper_c0e32c .emojiPicker_c0e32c,
 .emojiPickerHasTabWrapper_c0e32c .header_c0e32c,
+.popoutContentWrapper_af3b89,
+.interactionsContainer_af3b89,
 .icon-only__6af3a:hover {
 	background: rgba(0, 0, 0, 0);
 	border: none;
@@ -13084,7 +13091,8 @@ div.cardContainer__88e24,
 .bd-addon-store-card-author-img,
 .bd-install-modal-author-img,
 .guildIconImage_d28ae0,
-.folderButtonInner__48112 {
+.folderButtonInner__48112,
+.popout_af3b89 {
 	border-radius: 12px;
 }
 
@@ -13554,8 +13562,6 @@ path[fill="brand-200"] {
 
 .container__6a6d6,
 .theme-dark .container_a56260,
-.popoutContentWrapper_af3b89,
-.interactionsContainer_af3b89,
 .shop__08415,
 .contentWrapper__99a7e,
 .headerBadge_e0fe28,
@@ -13751,11 +13757,6 @@ path[fill="brand-200"] {
 .richImageContainer_ae1fa2 {
 	background-color: rgba(0, 0, 0, 0);
 	border-radius: 5px;
-}
-
-.popout_af3b89 {
-	filter: none;
-	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 }
 
 .custom-user-profile-theme .avatar__75742.user-profile-popout {
@@ -13984,11 +13985,13 @@ path[fill="brand-200"] {
 .container__11014,
 .container_dca174,
 .popoutContainer_a912c3,
-.baseCardOutline__1ab14 {
+.baseCardOutline__1ab14,
+.popout_af3b89 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
 	outline: none;
+	filter: none;
 }
 
 .main_c08b38,
@@ -14913,4 +14916,8 @@ rect[fill="#43a25a"] {
 
 .premiumIcon__175e2 path {
 	fill: #fff;
+}
+
+.container__68a18 {
+	background: var(--background-gradient-high);
 }
