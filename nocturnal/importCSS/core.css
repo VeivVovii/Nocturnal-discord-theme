@@ -1,7 +1,7 @@
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
-@import url("https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
+@import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/old-whitney-font.css");
+@import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/miscellaneous.css");
+@import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/themedthingsonthemedprofiles.css");
+@import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
 .wrapper__44b0c[role="img"][aria-label]:before {
 	content: "";
@@ -381,7 +381,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(3)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(3)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(3)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/account.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/account.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(6)::before,
@@ -413,7 +413,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(6)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(6)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(6)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(8)::before,
@@ -445,7 +445,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(8)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(8)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(8)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/apps.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/apps.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(10)::before,
@@ -477,7 +477,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(10)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(10)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(10)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/connections.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/connections.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(14)::before,
@@ -509,7 +509,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(14)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(14)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(14)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(15)::before,
@@ -541,7 +541,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(15)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(15)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(15)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/boost.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/boost.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(16)::before,
@@ -573,7 +573,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(16)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(16)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(16)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/billing.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(17)::before,
@@ -605,7 +605,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(17)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(17)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(17)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/gift.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/gift.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(18)::before,
@@ -637,7 +637,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(18)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(18)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(18)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/billing.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/billing.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(21)::before,
@@ -669,7 +669,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(21)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(21)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(21)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/eye.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/eye.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(23)::before,
@@ -701,7 +701,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(23)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(23)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(23)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/voice.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/voice.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(24)::before,
@@ -733,7 +733,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(24)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(24)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(24)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/text.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/text.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(25)::before,
@@ -765,7 +765,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(25)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(25)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(25)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/notifications.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/notifications.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(26)::before,
@@ -797,7 +797,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(26)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(26)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(26)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/keybinds.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/keybinds.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(27)::before,
@@ -829,7 +829,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(27)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(27)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(27)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/language.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/language.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(28)::before,
@@ -861,7 +861,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(28)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(28)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(28)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/windows.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/windows.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(29)::before,
@@ -893,7 +893,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(29)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(29)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(29)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(34)::before,
@@ -925,7 +925,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(34)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(34)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(34)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/games.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/games.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(35)::before,
@@ -957,7 +957,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(35)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(35)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(35)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/overlay.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/overlay.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(38)::before,
@@ -989,7 +989,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(38)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(38)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(38)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/core.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/core.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(40)::before,
@@ -1021,7 +1021,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(40)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(40)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(40)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/css.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/css.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(41)::before,
@@ -1053,7 +1053,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(41)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(41)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(41)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(42)::before,
@@ -1085,7 +1085,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(42)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(42)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(42)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/theme.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/theme.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(44)::before,
@@ -1117,7 +1117,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(44)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(44)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(44)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(46)::before,
@@ -1149,7 +1149,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(46)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(46)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(46)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/hype.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/hype.png) center;
 }
 
 [aria-label="사용자 설정"] .item_b3f026:nth-child(48)::before,
@@ -1181,7 +1181,7 @@
 [aria-label="Brugerindstillinger"] .item_b3f026:nth-child(48)::before,
 [aria-label="Настройки пользователя"] .item_b3f026:nth-child(48)::before,
 [aria-label="User Settings"] .item_b3f026:nth-child(48)::before {
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/logout.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/logout.png) center;
 }
 
 .theme-dark {
@@ -7341,8 +7341,8 @@ svg.contentImage__42bf5 path {
 .contentPreview__9a337,
 .container__5130c,
 .row_d13feb,
-.card__73069:not(.outline__73069).sidebarCardWrapper__7449f,
-.card__73069:not(.outline__73069).action_c66e86,
+.card__73069.sidebarCardWrapper__7449f,
+.card__73069.action_c66e86,
 .activityTag__18da2,
 .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
 .keyboard-mode .hoverButton__06ab4:active:not(.removeAttachmentHoverButton_e5c1dc, .removeMosaicItemHoverButton__6c706),
@@ -9314,11 +9314,11 @@ path[stroke="rgb(123,162,255)"] {
 
 #permissions-modal-wrapper .modal-body,
 .clickableAction_c66e86:hover,
-.card__73069:not(.outline__73069).action_c66e86:hover,
+.card__73069.action_c66e86:hover,
 .voicePanelIntroductionWrapper_e131a9,
 .root__4ad81,
 .wrapper__97f37,
-.upsellPreview_d9161f .card__73069:not(.outline__73069).action_c66e86,
+.upsellPreview_d9161f .card__73069.action_c66e86,
 .root__6943c,
 .root__4ad81,
 .picker__09f65,
@@ -9599,7 +9599,7 @@ path[stroke="rgb(123,162,255)"] {
 	width: 20px;
 	height: 20px;
 	background-size: cover !important;
-	background: url(https://veivvovii.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
 	position: absolute;
 	left: 10px;
 	top: 50%;
@@ -10554,7 +10554,7 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 #lazyLoader>.logo {
-	background-image: url('https://veivvovii.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_tea_party.svg');
+	background-image: url('https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/wumpus_tea_party.svg');
 }
 
 .VoiceActivity-voiceicon-icon,
@@ -12104,8 +12104,7 @@ path[fill="#6a7df6"] {
 }
 
 .cardPrimary__73069,
-.cardPrimary__73069.editable__73069,
-.card__73069:not(.outline__73069,.cardWarning__73069) {
+.cardPrimary__73069.editable__73069 {
 	background: rgba(0, 0, 0, .3);
 	border: none;
 }
