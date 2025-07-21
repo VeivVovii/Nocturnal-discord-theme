@@ -11848,6 +11848,7 @@ path[fill="#6a7df6"] {
 
 .cardPrimary__73069,
 .cardPrimary__73069.editable__73069 {
+	--__card-accent-color: rgba(0, 0, 0, .3);
 	background: rgba(0, 0, 0, .3);
 	border: none;
 }
