@@ -12747,9 +12747,7 @@ svg.gameIcon_b52e4f,
 .category_ed45d7,
 .searchSuggestion__2dc39,
 .overlayAvatar__57752,
-.outerWrapping_cd1bf7,
-.popoutContentWrapper_af3b89,
-.interactionsContainer_af3b89 {
+.outerWrapping_cd1bf7 {
 	border-radius: 0;
 }
 
@@ -13024,8 +13022,6 @@ svg.gameIcon_b52e4f,
 .bottomRowActionDisabled__34940 .innerBottomRowAction__34940:hover,
 .emojiPickerHasTabWrapper_c0e32c .emojiPicker_c0e32c,
 .emojiPickerHasTabWrapper_c0e32c .header_c0e32c,
-.popoutContentWrapper_af3b89,
-.interactionsContainer_af3b89,
 .icon-only__6af3a:hover {
 	background: rgba(0, 0, 0, 0);
 	border: none;
@@ -14920,4 +14916,10 @@ rect[fill="#43a25a"] {
 
 .container__68a18 {
 	background: var(--background-gradient-high);
+}
+
+.popoutContentWrapper_af3b89,
+.interactionsContainer_af3b89 {
+	background-color: rgba(0, 0, 0, 0);
+	border-radius: 0;
 }
