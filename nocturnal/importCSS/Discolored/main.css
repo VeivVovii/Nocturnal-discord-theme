@@ -760,3 +760,11 @@
 [src*='/assets/d720df17e0798bd9.svg'] {
 	content: url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/d720df17e0798bd9.svg") !important;
 }
+
+[fill="rgb(227,233,247)"] {
+	fill: rgb(154, 255, 235);
+}
+
+[fill="rgb(118,134,177)"] {
+	fill: rgb(30, 171, 165);
+}
