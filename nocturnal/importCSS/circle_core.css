@@ -14690,3 +14690,8 @@ rect[fill="#43a25a"] {
 .streamOptionsButton__388f8 {
 	padding: 8px;
 }
+
+.optionsButton__70ee5,
+.streamButton__70ee5 {
+	height: 38px;
+}
