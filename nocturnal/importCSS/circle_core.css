@@ -3994,6 +3994,14 @@ span.button__67645.enabled__67645:hover,
 	}
 }
 
+.folderGroup__48112:not([style*="--custom-folder-color:"]) .childWrapper__6e9f8,
+.option__3f413 .noIcon_f34534.iconSizeSmol_f34534,
+.guildSelectOptionIcon__999b5.noIcon_f34534.iconSizeSmol_f34534,
+.folderPreviewWrapper__48112[style*="bg-mod-subtle"] .folderPreviewGuildIcon__48112,
+.folderPreviewWrapper__48112[style*="bg-mod-subtle"] .folderPreviewGuildIconError__48112 {
+	background-color: rgba(0, 0, 0, .95) !important;
+}
+
 .serverBoostTabItem_cbe0b4[aria-selected=true],
 .selectedBrand__97e86,
 .wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8,
@@ -5755,14 +5763,6 @@ span.button__67645.enabled__67645:hover,
 .theme-dark .optionPillKey__1464f {
 	background-color: #1c212c;
 	border: none;
-}
-
-.folderGroup__48112 .childWrapper__6e9f8,
-.option__3f413 .noIcon_f34534.iconSizeSmol_f34534,
-.guildSelectOptionIcon__999b5.noIcon_f34534.iconSizeSmol_f34534,
-.folderPreviewWrapper__48112[style*="bg-mod-subtle"] .folderPreviewGuildIcon__48112,
-.folderPreviewWrapper__48112[style*="bg-mod-subtle"] .folderPreviewGuildIconError__48112 {
-	background-color: rgba(0, 0, 0, .95) !important;
 }
 
 .checkIcon__270d7,
@@ -13705,8 +13705,11 @@ path[fill="brand-200"] {
 	border: none;
 }
 
-.folderPreviewGuildIcon__48112 {
-	border-radius: 50px !important;
+.folderPreviewGuildIcon__48112:first-child,
+.folderPreviewGuildIcon__48112:nth-child(2),
+.folderPreviewGuildIcon__48112:nth-child(3),
+.folderPreviewGuildIcon__48112:nth-child(4) {
+	border-radius: 50%;
 }
 
 .lowerBadge_cc5dd2,
@@ -14153,7 +14156,7 @@ path[fill="brand-200"] {
 	border-radius: 50px;
 }
 
-.folderPreview__48112 .noIcon_f34534 {
+.folderGroup__48112:not([style*="--custom-folder-color:"]) .noIcon_f34534 {
 	background-color: rgba(0, 0, 0, .95);
 }
 
