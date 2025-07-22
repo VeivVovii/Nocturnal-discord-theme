@@ -14919,3 +14919,8 @@ rect[fill="#43a25a"] {
 	background-color: rgba(0, 0, 0, .2);
 	border-radius: 16px;
 }
+
+.optionsButton__70ee5,
+.streamButton__70ee5 {
+	height: 38px;
+}
