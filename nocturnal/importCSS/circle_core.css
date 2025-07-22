@@ -2755,6 +2755,7 @@ svg[name=Nitro] g path {
 }
 
 .folderPreviewWrapper__48112 {
+	background-color: var(--custom-preview-background,#101218);
 	border-radius: 50px;
 }
 
@@ -2807,15 +2808,10 @@ svg[name=Nitro] g path {
 	background-color: rgba(0, 0, 0, 0);
 }
 
-.folderPreviewWrapper__48112 {
-	background-color: var(--custom-preview-background,#101218);
-	border-radius: 50px;
-}
-
 .folderIcon__48112:hover,
 .keyboard-mode .folderButton__48112:focus .folderIcon__48112,
 .pendingFolderButtonIcon__93fc9:hover {
-	background-color: rgb(10, 12, 16);
+	background-color: rgba(0, 0, 0, .35);
 }
 
 .svg_cc5dd2 foreignObject {
@@ -4176,10 +4172,6 @@ span.button__67645.enabled__67645:hover,
 
 .avatar_ef4a91.size16_ef4a91:not(.isLast_ef4a91) {
 	margin-right: 6px;
-}
-
-.communityInfoPill_f37cb1 {
-	background-color: #101218;
 }
 
 .avatar_b50d96 {
