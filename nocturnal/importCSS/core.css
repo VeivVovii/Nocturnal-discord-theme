@@ -4067,9 +4067,13 @@ span.button__67645.enabled__67645:hover,
 	border-color: rgba(0, 0, 0, 0);
 }
 
-.reaction__23977.reactionMe__23977,
+.reaction__23977.reactionMe__23977 {
+	background-color: var(--primaryformentions);
+	border-color: var(--primary);
+}
+
 .reaction_f8896c.reactionMe_f8896c {
-	background-color: rgba(0, 138, 230, 0.23921568627450981);
+	background-color: rgba(0, 138, 230, 0.239);
 	border-color: var(--primary);
 }
 
