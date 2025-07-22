@@ -6192,13 +6192,7 @@ span.button__67645.enabled__67645:hover,
 	border: 1px solid #0c0e12;
 }
 
-.outer__4f074:hover .input__4f074,
-.input__4f074:focus {
-	box-shadow: inset 0 0 0 1px var(--backgroundDarker);
-}
-
-.diversitySelectorOptions_a45a2a,
-.input__4f074:focus {
+.diversitySelectorOptions_a45a2a {
 	background-color: var(--backgroundDarker);
 }
 
@@ -12856,7 +12850,6 @@ svg.gameIcon_b52e4f,
 .listContainer_bdbb1b,
 .editProfileContainer__42179,
 .option__54675,
-.iconPlaceholder__46773,
 .nameplate__5a2c6,
 .channelResult__32fe1:hover,
 .friendWrapper_bbd192:not(.disabled_bbd192):hover {
@@ -14042,16 +14035,13 @@ path[fill="brand-200"] {
 }
 
 .outer__4f074:hover .input__4f074 {
-	background-color: rgba(0, 0, 0, 0);
-	box-shadow: inset 0 0 0 1px var(--backgroundDarker);
+	background-color: rgba(0, 0, 0, .25);
 	outline: none;
-	border: none;
 }
 
 .input__4f074:focus,
 .outer__4f074:hover .input__4f074:focus {
-	background-color: var(--backgroundDarker);
-	box-shadow: none;
+	background-color: rgba(0, 0, 0, .5);
 	outline: none;
 	border: none;
 }
@@ -14231,19 +14221,6 @@ path[fill="brand-200"] {
 
 .theme-dark .root__49fc1:not(.carouselModal_d3a6f0, .forcedTransparency__8a837, .container_ac6cb0, .zoomedCarouselModalRoot_f74404) {
 	box-shadow: none !important;
-}
-
-.outer__4f074:hover .input__4f074 {
-	outline: 1px solid rgba(0, 0, 0, .95);
-	background-color: rgba(0, 0, 0, .25);
-	box-shadow: none;
-}
-
-.input__4f074:focus,
-.outer__4f074:hover .input__4f074:focus {
-	outline: 1px solid rgba(0, 0, 0, .95);
-	background-color: rgba(0, 0, 0, .5);
-	box-shadow: none;
 }
 
 .fullRegionIcon_f1ceac {
@@ -14456,10 +14433,8 @@ path[fill="brand-200"] {
 }
 
 .iconContainer__46773 .pencilIconWrapper__46773 {
-	background: rgba(0, 0, 0, .5);
+	background-color: #0c0e12;
 	border: none;
-	right: 2px;
-	top: 2px;
 }
 
 .hero_af3b89[style*='linear-gradient(45deg, rgb(57, 58, 65), rgb(57, 58, 65));'],
@@ -14938,4 +14913,9 @@ rect[fill="#43a25a"] {
 
 .streamOptionsButton__388f8 {
 	padding: 8px;
+}
+
+.iconPlaceholder__46773 {
+	background-color: rgba(0, 0, 0, .2);
+	border-radius: 16px;
 }
