@@ -4025,15 +4025,15 @@ span.button__67645.enabled__67645:hover,
 .reaction_f8896c:hover,
 .channelContainer_d5f35b,
 .reactionBtn__23977:hover {
-	background-color: rgba(0, 0, 0, 0);
-	border-color: rgba(0, 0, 0, .95);
+	background-color: rgba(0, 0, 0, .5);
+	border-color: rgba(0, 0, 0, 0);
 }
 
 .reaction__23977:active,
 .custom-theme-background .reaction__23977:active,
 .reaction_f8896c:active,
 .reactionBtn__23977:active {
-	background-color: rgba(0, 0, 0, .5);
+	background-color: rgba(0, 0, 0, 1);
 	border-color: rgba(0, 0, 0, 0);
 }
 
@@ -4869,20 +4869,14 @@ span.button__67645.enabled__67645:hover,
 
 .addReactButton__34c2c:hover,
 .buttonInner__34c2c:hover {
-	background-color: rgba(0, 0, 0, 0);
-	border-color: rgba(0, 0, 0, .95);
+	background-color: rgba(0, 0, 0, .5);
+	border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.theme-dark .active__34c2c {
+.actionButton__34c2c,
+.active__34c2c,
+.active__34c2c:hover {
 	color: var(--senary);
-}
-
-.theme-dark .active__34c2c:hover {
-	color: rgb(24, 160, 232);
-}
-
-.theme-midnight .active__34c2c:hover {
-	color: rgb(0, 93, 231);
 }
 
 .contentCircle_edf440 {
