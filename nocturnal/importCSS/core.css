@@ -9895,6 +9895,10 @@ path[stroke="rgb(123,162,255)"] {
 	border-left: solid 1px rgba(1, 1, 1, 0.25);
 }
 
+.theme-dark .containerSidenav_dc2e0e {
+	border-left: none;
+}
+
 .iconContainer__0624f,
 .iconContainer_eaaeee,
 .bottomRowAction__34940 .innerBottomRowAction__34940:hover,
@@ -14639,7 +14643,8 @@ path[fill="brand-200"] {
 }
 
 .page_c48ade:has(.main_c08b38),
-.callContainer_cb9592 {
+.callContainer_cb9592,
+.contentPanel_dc2e0e {
 	border-left: solid 1px rgba(1, 1, 1, 0.25) !important;
 }
 
