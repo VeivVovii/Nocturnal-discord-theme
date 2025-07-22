@@ -4017,7 +4017,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .highlight {
-	background-color: rgba(0, 176, 244, 0.23921568627450981);
+	background-color: rgba(0, 176, 244, 0.3);
 }
 
 .reaction__23977:hover,
@@ -12329,7 +12329,8 @@ path[fill="#6a7df6"] {
 
 path[fill="var(--brand-500)"],
 path[fill="var(--badge-brand-text)"],
-path[fill="var(--bg-brand)"] {
+path[fill="var(--bg-brand)"],
+path[fill="hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
 	fill: var(--primary);
 }
 
@@ -13755,16 +13756,17 @@ path[fill="brand-200"] {
 }
 
 .optionButtonWrapper__270d7 {
+	background-color: rgba(0, 0, 0, .2);
 	border: 1px solid rgba(0, 0, 0, .5);
 }
 
 .optionButtonWrapper__270d7:hover {
-	background-color: rgba(0, 0, 0, .2);
+	background-color: rgba(0, 0, 0, .35);
 	border: 1px solid rgba(0, 0, 0, 0);
 }
 
 .optionButtonWrapper__270d7.pressed__270d7 {
-	background-color: rgba(0, 0, 0, .4);
+	background-color: rgba(0, 0, 0, .5);
 	border: 1px solid rgba(0, 0, 0, 0);
 }
 
