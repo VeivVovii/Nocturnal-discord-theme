@@ -14171,7 +14171,6 @@ path[fill="brand-200"] {
 .gradient__864b0+.container_dca174,
 .sidebar__6b102,
 .container__6c253,
-.hoverableContainer__754bd:hover:not(.editing__754bd),
 .wideBannerBackgroundImg__08415,
 .artContainer__22b59,
 .groupContainer__9d98d,
@@ -14701,6 +14700,7 @@ rect[fill="#43a25a"] {
 	color: var(--undenary);
 }
 
+.hoverableContainer__754bd:hover:not(.editing__754bd),
 .playing_a8e786 .playbackRateContainer_a8e786:hover .playbackRate_a8e786 {
 	background-color: rgba(0, 0, 0, .25);
 }
