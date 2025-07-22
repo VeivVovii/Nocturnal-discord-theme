@@ -2658,7 +2658,6 @@ svg[name=Nitro] g path {
 	border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.theme-dark .streamPreview__6da2d,
 .tutorial__2692d {
 	background-color: var(--backgroundDarker);
 }
@@ -3311,8 +3310,9 @@ svg[name=Nitro] g path {
 }
 
 .container__4e30a {
+	background-color: var(--backgroundDark);
 	padding-right: 10px !important;
-	margin-left: 6px;
+	margin-left: 8px;
 	border-radius: 0 5px 5px 0;
 }
 
@@ -3380,7 +3380,6 @@ svg[name=Nitro] g path {
 	color: #fff !important;
 }
 
-.headerDivider__4e30a,
 .container_b1bfd4 {
 	background-color: var(--backgroundDarker);
 }
@@ -4969,12 +4968,6 @@ span.button__67645.enabled__67645:hover,
 	background-color: var(--backgroundDarker);
 }
 
-.voiceChannelsButton__29444 {
-	background-color: var(--backgroundDarker);
-	border: 2px solid rgba(0, 0, 0, 0);
-	margin-right: 10px;
-}
-
 .permissionList_f925ba,
 .permissionList__2f4ff {
 	background-color: rgba(0, 0, 0, 0) !important;
@@ -5054,8 +5047,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .container_bc0d35,
-.scrollIcon__0a383,
-.voiceChannelsButton__29444:hover {
+.scrollIcon__0a383 {
 	background-color: var(--backgroundDarker-alt);
 }
 
@@ -6669,7 +6661,6 @@ svg.contentImage__42bf5 path {
 .theme-dark .container__23c08,
 .theme-dark .container__0f711,
 .theme-dark .menu_c1e9c4:not(.menu_ad5fac),
-.theme-dark .container__4e30a,
 .theme-dark .contentRegion__23e6b,
 .theme-dark .header_c6bf1b,
 .theme-dark .titleContainer_e29cd7,
@@ -7061,13 +7052,11 @@ svg.contentImage__42bf5 path {
 }
 
 .theme-dark .streamPreview__6da2d {
-	margin-left: -10px;
+	background-color: var(--backgroundDarker);
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .75);
+	margin-left: -8px;
 	border-bottom-left-radius: 0;
 	border-top-left-radius: 0;
-}
-
-.streamPreview__6da2d {
-	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .75);
 }
 
 .icon_f34534 .guildIconBadge_f34534,
@@ -9131,10 +9120,6 @@ path[stroke="rgb(123,162,255)"] {
 
 .scroller__5d7c9 {
 	padding-right: 26px !important;
-}
-
-.theme-dark.custom-theme-background .container__4e30a {
-	background: var(--background-gradient-app-frame);
 }
 
 .theme-dark .themed__9293f.forumOrHome__49676 {
