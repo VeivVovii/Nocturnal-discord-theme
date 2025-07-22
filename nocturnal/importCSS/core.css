@@ -4640,6 +4640,7 @@ span.button__67645.enabled__67645:hover,
 .tag__0e476 {
 	background-color: var(--backgroundDark);
 	border: none;
+	border-radius: 4px;
 }
 
 .modalHeader_ababa2,
@@ -6183,7 +6184,6 @@ span.button__67645.enabled__67645:hover,
 	max-width: 100%;
 }
 
-.friendWrapper_bbd192[aria-selected=true] .friend_bbd192,
 .diversityEmojiItem_a45a2a:hover {
 	background-color: rgb(0, 0, 0, .45);
 }
@@ -12854,7 +12854,8 @@ svg.gameIcon_b52e4f,
 .option__54675,
 .iconPlaceholder__46773,
 .nameplate__5a2c6,
-.channelResult__32fe1:hover {
+.channelResult__32fe1:hover,
+.friendWrapper_bbd192:not(.disabled_bbd192):hover {
 	background-color: rgba(0, 0, 0, .2);
 	border: none;
 }
