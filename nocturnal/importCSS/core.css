@@ -3286,11 +3286,12 @@ svg[name=Nitro] g path {
 
 .path2__0b5bb:not(.spinnerPath_f3b986),
 .path3__0b5bb:not(.spinnerPath_f3b986) {
-	stroke: #3cc1eb;
+	stroke: #3bccf1;
 }
 
 .iconWrapper__4a3a5 {
-	border-radius: 5px;
+	background-color: rgba(0, 0, 0, 0);
+	border-radius: 8px;
 }
 
 .featureIcon_bebc5b {
@@ -6080,10 +6081,6 @@ span.button__67645.enabled__67645:hover,
 	top: 38px;
 }
 
-.flexChild__7c0ba:has(.avatarUploader_ab876d) .imageUploaderIconWrapper_e4d0bf {
-	width: auto;
-}
-
 .bd-empty-image-message {
 	color: #fff;
 }
@@ -8092,7 +8089,6 @@ svg.contentImage__42bf5 path {
 .paymentDropdown_e335a7,
 .notificationSettings__4d38b,
 .scrollerContent__808a1,
-.flexChild__7c0ba,
 .description__7184c,
 .title__7184c,
 .container_adb50a,
@@ -9677,10 +9673,6 @@ path[stroke="rgb(123,162,255)"] {
 	border-top-color: var(--primary);
 }
 
-.flexChild__7c0ba:has(.progressBarImage_cd0bbe) {
-	flex: 1 1 0px !important;
-}
-
 .innerWrapper_b4589b {
 	background-color: var(--backgroundDark);
 	border-radius: 30px;
@@ -10979,8 +10971,9 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 }
 
 .setCustomButton__669b5 {
-	background-color: #3cc1eb0f;
+	background-color: #3bccf10f;
 	border: none;
+	margin-right: 6px;
 }
 
 .container_fa0751,
@@ -12324,10 +12317,6 @@ path[fill="#6a7df6"] {
 .preview__3e443 .avatarDecoration_c19a55,
 .preview__5d148 .avatarDecoration_c19a55 {
 	left: 14px;
-}
-
-.setCustomButton__669b5 {
-	margin-right: 6px;
 }
 
 .inactiveArrow__3cf14 .arrowIcon__3cf14 {
