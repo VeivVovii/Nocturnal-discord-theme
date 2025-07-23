@@ -1235,7 +1235,7 @@
 	--backgroundDarker-hsl: 224 22% 10%;
 	--shadow-border: 0 0 0 1px hsl(var(--black-500-hsl) / 0.15);
 	--shadow-high: 0 0 16px 8px rgba(0, 0, 0, .5);
-	--background-message-hover: rgb(2, 2, 2, 0.06);
+	--background-message-hover: color-mix(in oklab,rgb(2, 2, 2, 0.06) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
 }
 
 .theme-darker {
@@ -2691,10 +2691,6 @@ svg[name=Nitro] g path {
 
 .channelHeader__35a7e .closeButton__95796 {
 	margin-right: 12px;
-}
-
-.theme-dark .footer__45690 {
-	background-color: cyan;
 }
 
 .dmIcon__35a7e,
@@ -11985,7 +11981,6 @@ path[fill="#6a7df6"] {
 .wrapperCommon__29444,
 .container__95856,
 .membersGroup_c8ffbb,
-.row__6fddf,
 .list_f369db>div:first-child,
 .grid_f369db>div:first-child,
 .headerRow_f369db,
@@ -13960,7 +13955,7 @@ path[fill="brand-200"] {
 }
 
 .row__6fddf:hover {
-	background-color: rgb(2, 2, 2, 0.06);
+	background-color: var(--background-message-hover);
 }
 
 .channel__972a0 {
@@ -14942,4 +14937,8 @@ rect[fill="#43a25a"] {
 	filter: none;
 	border-radius: 12px 0 0 12px;
 	margin-right: -8px;
+}
+
+.jumpButton_ed0c8c {
+	box-shadow: none;
 }
