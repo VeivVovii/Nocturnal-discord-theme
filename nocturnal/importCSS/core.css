@@ -1551,9 +1551,8 @@ div[data-contents="true"] {
 }
 
 .wrapper_f61d60,
-.interactive,
-.icon_b75563 path[fill="var(--mention-foreground)"] {
-	transition: all .2s ease !important;
+.interactive {
+	transition: all .2s ease;
 }
 
 .mention {
@@ -1564,13 +1563,7 @@ div[data-contents="true"] {
 .interactive:hover,
 .interactive[aria-expanded=true],
 .executedCommand_c19a55 .appLauncherOnboardingCommandName_c19a55:hover {
-	color: #fff;
 	background-color: var(--primary);
-}
-
-.interactive:hover .icon_b75563 path[fill="var(--mention-foreground)"],
-.interactive:hover path[fill="var(--mention-foreground)"] {
-	fill: #fff;
 }
 
 svg[name=Nova_Discord] * {
@@ -1721,7 +1714,7 @@ svg[name=Nova_Discord] * {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
+	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
@@ -1762,7 +1755,7 @@ svg[name=Nova_Discord] * {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0067b4, #00b467);
+	background: linear-gradient(to right, #0067b4, #00b467);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
@@ -1773,7 +1766,7 @@ svg[name=Nova_Discord] * {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0063af, #00af63);
+	background: linear-gradient(to right, #0063af, #00af63);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
@@ -3158,7 +3151,7 @@ svg[name=Nitro] g path {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
+	background: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
@@ -3170,7 +3163,7 @@ svg[name=Nitro] g path {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0067b4, #00b467);
+	background: linear-gradient(to right, #0067b4, #00b467);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
@@ -3180,7 +3173,7 @@ svg[name=Nitro] g path {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
 	background-color: var(--primary);
-	background-image: linear-gradient(to right, #0063af, #00af63);
+	background: linear-gradient(to right, #0063af, #00af63);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%
@@ -3324,10 +3317,6 @@ svg[name=Nitro] g path {
 	min-width: 60px;
 	min-height: 32px;
 	font-size: 14px;
-}
-
-.messagesErrorBar__0f481 {
-	padding-bottom: 0;
 }
 
 .messagesErrorBar__0f481:active {
@@ -3857,10 +3846,10 @@ span.button__67645.enabled__67645:hover,
 	margin: 0;
 }
 
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9,
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9,
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9,
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9 {
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9,
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9,
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9,
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9 {
 	background-color: var(--primary) !important;
 	border: 2px solid var(--primary) !important;
 	background-position: center;
@@ -4116,10 +4105,10 @@ span.button__67645.enabled__67645:hover,
 	background-color: rgb(0, 103, 180);
 }
 
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:hover,
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:hover,
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:hover,
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:hover {
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:hover,
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9:hover,
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:hover,
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:hover {
 	background: var(--quaternary) !important;
 	border: 2px solid var(--quaternary) !important;
 	background-position: center;
@@ -4127,22 +4116,22 @@ span.button__67645.enabled__67645:hover,
 	background-size: 200% 200%;
 }
 
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:active,
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:active,
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:active,
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:active,
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
-.theme-dark .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
-.theme-dark .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
-.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
-.theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active {
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:active,
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9:active,
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
+.button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9:active,
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9:active,
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true],
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:hover,
+.custom-theme-background .button_e131a9 .buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active,
+.custom-theme-background .button_e131a9.buttonColor_e131a9.buttonActive_e131a9[aria-expanded=true]:active {
 	background: var(--quinary) !important;
 	border: 2px solid var(--quinary) !important;
 	background-position: center;
@@ -8385,10 +8374,6 @@ svg.contentImage__42bf5 path {
 	left: 18px;
 }
 
-.button_e131a9.buttonColor_e131a9,
-.button_e131a9 .buttonColor_e131a9,
-.button_e131a9.buttonColor_e131a9:hover,
-.button_e131a9 .buttonColor_e131a9:hover,
 .body__51eb2:not(.hasSplash__51eb2) .iconMask__51eb2,
 .jump__5126c,
 .textInput__97cfe,
@@ -9542,11 +9527,6 @@ path[stroke="rgb(123,162,255)"] {
 	padding: 0;
 }
 
-.button_e131a9.lookFilled__201d5.colorBrand__201d5,
-.button_e131a9.primary__6af3a {
-	padding: 0 14px;
-}
-
 .container_a8e786,
 .container__0be77,
 .secondaryButtonPresentation__0be77,
@@ -9734,7 +9714,6 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .pinIcon_a93f74,
-.pinIcon__08166,
 .redPing_f0dcaf,
 .icon_a14595,
 .playhead__7dce2:before,
@@ -12372,17 +12351,9 @@ path[fill="#6a7df6"] {
 	box-shadow: none !important;
 }
 
-.backButton__91fb9,
-.floatingNitroButton__39749,
-.burstReactionTooltipUpsellCta_b49891,
-.tier2Gradient__95fb7,
-.root_bfe55a,
-.button__83f66,
-.upsellButton__4a7f0,
-.gradient_c08b38,
-.colorBrand__201d5.tier2Gradient_e00877,
-.colorGreen__201d5.tier2Gradient_e00877,
-.colorPrimary__201d5.tier2Gradient_e00877 {
+.custom-theme-background .button_e131a9 .buttonColor_e131a9,
+.custom-theme-background .button_e131a9.buttonColor_e131a9,
+.root_bfe55a {
 	background: none;
 }
 
@@ -13026,7 +12997,8 @@ div.cardContainer__88e24,
 .custom-user-profile-theme .clickable_f26c88,
 .custom-user-profile-theme .avatar_d28e10,
 .bd-addon-store-card-author-img,
-.bd-install-modal-author-img {
+.bd-install-modal-author-img,
+.guildIconImage_d28ae0 {
 	border-radius: 12px;
 }
 
@@ -14374,6 +14346,8 @@ path[fill="brand-200"] {
 &.high-contrast-mode .subtitleContainer_f75fb0,
 &.theme-midnight .content_f75fb0,
 &.theme-midnight .subtitleContainer_f75fb0,
+&.theme-midnight:not(.high-contrast-mode) .content_f75fb0,
+&.theme-midnight:not(.high-contrast-mode) .subtitleContainer_f75fb0,
 .input__0f084:hover,
 .input__0f084[readonly],
 .profileNote__9c3be textarea,
@@ -14414,8 +14388,8 @@ path[fill="brand-200"] {
 .iconContainer__46773 .pencilIconWrapper__46773 {
 	background-color: #0c0e12;
 	border: none;
-	top: -12px;
-	right: -12px;
+	top: -8px;
+	right: -8px;
 }
 
 .hero_af3b89[style*='linear-gradient(45deg, rgb(57, 58, 65), rgb(57, 58, 65));'],
@@ -14626,8 +14600,7 @@ path[fill="brand-200"] {
 }
 
 .theme-midnight.messageWrapper__981c8,
-.theme-darker.messageWrapper__981c8,
-rect[fill="#43a25a"] {
+.theme-darker.messageWrapper__981c8 {
 	display: none;
 }
 
@@ -14912,7 +14885,7 @@ rect[fill="#43a25a"] {
 
 .optionsButton__70ee5,
 .streamButton__70ee5 {
-	height: 38px;
+	height: 40px;
 }
 
 .sidebarContainer__656be {
