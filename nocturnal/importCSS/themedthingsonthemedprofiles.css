@@ -222,6 +222,7 @@
 .custom-user-profile-theme .clickable_cc54d6:not(.withReactReply__75742),
 .custom-user-profile-theme .clickable_f26c88:not(.withReactReply__75742),
 .custom-user-profile-theme .avatar_d28e10:not(.withReactReply__75742),
+.custom-user-profile-theme .avatar__75742:not(.withReactReply__75742),
 .user-profile-modal-v2.custom-user-profile-theme .avatar__75742:not(.withReactReply__75742) {
 	border: 7px solid color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-primary-color) 72%) !important;
 	background-color: color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-primary-color) 72%) !important;
