@@ -4,7 +4,7 @@
 @import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
 .wrapper__44b0c[role="img"][aria-label]:before,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]):before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before,
@@ -24,7 +24,7 @@
 [role="img"][aria-label] .avatar__44b0c,
 [role="img"][aria-label] .avatar__44b0c:before,
 [role="img"][aria-label] .avatarSpeaking__44b0c,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] .avatar__44b0c,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .avatar__44b0c,
@@ -41,7 +41,7 @@
 }
 
 [role="img"][aria-label] foreignObject,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] foreignObject,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] foreignObject,
@@ -51,7 +51,7 @@
 }
 
 [role="img"][aria-label] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] .svg__44b0c foreignObject img,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .svg__44b0c foreignObject img,
@@ -61,7 +61,7 @@
 }
 
 [role="img"][aria-label] svg rect,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] svg rect,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] svg rect,
@@ -91,7 +91,7 @@
 [role="img"][aria-label*="オンライン"]:before,
 [role="img"][aria-label*="線上"]:before,
 [role="img"][aria-label*="온라인"]:before,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]):before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #43b581 !important;
 }
