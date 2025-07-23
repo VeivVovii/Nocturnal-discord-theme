@@ -12306,8 +12306,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
 	margin-bottom: 0.4rem;
 }
 
-.inspectedIndicator_c6367b,
-.popout_af3b89 {
+.inspectedIndicator_c6367b {
 	border-radius: 12px;
 }
 
@@ -13699,13 +13698,11 @@ path[fill="brand-200"] {
 .container__11014,
 .container_dca174,
 .popoutContainer_a912c3,
-.baseCardOutline__1ab14,
-.popout_af3b89 {
+.baseCardOutline__1ab14 {
 	background-color: var(--backgroundDark);
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
 	outline: none;
-	filter: none;
 }
 
 .main_c08b38,
@@ -14700,4 +14697,14 @@ rect[fill="#43a25a"] {
 
 .banner_ec75b3 {
 	background: linear-gradient(90deg,var(--primaryGradient1) 0,var(--primaryGradient2) 100%);
+}
+
+.popout_af3b89 {
+	background-color: var(--backgroundDark);
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+	border: none;
+	outline: none;
+	filter: none;
+	border-radius: 12px 0 0 12px;
+	margin-right: -8px;
 }
