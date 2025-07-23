@@ -4808,7 +4808,6 @@ span.button__67645.enabled__67645:hover,
 .container_a68543,
 .increasedActivityMainCard_e53744,
 .mainCard_f369db,
-.container_faa96b:hover,
 .container__9a337:hover,
 .post_ee8e87,
 .tag_ee8e87,
@@ -4824,7 +4823,13 @@ span.button__67645.enabled__67645:hover,
 }
 
 .container_faa96b:hover {
+	background-color: #1c212c;
+	border: none;
 	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
+}
+
+.forumPost__7d15e:hover {
+	box-shadow: none;
 }
 
 .fakeReactions_ee8e87 {
@@ -7078,9 +7083,14 @@ svg.contentImage__42bf5 path {
 }
 
 .container__5130c:active,
-.container_faa96b:active,
 .container__9a337:active {
 	background-color: #222834;
+	border: none;
+}
+
+.container_faa96b:active {
+	background-color: #222834;
+	box-shadow: 0 0 16px 8px rgba(0, 0, 0, .5);
 	border: none;
 }
 
