@@ -4,7 +4,7 @@
 @import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
 .wrapper__44b0c[role="img"][aria-label]:before,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]):before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before,
@@ -24,7 +24,7 @@
 [role="img"][aria-label] .avatar__44b0c,
 [role="img"][aria-label] .avatar__44b0c:before,
 [role="img"][aria-label] .avatarSpeaking__44b0c,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] .avatar__44b0c,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .avatar__44b0c,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .avatar__44b0c,
@@ -41,7 +41,7 @@
 }
 
 [role="img"][aria-label] foreignObject,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] foreignObject,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] foreignObject,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] foreignObject,
@@ -51,7 +51,7 @@
 }
 
 [role="img"][aria-label] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] .svg__44b0c foreignObject img,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .svg__44b0c foreignObject img,
@@ -61,7 +61,7 @@
 }
 
 [role="img"][aria-label] svg rect,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"] svg rect,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] svg rect,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] svg rect,
@@ -91,7 +91,7 @@
 [role="img"][aria-label*="オンライン"]:before,
 [role="img"][aria-label*="線上"]:before,
 [role="img"][aria-label*="온라인"]:before,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]):before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #43b581 !important;
 }
@@ -9611,13 +9611,14 @@ path[stroke="rgb(123,162,255)"] {
 
 .theme-dark .containerSidenav_dc2e0e,
 .page__99a7e,
-.container__89463,
-.sidebarContainer__89463 {
+.sidebarContainer__89463,
+.contentContainer__89463 {
 	background-color: var(--backgroundDark);
 	border-left: solid 1px rgba(1, 1, 1, 0.25);
 }
 
-.theme-dark .containerSidenav_dc2e0e {
+.theme-dark .containerSidenav_dc2e0e,
+.applicationStore_f07d62 .container__9293f {
 	border-left: none;
 }
 
@@ -11464,7 +11465,8 @@ input[type=checkbox]:focus-visible+.label__0d242 {
 }
 
 .shopScrollBackgroundPrimary__28f1d,
-.page__6db1d {
+.page__6db1d,
+.toolbar__89463 {
 	border-top: solid 1px rgba(1, 1, 1, 0.25);
 }
 
@@ -13105,7 +13107,6 @@ path[fill="brand-200"] {
 .nameplateRightPanePreviewContainer_c50f62,
 .avatarWrapper_dca174,
 .spinnerContainer_d3846c,
-.contentContainer__89463,
 .exampleImage__61aee,
 .background_fdf9c0:after,
 .page__6db1d,
@@ -13113,6 +13114,7 @@ path[fill="brand-200"] {
 .userInfoContainer__6b102,
 .actionContainer__6b102,
 .container__53cea,
+.container__89463,
 .previewBar__9c3be {
 	background-color: var(--backgroundDark);
 	border: none;
@@ -13583,7 +13585,8 @@ path[fill="brand-200"] {
 .header_c791b2,
 .container__133bf,
 .container_f391e3,
-.shop__6db1d {
+.shop__6db1d,
+.homeWrapper__0920e {
 	border-top: solid 1px rgba(1, 1, 1, 0.25) !important;
 }
 
