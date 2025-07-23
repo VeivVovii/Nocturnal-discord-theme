@@ -1604,6 +1604,7 @@ div[data-contents="true"] {
 .interactive[aria-expanded=true],
 .executedCommand_c19a55 .appLauncherOnboardingCommandName_c19a55:hover {
 	background-color: var(--primary);
+	color: #fff;
 }
 
 svg[name=Nova_Discord] * {
