@@ -10448,6 +10448,7 @@ h3.improved__1689b:after,
 .stickerCategoryGenericSelected__3ad28,
 .stickerCategoryGenericSelected__3ad28:hover,
 .chipletContainerInner__10651.noTooltip__10651:hover,
+.chipletContainerInner__10651.clickable__10651:not(.guildTag__63ed3):hover,
 .listDefault__07f91 .clickable__07f91:hover .clanTag__07f91,
 .playbackRateContainer_a8e786:hover .playbackRate_a8e786 {
 	background-color: rgba(0, 0, 0, 1);
@@ -12681,7 +12682,8 @@ svg.gameIcon_b52e4f,
 .searchSuggestion__2dc39,
 .overlayAvatar__57752,
 .outerWrapping_cd1bf7,
-div.profileThemedContainer__656be {
+div.profileThemedContainer__656be,
+div.profileThemedContainer__656be .inner_c0bea0 {
 	border-radius: 0;
 }
 
@@ -13031,7 +13033,6 @@ div.cardContainer__88e24,
 .custom-user-profile-theme .avatar_d28e10,
 .bd-addon-store-card-author-img,
 .bd-install-modal-author-img,
-.guildIconImage_d28ae0,
 .popout_af3b89 {
 	border-radius: 12px;
 }
@@ -14932,7 +14933,7 @@ rect[fill="#43a25a"] {
 }
 
 .innerContainer__656be {
-	padding: 0 0 0 8px;
+	padding: 0 8px 0 8px;
 }
 
 .container__3a5a1 {
