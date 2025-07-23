@@ -19,7 +19,6 @@
 	box-shadow: 0 0 0 2px #666;
 	border-radius: 5px;
 	z-index: 1;
-	border: none !important;
 }
 
 [role="img"][aria-label] .avatar__44b0c,
@@ -9493,7 +9492,9 @@ path[stroke="rgb(123,162,255)"] {
 .wrapper__44b0c:has([src="/assets/5b2af02dcbb53469bebe.svg"]):before,
 .wrapper__44b0c:has([src="/assets/3c3d94b02f0551403f0c.svg"]):before,
 .wrapper__44b0c:has([src="/assets/da852170b8e1f96cfc5d.svg"]):before,
-.wrapper__44b0c:has([src="/assets/ba86628a9c74727d9cf1.svg"]):before {
+.wrapper__44b0c:has([src="/assets/ba86628a9c74727d9cf1.svg"]):before,
+.wrapper__44b0c:has([src="/assets/4633b3b263d77df8.png"]):before,
+.wrapper__44b0c:has([src="/assets/53728a8572402a56.png"]):before {
 	border-radius: 100% !important;
 }
 
@@ -14099,14 +14100,6 @@ path[fill="brand-200"] {
 	overflow: hidden !important;
 }
 
-.avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c::before {
-	box-shadow: 0 0 0 2px rgba(112, 111, 116) !important;
-}
-
-.nameplatePreviewSampleItem_c3d04b .wrapper__44b0c rect[fill="var(--background-modifier-accent)"] {
-	stroke: var(--background-accent);
-}
-
 .outer_c0bea0,
 .inputWrapperWithEmojiPicker_ac72c6 .input__0f084,
 .inputWrapperWithEmojiPicker_ac72c6 .input__0f084:focus,
@@ -14146,17 +14139,6 @@ path[fill="brand-200"] {
 
 .sidebar__61aee {
 	background: radial-gradient(100% 100% at 50% 100%,var(--backgroundDarker) 60%,rgba(0, 0, 0, 0) 100%),linear-gradient(90deg,rgba(22,26,138,.5) 0,rgba(0,1,56,.5) 100%);
-}
-
-.nameplatePreview_c50f62 .wrapper__44b0c rect[fill="#706f74"],
-.avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c rect[fill="#706f74"] {
-	stroke: rgb(112, 111, 116);
-}
-
-.nameplatePreviewContainer_c50f62 .overlayContainer_fdeafc .avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c rect,
-.nameplatePreviewContainer_c50f62 .overlayContainer_fdeafc .avatarContainer_fdeafc.avatarVisible_fdeafc .wrapper__44b0c rect {
-	width: 40px;
-	height: 40px;
 }
 
 .iconContainer__46773 .pencilIconWrapper__46773 {
@@ -14703,4 +14685,12 @@ path[fill="brand-200"] {
 
 .jumpButton_ed0c8c {
 	box-shadow: none;
+}
+
+.wrapper__44b0c:has([fill="#706f74"][mask="url(#svg-mask-status-online)"])[role="img"]:before {
+	box-shadow: 0 0 0 2px rgb(112, 111, 116) !important;
+}
+
+.wrapper__44b0c:has([fill="var(--border-subtle)"][mask="url(#svg-mask-status-online)"])[role="img"]:before {
+	box-shadow: 0 0 0 2px var(--border-subtle) !important;
 }
