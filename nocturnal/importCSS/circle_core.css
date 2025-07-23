@@ -10902,54 +10902,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	background: rgba(0, 0, 0, 0);
 }
 
-.smallDecorationPreview__51743 .wrapper__44b0c .mask__44b0c {
-	overflow: visible;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect {
-	x: 0;
-	y: 0;
-	content: "";
-	position: absolute;
-	-webkit-mask: none;
-	mask: none;
-	fill: none;
-	rx: 50;
-	ry: 50;
-	stroke-width: 2px;
-	stroke: #666;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect[mask="url(#svg-mask-status-online)"] {
-	stroke: #43b581;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect[mask="url(#svg-mask-status-dnd)"] {
-	stroke: #f04747;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect[mask="url(#svg-mask-status-idle)"] {
-	stroke: #faa61a;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect[mask="url(#svg-mask-status-streaming)"] {
-	stroke: #6441a5;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c rect[mask="url(#svg-mask-status-offline)"] {
-	stroke: #747f8d;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c[style*="40px"] rect {
-	width: 40px;
-	height: 40px;
-}
-
-.smallDecorationPreview__51743 .wrapper__44b0c[style*="32px"] rect {
-	width: 32px;
-	height: 32px;
-}
-
 .dropdown_edf232,
 .users__260e1,
 .popoutHeaderContainer__260e1 .users__260e1,
