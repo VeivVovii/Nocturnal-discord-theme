@@ -7694,7 +7694,7 @@ svg.contentImage__42bf5 path {
 .theme-dark .button_aa63ab:focus-within .activeButtonChild_aa63ab,
 .theme-dark .button_aa63ab:focus .activeButtonChild_aa63ab,
 .theme-dark .button_aa63ab:hover .activeButtonChild_aa63ab {
-	color: rgb(0, 123, 207);
+	color: var(--tertiary);
 }
 
 .enableSwitch__3c9fa {
@@ -10069,7 +10069,8 @@ path[stroke="rgb(123,162,255)"] {
 .user-profile-modal-v2 .row__19fd1:not(:last-child):after,
 .divider__935ef,
 .divider__67dba,
-.divider__65a39 {
+.divider__65a39,
+.separator_aa63ab {
 	background-color: rgba(0, 0, 0, .95);
 }
 
