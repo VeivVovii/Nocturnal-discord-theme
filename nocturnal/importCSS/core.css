@@ -9253,50 +9253,6 @@ path[stroke="rgb(123,162,255)"] {
 	border: none;
 }
 
-.avatarContainer__9e177 .wrapper__44b0c foreignObject {
-	mask: none;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c .mask__44b0c {
-	overflow: visible;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect {
-	x: 0;
-	y: 0;
-	content: "";
-	position: absolute;
-	width: 56px;
-	height: 56px;
-	-webkit-mask: none;
-	mask: none;
-	fill: none;
-	rx: 8;
-	ry: 8;
-	stroke-width: 2px;
-	stroke: #666;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect[mask="url(#svg-mask-status-online)"] {
-	stroke: #43b581;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect[mask="url(#svg-mask-status-dnd)"] {
-	stroke: #f04747;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect[mask="url(#svg-mask-status-idle)"] {
-	stroke: #faa61a;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect[mask="url(#svg-mask-status-streaming)"] {
-	stroke: #6441a5;
-}
-
-.avatarContainer__9e177 .wrapper__44b0c rect[mask="url(#svg-mask-status-offline)"] {
-	stroke: #747f8d;
-}
-
 .roleTag__9e177 {
 	transform: translate(0);
 	border: 0;
