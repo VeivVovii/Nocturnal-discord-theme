@@ -60,7 +60,7 @@
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] .svg__44b0c foreignObject img,
-.container__1ce5d:has([mask="url(#svg-mask-status-online)"]) .svg__44b0c foreignObject img {
+.container__1ce5d:has([mask="url(#svg-mask-status-online)"]) .circularImage__1ce5d {
 	border-radius: 100%;
 }
 
@@ -14470,8 +14470,9 @@ path[fill="brand-200"] {
 	box-shadow: 0 0 0 2px var(--border-subtle) !important;
 }
 
-[mask="url(#svg-mask-diagonal-facepile-status-32)"] img {
+.container__1ce5d:has([mask="url(#svg-mask-status-online)"]) foreignObject img {
+	margin: 2px 0 0 2px;
 	width: 17.333333333333332px;
 	height: 17.333333333333332px;
-	margin: 2px 0 0 2px;
+	border-radius: 100%;
 }
