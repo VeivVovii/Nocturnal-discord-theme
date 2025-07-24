@@ -60,7 +60,6 @@
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] .svg__44b0c foreignObject img,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] .svg__44b0c foreignObject img,
-.container__1ce5d:has([mask="url(#svg-mask-status-online)"]) .svg__44b0c foreignObject img,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]) .circularImage__1ce5d {
 	border-radius: 4px;
 }
