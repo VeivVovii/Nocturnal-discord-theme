@@ -11332,6 +11332,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 [mask="url(#svg-mask-diagonal-facepile-32)"] img,
 [mask="url(#svg-mask-diagonal-facepile-64)"] img,
 [mask="url(#svg-mask-diagonal-facepile-80)"] img,
+[mask="url(#svg-mask-diagonal-facepile-status-32)"] img,
 [mask="url(#svg-mask-diagonal-facepile-status-64)"] img,
 [mask="url(#svg-mask-diagonal-facepile-status-80)"] img,
 [mask="url(#svg-mask-diagonal-facepile-typing-32)"] img,
