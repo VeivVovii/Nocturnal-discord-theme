@@ -8928,6 +8928,10 @@ svg.contentImage__42bf5 path {
 	border-color: rgba(0, 0, 0, 0);
 }
 
+.tagInputWrapper__69ef9 {
+	background-color: var(--backgroundDarker);
+}
+
 .tagInputWrapper__69ef9:hover,
 .defaultTextInputWrapper__7b848:hover,
 .cardInput__8b579:hover,
