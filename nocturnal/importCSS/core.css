@@ -4695,11 +4695,17 @@ span.button__67645.enabled__67645:hover,
 	background-color: rgba(0, 0, 0, .2);
 }
 
-.container_ee8e87,
 #permissions-modal-wrapper .role-side,
 .popoutHeaderContainer__86331,
 .container_d9c848 {
 	background-color: var(--backgroundDarker);
+	border: none;
+}
+
+.container_ee8e87 {
+	background-color: var(--backgroundDarker);
+	border: none;
+	border-radius: 5px;
 }
 
 .containerFooter_eaaeee {
@@ -4918,6 +4924,7 @@ span.button__67645.enabled__67645:hover,
 .previewContainer_ee8e87 {
 	background-color: var(--backgroundDark);
 	border-radius: 0 5px 5px 0;
+	border: none;
 }
 
 .opTag_ee8e87 {
@@ -11405,6 +11412,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .preview_ee8e87,
 .akaBadge__488b1 {
 	background-color: var(--backgroundDarker);
+	border: none;
 }
 
 .statusBubble_af9888,
