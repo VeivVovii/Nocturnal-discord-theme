@@ -9127,9 +9127,13 @@ path[stroke="rgb(123,162,255)"] {
 	display: none;
 }
 
-.roleDot__9e177,
 .channel_e34850 svg {
 	margin-right: 4px;
+}
+
+.roleDot__9e177 {
+	margin-right: 4px;
+	margin-top: 0;
 }
 
 .profileCard__9e177 {
@@ -9137,11 +9141,23 @@ path[stroke="rgb(123,162,255)"] {
 }
 
 .roleTag__9e177 {
+	align-items: center;
+	box-sizing: border-box;
+	display: flex;
 	transform: translate(0);
 	border: 0;
-	border-radius: 5px;
+	border-radius: 11px;
 	background-color: var(--backgroundDark);
 	padding: 4px;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.roleText__9e177 {
+	font-family: var(--font-primary);
+	font-weight: 500;
+	line-height: 1.3333333333333333;
+	font-size: 12px;
 }
 
 .roleTag__9e177 .roleCircle__4f569::before {
@@ -12074,9 +12090,21 @@ path[fill="#6a7df6"] {
 	box-shadow: none !important;
 }
 
+.backButton__91fb9,
+.floatingNitroButton__39749,
+.burstReactionTooltipUpsellCta_b49891,
+.tier2Gradient__95fb7,
+.root_bfe55a,
+.button__83f66,
+.upsellButton__4a7f0,
+.gradient_c08b38,
+.colorBrand__201d5.tier2Gradient_e00877,
+.colorGreen__201d5.tier2Gradient_e00877,
+.colorPrimary__201d5.tier2Gradient_e00877,
 .custom-theme-background .button_e131a9 .buttonColor_e131a9,
 .custom-theme-background .button_e131a9.buttonColor_e131a9,
-.root_bfe55a {
+.root_bfe55a,
+.button__83f66 {
 	background: none;
 }
 
@@ -12179,8 +12207,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
 .avatar_d28e10,
 .avatar__75742.user-profile-popout,
 .user-profile-popout :where(.avatar__75742) {
-	left: 9px;
-	top: 54px;
+	left: 10px;
+	top: 55px;
 }
 
 .role_a3571c,
@@ -14092,8 +14120,8 @@ path[fill="brand-200"] {
 }
 
 .custom-user-profile-theme.user-profile-popout :where(.avatar__75742) {
-	left: 5px;
-	top: 50px;
+	left: 6px;
+	top: 51px;
 }
 
 .container__7641b {
