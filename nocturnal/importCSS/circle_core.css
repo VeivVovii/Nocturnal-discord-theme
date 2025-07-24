@@ -9901,7 +9901,8 @@ path[stroke="rgb(123,162,255)"] {
 .tab_f8303a.vertical_f8303a,
 .selectItemRow_d81ffd,
 .infoRow__6b102:not(:last-child),
-.actionRow__6b102 {
+.actionRow__6b102,
+.container__0d0f9 {
 	border-color: rgba(0, 0, 0, .95);
 }
 
