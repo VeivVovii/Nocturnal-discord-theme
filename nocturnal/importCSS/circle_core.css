@@ -14182,7 +14182,8 @@ path[fill="brand-200"] {
 .theme-midnight.messageWrapper__981c8,
 .theme-darker.messageWrapper__981c8,
 .avatar__20a53 rect[fill="#43a25a"],
-.avatar__20a53 .status_a423bd {
+.avatar__20a53 .status_a423bd,
+.selectionGroup__6b52d {
 	display: none;
 }
 
