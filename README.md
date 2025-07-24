@@ -7,6 +7,8 @@
 4. For support and bug reports go to my discord server
 5. have fun with the new theme :3
 
+![](https://i.ibb.co/CpkCGrF5/68747470733a2f2f692e696d6775722e636f6d2f5439446e6931592e706e67.png)
+
 # Preview square version
 ![nocturnal-preview](https://i.imgur.com/emBMm8I.png)
 
