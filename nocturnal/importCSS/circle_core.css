@@ -6743,8 +6743,7 @@ svg.contentImage__42bf5 path {
 	border-radius: 0 0 5px 5px;
 }
 
-.theme-dark .css-xszxaa-option,
-.list__920b8 {
+.theme-dark .css-xszxaa-option {
 	background-color: rgba(0, 0, 0, 0.2)
 }
 
@@ -6808,7 +6807,8 @@ svg.contentImage__42bf5 path {
 
 .forumPost__7d15e,
 .forumPost__7d15e.container__9a337:hover,
-.label_df4aaf {
+.label_df4aaf,
+.list__920b8 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -11143,7 +11143,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .acronym__2894c,
 .soundButtonRefresh__9be63:hover,
 .bd-install-modal-guild,
-.acronym_f0dcaf,
 .colorable_f1ceac.primaryDark_f1ceac.active_f1ceac:not(.disabled_f1ceac),
 .colorable_f1ceac.primaryDark_f1ceac:hover:not(.disabled_f1ceac),
 .filterBackground__72086:hover,
@@ -11590,6 +11589,10 @@ path[fill="#6a7df6"] {
 .guildIconImage__79e3e,
 .clanIconInner_e0fe28 {
 	border-radius: 100%;
+}
+
+.acronym_f0dcaf {
+	background-color: #0c0e12;
 }
 
 .topRow__34940[style*="43, 45, 49, 0.8"],
@@ -12506,7 +12509,6 @@ div.profileThemedContainer__656be .inner_c0bea0 {
 
 .bottomRowAction__34940 .innerBottomRowAction__34940:hover,
 .button__6e3f1:hover,
-.list__920b8,
 .container_afa88e,
 .iconBackground_f08fc1,
 .tabs_adcef2,
@@ -14507,4 +14509,9 @@ path[fill="brand-200"] {
 	width: 17.333333333333332px;
 	height: 17.333333333333332px;
 	border-radius: 100%;
+}
+
+.md__6af3a .buttonChildrenWrapper__6af3a {
+	min-height: 32px;
+	min-width: 32px;
 }
