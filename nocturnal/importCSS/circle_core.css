@@ -7673,10 +7673,6 @@ svg.contentImage__42bf5 path {
 	fill: #202632;
 }
 
-.headerImageContainer_d7a3d0 {
-	border-radius: 5px;
-}
-
 .divider_bba883,
 .active__05fbc,
 .hover_d0ebf2:hover,
@@ -12458,6 +12454,8 @@ div.profileThemedContainer__656be .inner_c0bea0 {
 .overlay__75742:after,
 .overlay_d28e10::after,
 .headerImage__000a3,
+.headerImage__000a3>img,
+.appIcon__24654,
 .avatarBackground__6f212,
 .avatar_fa0751,
 .imageContainer_db811b,
