@@ -768,3 +768,7 @@
 [fill="rgb(118,134,177)"] {
 	fill: rgb(30, 171, 165);
 }
+
+[src*='/content/d4286b5e33156d3cea19a881c599e6a5501c8352b73f5b08dbc1e852d9a61b92.svg'] {
+	content: url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/assets/d4286b5e33156d3cea19a881c599e6a5501c8352b73f5b08dbc1e852d9a61b92.svg") !important;
+}
