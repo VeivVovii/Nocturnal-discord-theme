@@ -7598,9 +7598,13 @@ svg.contentImage__42bf5 path {
 }
 
 .progressBarOuter__42e04,
-.usageWrapper__78aa3,
+.usageWrapper__78aa3 {
+	background: rgba(0, 0, 0, .45);
+}
+
 .headerImageContainer_d7a3d0 {
 	background: rgba(0, 0, 0, .45);
+	border-radius: 5px;
 }
 
 .progressBarInner__42e04 {
@@ -7784,7 +7788,6 @@ svg.contentImage__42bf5 path {
 	fill: #202632;
 }
 
-.headerImageContainer_d7a3d0,
 .tierImage_e431b0,
 .listingImage__9076a,
 .imageSmall__41ea0 {
