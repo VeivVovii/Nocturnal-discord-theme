@@ -295,12 +295,28 @@
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
 }
 
+.item_b3f026[data-tab-id="Profile Customization"]::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/Profiles.svg) center;
+}
+
+.item_b3f026[data-tab-id="Family Center"]::before {
+	background: url(https://xcruxiex.github.io/themes/core/Settings-Icons/FamilyCentre.svg) center;
+}
+
 .item_b3f026[data-tab-id="Authorized Apps"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/apps.png) center;
 }
 
+.item_b3f026[data-tab-id="Sessions"]::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/Devices.svg) center;
+}
+
 .item_b3f026[data-tab-id="Connections"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/connections.png) center;
+}
+
+.item_b3f026[data-tab-id="Settings Clips"]::before {
+	background: url(https://xcruxiex.github.io/themes/core/Settings-Icons/Clips.svg) center;
 }
 
 .item_b3f026[data-tab-id="Discord Nitro"]::before {
@@ -325,6 +341,10 @@
 
 .item_b3f026[data-tab-id="Appearance"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/eye.png) center;
+}
+
+.item_b3f026[data-tab-id="Accessibility"]::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/Accesibility.svg) center;
 }
 
 .item_b3f026[data-tab-id="Voice & Video"]::before {
@@ -355,6 +375,14 @@
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
 }
 
+.item_b3f026[data-tab-id="Advanced"]::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/Advanced.svg) center;
+}
+
+.item_b3f026[data-tab-id="Activity Privacy"]::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/ActivityPrivacy.svg) center;
+}
+
 .item_b3f026[data-tab-id="Game Activity"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/games.png) center;
 }
@@ -367,20 +395,28 @@
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/core.png) center;
 }
 
-.item_b3f026[data-tab-id="customcss"]::before {
+.bd-updates-tab::before {
+	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/BDUpdates.svg) center;
+}
+
+.bd-customcss-tab::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/css.png) center;
 }
 
-.item_b3f026[data-tab-id="plugins"]::before {
+.bd-plugins-tab::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
 }
 
-.item_b3f026[data-tab-id="themes"]::before {
+.bd-themes-tab::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/theme.png) center;
 }
 
 .item_b3f026[data-tab-id="changelog"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
+}
+
+.item_b3f026[data-tab-id="merchandise"]::before {
+	background: url(https://xcruxiex.github.io/themes/core/Settings-Icons/Merch.svg) center;
 }
 
 .item_b3f026[data-tab-id="Hypesquad Online"]::before {
