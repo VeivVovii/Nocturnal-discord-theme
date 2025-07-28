@@ -5822,7 +5822,6 @@ svg.contentImage__42bf5 path {
 .theme-dark .applicationStore_f07d62,
 .theme-dark .shopScrollBackgroundPrimary__28f1d,
 .theme-dark .pageWrapperBackgroundPrimary__36469,
-.theme-dark .shop__6db1d,
 .theme-dark .pageWrapper_a3a4ce,
 .theme-dark .scroller_a39aa3,
 .theme-dark .sidebar_c48ade,
@@ -10201,7 +10200,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .container_cd1bf7,
 .applicationStore_f07d62,
 .loader_c48ade,
-.shopScroll__6db1d,
+.shopScroll__08415,
 .container__49668,
 .container_cbd375,
 .backdrop__8a7fc {
@@ -10434,7 +10433,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .wrapper_e9b191,
 .user-profile-popout:not(.custom-user-profile-theme) .inner_c0bea0,
 .user-profile-modal:not(.custom-user-profile-theme) .inner_c0bea0,
-.shopScroll__6db1d,
+.shopScroll__08415,
 .pageWrapper__6db1d,
 .container__88e24,
 div.cardContainer__88e24,
@@ -12323,6 +12322,7 @@ path[fill="brand-200"] {
 
 .container__6a6d6,
 .theme-dark .container_a56260,
+.shop__6db1d,
 .shop__08415,
 .contentWrapper__99a7e,
 .headerBadge_e0fe28,
@@ -12683,7 +12683,7 @@ path[fill="brand-200"] {
 &.theme-dark .lookLink__201d5.colorLink__201d5,
 &.theme-dark .lookLink__201d5.colorPrimary__201d5:not(.cancelButton_cc46f0) {
 	color: rgb(53, 198, 240);
-} 
+}
 
 .radioIndicatorChecked__001a7 .refreshIconFill__001a7 {
 	fill: var(--primary);
