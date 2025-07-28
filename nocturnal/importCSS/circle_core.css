@@ -2330,12 +2330,12 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .invite__4d3fa {
-	background: rgba(0, 0, 0, .15);
+	background-color: rgba(0, 0, 0, .15);
 	border: none;
 }
 
 .peopleListItem_cc6179:not(.listItem__2bb83) {
-	border-top: 1px solid rgba(0, 0, 0, .95);
+	border-top-color: rgba(0, 0, 0, .95);
 	margin-right: 18px;
 }
 
@@ -2343,7 +2343,8 @@ svg[name=Nitro] g path {
 .peopleListItem_cc6179:hover,
 .rowItem_a0365b.active_a0365b,
 .rowItem_a0365b:hover {
-	background: rgba(0, 0, 0, .15);
+	background-color: rgba(0, 0, 0, .15);
+	border-color: rgba(0, 0, 0, 0);
 }
 
 .peopleListItem_cc6179.active_cc6179:not(.listItem__2bb83),
