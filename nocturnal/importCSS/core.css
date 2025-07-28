@@ -12898,7 +12898,7 @@ path[fill="brand-200"] {
 }
 
 &.theme-dark .lookLink__201d5.colorLink__201d5,
-&.theme-dark .lookLink__201d5.colorPrimary__201d5 {
+&.theme-dark .lookLink__201d5.colorPrimary__201d5:not(.cancelButton_cc46f0) {
 	color: rgb(53, 198, 240);
 }
 
@@ -13636,6 +13636,14 @@ path[fill="brand-200"] {
 &.theme-dark .lookLink__201d5.colorLink__201d5:hover .contents__201d5,
 &.theme-dark .lookLink__201d5.colorPrimary__201d5:hover .contents__201d5 {
 	--button--underline-color: rgb(53, 198, 240);
+}
+
+.theme-dark .lookLink__201d5.colorPrimary__201d5:hover .contents__201d5 {
+	--button--underline-color: var(--white);
+}
+
+.lookLink__201d5.colorPrimary__201d5 {
+	color: var(--text-default);
 }
 
 #app-mount .unread__6fddf {
