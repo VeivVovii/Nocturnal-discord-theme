@@ -9241,7 +9241,8 @@ path[stroke="rgb(123,162,255)"] {
 
 .lowerBodyContentWrapper__6fd0e,
 .middleBodyContentWrapper__6fd0e,
-.headerContentWrapper__6fd0e {
+.headerContentWrapper__6fd0e,
+.has-webkit-scrollbar .bodyInner__53cea {
 	padding-right: 26px;
 }
 
@@ -9809,8 +9810,7 @@ h3.improved__1689b:after,
 	background-color: var(--primary) !important;
 }
 
-.sideNavContent_dc2e0e,
-.has-webkit-scrollbar .bodyInner__53cea {
+.sideNavContent_dc2e0e {
 	padding-right: 18px;
 }
 
@@ -10553,7 +10553,8 @@ div.cardContainer__88e24,
 .modalContentContainer_bc32e9,
 .content__99afd,
 .updateContent_e6fa8e,
-.optionsList__78f69 {
+.optionsList__78f69,
+.content_d7fb2d {
 	padding-right: 10px !important;
 }
 
