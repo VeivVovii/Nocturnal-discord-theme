@@ -9099,6 +9099,7 @@ path[stroke="rgb(123,162,255)"] {
 .infoRow__6b102:not(:last-child),
 .actionRow__6b102,
 .container__0d0f9,
+.bodySpacerTopBorder__53cea,
 .bodySpacerBottomBorder__53cea {
 	border-color: rgba(0, 0, 0, .95);
 }
@@ -9241,8 +9242,7 @@ path[stroke="rgb(123,162,255)"] {
 
 .lowerBodyContentWrapper__6fd0e,
 .middleBodyContentWrapper__6fd0e,
-.headerContentWrapper__6fd0e,
-.has-webkit-scrollbar .bodyInner__53cea {
+.headerContentWrapper__6fd0e {
 	padding-right: 26px;
 }
 
@@ -13869,4 +13869,8 @@ path[fill="brand-200"] {
 
 .clipFormFooterButton__54978.colorPrimary__201d5 {
 	padding: 0;
+}
+
+.has-webkit-scrollbar .bodyInner__53cea {
+	padding-right: calc(var(--custom-modal-padding) - var(--space-6));
 }
