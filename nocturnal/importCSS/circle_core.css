@@ -1667,11 +1667,6 @@ svg[name=Nitro] g path {
 	background-color: var(--primaryGradient1);
 }
 
-.embed__623de code {
-	background: rgba(0, 0, 0, .65) !important;
-	border: none !important;
-}
-
 .theme-dark .progressBarContainer_eff079 {
 	background-color: rgba(0, 0, 0, .45) !important
 }
@@ -9099,7 +9094,8 @@ path[stroke="rgb(123,162,255)"] {
 .selectItemRow_d81ffd,
 .infoRow__6b102:not(:last-child),
 .actionRow__6b102,
-.container__0d0f9 {
+.container__0d0f9,
+.bodySpacerBottomBorder__53cea {
 	border-color: rgba(0, 0, 0, .95);
 }
 
@@ -9933,8 +9929,8 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .avatarContainer__44492 .wrapper__44b0c .avatar__44b0c[src="/assets/32336875baac6ac1.png"],
 .wrapper__44b0c .avatar__44b0c[src="/assets/d9bd8932f55dc4ba.gif"] {
-	width: 40px;
-	height: 40px;
+	width: 100%;
+	height: 100%;
 	margin: 0;
 }
 
@@ -10389,7 +10385,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 .line_d878e7,
 .marker_d878e7,
 .marker_d878e7 .empty_d878e7,
-.recentClipsPopout__20c92,
 .theme-dark .content__79cbe,
 .darkCardBackground_c3d04b,
 .mainTableContainer_fa2640,
@@ -10834,7 +10829,6 @@ path[fill="#6a7df6"] {
 .container_b15955,
 .menuItem__8683b,
 .button_e6e74f,
-.gameIcon_b52e4f,
 .media__41ea0,
 .searchRowLabel__6ae25,
 .navItem__551b0,
@@ -13585,6 +13579,11 @@ path[fill="brand-200"] {
 	border: none;
 }
 
+.embed__623de code {
+	background: rgba(0, 0, 0, .65);
+	border: none;
+}
+
 .searchBar_c0e32c.container_a45028,
 .searchBar_fed6d3.container_a45028 {
 	margin-top: 7px;
@@ -13791,4 +13790,16 @@ path[fill="brand-200"] {
 	height: 40px;
 	right: -3px;
 	bottom: 36px;
+}
+
+.refreshIconStroke__001a7 {
+	stroke: rgba(0, 0, 0, .95);
+}
+
+.recentClipsPopout__20c92:after {
+	border-top-color: var(--backgroundDark);
+}
+
+.clipFormFooterButton__54978.colorPrimary__201d5 {
+	padding: 0;
 }
