@@ -283,8 +283,120 @@
 	transform: translateY(-50%);
 }
 
-.sidebar__23e6b .side_b3f026 .item_b3f026 {
+[aria-label="User Settings"].side_b3f026 .item_b3f026 {
 	padding-left: 40px !important
+}
+
+[aria-label="Настройки пользователя"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important
+}
+
+[aria-label="Brugerindstillinger"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Benutzereinstellungen"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Ajustes de usuario"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Paramètres utilisateur"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Korisničke postavke"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Impostazioni utente"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Naudotojo Nustatymai"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Felhasználói beállítások"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Gebruikersinstellingen"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Brukerinnstillinger"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Ustawienia użytkownika"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Configurações de Usuário"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Setări utilizator"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Käyttäjäasetukset"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Användarinställningar"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Cài đặt người dùng"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Kullanıcı Ayarları"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Uživatelská nastavení"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Ρυθμίσεις χρήστη"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Користувацькі налаштування"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="Потребителски настройки"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="यूज़र सेटिंग"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="ตั้งค่าผู้ใช้"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="用户设置"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="ユーザー設定"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="使用者設定"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
+}
+
+[aria-label="사용자 설정"].side_b3f026 .item_b3f026 {
+	padding-left: 40px !important;
 }
 
 .item_b3f026[data-tab-id="My Account"]::before {
