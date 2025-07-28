@@ -75,7 +75,9 @@
 }
 
 [role="img"][aria-label*="Online"]:before,
+[role="img"][aria-label*="online"]:before,
 [role="img"][aria-label*="Conectado"]:before,
+[role="img"][aria-label*="En línea"]:before,
 [role="img"][aria-label*="En ligne"]:before,
 [role="img"][aria-label*="Na mreži"]:before,
 [role="img"][aria-label*="Prisijungęs"]:before,
@@ -281,951 +283,111 @@
 	transform: translateY(-50%);
 }
 
-[aria-label="User Settings"].side_b3f026 .item_b3f026 {
+.sidebar__23e6b .side_b3f026 .item_b3f026 {
 	padding-left: 40px !important
 }
 
-[aria-label="Настройки пользователя"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important
-}
-
-[aria-label="Brugerindstillinger"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Benutzereinstellungen"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Ajustes de usuario"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Paramètres utilisateur"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Korisničke postavke"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Impostazioni utente"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Naudotojo Nustatymai"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Felhasználói beállítások"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Gebruikersinstellingen"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Brukerinnstillinger"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Ustawienia użytkownika"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Configurações de Usuário"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Setări utilizator"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Käyttäjäasetukset"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Användarinställningar"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Cài đặt người dùng"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Kullanıcı Ayarları"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Uživatelská nastavení"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Ρυθμίσεις χρήστη"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Користувацькі налаштування"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="Потребителски настройки"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="यूज़र सेटिंग"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="ตั้งค่าผู้ใช้"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="用户设置"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="ユーザー設定"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="使用者設定"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="사용자 설정"].side_b3f026 .item_b3f026 {
-	padding-left: 40px !important;
-}
-
-[aria-label="사용자 설정"] .item_b3f026:nth-child(3)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(3)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(3)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(3)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(3)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(3)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(3)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(3)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(3)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(3)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(3)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(3)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(3)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(3)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(3)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(3)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(3)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(3)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(3)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(3)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(3)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(3)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(3)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(3)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(3)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(3)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(3)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(3)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(3)::before {
+.item_b3f026[data-tab-id="My Account"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/account.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(6)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(6)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(6)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(6)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(6)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(6)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(6)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(6)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(6)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(6)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(6)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(6)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(6)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(6)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(6)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(6)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(6)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(6)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(6)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(6)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(6)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(6)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(6)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(6)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(6)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(6)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(6)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(6)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(6)::before {
+.item_b3f026[data-tab-id="Data & Privacy"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(8)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(8)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(8)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(8)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(8)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(8)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(8)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(8)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(8)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(8)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(8)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(8)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(8)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(8)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(8)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(8)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(8)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(8)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(8)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(8)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(8)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(8)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(8)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(8)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(8)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(8)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(8)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(8)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(8)::before {
+.item_b3f026[data-tab-id="Authorized Apps"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/apps.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(10)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(10)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(10)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(10)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(10)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(10)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(10)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(10)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(10)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(10)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(10)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(10)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(10)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(10)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(10)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(10)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(10)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(10)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(10)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(10)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(10)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(10)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(10)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(10)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(10)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(10)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(10)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(10)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(10)::before {
+.item_b3f026[data-tab-id="Connections"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/connections.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(14)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(14)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(14)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(14)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(14)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(14)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(14)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(14)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(14)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(14)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(14)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(14)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(14)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(14)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(14)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(14)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(14)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(14)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(14)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(14)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(14)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(14)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(14)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(14)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(14)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(14)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(14)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(14)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(14)::before {
+.item_b3f026[data-tab-id="Discord Nitro"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(15)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(15)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(15)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(15)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(15)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(15)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(15)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(15)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(15)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(15)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(15)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(15)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(15)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(15)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(15)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(15)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(15)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(15)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(15)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(15)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(15)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(15)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(15)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(15)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(15)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(15)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(15)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(15)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(15)::before {
+.item_b3f026[data-tab-id="Nitro Server Boost"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/boost.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(16)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(16)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(16)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(16)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(16)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(16)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(16)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(16)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(16)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(16)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(16)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(16)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(16)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(16)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(16)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(16)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(16)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(16)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(16)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(16)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(16)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(16)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(16)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(16)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(16)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(16)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(16)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(16)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(16)::before {
+.item_b3f026[data-tab-id="Subscriptions"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/billing.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(17)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(17)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(17)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(17)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(17)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(17)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(17)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(17)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(17)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(17)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(17)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(17)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(17)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(17)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(17)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(17)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(17)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(17)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(17)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(17)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(17)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(17)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(17)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(17)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(17)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(17)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(17)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(17)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(17)::before {
+.item_b3f026[data-tab-id="Library Inventory"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/gift.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(18)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(18)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(18)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(18)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(18)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(18)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(18)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(18)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(18)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(18)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(18)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(18)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(18)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(18)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(18)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(18)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(18)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(18)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(18)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(18)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(18)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(18)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(18)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(18)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(18)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(18)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(18)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(18)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(18)::before {
+.item_b3f026[data-tab-id="Billing"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/billing.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(21)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(21)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(21)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(21)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(21)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(21)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(21)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(21)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(21)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(21)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(21)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(21)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(21)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(21)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(21)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(21)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(19)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(21)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(21)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(21)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(21)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(21)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(21)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(21)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(21)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(21)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(21)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(21)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(21)::before {
+.item_b3f026[data-tab-id="Appearance"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/eye.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(23)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(23)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(23)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(23)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(23)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(23)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(23)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(23)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(23)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(23)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(23)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(23)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(23)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(23)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(23)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(23)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(23)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(23)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(23)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(23)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(23)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(23)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(23)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(23)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(23)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(23)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(23)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(23)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(23)::before {
+.item_b3f026[data-tab-id="Voice & Video"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/voice.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(24)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(24)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(24)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(24)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(24)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(24)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(24)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(24)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(24)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(24)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(24)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(24)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(24)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(24)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(24)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(24)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(24)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(24)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(24)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(24)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(24)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(24)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(24)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(24)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(24)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(24)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(24)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(24)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(24)::before {
+.item_b3f026[data-tab-id="Text & Images"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/text.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(25)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(25)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(25)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(25)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(25)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(25)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(25)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(25)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(25)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(25)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(25)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(25)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(25)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(25)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(25)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(25)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(25)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(25)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(25)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(25)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(25)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(25)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(25)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(25)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(25)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(25)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(25)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(25)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(25)::before {
+.item_b3f026[data-tab-id="Notifications"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/notifications.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(26)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(26)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(26)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(26)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(26)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(26)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(26)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(26)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(26)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(26)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(26)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(26)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(26)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(26)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(26)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(26)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(26)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(26)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(26)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(26)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(26)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(26)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(26)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(26)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(26)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(26)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(26)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(26)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(26)::before {
+.item_b3f026[data-tab-id="Keybinds"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/keybinds.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(27)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(27)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(27)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(27)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(27)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(27)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(27)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(27)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(27)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(27)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(27)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(27)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(27)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(27)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(27)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(27)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(27)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(27)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(27)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(27)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(27)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(27)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(27)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(27)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(27)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(27)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(27)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(27)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(27)::before {
+.item_b3f026[data-tab-id="Language"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/language.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(28)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(28)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(28)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(28)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(28)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(28)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(28)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(28)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(28)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(28)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(28)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(28)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(28)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(28)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(28)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(28)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(28)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(28)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(28)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(28)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(28)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(28)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(28)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(28)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(28)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(28)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(28)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(28)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(28)::before {
+.item_b3f026[data-tab-id="Windows"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/windows.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(29)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(29)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(29)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(29)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(29)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(29)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(29)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(29)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(29)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(29)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(29)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(29)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(29)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(29)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(29)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(29)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(29)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(29)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(29)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(29)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(29)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(29)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(29)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(29)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(29)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(29)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(29)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(29)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(29)::before {
+.item_b3f026[data-tab-id="Streamer Mode"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(34)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(34)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(34)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(34)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(34)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(34)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(34)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(34)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(34)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(34)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(34)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(34)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(34)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(34)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(34)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(34)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(34)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(34)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(34)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(34)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(34)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(34)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(34)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(34)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(34)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(34)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(34)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(34)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(34)::before {
+.item_b3f026[data-tab-id="Game Activity"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/games.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(35)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(35)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(35)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(35)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(35)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(35)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(35)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(35)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(35)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(35)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(35)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(35)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(35)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(35)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(35)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(35)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(35)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(35)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(35)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(35)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(35)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(35)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(35)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(35)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(35)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(35)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(35)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(35)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(35)::before {
+.item_b3f026[data-tab-id="Overlay"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/overlay.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(38)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(38)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(38)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(38)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(38)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(38)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(38)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(38)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(38)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(38)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(38)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(38)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(38)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(38)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(38)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(38)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(38)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(38)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(38)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(38)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(38)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(38)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(38)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(38)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(38)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(38)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(38)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(38)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(38)::before {
+.bd-settings-tab::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/core.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(40)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(40)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(40)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(40)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(40)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(40)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(40)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(40)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(40)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(40)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(40)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(40)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(40)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(40)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(40)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(40)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(40)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(40)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(40)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(40)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(40)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(40)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(40)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(40)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(40)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(40)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(40)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(40)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(40)::before {
+.item_b3f026[data-tab-id="customcss"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/css.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(41)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(41)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(41)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(41)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(41)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(41)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(41)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(41)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(41)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(41)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(41)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(41)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(41)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(41)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(41)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(41)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(41)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(41)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(41)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(41)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(41)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(41)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(41)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(41)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(41)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(41)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(41)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(41)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(41)::before {
+.item_b3f026[data-tab-id="plugins"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(42)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(42)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(42)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(42)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(42)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(42)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(42)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(42)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(42)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(42)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(42)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(42)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(42)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(42)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(42)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(42)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(42)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(42)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(42)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(42)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(42)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(42)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(42)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(42)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(42)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(42)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(42)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(42)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(42)::before {
+.item_b3f026[data-tab-id="themes"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/theme.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(44)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(44)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(44)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(44)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(44)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(44)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(44)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(44)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(44)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(44)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(44)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(44)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(44)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(44)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(44)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(44)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(44)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(44)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(44)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(44)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(44)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(44)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(44)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(44)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(44)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(44)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(44)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(44)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(44)::before {
+.item_b3f026[data-tab-id="changelog"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(46)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(46)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(46)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(46)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(46)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(46)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(46)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(46)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(46)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(46)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(46)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(46)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(46)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(46)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(46)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(46)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(46)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(46)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(46)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(46)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(46)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(46)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(46)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(46)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(46)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(46)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(46)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(46)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(46)::before {
+.item_b3f026[data-tab-id="Hypesquad Online"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/hype.png) center;
 }
 
-[aria-label="사용자 설정"] .item_b3f026:nth-child(48)::before,
-[aria-label="使用者設定"] .item_b3f026:nth-child(48)::before,
-[aria-label="ユーザー設定"] .item_b3f026:nth-child(48)::before,
-[aria-label="用户设置"] .item_b3f026:nth-child(48)::before,
-[aria-label="ตั้งค่าผู้ใช้"] .item_b3f026:nth-child(48)::before,
-[aria-label="यूज़र सेटिंग"] .item_b3f026:nth-child(48)::before,
-[aria-label="Користувацькі налаштування"] .item_b3f026:nth-child(48)::before,
-[aria-label="Потребителски настройки"] .item_b3f026:nth-child(48)::before,
-[aria-label="Ρυθμίσεις χρήστη"] .item_b3f026:nth-child(48)::before,
-[aria-label="Uživatelská nastavení"] .item_b3f026:nth-child(48)::before,
-[aria-label="Kullanıcı Ayarları"] .item_b3f026:nth-child(48)::before,
-[aria-label="Cài đặt người dùng"] .item_b3f026:nth-child(48)::before,
-[aria-label="Användarinställningar"] .item_b3f026:nth-child(48)::before,
-[aria-label="Käyttäjäasetukset"] .item_b3f026:nth-child(48)::before,
-[aria-label="Setări utilizator"] .item_b3f026:nth-child(48)::before,
-[aria-label="Configurações de Usuário"] .item_b3f026:nth-child(48)::before,
-[aria-label="Ustawienia użytkownika"] .item_b3f026:nth-child(48)::before,
-[aria-label="Brukerinnstillinger"] .item_b3f026:nth-child(48)::before,
-[aria-label="Gebruikersinstellingen"] .item_b3f026:nth-child(48)::before,
-[aria-label="Felhasználói beállítások"] .item_b3f026:nth-child(48)::before,
-[aria-label="Naudotojo Nustatymai"] .item_b3f026:nth-child(48)::before,
-[aria-label="Impostazioni utente"] .item_b3f026:nth-child(48)::before,
-[aria-label="Korisničke postavke"] .item_b3f026:nth-child(48)::before,
-[aria-label="Paramètres utilisateur"] .item_b3f026:nth-child(48)::before,
-[aria-label="Ajustes de usuario"] .item_b3f026:nth-child(48)::before,
-[aria-label="Benutzereinstellungen"] .item_b3f026:nth-child(48)::before,
-[aria-label="Brugerindstillinger"] .item_b3f026:nth-child(48)::before,
-[aria-label="Настройки пользователя"] .item_b3f026:nth-child(48)::before,
-[aria-label="User Settings"] .item_b3f026:nth-child(48)::before {
+.item_b3f026[data-tab-id="logout"]::before {
 	background: url(https://khimarikmayer.github.io/Nocturnal-discord-theme/icons/logout.png) center;
 }
 
@@ -14435,4 +13597,42 @@ path[fill="brand-200"] {
 
 .calendarPicker_d27f17 .react-datepicker__week:first-of-type>.react-datepicker__day:first-of-type {
 	border-radius: 5px 5px 0 0;
+}
+
+#app-mount .wrapper__44b0c foreignObject[mask*=mobile]:after,
+#app-mount .wrapper__44b0c:has([mask="url(#svg-mask-avatar-status-mobile-32)"])[role="img"][aria-label] foreignObject:after {
+	content: "";
+	mask: url('data:image/svg+xml; utf-8,<svg aria-hidden="true" focusable="false" data-prefix="fas" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm112-108c0 6.6-5.4 12-12 12H60c-6.6 0-12-5.4-12-12V60c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v312z"></path></svg>') center no-repeat;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background: #43b581;
+}
+
+#app-mount .wrapper__44b0c foreignObject[mask*=mobile][width="20"]:after {
+	width: 8px;
+	height: 8px;
+	right: 2px;
+	bottom: 4px;
+}
+
+#app-mount .wrapper__44b0c:has([mask="url(#svg-mask-avatar-status-mobile-32)"])[role="img"][aria-label] foreignObject[width="32"]:after {
+	width: 12px;
+	height: 12px;
+	right: 0;
+	bottom: 8px;
+}
+
+#app-mount .wrapper__44b0c foreignObject[mask*=mobile][width="80"]:after {
+	width: 28px;
+	height: 28px;
+	right: -2px;
+	bottom: 24px;
+}
+
+#app-mount .wrapper__44b0c foreignObject[mask*=mobile][width="120"]:after {
+	width: 40px;
+	height: 40px;
+	right: -3px;
+	bottom: 36px;
 }
