@@ -13875,3 +13875,16 @@ path[fill="brand-200"] {
 .has-webkit-scrollbar .bodyInner__53cea {
 	padding-right: calc(var(--custom-modal-padding) - var(--space-6));
 }
+
+.bioTextArea__6a919 {
+	transition: var(--transition) !important;
+	transition-property: box-shadow !important;
+}
+
+.bioTextArea__6a919:hover {
+	box-shadow: 0 0 0 2px var(--deprecated-text-input-border-hover) !important;
+}
+
+.bioTextArea__6a919:focus-within {
+	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25) !important;
+}
