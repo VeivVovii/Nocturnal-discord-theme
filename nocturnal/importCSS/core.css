@@ -11123,7 +11123,6 @@ path[fill="#6a7df6"] {
 .votedStyles_a1443c {
 	--custom-poll-style-vote-percentage: color-mix(in oklab, rgba(0, 138, 230, 0.2) 100%, hsl(var(--custom-theme-base-color-hsl, 0 0% 0%)/0.2) var(--custom-theme-base-color-amount, 0%));
 	--custom-poll-style-border: color-mix(in oklab, rgb(53, 198, 240, 1) 100%, var(--custom-theme-text-color, #000) var(--custom-theme-text-color-amount, 0%));
-	;
 }
 
 .avatarDecoration_c19a55 {
