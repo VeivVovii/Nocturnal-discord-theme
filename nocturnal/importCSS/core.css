@@ -4,15 +4,8 @@
 @import url("https://khimarikmayer.github.io/Nocturnal-discord-theme/nocturnal/importCSS/Discolored/main.css");
 
 .wrapper__44b0c[role="img"][aria-label]:before,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]):before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"]:before,
-.container__1ce5d:has([mask="url(#svg-mask-status-online)"]):before,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"]:before,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"]:before {
+.wrapper__44b0c[role="img"]:before,
+.container__1ce5d:has([mask="url(#svg-mask-status-online)"]):before {
 	content: "";
 	position: absolute;
 	top: 2px;
@@ -27,61 +20,27 @@
 [role="img"][aria-label] .avatar__44b0c,
 [role="img"][aria-label] .avatar__44b0c:before,
 [role="img"][aria-label] .avatarSpeaking__44b0c,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] .avatar__44b0c,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .avatar__44b0c,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .avatar__44b0c,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .avatar__44b0c:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .avatar__44b0c:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .avatar__44b0c:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] .avatar__44b0c:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] .avatar__44b0c:before,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .avatar__44b0c:before,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .avatar__44b0c:before {
+[role="img"] .avatar__44b0c,
+[role="img"] .avatar__44b0c:before {
 	margin: 2px 0 0 2px;
 	width: calc(100% - 4px);
 	height: calc(100% - 4px);
 }
 
 [role="img"][aria-label] foreignObject,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) foreignObject,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] foreignObject,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] foreignObject,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] foreignObject,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] foreignObject,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] foreignObject,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] foreignObject,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] foreignObject,
+[role="img"] foreignObject,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]) foreignObject {
 	mask: none;
 }
 
 [role="img"][aria-label] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] .svg__44b0c foreignObject img,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] .svg__44b0c foreignObject img,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .svg__44b0c foreignObject img,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] .svg__44b0c foreignObject img,
+[role="img"] .svg__44b0c foreignObject img,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]) .circularImage__1ce5d {
 	border-radius: 4px;
 }
 
 [role="img"][aria-label] svg rect,
-.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:not([aria-label]) svg rect,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"] svg rect,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"] svg rect,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"] svg rect,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"] svg rect,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"] svg rect,
-.base__13533 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] svg rect,
-.smallDecorationPreview__51743 .wrapper__44b0c:has([mask="url(#svg-mask-avatar-default)"])[role="img"] svg rect,
+[role="img"] svg rect,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]) svg rect {
 	display: none;
 }
