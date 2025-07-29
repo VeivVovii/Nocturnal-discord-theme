@@ -7224,18 +7224,21 @@ svg.contentImage__42bf5 path {
 	padding-right: 0 !important
 }
 
-.textContainer__4d95d,
+.textContainer__4d95d {
+	background-color: rgba(0, 0, 0, .2);
+	border: none;
+}
+
 .footer__4d95d {
-	background-color: rgba(0, 0, 0, .25);
+	background-color: rgba(0, 0, 0, .4);
+	border: none;
 }
 
 .hljs {
-	background: var(--backgroundDark);
+	background-color: rgba(0, 0, 0, 0);
 	border-radius: 6px;
 }
 
-.textContainer__4d95d,
-.footer__4d95d,
 .trait_d452e4,
 .trait_a2b4d3 {
 	border-color: rgba(0, 0, 0, .5);
