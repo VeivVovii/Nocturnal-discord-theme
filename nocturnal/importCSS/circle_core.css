@@ -11125,7 +11125,7 @@ path[fill="#6a7df6"] {
 .modalContent__78e61,
 .modalContent_c50f62 {
 	padding-right: 0 !important;
-	margin-right: -6px;
+	overflow: hidden !important;
 }
 
 .selectGuild__39466 {
