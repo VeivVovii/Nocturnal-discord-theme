@@ -1432,7 +1432,7 @@ svg.contentImage__42bf5,
 	mix-blend-mode: luminosity;
 }
 
-.theme-dark .customColorPicker__459fb {
+.customColorPicker__459fb {
 	background-color: var(--backgroundDark);
 	border-color: rgba(0, 0, 0, .35);
 }
@@ -2626,7 +2626,7 @@ svg[name=Nitro] g path {
 
 .colorable_f1ceac.primaryDark_f1ceac:hover,
 .colorable_f1ceac.primaryDark_f1ceac.active_f1ceac {
-	background: #0e1015;
+	background-color: #0e1015;
 }
 
 .container__0e476,
@@ -5498,7 +5498,7 @@ html.theme-light .app__160d8::after {
 	line-height: 1.5;
 	white-space: pre-wrap;
 	border-top: 1px solid #101218;
-	background: #14171f;
+	background-color: #14171f;
 	z-index: 1;
 	padding: 16px;
 	color: #fff;
@@ -5733,7 +5733,7 @@ svg.contentImage__42bf5 path {
 
 .theme-dark .iconWrapper__0d13e,
 .theme-dark .iconWrapper__96f95 {
-	background: #1c212c;
+	background-color: #1c212c;
 }
 
 .panels_c48ade {
@@ -6469,7 +6469,7 @@ svg.contentImage__42bf5 path {
 }
 
 .messageContentWrapper_d3c698 {
-	background: var(--backgroundDarker-alt);
+	background-color: var(--backgroundDarker-alt);
 	box-shadow: none;
 }
 
@@ -6676,7 +6676,7 @@ svg.contentImage__42bf5 path {
 .disabledButtonWrapper__201d5 .colorable_f1ceac.white_f1ceac,
 .shinyButton_d5e126.gameNightButton__71f00,
 .stickerCategoryGeneric__3ad28:hover {
-	background: #0e1015;
+	background-color: #0e1015;
 }
 
 .theme-dark .h5_b717a1:not(.error_b717a1, .isEnabled__2666b),
@@ -6778,7 +6778,7 @@ svg.contentImage__42bf5 path {
 .colorable_f1ceac.disconnect_f1ceac.contextMenuNub_f1ceac.active_f1ceac {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0) !important;
-	background: #f04747 !important;
+	background-color: #f04747 !important;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 200% 200%;
@@ -7706,7 +7706,7 @@ svg.contentImage__42bf5 path {
 }
 
 .activityItem__8a940:hover .activityActionButtonDanger__8a940 {
-	background: #f04747 !important;
+	background-color: #f04747 !important;
 }
 
 .breadcrumbContainer__0e308:not(:last-child):after {
@@ -7983,7 +7983,7 @@ svg.contentImage__42bf5 path {
 
 .theme-dark .searchAnswer_bd8186,
 .theme-dark .searchFilter_bd8186 {
-	background: #202632 !important;
+	background-color: #202632 !important;
 	border: none;
 }
 
@@ -10460,7 +10460,7 @@ div.cardContainer__88e24,
 }
 
 .sessionIcon__803f2 {
-	background: #fff;
+	background-color: #fff;
 	color: var(--backgroundDarker);
 }
 
@@ -13721,7 +13721,7 @@ path[fill="brand-200"] {
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	background: #43b581;
+	background-color: #43b581;
 }
 
 #app-mount .wrapper__44b0c foreignObject[mask*=mobile][width="20"]:after {
