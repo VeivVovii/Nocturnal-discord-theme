@@ -75,6 +75,7 @@
 [role="img"][aria-label*="üzerinden çevrimiçi"]:before,
 [role="img"][aria-label*="透過行動裝置上線"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]):before {
 	box-shadow: 0 0 0 2px #43b581 !important;
 }
@@ -107,7 +108,8 @@
 [role="img"][aria-label*="取り込み中"]:before,
 [role="img"][aria-label*="請勿打擾"]:before,
 [role="img"][aria-label*="다른 용무 중"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before {
+.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#d83a42"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #f04747 !important;
 }
 
@@ -136,7 +138,8 @@
 [role="img"][aria-label*="退席中"]:before,
 [role="img"][aria-label*="閒置"]:before,
 [role="img"][aria-label*="자리비움"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before {
+.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#ca9654"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #faa61a !important;
 }
 
@@ -166,7 +169,8 @@
 [role="img"][aria-label*="配信"]:before,
 [role="img"][aria-label*="直播中"]:before,
 [role="img"][aria-label*="配信"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"]:before {
+.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#9147ff"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #6441a5 !important;
 }
 
@@ -218,7 +222,8 @@
 [role="img"][aria-label*="オンライン状態を隠す"]:before,
 [role="img"][aria-label*="隱形"]:before,
 [role="img"][aria-label*="오프라인 표시"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"]:before {
+.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"]:before,
+.wrapper__44b0c:has([fill="#82838b"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #747f8d !important;
 }
 
@@ -12311,7 +12316,6 @@ path[fill="badge-brand-bg"] {
 	background-color: rgba(0, 0, 0, .8);
 }
 
-.nameplatePreviewSampleItem_c3d04b .wrapper__44b0c .mask__44b0c,
 .identity__62280:has(.wrapper__44b0c),
 .moreAvatars__488b1,
 .back_c5cd6a .iconButton_c5cd6a,
@@ -14039,4 +14043,18 @@ path[fill="brand-200"] {
 
 .bioTextArea__6a919:focus-within {
 	box-shadow: 0 0 0 2px rgb(var(--accent)), 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25) !important;
+}
+
+.streamerModeEnabledBtn_aa3ffd {
+	background-color: rgba(0,0,0,.5);
+	border: 2px solid #593695;
+	border-radius: 6px!important;
+	backdrop-filter: blur(1px);
+	color: #fff!important;
+}
+
+.streamerModeEnabledBtn_aa3ffd:hover {
+	color: #fff!important;
+	border: 2px solid rgba(0, 0, 0, 0);
+	background-color: #593695;
 }
