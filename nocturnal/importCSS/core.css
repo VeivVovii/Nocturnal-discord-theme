@@ -4009,7 +4009,6 @@ span.button__67645.enabled__67645:hover,
 .header_f369db,
 .imageUploaderInner_e4d0bf.avatarUploaderInner_cd0bbe,
 .iconWrapper__83361,
-.role__5d7c9,
 .card_d4f6c7 {
 	border-radius: 5px;
 }
@@ -4877,7 +4876,6 @@ span.button__67645.enabled__67645:hover,
 
 .metadataContainer_c7f964,
 .guildFeatureAvailabilityIndicator_cd0bbe,
-.role__5d7c9,
 .bd-number-input,
 .bd-select,
 .roleRow_ef2eb4,
@@ -14065,4 +14063,18 @@ path[fill="brand-200"] {
 	color: #fff !important;
 	border: 2px solid rgba(0, 0, 0, 0);
 	background-color: #593695;
+}
+
+.role__5d7c9 {
+	background-color: var(--backgroundDarker);
+	border-radius: 5px;
+}
+
+.lookFilled__201d5.colorBrand__201d5 .defaultColor__4bd52,
+.lookFilled__201d5.colorPrimary__201d5 .defaultColor__4bd52,
+.lookFilled__201d5.colorGreen__201d5 .defaultColor__4bd52,
+.primary__6af3a .defaultColor__4bd52,
+.secondary__6af3a .defaultColor__4bd52,
+.active__6af3a .defaultColor__4bd52 {
+	color: #fff;
 }
