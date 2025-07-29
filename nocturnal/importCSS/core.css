@@ -897,7 +897,7 @@ svg[name=Nova_Discord] * {
 }
 
 .messageGroupWrapper__45690 {
-	background: var(--background-gradient-high, var(--backgroundDarker));
+	background-color: var(--backgroundDarker);
 	border-color: rgba(0, 0, 0, 0);
 	border-radius: 5px;
 	margin: 0 0 16px 0;
@@ -905,7 +905,7 @@ svg[name=Nova_Discord] * {
 
 .footer__45690,
 .header__45690 {
-	background-color: rgba(0, 0, 0, .15) !important;
+	background-color: rgba(0, 0, 0, .15);
 }
 
 .messagesPopoutWrap__45690 {
@@ -3033,9 +3033,13 @@ span.button__67645.enabled__67645:hover,
 	background-color: var(--backgroundDark);
 }
 
-.theme-dark .activeButton_c15210,
-.theme-dark .activeButton_c15210:hover {
-	background: var(--primary);
+.pageButton_c15210:hover {
+	background-color: rgba(0, 0, 0, .25);
+}
+
+.activeButton_c15210,
+.activeButton_c15210:hover {
+	background-color: var(--primary);
 }
 
 .listItem__650eb foreignObject {
@@ -4636,10 +4640,6 @@ span.button__67645.enabled__67645:hover,
 	border-radius: 20px;
 }
 
-.pageButton_c15210:hover {
-	background: rgba(0, 0, 0, .25);
-}
-
 .iconContainer__98cf7 circle {
 	fill: var(--primary);
 }
@@ -5969,13 +5969,8 @@ svg.contentImage__42bf5 path {
 	height: 16px;
 }
 
-.item_c1e9c4[id="guild-header-popout-premium-subscribe"] .iconContainer-1-SsTR {
-	color: var(--guild-boosting-pink)
-}
-
 .boostCard__89307,
 .profileCard__89307,
-.aboutMeGuildIconTooltip-tM91BN,
 .background_fb62e2[style*="background-color: var(--primary-800);"] {
 	background-color: var(--backgroundDark) !important;
 }
@@ -6723,7 +6718,6 @@ svg.contentImage__42bf5 path {
 	margin-left: 10px;
 }
 
-.checklistIcon-1yzbgj path[fill="var(--brand-500)"],
 .inputCheckmark__3c9fa path[fill="var(--brand-500)"],
 .theme-dark .combo_fcddc1 .key_fcddc1 .bindArrow_fcddc1 g {
 	fill: var(--backgroundDark);
