@@ -688,11 +688,7 @@
 }
 
 .toolbar_bba883:before {
-	border-top: 8px solid var(--backgroundDark);
-}
-
-.cozy_c19a55 .timestamp_c19a55.alt_c19a55 {
-	width: 3rem;
+	border-top-color: var(--backgroundDark);
 }
 
 .footer_c33701 {
