@@ -12,7 +12,7 @@
 	left: 2px;
 	width: calc(100% - 4px);
 	height: calc(100% - 4px);
-	box-shadow: 0 0 0 2.5px #666;
+	box-shadow: 0 0 0 2px #666;
 	border-radius: 5px;
 	z-index: 1;
 }
@@ -76,7 +76,7 @@
 [role="img"][aria-label*="透過行動裝置上線"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]):before {
-	box-shadow: 0 0 0 2.5px #43b581 !important;
+	box-shadow: 0 0 0 2px #43b581 !important;
 }
 
 [role="img"][aria-label*="Do Not Disturb"]:before,
@@ -108,7 +108,7 @@
 [role="img"][aria-label*="請勿打擾"]:before,
 [role="img"][aria-label*="다른 용무 중"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before {
-	box-shadow: 0 0 0 2.5px #f04747 !important;
+	box-shadow: 0 0 0 2px #f04747 !important;
 }
 
 [role="img"][aria-label*="Idle"]:before,
@@ -137,7 +137,7 @@
 [role="img"][aria-label*="閒置"]:before,
 [role="img"][aria-label*="자리비움"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before {
-	box-shadow: 0 0 0 2.5px #faa61a !important;
+	box-shadow: 0 0 0 2px #faa61a !important;
 }
 
 [role="img"][aria-label*="Streaming"]:before,
@@ -167,7 +167,7 @@
 [role="img"][aria-label*="直播中"]:before,
 [role="img"][aria-label*="配信"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"]:before {
-	box-shadow: 0 0 0 2.5px #6441a5 !important;
+	box-shadow: 0 0 0 2px #6441a5 !important;
 }
 
 [role="img"][aria-label*="Offline"]:before,
@@ -219,7 +219,7 @@
 [role="img"][aria-label*="隱形"]:before,
 [role="img"][aria-label*="오프라인 표시"]:before,
 .wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"]:before {
-	box-shadow: 0 0 0 2.5px #747f8d !important;
+	box-shadow: 0 0 0 2px #747f8d !important;
 }
 
 .cursorDefault__44b0c,
@@ -706,7 +706,7 @@
 .embedFull__623de,
 .custom-theme-background .embedFull__623de {
 	border: none;
-	border-left: 2.5px solid rgba(0, 0, 0, .25);
+	border-left: 2px solid rgba(0, 0, 0, .25);
 	background: rgba(1, 1, 1, 0.1);
 }
 
@@ -1814,7 +1814,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 	border-color: var(--chat-avatar-border-color);
 	border-style: solid;
-	border-width: 2.5px;
+	border-width: 2px;
 }
 
 #bd-pub-li {
@@ -6109,7 +6109,7 @@ svg.contentImage__42bf5 path {
 }
 
 .message_ee8e87 img[alt] {
-	border: 2.5px solid var(--chat-avatar-border-color);
+	border: 2px solid var(--chat-avatar-border-color);
 	border-radius: 50px;
 }
 
@@ -10029,7 +10029,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 	top: -2px;
 	left: -2px;
 	box-shadow: none;
-	border: 2.5px solid var(--chat-avatar-border-color) !important;
+	border: 2px solid var(--chat-avatar-border-color);
 }
 
 .upsellTooltipWrapper__675aa.caretLeftCenter__675aa:after,
