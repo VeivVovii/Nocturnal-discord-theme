@@ -963,7 +963,7 @@ svg[name=Nova_Discord] * {
 .plugin-settings button,
 .standardSidebarView__23e6b #bd-customcss-attach-controls button {
 	background-color: rgba(0, 0, 0, .5) !important;
-	border: 2.5px solid var(--primary) !important;
+	border: 2px solid var(--primary) !important;
 	border-radius: 6px !important;
 	color: #fff !important;
 }
