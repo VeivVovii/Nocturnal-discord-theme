@@ -13328,41 +13328,6 @@ path[fill="brand-200"] {
 	border-radius: 16px 16px 0 0;
 }
 
-.settingsItemHighlight__7cd2d[style*="81, 151, 237"] {
-	background-color: rgba(0, 107, 227) !important;
-	border-color: rgba(0, 107, 227) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245"] {
-	background-color: rgba(35, 213, 235) !important;
-	border-color: rgba(35, 213, 235) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245, 0.094"] {
-	background-color: rgba(35, 213, 235, 0.094) !important;
-	border-color: rgba(35, 213, 235, 0.094) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245, 0.1"] {
-	background-color: rgba(35, 213, 235, 0.1) !important;
-	border-color: rgba(35, 213, 235, 0.1) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245, 0.933"] {
-	background-color: rgba(35, 213, 235, 0.933) !important;
-	border-color: rgba(35, 213, 235, 0.933) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245, 0.99"] {
-	background-color: rgba(35, 213, 235, 0.99) !important;
-	border-color: rgba(35, 213, 235, 0.99) !important;
-}
-
-.settingsItemHighlight__7cd2d[style*="123, 176, 245, 0.994"] {
-	background-color: rgba(35, 213, 235, 0.994) !important;
-	border-color: rgba(35, 213, 235, 0.994) !important;
-}
-
 .container__08bd2 {
 	box-shadow: none;
 	background: radial-gradient(100% 100% at 50% 100%,var(--backgroundDark) 60%,rgba(0, 0, 0, 0) 100%),linear-gradient(270deg,var(--expressive-gradient-purple-end) 0,var(--expressive-gradient-purple-start) 100%);
