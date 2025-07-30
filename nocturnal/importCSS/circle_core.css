@@ -6060,7 +6060,6 @@ svg.contentImage__42bf5 path {
 
 .avatarWrapper_fb62e2 {
 	z-index: 0;
-	border-radius: 5px;
 }
 
 .guildIcon__35a7e:not(.noIcon_f34534),
@@ -12273,8 +12272,7 @@ path[fill="brand-200"] {
 .actionContainer__6b102,
 .container__53cea,
 .container__89463,
-.previewBar__9c3be,
-.icon_ea1e0b {
+.previewBar__9c3be {
 	background-color: var(--backgroundDark);
 	border: none;
 }
@@ -12902,7 +12900,8 @@ path[fill="brand-200"] {
 .artContainer__22b59,
 .groupContainer__9d98d,
 .standaloneContainer__9d98d,
-.groupCollapsedContainer__9d98d {
+.groupCollapsedContainer__9d98d,
+.user-profile-sidebar .avatarIconContainer__7970d {
 	border: none;
 	box-shadow: none;
 	background-color: var(--backgroundDarker);
@@ -13832,4 +13831,10 @@ path[fill="brand-200"] {
 	box-shadow: none;
 	border-left: solid 1px rgba(1, 1, 1, 0.25);
 	border-bottom: solid 1px rgba(1, 1, 1, 0.25);
+}
+
+.icon_ea1e0b,
+.avatarIconContainer__7970d {
+	background-color: var(--backgroundDark);
+	z-index: 1;
 }
