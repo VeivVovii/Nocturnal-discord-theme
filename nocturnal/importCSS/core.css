@@ -9682,7 +9682,8 @@ h3.improved__1689b:after,
 .outer_bf1984,
 .loadMoreBar__38524,
 .iconLink__9b0f4,
-.tableOptions__98d1c .button__51120:hover {
+.tableOptions__98d1c .button__51120:hover,
+.winButtonMinMax_c38106:hover {
 	background-color: rgba(0, 0, 0, .25);
 }
 
@@ -9695,8 +9696,7 @@ h3.improved__1689b:after,
 .inviteContainer__23437,
 .channel_d5f35b,
 .bd-changelog-modal code,
-.commandName_c6b177,
-.winButtonMinMax_c38106:hover {
+.commandName_c6b177 {
 	background-color: rgba(0, 0, 0, .65);
 	border: none;
 }
