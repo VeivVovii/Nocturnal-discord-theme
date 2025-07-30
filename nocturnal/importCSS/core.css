@@ -74,7 +74,6 @@
 [role="img"][aria-label*="Çevrim içi"]:before,
 [role="img"][aria-label*="üzerinden çevrimiçi"]:before,
 [role="img"][aria-label*="透過行動裝置上線"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-online)"])[role="img"]:before,
 .wrapper__44b0c:has([fill="#43a25a"])[role="img"]:before,
 .container__1ce5d:has([mask="url(#svg-mask-status-online)"]):before {
 	box-shadow: 0 0 0 2px #43b581 !important;
@@ -108,7 +107,6 @@
 [role="img"][aria-label*="取り込み中"]:before,
 [role="img"][aria-label*="請勿打擾"]:before,
 [role="img"][aria-label*="다른 용무 중"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-dnd)"])[role="img"]:before,
 .wrapper__44b0c:has([fill="#d83a42"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #f04747 !important;
 }
@@ -138,7 +136,6 @@
 [role="img"][aria-label*="退席中"]:before,
 [role="img"][aria-label*="閒置"]:before,
 [role="img"][aria-label*="자리비움"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-idle)"])[role="img"]:before,
 .wrapper__44b0c:has([fill="#ca9654"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #faa61a !important;
 }
@@ -169,7 +166,6 @@
 [role="img"][aria-label*="配信"]:before,
 [role="img"][aria-label*="直播中"]:before,
 [role="img"][aria-label*="配信"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-streaming)"])[role="img"]:before,
 .wrapper__44b0c:has([fill="#9147ff"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #6441a5 !important;
 }
@@ -222,7 +218,6 @@
 [role="img"][aria-label*="オンライン状態を隠す"]:before,
 [role="img"][aria-label*="隱形"]:before,
 [role="img"][aria-label*="오프라인 표시"]:before,
-.wrapper__44b0c:has([mask="url(#svg-mask-status-offline)"])[role="img"]:before,
 .wrapper__44b0c:has([fill="#82838b"])[role="img"]:before {
 	box-shadow: 0 0 0 2px #747f8d !important;
 }
@@ -1967,10 +1962,6 @@ svg[name=Nitro] g path {
 	border: none;
 }
 
-.channelHeader__35a7e {
-	background: var(--background-gradient-chat, #11141a);
-}
-
 .channelHeader__35a7e .tertiary__06eda {
 	margin-left: 0;
 	margin-right: 12px;
@@ -1987,13 +1978,6 @@ svg[name=Nitro] g path {
 	margin-right: 12px;
 }
 
-.dmIcon__35a7e,
-.guildIcon__35a7e {
-	border-radius: 5px;
-	margin-left: 2px;
-	size: 5px;
-}
-
 .textarea_dde0a8 {
 	padding: 12px 11px;
 	font-size: 14px;
@@ -2002,7 +1986,8 @@ svg[name=Nitro] g path {
 .theme-dark .wrapper__14245,
 .emojiPicker_c0e32c,
 .contentWrapper__08434,
-.menu_c1e9c4:not(.menu_ad5fac) {
+.menu_c1e9c4:not(.menu_ad5fac),
+.channelHeader__35a7e {
 	background-color: var(--backgroundDark);
 }
 
@@ -5868,7 +5853,6 @@ svg.contentImage__42bf5 path {
 .theme-dark .wrapper_cb9592.minimum_cb9592,
 .theme-dark .searchResult__02a39,
 .theme-dark .container__09ccc,
-.theme-dark .messagesPopoutWrap__45690,
 .theme-dark .container__23c08,
 .theme-dark .container__0f711,
 .theme-dark .contentRegion__23e6b,
@@ -13900,11 +13884,11 @@ path[fill="brand-200"] {
 	box-shadow: none;
 }
 
-.wrapper__44b0c:has([fill="#706f74"][mask="url(#svg-mask-status-online)"])[role="img"]:before {
+.wrapper__44b0c:has([fill="#706f74"])[role="img"]:before {
 	box-shadow: 0 0 0 2px rgb(112, 111, 116) !important;
 }
 
-.wrapper__44b0c:has([fill="var(--border-subtle)"][mask="url(#svg-mask-status-online)"])[role="img"]:before {
+.wrapper__44b0c:has([fill="var(--border-subtle)"])[role="img"]:before {
 	box-shadow: 0 0 0 2px var(--border-subtle) !important;
 }
 
