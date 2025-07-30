@@ -5297,28 +5297,6 @@ span.button__67645.enabled__67645:hover,
 	padding-left: 28px
 }
 
-.card_d4f6c7 .conversationMessage__3c425:after,
-.card_d4f6c7 .conversationMessage__3c425:after,
-.card_d4f6c7 .conversationMessage__3c425:after,
-.card_d4f6c7 .conversationMessage__3c425:after {
-	left: 2.52rem
-}
-
-.card_d4f6c7 .replySpine__081f6,
-.card_d4f6c7 .replySpine__081f6,
-.card_d4f6c7 .replySpine__081f6,
-.card_d4f6c7 .replySpine__081f6 {
-	left: 2.52rem
-}
-
-.card_d4f6c7 .conversationMessage__3c425:after {
-	top: 2.5px;
-}
-
-.card_d4f6c7 .viewMoreReplies_f4e3ab:after {
-	top: -1px;
-}
-
 .theme-dark .bd-addon-error {
 	background-color: rgba(0, 0, 0, .2);
 	border-color: rgba(0, 0, 0, 0)
@@ -5590,17 +5568,6 @@ html.theme-light .app__160d8::after {
 
 .theme-dark .guildPopout__51eb2:has(.hasSplash__51eb2) {
 	background-color: var(--backgroundDarker);
-}
-
-.chatContent_f75fb0 .spine__9271d {
-	left: -2.82rem;
-}
-
-.card_d4f6c7 .cozy_c19a55.hasThread_c19a55:after,
-.card_d4f6c7 .cozy_c19a55.hasThread_c19a55:after,
-.card_d4f6c7 .cozy_c19a55.hasThread_c19a55:after,
-.card_d4f6c7 .cozy_c19a55.hasThread_c19a55:after {
-	left: 2.52rem;
 }
 
 .avatar__1fed1 {
