@@ -636,7 +636,7 @@
 }
 
 .attachWrapper__0923f,
-.button__201d5:not(.lookOutlined__201d5):not(.lookLink__201d5):not(.lookBlank__201d5),
+.button__201d5:not(.lookFilled__201d5.colorGreen__201d5):not(.lookFilled__201d5.colorWhite__201d5):not(.lookFilled__201d5.colorPrimary__201d5):not(.lookFilled__201d5.colorBrand__201d5):not(.lookOutlined__201d5):not(.lookLink__201d5):not(.lookBlank__201d5),
 .button__6af3a {
 	border: none;
 }
