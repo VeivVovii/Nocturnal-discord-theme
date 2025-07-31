@@ -12750,11 +12750,11 @@ path[fill="brand-200"] {
 	border-color: var(--primary);
 }
 
-.theme-dark .pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):hover {
+.pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):hover {
 	background-color: #008ae652;
 }
 
-.theme-dark .pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):active {
+.pill_a2c9e8.selected_a2c9e8:not(.disabled_a2c9e8):active {
 	background-color: #008ae61f;
 }
 
