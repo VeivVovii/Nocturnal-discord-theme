@@ -13751,3 +13751,7 @@ path[fill="brand-200"] {
 .slider_a562c8 .grabber_a562c8 {
 	border: none;
 }
+
+.autocompleteAttached__6b0e0 {
+	bottom: calc(100% + 16px)
+}
