@@ -3665,7 +3665,7 @@ span.button__67645.enabled__67645:hover,
 }
 
 .resizeHandle__01ae2 {
-	background-color: var(--background-gradient-highest, #101218);
+	background: var(--background-gradient-highest, #101218);
 }
 
 .container__6764b:hover {
