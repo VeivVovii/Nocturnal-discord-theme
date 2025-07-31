@@ -13944,18 +13944,21 @@ path[fill="brand-200"] {
 	--custom-message-margin-horizontal-for-threads: 24px;
 	--custom-message-margin-horizontal-for-chat-avatars: 22px;
 	--custom-message-margin-horizontal-for-reply-spines: 16px;
+	--avatar-widthes-for-automod-messages: 68px;
 }
 
 .density-default {
 	--custom-message-margin-horizontal-for-threads: 20px;
 	--custom-message-margin-horizontal-for-chat-avatars: 18px;
 	--custom-message-margin-horizontal-for-reply-spines: 12px;
+	--avatar-widthes-for-automod-messages: 64px;
 }
 
 .density-compact {
 	--custom-message-margin-horizontal-for-threads: 16px;
 	--custom-message-margin-horizontal-for-chat-avatars: 14px;
 	--custom-message-margin-horizontal-for-reply-spines: 8px;
+	--avatar-widthes-for-automod-messages: 60px;
 }
 
 .cozy_c19a55.hasThread_c19a55:after {
@@ -13979,7 +13982,7 @@ path[fill="brand-200"] {
 .font-size-14 .cozy__235ca .iconContainer__235ca,
 .font-size-15 .cozy__235ca .iconContainer__235ca,
 .font-size-16 .cozy__235ca .iconContainer__235ca {
-	width: 4rem;
+	width: var(--avatar-widthes-for-automod-messages);
 }
 
 .iconContainer__44492 {
