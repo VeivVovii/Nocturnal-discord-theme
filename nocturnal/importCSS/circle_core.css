@@ -1720,6 +1720,7 @@ svg[name=Nitro] g path {
 
 .clickable__91a9d:active .childContainer__91a9d,
 .interactive_bf202d:active,
+.interactiveSelected__972a0,
 .navItem__551b0:active {
 	background-color: rgba(0, 0, 0, .25);
 }
@@ -5443,8 +5444,8 @@ html.theme-light .app__160d8::after {
 	color: #fff;
 }
 
-.resolvingBackground_d5f3cd {
-	background: linear-gradient(90deg, rgba(0, 0, 0, .26), rgba(0, 0, 0, .35), rgba(0, 0, 0, .26));
+.images-dark .resolvingBackground_d5f3cd {
+	background: linear-gradient(to right, rgba(0, 0, 0, .52), rgba(0, 0, 0, .26), rgba(0, 0, 0, .52));
 }
 
 .newPostCount_c9d7dd,
