@@ -13984,3 +13984,21 @@ path[fill="brand-200"] {
 	right: 0;
 	left: 0;
 }
+
+.ruleNameInput__2f210 {
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+
+.container_d14335 {
+	margin-bottom: 20px;
+}
+
+.iconContainer__46773, .iconSection__46773 {
+	margin-top: 8px;
+}
+
+.section__53cea.actionBar__53cea {
+	padding: var(--custom-modal-padding-md) var(--custom-modal-padding) var(--custom-modal-padding-md);
+}
