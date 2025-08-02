@@ -3972,10 +3972,6 @@ span.button__67645.enabled__67645:hover,
 	background-color: var(--backgroundDarker);
 }
 
-.multiSelectCheckbox__3f413 {
-	border: none !important;
-}
-
 .placeholderLine_db5301,
 .placeholderMedia_db5301,
 .reaction_db5301,
@@ -12908,6 +12904,7 @@ path[fill="brand-200"] {
 .jumpButton_ed0c8c:hover,
 .overviewContainerWithVideo__95856,
 .actionButton_eaaeee,
+.callContainer__722ff .root_bfe55a,
 .user-profile-sidebar .avatarIconContainer__7970d {
 	border: none;
 	box-shadow: none;
@@ -12937,6 +12934,7 @@ path[fill="brand-200"] {
 .uploadImage_e45886:hover,
 .headerV2__50a54,
 .joinOptionContent__959cb.uninteractive__959cb:hover,
+.buttonSection_fcb27c,
 .modalRoot_fc200b .modalFooter_fc200b {
 	border: none;
 	background-color: var(--backgroundDarker-alt);
@@ -13911,7 +13909,8 @@ path[fill="brand-200"] {
 .mini_a562c8 .grabber_a562c8,
 .slider_a562c8 .grabber_a562c8,
 .standardStickerShortcut__3ad28,
-.keywordsTextArea__6a631 {
+.keywordsTextArea__6a631,
+.fullRegionDropdownButton_f1ceac {
 	border: none;
 }
 
