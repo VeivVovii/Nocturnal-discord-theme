@@ -13970,7 +13970,7 @@ path[fill="brand-200"] {
 }
 
 .container_d14335 {
-	margin-bottom: 16px;
+	margin-bottom: 24px;
 }
 
 .iconContainer__46773, .iconSection__46773 {
@@ -13981,10 +13981,7 @@ path[fill="brand-200"] {
 	padding-bottom: 0;
 }
 
-.bodySpacerTop__53cea {
-	padding-top: 0;
-}
-
+.bodySpacerTop__53cea,
 .section__53cea.actionBar__53cea {
-	padding-top: 8px;
+	padding-top: 0;
 }
