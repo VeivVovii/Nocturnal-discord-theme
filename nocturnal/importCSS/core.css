@@ -2821,18 +2821,21 @@ span.button__67645.enabled__67645:hover,
 	border-radius: 5px;
 }
 
+.users__260e1 {
+	background-color: var(--backgroundDarker);
+	border: none;
+}
+
 .clickable_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1:hover,
-.selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1 {
+.selected_f37cb1:not(.communityInfoVisible_f37cb1):not(.hasBanner_f37cb1) .header_f37cb1,
+.popoutHeaderContainer__260e1 .users__260e1,
+.total__260e1 {
 	background-color: rgba(0, 0, 0, .35);
 	border: none;
 }
 
-.total__260e1 {
-	background-color: #0c0e12;
-}
-
 .total__260e1:after {
-	border-right-color: #0c0e12;
+	border-right-color: rgba(0, 0, 0, .35);
 }
 
 .cozy_c19a55 .repliedMessage_c19a55:before,
@@ -5126,12 +5129,12 @@ span.button__67645.enabled__67645:hover,
 	margin-right: 16px;
 }
 
-.textContentFooter__9a337 {
+.theme-dark .textContentFooter__9a337 {
 	background: linear-gradient(to top, hsl(222, 21%, 12%, 1), hsl(222, 21%, 12%, .97) 36px, hsl(222, 21%, 12%, .4));
 }
 
-.textContentFooter__9a337.noTags__9a337 {
-	background: linear-gradient(0deg, rgba(var(--to-text-content-footer-on-forums), 1), rgba(var(--to-text-content-footer-on-forums), 0));
+.theme-dark .textContentFooter__9a337.noTags__9a337 {
+	background: linear-gradient(to top, hsl(222, 21%, 12%, 1), hsl(222, 21%, 12%, 0));
 }
 
 .countContainer_f369db,
@@ -10016,8 +10019,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .pauseContainer_c38e9f,
 .dropdown_edf232,
-.users__260e1,
-.popoutHeaderContainer__260e1 .users__260e1,
+.wrapper__260e1,
 .featuredPackFooter_fbeabf,
 .loading__6ef4d,
 .metricCard_c0544c,
@@ -10879,7 +10881,8 @@ path[fill="#6a7df6"] {
 .guildCategorySeparator_b9ee0c,
 .bottomDivider__01014,
 .guildCategorySeparator__3ad28,
-.categoryIcon_a1e0e0 {
+.categoryIcon_a1e0e0,
+.channelSelectorComponent__7f727 .scrollerBase__99f8c {
 	margin-right: -6px;
 }
 
@@ -11365,8 +11368,7 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
 .discoverHeader_b992d4,
 .rows_c3787a,
 .appLauncherPlaceholder__87dda,
-.chatTextAreaPlaceholder__87dda,
-.channelSelectorComponent__7f727 {
+.chatTextAreaPlaceholder__87dda {
 	margin-right: 10px;
 }
 
@@ -11705,7 +11707,6 @@ div.profileThemedContainer__656be .inner_c0bea0 {
 .hasBanner_f37cb1 .header_f37cb1,
 .channelAttachmentArea_b77158,
 .overflowCount__68334,
-.wrapper__260e1,
 .rows_b1c9f2,
 .modalContent_de2fa0,
 .wrapper__960df,
