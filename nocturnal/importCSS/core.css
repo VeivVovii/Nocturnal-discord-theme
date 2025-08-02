@@ -2821,6 +2821,7 @@ span.button__67645.enabled__67645:hover,
 	border-radius: 5px;
 }
 
+.wrapper__260e1,
 .users__260e1 {
 	background-color: var(--backgroundDarker);
 	border: none;
@@ -10019,7 +10020,6 @@ path[fill="hsl(235, calc(var(--saturation-factor, 1) * 86.1%), 77.5%)"] {
 
 .pauseContainer_c38e9f,
 .dropdown_edf232,
-.wrapper__260e1,
 .featuredPackFooter_fbeabf,
 .loading__6ef4d,
 .metricCard_c0544c,
