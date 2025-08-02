@@ -1951,7 +1951,6 @@ svg[name=Nitro] g path {
 
 .wrapper__14245,
 .emojiPicker_c0e32c,
-.contentWrapper__08434,
 .menu_c1e9c4:not(.menu_ad5fac),
 .channelHeader__35a7e {
 	background-color: var(--backgroundDark);
@@ -8315,10 +8314,6 @@ path[stroke="rgb(123,162,255)"] {
 	background-color: var(--backgroundDarker-alt) !important;
 }
 
-.contentWrapper__08434.isBurstReactionPicker_c0e32c {
-	box-shadow: 0 0 0 2px #e73c7e, 0 0 16px #ee7752
-}
-
 .premiumPromoDescription__3a1b6 {
 	margin: 0 0 24px;
 }
@@ -13923,7 +13918,8 @@ path[fill="brand-200"] {
 
 .grabber_a562c8,
 .mini_a562c8 .grabber_a562c8,
-.slider_a562c8 .grabber_a562c8 {
+.slider_a562c8 .grabber_a562c8,
+.standardStickerShortcut__3ad28 {
 	border: none;
 }
 
@@ -13969,7 +13965,7 @@ path[fill="brand-200"] {
 	border: none;
 }
 
-.container_d14335 {
+.iconSection__46773+.container_d14335 {
 	margin-bottom: 24px;
 }
 
